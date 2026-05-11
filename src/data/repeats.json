@@ -2,47 +2,6 @@
   "clusters": [
     {
       "id": "repeat-1",
-      "subject": "Criminal Law",
-      "exams": [
-        "AIBE 20",
-        "AIBE 18"
-      ],
-      "questions": [
-        {
-          "id": "aibe20-a-q7",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 7,
-          "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Code of Criminal Procedure, 1973, will the case primarily fall?",
-          "options": [
-            "Section 27",
-            "Section 125",
-            "Section 302",
-            "Section 482"
-          ],
-          "correctAnswer": "A",
-          "similarity": 100
-        },
-        {
-          "id": "aibe18-a-q20",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 20,
-          "question": "A person arrested by a private person for committing a non-bailable and cognizable offence shall be re-arrested by a police officer if such person comes under which of the following provision of the Code of Criminal Procedure, 1973?",
-          "options": [
-            "Section 41",
-            "Section 41A",
-            "Section 42",
-            "Section 43"
-          ],
-          "correctAnswer": null,
-          "similarity": 21
-        }
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "repeat-2",
       "subject": "Legal Ethics",
       "exams": [
         "AIBE 20",
@@ -83,7 +42,7 @@
       "importance": "high"
     },
     {
-      "id": "repeat-3",
+      "id": "repeat-2",
       "subject": "Family Law",
       "exams": [
         "AIBE 19",
@@ -124,48 +83,7 @@
       "importance": "high"
     },
     {
-      "id": "repeat-4",
-      "subject": "Tax Law",
-      "exams": [
-        "AIBE 20",
-        "AIBE 19"
-      ],
-      "questions": [
-        {
-          "id": "aibe20-a-q51",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 51,
-          "question": "Read the given statements and choose the correct option. Statement 1: Under the Income-tax Act, 1961, a deduction equal to 30% of the annual value is allowed while computing income from house property. Statement 2: Where the property has been acquired or constructed with borrowed capital, the maximum deduction for interest payable on such capital is capped at ₹2,00,000, subject to conditions.",
-          "options": [
-            "Both Statements 1 and 2 are false",
-            "Only Statement 1 is true",
-            "Only Statement 2 is true",
-            "Both the Statements are true"
-          ],
-          "correctAnswer": "D",
-          "similarity": 100
-        },
-        {
-          "id": "aibe19-a-q87",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 87,
-          "question": "Read the given statements and choose the correct option: Statement 1: Agricultural income is exempt from tax under Section 10(1) of Income Tax Act, 1961. Statement 2: Tax on Non-Agricultural in case of Non-Agricultural Income exceeds Basic Exemption limit and Agricultural Income exceeds ₹ 5000/- is determined by Scheme of Partial Integration of Non- Agricultural Income with Agricultural Income.",
-          "options": [
-            "Both the Statements are incorrect.",
-            "Only Statement 1 is true.",
-            "Only Statement 2 is true.",
-            "Both the Statements are correct."
-          ],
-          "correctAnswer": "D",
-          "similarity": 25
-        }
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "repeat-5",
+      "id": "repeat-3",
       "subject": "Tax Law",
       "exams": [
         "AIBE 19",
@@ -208,22 +126,18 @@
   ],
   "hotTopics": [
     {
-      "subject": "Tax Law",
-      "repeats": 2
-    },
-    {
-      "subject": "Criminal Law",
-      "repeats": 1
-    },
-    {
       "subject": "Legal Ethics",
       "repeats": 1
     },
     {
       "subject": "Family Law",
       "repeats": 1
+    },
+    {
+      "subject": "Tax Law",
+      "repeats": 1
     }
   ],
-  "totalClusters": 5,
-  "totalQuestions": 10
+  "totalClusters": 3,
+  "totalQuestions": 6
 }
