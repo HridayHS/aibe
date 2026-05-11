@@ -8,6 +8,7 @@ import Difficulty from './pages/Difficulty'
 import Repeats from './pages/Repeats'
 import MockTest from './pages/MockTest'
 import Flashcards from './pages/Flashcards'
+import Notes from './pages/Notes'
 import Reference from './pages/Reference'
 import Predictions from './pages/Predictions'
 
@@ -23,6 +24,7 @@ export default function App() {
         <Route path="/repeats" element={<Repeats />} />
         <Route path="/mock-test" element={<MockTest />} />
         <Route path="/flashcards" element={<Flashcards />} />
+        <Route path="/notes" element={<Notes />} />
         <Route path="/reference" element={<Reference />} />
         <Route path="/predictions" element={<Predictions />} />
       </Route>

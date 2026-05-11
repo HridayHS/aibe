@@ -1,0 +1,59 @@
+.notes-page { padding-bottom: 2rem; }
+.notes-overview { padding: 1.5rem; margin-bottom: 1.5rem; }
+.notes-overview:hover { transform: none; }
+.notes-overview h3 { margin-bottom: 1rem; }
+.overview-grid { display: flex; flex-direction: column; gap: 0.6rem; }
+.overview-item { display: flex; align-items: center; gap: 0.75rem; }
+.ov-name { font-size: 0.85rem; min-width: 140px; color: var(--text-secondary); }
+.ov-bar-track { flex: 1; height: 8px; background: var(--bg-tertiary); border-radius: var(--radius-full); overflow: hidden; }
+.ov-bar-fill { height: 100%; background: linear-gradient(90deg, var(--gold-500), var(--accent-300)); border-radius: var(--radius-full); transition: width 0.6s ease; }
+.ov-pct { font-size: 0.8rem; font-weight: 600; color: var(--gold-300); min-width: 35px; text-align: right; }
+
+.notes-list { display: flex; flex-direction: column; gap: 0.75rem; }
+.note-card { padding: 0; overflow: hidden; }
+.note-card:hover { transform: none; }
+.note-header { width: 100%; display: flex; align-items: center; justify-content: space-between; padding: 1rem 1.25rem; background: none; border: none; color: var(--text-primary); cursor: pointer; text-align: left; }
+.note-header:hover { background: rgba(255,255,255,0.02); }
+.note-title h3 { font-size: 1.05rem; margin-bottom: 0.35rem; }
+.note-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; }
+.tag-outline { font-size: 0.7rem; padding: 0.15rem 0.5rem; border: 1px solid var(--border-default); border-radius: var(--radius-full); color: var(--text-tertiary); }
+.trend-badge { font-size: 0.72rem; }
+.trend-badge.increasing { color: #34d399; }
+.trend-badge.decreasing { color: #f87171; }
+.trend-badge.stable { color: var(--text-tertiary); }
+.note-chevron { font-size: 0.8rem; color: var(--text-tertiary); flex-shrink: 0; margin-left: 1rem; }
+
+.note-body { padding: 0 1.25rem 1.25rem; border-top: 1px solid var(--border-subtle); }
+.note-section { padding: 1rem 0; border-bottom: 1px solid var(--border-subtle); }
+.note-section:last-child { border-bottom: none; }
+.note-section h4 { font-size: 0.82rem; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 0.65rem; }
+
+.exam-bars { display: flex; flex-direction: column; gap: 0.5rem; }
+.exam-bar-row { display: flex; align-items: center; gap: 0.75rem; }
+.eb-name { font-size: 0.85rem; min-width: 70px; color: var(--text-secondary); }
+.eb-track { flex: 1; height: 6px; background: var(--bg-tertiary); border-radius: var(--radius-full); overflow: hidden; }
+.eb-fill { height: 100%; background: var(--gold-500); border-radius: var(--radius-full); }
+.eb-count { font-size: 0.82rem; font-weight: 600; color: var(--text-primary); min-width: 20px; text-align: right; }
+
+.diff-chips { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.diff-chip { font-size: 0.82rem; padding: 0.35rem 0.75rem; border-radius: var(--radius-full); font-weight: 500; }
+.diff-chip.easy { background: rgba(52,211,153,0.1); color: #34d399; }
+.diff-chip.medium { background: rgba(251,191,36,0.1); color: #fbbf24; }
+.diff-chip.hard { background: rgba(248,113,113,0.1); color: #f87171; }
+
+.acts-list { display: flex; flex-direction: column; gap: 0.35rem; }
+.act-item { display: flex; justify-content: space-between; align-items: center; padding: 0.4rem 0.65rem; background: var(--bg-tertiary); border-radius: var(--radius-sm); }
+.act-name { font-size: 0.85rem; text-transform: capitalize; }
+.act-count { font-size: 0.78rem; color: var(--text-tertiary); }
+
+.prov-grid { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.prov-chip { display: flex; flex-direction: column; padding: 0.45rem 0.7rem; background: var(--bg-tertiary); border-radius: var(--radius-sm); border-left: 2px solid var(--gold-500); }
+.prov-name { font-size: 0.82rem; font-weight: 500; text-transform: capitalize; }
+.prov-meta { font-size: 0.68rem; color: var(--text-tertiary); }
+
+.study-tip { background: rgba(201,168,76,0.04); border-radius: var(--radius-md); padding: 1rem !important; border-bottom: none !important; }
+.study-tip p { font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6; }
+
+@media (max-width: 768px) {
+  .ov-name { min-width: 100px; font-size: 0.78rem; }
+}

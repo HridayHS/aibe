@@ -11,6 +11,7 @@ const NAV_ITEMS = [
   { path: '/difficulty', label: 'Difficulty', icon: '🎯' },
   { path: '/repeats', label: 'Repeats', icon: '🔁' },
   { path: '/flashcards', label: 'Flashcards', icon: '🃏' },
+  { path: '/notes', label: 'Revision Notes', icon: '📖' },
   { path: '/reference', label: 'Reference', icon: '📚' },
   { path: '/predictions', label: 'Predictions', icon: '🔮' },
 ]
