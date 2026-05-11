@@ -49,7 +49,7 @@ export default function Layout() {
         </nav>
         <div className="sidebar-footer">
           <div className="sidebar-footer-text">
-            <span>AIBE 17–20 Analysis</span>
+            <span>AIBE 18–20 Analysis</span>
             <span className="version">v1.0</span>
           </div>
         </div>
