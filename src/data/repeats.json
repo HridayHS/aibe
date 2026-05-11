@@ -1,0 +1,229 @@
+{
+  "clusters": [
+    {
+      "id": "repeat-1",
+      "subject": "Criminal Law",
+      "exams": [
+        "AIBE 20",
+        "AIBE 18"
+      ],
+      "questions": [
+        {
+          "id": "aibe20-a-q7",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 7,
+          "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Code of Criminal Procedure, 1973, will the case primarily fall?",
+          "options": [
+            "Section 27",
+            "Section 125",
+            "Section 302",
+            "Section 482"
+          ],
+          "correctAnswer": "A",
+          "similarity": 100
+        },
+        {
+          "id": "aibe18-a-q20",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 20,
+          "question": "A person arrested by a private person for committing a non-bailable and cognizable offence shall be re-arrested by a police officer if such person comes under which of the following provision of the Code of Criminal Procedure, 1973?",
+          "options": [
+            "Section 41",
+            "Section 41A",
+            "Section 42",
+            "Section 43"
+          ],
+          "correctAnswer": null,
+          "similarity": 21
+        }
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "repeat-2",
+      "subject": "Legal Ethics",
+      "exams": [
+        "AIBE 20",
+        "AIBE 18"
+      ],
+      "questions": [
+        {
+          "id": "aibe20-a-q73",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 73,
+          "question": "Which Section of the Advocates Act, 1961 provides for the disciplinary powers of the Bar Council of India?",
+          "options": [
+            "Section 35",
+            "Section 36",
+            "Section 37",
+            "Section 38"
+          ],
+          "correctAnswer": "B",
+          "similarity": 100
+        },
+        {
+          "id": "aibe18-a-q67",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 67,
+          "question": "Which provision of the Advocate Act, 1961 empowers the Bar Council of India to prescribe the standard of professional conduct and etiquette to be observed by advocates?",
+          "options": [
+            "Section 42",
+            "Section 42A",
+            "Section 48A",
+            "Section 49"
+          ],
+          "correctAnswer": null,
+          "similarity": 33
+        }
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "repeat-3",
+      "subject": "Family Law",
+      "exams": [
+        "AIBE 19",
+        "AIBE 18"
+      ],
+      "questions": [
+        {
+          "id": "aibe19-a-q58",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 58,
+          "question": "The remedy of restitution of conjugal rights is given in Section Act, 1955. of Hindu Marriage",
+          "options": [
+            "13",
+            "11",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "D",
+          "similarity": 100
+        },
+        {
+          "id": "aibe18-a-q53",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 53,
+          "question": "Section 13(1) of the Hindu Marriage Act, 1955 provides for the following: i. Grounds for restitution of conjugal rights ii. Grounds for judicial separation iii. Grounds for divorce",
+          "options": [
+            "i & ii",
+            "ii & iii",
+            "iii & i",
+            "Only iii"
+          ],
+          "correctAnswer": null,
+          "similarity": 42
+        }
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "repeat-4",
+      "subject": "Tax Law",
+      "exams": [
+        "AIBE 20",
+        "AIBE 19"
+      ],
+      "questions": [
+        {
+          "id": "aibe20-a-q51",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 51,
+          "question": "Read the given statements and choose the correct option. Statement 1: Under the Income-tax Act, 1961, a deduction equal to 30% of the annual value is allowed while computing income from house property. Statement 2: Where the property has been acquired or constructed with borrowed capital, the maximum deduction for interest payable on such capital is capped at ₹2,00,000, subject to conditions.",
+          "options": [
+            "Both Statements 1 and 2 are false",
+            "Only Statement 1 is true",
+            "Only Statement 2 is true",
+            "Both the Statements are true"
+          ],
+          "correctAnswer": "D",
+          "similarity": 100
+        },
+        {
+          "id": "aibe19-a-q87",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 87,
+          "question": "Read the given statements and choose the correct option: Statement 1: Agricultural income is exempt from tax under Section 10(1) of Income Tax Act, 1961. Statement 2: Tax on Non-Agricultural in case of Non-Agricultural Income exceeds Basic Exemption limit and Agricultural Income exceeds ₹ 5000/- is determined by Scheme of Partial Integration of Non- Agricultural Income with Agricultural Income.",
+          "options": [
+            "Both the Statements are incorrect.",
+            "Only Statement 1 is true.",
+            "Only Statement 2 is true.",
+            "Both the Statements are correct."
+          ],
+          "correctAnswer": "D",
+          "similarity": 25
+        }
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "repeat-5",
+      "subject": "Tax Law",
+      "exams": [
+        "AIBE 19",
+        "AIBE 18"
+      ],
+      "questions": [
+        {
+          "id": "aibe19-a-q85",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 85,
+          "question": "The term “ Income ” is described in the Income Tax Act, 1961 under__",
+          "options": [
+            "Section 2 (24)",
+            "Section 2 (40)",
+            "Section 3",
+            "Section 10E"
+          ],
+          "correctAnswer": "A",
+          "similarity": 100
+        },
+        {
+          "id": "aibe18-a-q88",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 88,
+          "question": "Income is defined under which of the following provision of the Income Tax Act, 1961?",
+          "options": [
+            "Section 2(31)",
+            "Section 2(24)",
+            "Section 2(9)",
+            "Section 3"
+          ],
+          "correctAnswer": null,
+          "similarity": 43
+        }
+      ],
+      "importance": "high"
+    }
+  ],
+  "hotTopics": [
+    {
+      "subject": "Tax Law",
+      "repeats": 2
+    },
+    {
+      "subject": "Criminal Law",
+      "repeats": 1
+    },
+    {
+      "subject": "Legal Ethics",
+      "repeats": 1
+    },
+    {
+      "subject": "Family Law",
+      "repeats": 1
+    }
+  ],
+  "totalClusters": 5,
+  "totalQuestions": 10
+}
