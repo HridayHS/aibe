@@ -1,0 +1,107 @@
+.predictions-page { padding-bottom: 2rem; }
+.predictions-note { margin-bottom: 1.5rem; padding: 1rem 1.25rem; }
+.predictions-note:hover { transform: none; }
+.predictions-note p { font-size: 0.88rem; }
+
+.predictions-list { display: flex; flex-direction: column; gap: 1rem; }
+
+.prediction-card {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  padding: 1.25rem 1.5rem;
+}
+.prediction-card:hover { transform: none; }
+
+.pred-rank {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--gold-400);
+  min-width: 2.5rem;
+  padding-top: 0.15rem;
+}
+
+.pred-content { flex: 1; }
+
+.pred-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.pred-header h3 { font-size: 1.1rem; }
+
+.pred-confidence {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.conf-bar {
+  width: 100px;
+  height: 6px;
+  background: rgba(148,163,184,0.1);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+
+.conf-fill {
+  height: 100%;
+  border-radius: var(--radius-full);
+  transition: width 1s ease;
+}
+
+.conf-value {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.pred-reason {
+  font-size: 0.85rem;
+  margin-bottom: 0.75rem;
+}
+
+.pred-history {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.pred-exam {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.pred-exam-name {
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+}
+
+.pred-exam-count {
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.pred-exam-next {
+  border-left: 1px dashed var(--border-default);
+  padding-left: 0.75rem;
+}
+
+.trend-badge {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-full);
+}
+.trend-badge.up { color: #34d399; background: rgba(52,211,153,0.1); }
+.trend-badge.down { color: #f87171; background: rgba(248,113,113,0.1); }
+.trend-badge.stable { color: #fbbf24; background: rgba(251,191,36,0.1); }

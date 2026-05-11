@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Source PDFs (not needed in repo)
+question papers pdf/
+new question paper pdfs/
+
+# Extraction scripts (dev only)
+extract-*.cjs
+check-*.cjs

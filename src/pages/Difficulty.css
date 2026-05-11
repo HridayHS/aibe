@@ -1,0 +1,9 @@
+.difficulty-page { padding-bottom: 2rem; }
+.overview-grid { display: grid; grid-template-columns: repeat(3, 1fr) 1.5fr; gap: 1rem; align-items: center; }
+.diff-stat { text-align: center; padding: 1.25rem; position: relative; }
+.diff-stat:hover { transform: none; }
+.diff-dot { width: 10px; height: 10px; border-radius: 50%; margin: 0 auto 0.5rem; }
+.diff-pie { padding: 1rem; }
+.diff-pie:hover { transform: none; }
+.dom-badge { padding: 0.2rem 0.6rem; border-radius: var(--radius-full); font-size: 0.75rem; font-weight: 500; border: 1px solid; }
+@media (max-width: 768px) { .overview-grid { grid-template-columns: repeat(2, 1fr); } }
