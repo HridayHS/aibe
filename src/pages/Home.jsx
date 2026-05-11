@@ -12,7 +12,7 @@ const stats = {
 
 const uniqueByExam = {}
 questions.forEach(q => {
-  if (q.set === 'A' || (q.exam === 'AIBE 18' && q.set === 'C')) {
+  if (q.set === 'A') {
     if (!uniqueByExam[q.exam]) uniqueByExam[q.exam] = 0
     uniqueByExam[q.exam]++
   }
@@ -20,7 +20,7 @@ questions.forEach(q => {
 
 const features = [
   { icon: '📄', title: 'Question Papers', desc: 'Access AIBE 18-20 papers with full questions & answers', link: '/papers', color: '#818cf8' },
-  { icon: '❓', title: 'Question Bank', desc: 'Search & filter 590+ questions by subject, year, difficulty', link: '/questions', color: '#34d399' },
+  { icon: '❓', title: 'Question Bank', desc: `Search & filter ${questions.length}+ questions by subject, year, difficulty`, link: '/questions', color: '#34d399' },
   { icon: '📊', title: 'Subject Trends', desc: 'See which subjects are growing in weightage over years', link: '/trends', color: '#fbbf24' },
   { icon: '🎯', title: 'Difficulty Analysis', desc: 'Understand difficulty patterns across exams & subjects', link: '/difficulty', color: '#f87171' },
   { icon: '🃏', title: 'Flashcards', desc: 'Quick revision with interactive flashcards from real questions', link: '/flashcards', color: '#e879f9' },
@@ -40,7 +40,7 @@ export default function Home() {
           Master the <span className="gold-text">Bar Exam</span>
         </h1>
         <p className="hero-desc">
-          590+ real AIBE questions extracted, analyzed, and organized.
+          {stats.total} real AIBE questions extracted, analyzed, and organized.
           Subject trends, difficulty analysis, flashcards, and AI predictions — all in one place.
         </p>
         <div className="hero-actions">

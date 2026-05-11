@@ -4,7 +4,7 @@ import './Papers.css'
 const exams = [
   { id: 'aibe20', name: 'AIBE 20', year: 2025, date: 'November 30, 2025', sets: ['A', 'D'], totalQ: 100, hasAnswers: true },
   { id: 'aibe19', name: 'AIBE 19', year: 2024, date: '2024', sets: ['A', 'B', 'C', 'D'], totalQ: 100, hasAnswers: true },
-  { id: 'aibe18', name: 'AIBE 18', year: 2023, date: '2023', sets: ['C'], totalQ: 100, hasAnswers: false },
+  { id: 'aibe18', name: 'AIBE 18', year: 2023, date: '2023', sets: ['A'], totalQ: 100, hasAnswers: false },
 ]
 
 export default function Papers() {
@@ -70,7 +70,7 @@ export default function Papers() {
           <strong>AIBE 19:</strong> All 4 sets fully extracted with official answer key.
         </p>
         <p>
-          <strong>AIBE 18:</strong> Only Set C (bilingual English-Hindi) was text-extractable. Other sets are scanned.
+          <strong>AIBE 18:</strong> Set A fully extracted. No official answer key available.
         </p>
         <p style={{ color: 'var(--text-tertiary)', fontSize: '0.85rem', marginTop: '0.5rem' }}>
           Since all sets within an exam contain the same questions (just reordered), one set per exam provides complete coverage.
