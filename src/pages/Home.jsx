@@ -26,6 +26,7 @@ const features = [
   { icon: '🎯', title: 'Difficulty Analysis', desc: 'Understand difficulty patterns across exams & subjects', link: '/difficulty', color: '#f87171' },
   { icon: '🔁', title: 'Repeated Questions', desc: 'Questions that appear across multiple exams — highest ROI topics', link: '/repeats', color: '#38bdf8' },
   { icon: '🃏', title: 'Flashcards', desc: 'Quick revision with interactive flashcards from real questions', link: '/flashcards', color: '#e879f9' },
+  { icon: '📖', title: 'Revision Notes', desc: 'Subject-wise study guides with key provisions and exam trends', link: '/notes', color: '#94a3b8' },
   { icon: '📚', title: 'Legal Reference', desc: 'Latin maxims, landmark cases & key legal concepts', link: '/reference', color: '#22d3ee' },
   { icon: '🔮', title: 'Predictions', desc: 'Data-driven high-probability topics for the next AIBE', link: '/predictions', color: '#fb923c' },
 ]
