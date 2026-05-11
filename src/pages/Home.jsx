@@ -21,11 +21,13 @@ questions.forEach(q => {
 const features = [
   { icon: '📄', title: 'Question Papers', desc: 'Access AIBE 18-20 papers with full questions & answers', link: '/papers', color: '#818cf8' },
   { icon: '❓', title: 'Question Bank', desc: `Search & filter ${questions.length}+ questions by subject, year, difficulty`, link: '/questions', color: '#34d399' },
+  { icon: '📝', title: 'Mock Test', desc: 'Simulate the real exam with timer, scoring & full review', link: '/mock-test', color: '#a78bfa' },
   { icon: '📊', title: 'Subject Trends', desc: 'See which subjects are growing in weightage over years', link: '/trends', color: '#fbbf24' },
   { icon: '🎯', title: 'Difficulty Analysis', desc: 'Understand difficulty patterns across exams & subjects', link: '/difficulty', color: '#f87171' },
+  { icon: '🔁', title: 'Repeated Questions', desc: 'Questions that appear across multiple exams — highest ROI topics', link: '/repeats', color: '#38bdf8' },
   { icon: '🃏', title: 'Flashcards', desc: 'Quick revision with interactive flashcards from real questions', link: '/flashcards', color: '#e879f9' },
   { icon: '📚', title: 'Legal Reference', desc: 'Latin maxims, landmark cases & key legal concepts', link: '/reference', color: '#22d3ee' },
-  { icon: '🔮', title: 'Predictions', desc: 'AI-predicted high-probability topics for the next AIBE', link: '/predictions', color: '#fb923c' },
+  { icon: '🔮', title: 'Predictions', desc: 'Data-driven high-probability topics for the next AIBE', link: '/predictions', color: '#fb923c' },
 ]
 
 export default function Home() {
