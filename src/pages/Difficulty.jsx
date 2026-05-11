@@ -43,17 +43,19 @@ export default function Difficulty() {
       <section className="section">
         <h2>🎯 Overall Distribution</h2>
         <div className="overview-grid">
-          {overallPie.map(d => (
-            <div key={d.name} className="diff-stat glass-card">
-              <div className="diff-dot" style={{ background: d.color }} />
-              <div className="stat-value" style={{ WebkitTextFillColor: d.color }}>{d.value}</div>
-              <div className="stat-label">{d.name}</div>
-            </div>
-          ))}
+          <div className="diff-stats-row">
+            {overallPie.map(d => (
+              <div key={d.name} className="diff-stat glass-card">
+                <div className="diff-dot" style={{ background: d.color }} />
+                <div className="stat-value" style={{ color: d.color }}>{d.value}</div>
+                <div className="stat-label">{d.name}</div>
+              </div>
+            ))}
+          </div>
           <div className="diff-pie glass-card">
             <ResponsiveContainer width="100%" height={200}>
               <PieChart>
-                <Pie data={overallPie} cx="50%" cy="50%" innerRadius={40} outerRadius={80} dataKey="value" label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`} fontSize={11}>
+                <Pie data={overallPie} cx="50%" cy="50%" innerRadius={45} outerRadius={85} dataKey="value" label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`} fontSize={12}>
                   {overallPie.map(d => <Cell key={d.name} fill={d.color} />)}
                 </Pie>
                 <Tooltip />
