@@ -1,10 +1,29 @@
 import questions from '../data/questions.json'
 import './Papers.css'
 
+const PDF_BASE = '/pdfs/'
+
 const exams = [
-  { id: 'aibe20', name: 'AIBE 20', year: 2025, date: 'November 30, 2025', sets: ['A', 'D'], totalQ: 100, hasAnswers: true },
-  { id: 'aibe19', name: 'AIBE 19', year: 2024, date: '2024', sets: ['A', 'B', 'C', 'D'], totalQ: 100, hasAnswers: true },
-  { id: 'aibe18', name: 'AIBE 18', year: 2023, date: '2023', sets: ['A'], totalQ: 100, hasAnswers: false },
+  { id: 'aibe20', name: 'AIBE 20', year: 2025, date: 'November 30, 2025',
+    sets: [
+      { code: 'A', pdf: 'aibe-20-set-a.pdf' },
+      { code: 'D', pdf: 'aibe-20-set-d.pdf' },
+    ],
+    totalQ: 100, hasAnswers: true },
+  { id: 'aibe19', name: 'AIBE 19', year: 2024, date: '2024',
+    sets: [
+      { code: 'A', pdf: 'aibe-19-set-a.pdf' },
+      { code: 'B', pdf: 'aibe-19-set-b.pdf' },
+      { code: 'C', pdf: 'aibe-19-set-c.pdf' },
+      { code: 'D', pdf: 'aibe-19-set-d.pdf' },
+    ],
+    answerKeyPdf: 'aibe-19-answer-key.pdf',
+    totalQ: 100, hasAnswers: true },
+  { id: 'aibe18', name: 'AIBE 18', year: 2023, date: '2023',
+    sets: [
+      { code: 'A', pdf: 'aibe-18-set-a.pdf' },
+    ],
+    totalQ: 100, hasAnswers: false },
 ]
 
 export default function Papers() {
@@ -14,7 +33,7 @@ export default function Papers() {
     <div className="papers-page">
       <div className="page-header">
         <h1>Question Papers</h1>
-        <p>Access AIBE exam papers with extracted questions and answers</p>
+        <p>Access AIBE exam papers — extracted questions and original PDFs</p>
       </div>
 
       <div className="papers-list">
@@ -33,10 +52,20 @@ export default function Papers() {
 
             <div className="sets-grid">
               {exam.sets.map(set => {
-                const count = getCount(exam.name, set)
+                const count = getCount(exam.name, set.code)
                 return (
-                  <div key={set} className="set-card">
-                    <div className="set-label">Set {set}</div>
+                  <div key={set.code} className="set-card">
+                    <div className="set-top">
+                      <div className="set-label">Set {set.code}</div>
+                      <div className="set-actions">
+                        <a href={PDF_BASE + set.pdf} target="_blank" rel="noopener noreferrer" className="pdf-btn view" title="View PDF">
+                          👁️ View
+                        </a>
+                        <a href={PDF_BASE + set.pdf} download className="pdf-btn download" title="Download PDF">
+                          ⬇️
+                        </a>
+                      </div>
+                    </div>
                     <div className="set-count">{count} questions extracted</div>
                     <div className="set-bar">
                       <div className="set-fill" style={{ width: `${count}%` }} />
@@ -46,11 +75,18 @@ export default function Papers() {
               })}
             </div>
 
-            {/* Subject breakdown for this exam */}
+            {exam.answerKeyPdf && (
+              <div className="ak-link">
+                <a href={PDF_BASE + exam.answerKeyPdf} target="_blank" rel="noopener noreferrer" className="pdf-btn view">
+                  📋 View Answer Key PDF
+                </a>
+              </div>
+            )}
+
             <div className="paper-subjects">
-              <h4>Subject Breakdown (Set {exam.sets[0]})</h4>
+              <h4>Subject Breakdown (Set {exam.sets[0].code})</h4>
               <div className="subject-chips">
-                {getSubjectBreakdown(exam.name, exam.sets[0]).map(({ subject, count }) => (
+                {getSubjectBreakdown(exam.name, exam.sets[0].code).map(({ subject, count }) => (
                   <span key={subject} className="subject-chip">
                     {subject}: <strong>{count}</strong>
                   </span>
@@ -73,7 +109,7 @@ export default function Papers() {
           <strong>AIBE 18:</strong> Set A fully extracted. No official answer key available.
         </p>
         <p style={{ color: 'var(--text-tertiary)', fontSize: '0.85rem', marginTop: '0.5rem' }}>
-          Since all sets within an exam contain the same questions (just reordered), one set per exam provides complete coverage.
+          All original PDFs are available for viewing/download above as a failsafe.
         </p>
       </div>
     </div>
