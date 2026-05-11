@@ -8,14 +8,13 @@ export default function Repeats() {
     <div className="repeats-page">
       <div className="page-header">
         <h1>Repeated Questions</h1>
-        <p>Questions that appear across multiple AIBE exams — focus on these for maximum ROI</p>
+        <p>Same legal provisions tested across multiple AIBE exams — high-priority study topics</p>
       </div>
 
-      {/* Summary */}
       <div className="repeats-summary">
         <div className="stat-card">
           <div className="stat-value">{totalClusters}</div>
-          <div className="stat-label">Repeated Patterns</div>
+          <div className="stat-label">Verified Patterns</div>
         </div>
         <div className="stat-card">
           <div className="stat-value">{totalQuestions}</div>
@@ -27,7 +26,6 @@ export default function Repeats() {
         </div>
       </div>
 
-      {/* Hot Topics */}
       <section className="section">
         <h2>🔥 Subjects Most Likely to Repeat</h2>
         <div className="hot-topics">
@@ -41,12 +39,11 @@ export default function Repeats() {
         </div>
       </section>
 
-      {/* Clusters */}
       <section className="section">
-        <h2>📋 Repeated Question Clusters</h2>
+        <h2>📋 Verified Repeat Clusters</h2>
         <p className="section-desc">
-          Each cluster shows questions from different exams that test the same concept. 
-          If a topic appears across multiple years, it's very likely to appear again.
+          Each cluster groups questions from different exams that test the same legal provision.
+          These are manually verified — not just text-matching.
         </p>
         <div className="clusters-list">
           {clusters.map(cluster => (
@@ -65,15 +62,21 @@ export default function Repeats() {
                 </div>
               </div>
 
+              {cluster.sharedConcepts && cluster.sharedConcepts.length > 0 && (
+                <div className="shared-refs">
+                  <span className="shared-label">Shared provisions:</span>
+                  {cluster.sharedConcepts.map(r => (
+                    <span key={r} className="ref-chip">{r}</span>
+                  ))}
+                </div>
+              )}
+
               <div className="cluster-questions">
-                {cluster.questions.map((q, i) => (
+                {cluster.questions.map((q) => (
                   <div key={q.id} className="cluster-q">
                     <div className="cq-header">
                       <span className="cq-exam">{q.exam}</span>
                       <span className="cq-num">Q{q.questionNumber}</span>
-                      {q.similarity < 100 && (
-                        <span className="cq-sim">{q.similarity}% similar</span>
-                      )}
                     </div>
                     <p className="cq-text">{q.question}</p>
                     <div className="cq-options">
@@ -95,11 +98,14 @@ export default function Repeats() {
         </div>
       </section>
 
-      {clusters.length === 0 && (
-        <div className="empty-state glass-card">
-          <p>No repeated questions found across exams. This could mean the exam board is diversifying their question bank.</p>
-        </div>
-      )}
+      <div className="method-note glass-card">
+        <h4>📌 Methodology</h4>
+        <p>
+          Clusters are identified by matching shared legal provisions (specific Section numbers,
+          Article numbers, and Act names) across exams, then manually verified to ensure
+          the questions genuinely test the same concept — not just coincidental section references.
+        </p>
+      </div>
     </div>
   )
 }

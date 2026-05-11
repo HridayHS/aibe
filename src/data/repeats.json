@@ -2,67 +2,173 @@
   "clusters": [
     {
       "id": "repeat-1",
-      "subject": "Legal Ethics",
+      "subject": "Civil Procedure",
       "exams": [
-        "AIBE 20",
+        "AIBE 19",
         "AIBE 18"
       ],
+      "sharedConcepts": [
+        "section 9",
+        "section 11"
+      ],
+      "importance": "high",
       "questions": [
         {
-          "id": "aibe20-a-q73",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 73,
-          "question": "Which Section of the Advocates Act, 1961 provides for the disciplinary powers of the Bar Council of India?",
+          "id": "aibe19-a-q36",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 36,
+          "question": "Which section of the CPC deals with the principle of \"res judicata\"?",
           "options": [
-            "Section 35",
-            "Section 36",
-            "Section 37",
-            "Section 38"
+            "Section 11",
+            "Section 10",
+            "Section 12",
+            "Section 9"
           ],
-          "correctAnswer": "B",
-          "similarity": 100
+          "correctAnswer": "A"
         },
         {
-          "id": "aibe18-a-q67",
+          "id": "aibe18-a-q30",
           "exam": "AIBE 18",
           "year": 2023,
-          "questionNumber": 67,
-          "question": "Which provision of the Advocate Act, 1961 empowers the Bar Council of India to prescribe the standard of professional conduct and etiquette to be observed by advocates?",
+          "questionNumber": 30,
+          "question": "Which of the following cannot be considered as the suit of civil nature for Section 9 of the Code of Civil Procedure, 1908?",
           "options": [
-            "Section 42",
-            "Section 42A",
-            "Section 48A",
-            "Section 49"
+            "Suit for recovery of voluntary payments or offerings.",
+            "Suit for rights of franchise.",
+            "Suit for specific reliefs.",
+            "Suit relating to rights of worship."
           ],
-          "correctAnswer": null,
-          "similarity": 33
+          "correctAnswer": null
+        },
+        {
+          "id": "aibe18-a-q31",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 31,
+          "question": "Which of the following provision of the Code of Civil Procedure, 1908 makes the doctrine of res judicata applicable in representative suits?",
+          "options": [
+            "Section 11, Explanation V",
+            "Section 11, Explanation VI",
+            "Section 11, Explanation VII",
+            "Section 11, Explanation VIII"
+          ],
+          "correctAnswer": null
         }
-      ],
-      "importance": "high"
+      ]
     },
     {
       "id": "repeat-2",
+      "subject": "Evidence Law",
+      "exams": [
+        "AIBE 19",
+        "AIBE 18"
+      ],
+      "sharedConcepts": [
+        "section 24",
+        "evidence act"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe19-a-q39",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 39,
+          "question": "Which word is inserted in Section 22 of the BSA that was not present in Section 24 of the Evidence Act ?",
+          "options": [
+            "Inducement",
+            "Coercion",
+            "Threat",
+            "Promise"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe18-a-q40",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 40,
+          "question": "Which of the following provisions of the Indian Evidence Act, 1872 says that the confession to a police officer shall not be proved against him?",
+          "options": [
+            "Section 24",
+            "Section 25",
+            "Section 26",
+            "Section 27"
+          ],
+          "correctAnswer": null
+        }
+      ]
+    },
+    {
+      "id": "repeat-3",
+      "subject": "ADR & Arbitration",
+      "exams": [
+        "AIBE 20",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 11",
+        "section 9"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe20-a-q71",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 71,
+          "question": "Under Section 37 of the Arbitration and Conciliation Act, 1996, which of the following orders is not appealable?",
+          "options": [
+            "Refusing to refer parties to arbitration under Section 8",
+            "Refusing to appoint arbitrator under Section 11",
+            "Refusing to grant any measure under Section 9",
+            "Refusing to grant an interim measure under Section 17"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe19-a-q50",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 50,
+          "question": "Kiran and Meera are involved in an arbitration, where Kiran was awarded Rs. 10 lakhs as compensation. Meera refuses to pay the amount, arguing that the award was not enforceable because of certain procedural irregularities in the arbitration process. Kiran decides to approach the court to enforce the arbitral award. Which of the following provisions of the Arbitration and Conciliation Act, 1996 governs the enforcement of an arbitral award ?",
+          "options": [
+            "Section 34 of the Act deals with the enforcement of an arbitral award.",
+            "Section 36 of the Act allows for the automatic enforcement of an arbitral award unless set-aside by the court.",
+            "Section 9 of the Act governs the enforcement of arbitral awards.",
+            "Section 11 of the Act deals with the enforcement of arbitral awards, not the appeal."
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-4",
       "subject": "Family Law",
       "exams": [
         "AIBE 19",
         "AIBE 18"
       ],
+      "sharedConcepts": [
+        "section 13(1)",
+        "hindu marriage act"
+      ],
+      "importance": "high",
       "questions": [
         {
-          "id": "aibe19-a-q58",
+          "id": "aibe19-a-q53",
           "exam": "AIBE 19",
           "year": 2024,
-          "questionNumber": 58,
-          "question": "The remedy of restitution of conjugal rights is given in Section Act, 1955. of Hindu Marriage",
+          "questionNumber": 53,
+          "question": "Aarti and Rajesh have been married for five years. Over time, Aarti has been subjected 1 continuous cruelty by Rajesh, which has led to emotional and mental distress. Aarti decide to file for divorce on the grounds of cruelty under Section 13(1)(ia) of the Hindu Marriag Act, 1955. Which of the following statements is true regarding the grounds for divorce under the Hind Marriage Act?",
           "options": [
-            "13",
-            "11",
-            "6",
-            "9"
+            "Aarti can only seek divorce on the grounds of adultery.",
+            "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental physical cruelty.",
+            "Aarti cannot seek divorce on the grounds of cruelty as it is not recognized under the Hindu Marriage Act.",
+            "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition. 54.On matters where Dayabhaga is silent, what prevails? (A) The local customs (B) The Smritis (C) The Shrutis (D) Mitakshara"
           ],
-          "correctAnswer": "D",
-          "similarity": 100
+          "correctAnswer": "B"
         },
         {
           "id": "aibe18-a-q53",
@@ -76,19 +182,22 @@
             "iii & i",
             "Only iii"
           ],
-          "correctAnswer": null,
-          "similarity": 42
+          "correctAnswer": null
         }
-      ],
-      "importance": "high"
+      ]
     },
     {
-      "id": "repeat-3",
+      "id": "repeat-5",
       "subject": "Tax Law",
       "exams": [
         "AIBE 19",
         "AIBE 18"
       ],
+      "sharedConcepts": [
+        "section 3",
+        "income tax act"
+      ],
+      "importance": "high",
       "questions": [
         {
           "id": "aibe19-a-q85",
@@ -102,8 +211,7 @@
             "Section 3",
             "Section 10E"
           ],
-          "correctAnswer": "A",
-          "similarity": 100
+          "correctAnswer": "A"
         },
         {
           "id": "aibe18-a-q88",
@@ -117,16 +225,22 @@
             "Section 2(9)",
             "Section 3"
           ],
-          "correctAnswer": null,
-          "similarity": 43
+          "correctAnswer": null
         }
-      ],
-      "importance": "high"
+      ]
     }
   ],
   "hotTopics": [
     {
-      "subject": "Legal Ethics",
+      "subject": "Civil Procedure",
+      "repeats": 1
+    },
+    {
+      "subject": "Evidence Law",
+      "repeats": 1
+    },
+    {
+      "subject": "ADR & Arbitration",
       "repeats": 1
     },
     {
@@ -138,6 +252,6 @@
       "repeats": 1
     }
   ],
-  "totalClusters": 3,
-  "totalQuestions": 6
+  "totalClusters": 5,
+  "totalQuestions": 11
 }

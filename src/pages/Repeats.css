@@ -28,3 +28,10 @@
 .cq-option { font-size: 0.82rem; color: var(--text-secondary); padding: 0.3rem 0.5rem; border-radius: var(--radius-sm); }
 .cq-option.correct { color: var(--accent-300); background: rgba(52,211,153,0.08); }
 @media (max-width: 768px) { .repeats-summary { grid-template-columns: 1fr; } }
+.shared-refs { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.shared-label { font-size: 0.78rem; color: var(--text-tertiary); }
+.ref-chip { font-size: 0.75rem; padding: 0.2rem 0.55rem; background: rgba(201,168,76,0.1); border: 1px solid rgba(201,168,76,0.25); border-radius: var(--radius-full); color: var(--gold-300); text-transform: capitalize; }
+.method-note { padding: 1.25rem 1.5rem; margin-top: 2rem; }
+.method-note:hover { transform: none; }
+.method-note h4 { margin-bottom: 0.5rem; }
+.method-note p { font-size: 0.85rem; color: var(--text-secondary); line-height: 1.6; }
