@@ -1,94 +1,51 @@
 {
   "clusters": [
     {
-      "id": "repeat-6",
-      "subject": "Civil Procedure",
-      "exams": [
-        "AIBE 19",
-        "AIBE 18"
-      ],
-      "sharedConcepts": [
-        "section 9",
-        "section 11"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe19-q36",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 36,
-          "question": "Which section of the CPC deals with the principle of \"res judicata\"?",
-          "options": [
-            "Section 11",
-            "Section 10",
-            "Section 12",
-            "Section 9"
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "aibe18-q30",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 30,
-          "question": "Which of the following cannot be considered as the suit of civil nature for Section 9 of the Code of Civil Procedure, 1908?",
-          "options": [
-            "Suit for recovery of voluntary payments or offerings.",
-            "Suit for rights of franchise.",
-            "Suit for specific reliefs.",
-            "Suit relating to rights of worship."
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "aibe18-q31",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 31,
-          "question": "Which of the following provision of the Code of Civil Procedure, 1908 makes the doctrine of res judicata applicable in representative suits?",
-          "options": [
-            "Section 11, Explanation V",
-            "Section 11, Explanation VI",
-            "Section 11, Explanation VII",
-            "Section 11, Explanation VIII"
-          ],
-          "correctAnswer": "B"
-        }
-      ]
-    },
-    {
       "id": "repeat-1",
       "subject": "Criminal Law",
       "exams": [
-        "AIBE 20",
+        "AIBE 18",
         "AIBE 19"
       ],
       "sharedConcepts": [
-        "section 302"
+        "section 325"
       ],
       "importance": "high",
       "questions": [
         {
-          "id": "aibe20-q7",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 7,
-          "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Code of Criminal Procedure, 1973, will the case primarily fall?",
+          "id": "aibe18-q26",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 26,
+          "question": "Which of the following Section of the Code of Criminal Procedure, 1973 provides for reference to High Court? ?",
           "options": [
-            "Section 27",
-            "Section 125",
-            "Section 302",
-            "Section 482"
+            "Section 275 275",
+            "Section 325 325",
+            "Section 383 383",
+            "Section 395 395"
           ],
-          "correctAnswer": "A"
+          "correctAnswer": "D"
+        },
+        {
+          "id": "aibe19-q14",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 14,
+          "question": "Rajesh, in a heated argument with Sunil, strikes him with a heavy iron rod. The blow fractures Sunil's arm, and he is unable to use it for several weeks. The medical report confirms that the fracture amounts to grievous hurt. Which of the following offenses has Rajesh committed? ?",
+          "options": [
+            "Simple hurt under Section 323 of IPC",
+            "Voluntarily causing grievous hurt under Section 325 of IPC",
+            "Voluntarily causing hurt under Section 324 of IPC",
+            "Attempt to commit culpable homicide under Section 308 of IPC"
+          ],
+          "correctAnswer": "B"
         },
         {
           "id": "aibe19-q15",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 15,
-          "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evidence of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed?",
+          "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evide nce of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed? ?",
           "options": [
             "Murder under Section 302 of IPC",
             "Culpable homicide not amounting to murder under Section 304 of IPC",
@@ -101,222 +58,10 @@
     },
     {
       "id": "repeat-2",
-      "subject": "Criminal Law",
-      "exams": [
-        "AIBE 19",
-        "AIBE 18"
-      ],
-      "sharedConcepts": [
-        "section 325"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe19-q14",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 14,
-          "question": "Rajesh, in a heated argument with Sunil, strikes him with a heavy iron rod. The blow fractures Sunil's arm, and he is unable to use it for several weeks. The medical report confirms that the fracture amounts to grievous hurt. Which of the following offenses has Rajesh committed?",
-          "options": [
-            "Simple hurt under Section 323 of IPC",
-            "Voluntarily causing grievous hurt under Section 325 of IPC",
-            "Voluntarily causing hurt under Section 324 of IPC",
-            "Attempt to commit culpable homicide under Section 308 of IPC"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe18-q26",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 26,
-          "question": "Which of the following Section of the Code of Criminal Procedure, 1973 provides for reference to High Court?",
-          "options": [
-            "Section 275",
-            "Section 325",
-            "Section 383",
-            "Section 395"
-          ],
-          "correctAnswer": "D"
-        }
-      ]
-    },
-    {
-      "id": "repeat-3",
-      "subject": "Evidence Law",
-      "exams": [
-        "AIBE 20",
-        "AIBE 19"
-      ],
-      "sharedConcepts": [
-        "section 46"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe20-q65",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 65,
-          "question": "Which Section of The Bharatiya Sakshya Adhiniyam, 2023 pertains to opinions of experts?",
-          "options": [
-            "Section 38",
-            "Section 39",
-            "Section 36",
-            "Section 46"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe19-q44",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 44,
-          "question": "According to Section 46 of Bharatiya Sakshya Adhiniyam, when character evidence is relevant in civil cases?",
-          "options": [
-            "Always relevant to prove conduct",
-            "Only when related to other relevant fact",
-            "Never relevant",
-            "Only in criminal cases"
-          ],
-          "correctAnswer": "B"
-        }
-      ]
-    },
-    {
-      "id": "repeat-4",
-      "subject": "Evidence Law",
-      "exams": [
-        "AIBE 19",
-        "AIBE 18"
-      ],
-      "sharedConcepts": [
-        "section 24",
-        "evidence act"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe19-q39",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 39,
-          "question": "Which word is inserted in Section 22 of the BSA that was not present in Section 24 of the Evidence Act ?",
-          "options": [
-            "Inducement",
-            "Coercion",
-            "Threat",
-            "Promise"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe18-q40",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 40,
-          "question": "Which of the following provisions of the Indian Evidence Act, 1872 says that the confession to a police officer shall not be proved against him?",
-          "options": [
-            "Section 24",
-            "Section 25",
-            "Section 26",
-            "Section 27"
-          ],
-          "correctAnswer": "B"
-        }
-      ]
-    },
-    {
-      "id": "repeat-5",
-      "subject": "Civil Procedure",
-      "exams": [
-        "AIBE 19",
-        "AIBE 18"
-      ],
-      "sharedConcepts": [
-        "section 132"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe19-q33",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 33,
-          "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court?",
-          "options": [
-            "Section 132",
-            "Section 133",
-            "Section 128",
-            "Section 130"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe18-q32",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 32,
-          "question": "In which of the following situations a court will not issue summons for per- sonal appearance to the defendant?",
-          "options": [
-            "If defendant resides within the local limit of the court’s jurisdiction.",
-            "If defendant resides within 40 miles from the court.",
-            "If defendant resides 250 miles away from the court in an area having public conveyance available.",
-            "Woman to whom Section 132 of the Civil Procedure Code, 1908 does not apply."
-          ],
-          "correctAnswer": "C"
-        }
-      ]
-    },
-    {
-      "id": "repeat-7",
-      "subject": "ADR & Arbitration",
-      "exams": [
-        "AIBE 20",
-        "AIBE 19"
-      ],
-      "sharedConcepts": [
-        "section 11",
-        "section 9"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe20-q71",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 71,
-          "question": "Under Section 37 of the Arbitration and Conciliation Act, 1996, which of the following orders is not appealable?",
-          "options": [
-            "Refusing to refer parties to arbitration under Section 8",
-            "Refusing to appoint arbitrator under Section 11",
-            "Refusing to grant any measure under Section 9",
-            "Refusing to grant an interim measure under Section 17"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe19-q50",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 50,
-          "question": "Kiran and Meera are involved in an arbitration, where Kiran was awarded Rs. 10 lakhs as compensation. Meera refuses to pay the amount, arguing that the award was not enforceable because of certain procedural irregularities in the arbitration process. Kiran decides to approach the court to enforce the arbitral award. Which of the following provisions of the Arbitration and Conciliation Act, 1996 governs the enforcement of an arbitral award ?",
-          "options": [
-            "Section 34 of the Act deals with the enforcement of an arbitral award.",
-            "Section 36 of the Act allows for the automatic enforcement of an arbitral award unless set-aside by the court.",
-            "Section 9 of the Act governs the enforcement of arbitral awards.",
-            "Section 11 of the Act deals with the enforcement of arbitral awards, not the appeal."
-          ],
-          "correctAnswer": "B"
-        }
-      ]
-    },
-    {
-      "id": "repeat-8",
       "subject": "Family Law",
       "exams": [
-        "AIBE 19",
-        "AIBE 18"
+        "AIBE 18",
+        "AIBE 19"
       ],
       "sharedConcepts": [
         "section 13(1)",
@@ -325,30 +70,283 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-q53",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 53,
-          "question": "Aarti and Rajesh have been married for five years. Over time, Aarti has been subjected 1 continuous cruelty by Rajesh, which has led to emotional and mental distress. Aarti decide to file for divorce on the grounds of cruelty under Section 13(1)(ia) of the Hindu Marriag Act, 1955. Which of the following statements is true regarding the grounds for divorce under the Hind Marriage Act?",
-          "options": [
-            "Aarti can only seek divorce on the grounds of adultery.",
-            "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental or physical cruelty.",
-            "Aarti cannot seek divorce on the grounds of cruelty as it is not recognized under the Hindu Marriage Act.",
-            "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition. 54.On matters where Dayabhaga is silent, what prevails? (A) The local customs (B) The Smritis (C) The Shrutis (D) Mitakshara"
-          ],
-          "correctAnswer": "B"
-        },
-        {
           "id": "aibe18-q53",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 53,
-          "question": "Section 13(1) of the Hindu Marriage Act, 1955 provides for the following: i. Grounds for restitution of conjugal rights ii. Grounds for judicial separation iii. Grounds for divorce",
+          "question": "Section 13(1) of the Hindu Marriage Act, 1955 provides for the following: : i. Grounds for restitution of conjugal rights ii. Grounds for judicial separation iii. Grounds for divorce",
           "options": [
             "i & ii",
             "ii & iii",
             "iii & i",
             "Only iii"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe19-q53",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 53,
+          "question": "Aarti and Rajesh have been married for five years. Over time, Aarti has been subjected to continuous cruelty by Rajesh, which has led to emotional and mental distress. Aarti decides to file for divorce on the grounds of cruelty under Section 13(1)(ia) of t he Hindu Marriage Act, 1955. Which of the following statements is true regarding the grounds for divorce under the Hindu Marriage Act ? ?",
+          "options": [
+            "Aarti can only seek divorce on the grounds of adultery.",
+            "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental or physical cruelty.",
+            "Aarti cannot seek divorce on the grounds of cruelty as it is not recognized under the Hindu Marriage Act.",
+            "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition."
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-3",
+      "subject": "Civil Procedure",
+      "exams": [
+        "AIBE 18",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 9"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe18-q30",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 30,
+          "question": "Which of the following cannot be considered as the suit of civil nature for Section 9 of the Code of Civil Procedure, 1908 ? ?",
+          "options": [
+            "Suit for recovery of voluntary payments or offerings.",
+            "Suit for rights of franchise.",
+            "Suit for specific reliefs.",
+            "Suit relating to rights of worship."
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "aibe19-q36",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 36,
+          "question": "Which section of the CPC deals with the principle of \"res judicata\"? ?",
+          "options": [
+            "Section 11 11",
+            "Section 10 10",
+            "Section 12 12",
+            "Section 9 9"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "id": "repeat-4",
+      "subject": "Civil Procedure",
+      "exams": [
+        "AIBE 18",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "section 11"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe18-q31",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 31,
+          "question": "Which of the following provision of the Code of Civil Procedure, 1908 makes the doctrine of res judicata applicable in representative suit? ?",
+          "options": [
+            "Section 11, Explanation V V",
+            "Section 11, Explanation VI VI",
+            "Section 11, Explanation VII VII",
+            "Section 11, Explanation VIII VIII"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe20-q61",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 61,
+          "question": "As per Section 11 of the Code of Civil Procedure, 1908 for Res Judicata to be applicable on a subsequent suit, the former suit I. has been finally decided. II. can only be instituted prior to the subsequent suit. III. relates to the same matter directly and substantially in issue in the subsequent suit. IV. is between the same parties, or between parties under whom they or any of them claim. Select the correct answer.",
+          "options": [
+            "I, II and III",
+            "II, III and IV",
+            "I, III and IV",
+            "I, II, III and IV"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "repeat-5",
+      "subject": "Civil Procedure",
+      "exams": [
+        "AIBE 18",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 132"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe18-q32",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 32,
+          "question": "In which of the following situations a court will not issue summons for personal appearance to the defendant ? ?",
+          "options": [
+            "If defendant reside within the local limit of the court's jurisdiction.",
+            "If defendant resides with within 40 miles from the court.",
+            "If defendant resides 250 miles away from the court in an area having public conveyance available.",
+            "Woman to whom Section 132 of the Civil Procedure Code, 1908 does not apply."
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "aibe19-q33",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 33,
+          "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court ? ?",
+          "options": [
+            "Section 132 132",
+            "Section 133 133",
+            "Section 128 128",
+            "Section 130 130"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-6",
+      "subject": "Evidence Law",
+      "exams": [
+        "AIBE 18",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 24",
+        "evidence act"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe18-q40",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 40,
+          "question": "Which of the following provisions of the Indian Evidence Act, 1872 says that the confession to police - officer shall not be proved against him? ?",
+          "options": [
+            "Section 24 24",
+            "Section 25 25",
+            "Section 26 26",
+            "Section 27 27"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe19-q39",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 39,
+          "question": "Which word is inserted in Section 22 of the BSA that was not present in Section 24 of the Evidence Act ? ?",
+          "options": [
+            "Inducement",
+            "Coerciof",
+            "Threat",
+            "Promise"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-7",
+      "subject": "Evidence Law",
+      "exams": [
+        "AIBE 19",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "section 46"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe19-q44",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 44,
+          "question": "According to Section 46 of Bharatiya Sakshya Adhiniyam, when character evidence is relevant in civil cases ? ?",
+          "options": [
+            "Always relevant to prove conduct",
+            "Only when related to other relevant fact",
+            "Never relevant",
+            "Only in criminal cases"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe20-q65",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 65,
+          "question": "Which Section of The Bharatiya Sakshya Adhiniyam, 2023 pertains to opinions of experts ? ?",
+          "options": [
+            "Section 38 38",
+            "Section 39 39",
+            "Section 36 3 6",
+            "Section 46 4 6"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-8",
+      "subject": "ADR & Arbitration",
+      "exams": [
+        "AIBE 19",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "section 11"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe19-q48",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 48,
+          "question": "A dispute arises between ABC Ltd. and XYZ Pvt. Ltd. regarding a contract that both parties had entered into. The agreement includes an arbitration clause, which states that any disputes shall be referred to arbitration. However, the parties fail to agree o n the appointment of an arbitrator. Which of the following provisions of the Arbitration and Conciliation Act, 1996 would be applicable to resolve the issue of the appointment of an arbitrator? ?",
+          "options": [
+            "The court will appoint an arbitrator under Section 11 if the parties fail to agree on one.",
+            "The parties must mutually select an arbitrator, and if they fail, the arbitration will not take place.",
+            "The arbitrator must be appointed by the Indian Council of Arbitration (ICA) in all cases.",
+            "The parties can resolve the appointment issue by opting for conciliation instead of arbitration."
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "aibe20-q71",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 71,
+          "question": "Under Section 37 of the Arbitration and Conciliation Act, 1996, which of the following orders is not appealable ? ?",
+          "options": [
+            "Refusing to refer parties to arbitration under Section 8.",
+            "Refusing to appoint arbitrator under Section 11.",
+            "Refusing to grant any measure under Section 9.",
+            "Refusing to grant an interim measure under Section 17."
           ],
           "correctAnswer": "B"
         }
@@ -358,8 +356,8 @@
       "id": "repeat-9",
       "subject": "Tax Law",
       "exams": [
-        "AIBE 19",
-        "AIBE 18"
+        "AIBE 18",
+        "AIBE 19"
       ],
       "sharedConcepts": [
         "section 3",
@@ -368,32 +366,32 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-q85",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 85,
-          "question": "The term “ Income ” is described in the Income Tax Act, 1961 under__",
-          "options": [
-            "Section 2 (24)",
-            "Section 2 (40)",
-            "Section 3",
-            "Section 10E"
-          ],
-          "correctAnswer": "A"
-        },
-        {
           "id": "aibe18-q88",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 88,
-          "question": "Income is defined under which of the following provision of the Income Tax Act, 1961?",
+          "question": "Income is defined under which of the following provision of the Income Tax Act, 1961 ? ?",
           "options": [
-            "Section 2(31)",
-            "Section 2(24)",
-            "Section 2(9)",
-            "Section 3"
+            "Section 2(31) 2(31)",
+            "Section 2(24) 2 (24)",
+            "Section 2(9) 2(9)",
+            "Section 3 3"
           ],
           "correctAnswer": "B"
+        },
+        {
+          "id": "aibe19-q85",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 85,
+          "question": "The term \"Income\" is described in the Income Tax Act, 1961 under -------------- .",
+          "options": [
+            "Section 2 (24) 2 (24)",
+            "Section 2 (40) 2(40)",
+            "Section 3 3",
+            "Section 10 E 10 E"
+          ],
+          "correctAnswer": "A"
         }
       ]
     },
@@ -401,35 +399,21 @@
       "id": "repeat-10",
       "subject": "Contract Law",
       "exams": [
-        "AIBE 20",
-        "AIBE 18"
+        "AIBE 18",
+        "AIBE 20"
       ],
       "sharedConcepts": [
-        "negotiable instruments",
-        "negotiable instrument"
+        "negotiable instrument",
+        "negotiable instruments"
       ],
       "importance": "high",
       "questions": [
-        {
-          "id": "aibe20-q36",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 36,
-          "question": "Read the given statements and choose the correct option. Statement 1: Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually received. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct?",
-          "options": [
-            "Both Statements 1 and 2 are false",
-            "Only Statement 1 is true",
-            "Only Statement 2 is true",
-            "Both the Statements are true"
-          ],
-          "correctAnswer": "D"
-        },
         {
           "id": "aibe18-q95",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 95,
-          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881?",
+          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881 ? ?",
           "options": [
             "Promissory note",
             "Hundi",
@@ -437,6 +421,20 @@
             "Cheque"
           ],
           "correctAnswer": "B"
+        },
+        {
+          "id": "aibe20-q36",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 36,
+          "question": "Read the given statements and choose the correct option. Statement 1 : Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually recei ved. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct? ?",
+          "options": [
+            "Both Statements 1 and 2 are false",
+            "Only Statement 1 is true",
+            "Only Statement 2 is true",
+            "Both the Statements are true"
+          ],
+          "correctAnswer": "D"
         }
       ]
     }
@@ -444,22 +442,22 @@
   "hotTopics": [
     {
       "subject": "Civil Procedure",
-      "repeats": 2
-    },
-    {
-      "subject": "Criminal Law",
-      "repeats": 2
+      "repeats": 3
     },
     {
       "subject": "Evidence Law",
       "repeats": 2
     },
     {
-      "subject": "ADR & Arbitration",
+      "subject": "Criminal Law",
       "repeats": 1
     },
     {
       "subject": "Family Law",
+      "repeats": 1
+    },
+    {
+      "subject": "ADR & Arbitration",
       "repeats": 1
     },
     {
