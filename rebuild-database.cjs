@@ -25,7 +25,8 @@ const OVERRIDES = {
       "of above seven years of age but under ten years of age, who has not attained sufficient maturity of understanding.",
       "of above seven years of age but under twelve years of age, who has attained sufficient maturity of understanding."
     ],
-    correctAnswer: "B"
+    correctAnswer: "B",
+    isModernized: true
   },
   "aibe17-q59": {
     question: "Provisions for the Right of Private Defence are given between Sections ------- of the Bharatiya Nyaya Sanhita (BNS).",
@@ -35,7 +36,8 @@ const OVERRIDES = {
       "Sections 45 to 55",
       "Sections 56 to 65"
     ],
-    correctAnswer: "B"
+    correctAnswer: "B",
+    isModernized: true
   },
   "aibe17-q60": {
     question: "Consent is not a valid consent under Section 28 of the Bharatiya Nyaya Sanhita (BNS):",
@@ -45,7 +47,8 @@ const OVERRIDES = {
       "If given by child below 12 years of age.",
       "All of these"
     ],
-    correctAnswer: "D"
+    correctAnswer: "D",
+    isModernized: true
   },
   "aibe17-q61": {
     question: "Causing of the death of a child in the mother's womb is not homicide as provided under...",
@@ -55,7 +58,8 @@ const OVERRIDES = {
       "Explanation III to Section 102 of BNS",
       "Explanation III to Section 103 of BNS"
     ],
-    correctAnswer: "B"
+    correctAnswer: "B",
+    isModernized: true
   },
   "aibe17-q62": {
     question: "Punishment for Defamation under Section 356 of the Bharatiya Nyaya Sanhita (BNS) is simple imprisonment for a term which may extend to ---------- or with fine or with both.",
@@ -65,7 +69,8 @@ const OVERRIDES = {
       "4 Years",
       "5 Years"
     ],
-    correctAnswer: "A"
+    correctAnswer: "A",
+    isModernized: true
   },
   "aibe17-q65": {
     question: "The provisions of 'Plea Bargaining' under Chapter XXIII of the Bharatiya Nagarik Suraksha Sanhita (BNSS) are not applicable if the offence is committed against a child below the age of -------",
@@ -75,7 +80,8 @@ const OVERRIDES = {
       "16 years",
       "18 years"
     ],
-    correctAnswer: "B"
+    correctAnswer: "B",
+    isModernized: true
   },
   "aibe17-q66": {
     question: "Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) is \"SECULAR\" in character was observed in which of the following cases (originally decided under Section 125 of CrPC)?",
@@ -85,7 +91,8 @@ const OVERRIDES = {
       "Mohd. Ahmed Khan V. Shah Bano Begum",
       "Selvy V. State of Karnataka"
     ],
-    correctAnswer: "C"
+    correctAnswer: "C",
+    isModernized: true
   },
   "aibe17-q68": {
     question: "Which Sections deal with the processes to compel appearance under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
@@ -95,7 +102,8 @@ const OVERRIDES = {
       "Sections 234 to 242",
       "Sections 300 to 310"
     ],
-    correctAnswer: "A"
+    correctAnswer: "A",
+    isModernized: true
   },
   "aibe17-q70": {
     question: "Assault or use of criminal force to a woman with intent to outrage her modesty under Section 74 of the Bharatiya Nyaya Sanhita (BNS) is which kind of offence?",
@@ -105,7 +113,8 @@ const OVERRIDES = {
       "Cognizable and Non - Bailable",
       "Non - Cognizable and Non - Bailable"
     ],
-    correctAnswer: "C"
+    correctAnswer: "C",
+    isModernized: true
   },
   "aibe17-q71": {
     question: "'A' places men with firearms at the outlets of a building and tells 'Z', that they will fire at 'Z', if 'Z' attempts to leave the building. Under Section 126 of the Bharatiya Nyaya Sanhita (BNS), 'A' is guilty of:",
@@ -115,7 +124,8 @@ const OVERRIDES = {
       "Both wrongful confinement and wrongful restraint",
       "None of these"
     ],
-    correctAnswer: "C"
+    correctAnswer: "C",
+    isModernized: true
   },
   "aibe17-q72": {
     question: "Any police officer making an investigation under Section 179 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) cannot require the attendance of a male, at a place other than the place of his residence, who is",
@@ -125,7 +135,8 @@ const OVERRIDES = {
       "under the age of 15 years and above the age of 65 years",
       "under the age of 18 years and above the age of 65 years"
     ],
-    correctAnswer: "A"
+    correctAnswer: "A",
+    isModernized: true
   },
   "aibe17-q85": {
     question: "The doctrine of 'Res Gestae' is codified in which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
@@ -135,7 +146,8 @@ const OVERRIDES = {
       "Section 8",
       "Section 9"
     ],
-    correctAnswer: "B"
+    correctAnswer: "B",
+    isModernized: true
   },
   "aibe17-q86": {
     question: "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
@@ -145,7 +157,8 @@ const OVERRIDES = {
       "Section 17",
       "Section 19"
     ],
-    correctAnswer: "C"
+    correctAnswer: "C",
+    isModernized: true
   },
   "aibe17-q88": {
     question: "Which of the following is not a 'document' according to Section 2(1)(d) of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
@@ -155,7 +168,8 @@ const OVERRIDES = {
       "A caricature",
       "None of these"
     ],
-    correctAnswer: "D"
+    correctAnswer: "D",
+    isModernized: true
   },
   "aibe17-q90": {
     question: "Which of the following is not 'Secondary evidence' as per Section 58 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
@@ -165,7 +179,8 @@ const OVERRIDES = {
       "Oral accounts of the contents of a document given by some person who has himself seen it.",
       "Copies not certified under Section 58."
     ],
-    correctAnswer: "D"
+    correctAnswer: "D",
+    isModernized: true
   },
   "aibe17-q93": {
     question: "The Arbitral Tribunal shall not be bound by ------ in the determination of rules of procedure.",
@@ -175,7 +190,8 @@ const OVERRIDES = {
       "The Code of Criminal Procedure, 1973 (or BNSS, 2023)",
       "Both, (The Code of Civil Procedure, 1908) and (The Bharatiya Sakshya Adhiniyam (BSA), 2023)"
     ],
-    correctAnswer: "D"
+    correctAnswer: "D",
+    isModernized: true
   },
   "aibe17-q100": {
     question: "Extra Judicial Confession means ?",
@@ -185,7 +201,8 @@ const OVERRIDES = {
       "Confessions made before Judges.",
       "None of these"
     ],
-    correctAnswer: "A"
+    correctAnswer: "A",
+    isModernized: true
   },
 
   // AIBE 18

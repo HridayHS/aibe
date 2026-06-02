@@ -909,7 +909,8 @@
       "of above seven years of age but under ten years of age, who has not attained sufficient maturity of understanding.",
       "of above seven years of age but under twelve years of age, who has attained sufficient maturity of understanding."
     ],
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe17-q58",
@@ -941,7 +942,8 @@
       "Sections 45 to 55",
       "Sections 56 to 65"
     ],
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe17-q60",
@@ -957,7 +959,8 @@
       "If given by child below 12 years of age.",
       "All of these"
     ],
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "isModernized": true
   },
   {
     "id": "aibe17-q61",
@@ -973,7 +976,8 @@
       "Explanation III to Section 102 of BNS",
       "Explanation III to Section 103 of BNS"
     ],
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe17-q62",
@@ -989,7 +993,8 @@
       "4 Years",
       "5 Years"
     ],
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "isModernized": true
   },
   {
     "id": "aibe17-q63",
@@ -1037,7 +1042,8 @@
       "16 years",
       "18 years"
     ],
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe17-q66",
@@ -1053,7 +1059,8 @@
       "Mohd. Ahmed Khan V. Shah Bano Begum",
       "Selvy V. State of Karnataka"
     ],
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe17-q67",
@@ -1085,7 +1092,8 @@
       "Sections 234 to 242",
       "Sections 300 to 310"
     ],
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "isModernized": true
   },
   {
     "id": "aibe17-q69",
@@ -1117,7 +1125,8 @@
       "Cognizable and Non - Bailable",
       "Non - Cognizable and Non - Bailable"
     ],
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe17-q71",
@@ -1133,7 +1142,8 @@
       "Both wrongful confinement and wrongful restraint",
       "None of these"
     ],
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe17-q72",
@@ -1149,7 +1159,8 @@
       "under the age of 15 years and above the age of 65 years",
       "under the age of 18 years and above the age of 65 years"
     ],
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "isModernized": true
   },
   {
     "id": "aibe17-q73",
@@ -1357,7 +1368,8 @@
       "Section 8",
       "Section 9"
     ],
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe17-q86",
@@ -1373,7 +1385,8 @@
       "Section 17",
       "Section 19"
     ],
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe17-q87",
@@ -1405,7 +1418,8 @@
       "A caricature",
       "None of these"
     ],
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "isModernized": true
   },
   {
     "id": "aibe17-q89",
@@ -1437,7 +1451,8 @@
       "Oral accounts of the contents of a document given by some person who has himself seen it.",
       "Copies not certified under Section 58."
     ],
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "isModernized": true
   },
   {
     "id": "aibe17-q91",
@@ -1485,7 +1500,8 @@
       "The Code of Criminal Procedure, 1973 (or BNSS, 2023)",
       "Both, (The Code of Civil Procedure, 1908) and (The Bharatiya Sakshya Adhiniyam (BSA), 2023)"
     ],
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "isModernized": true
   },
   {
     "id": "aibe17-q94",
@@ -1597,7 +1613,8 @@
       "Confessions made before Judges.",
       "None of these"
     ],
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "isModernized": true
   },
   {
     "id": "aibe18-q1",

@@ -166,6 +166,7 @@ export default function MockTest() {
                 <div className="rq-header">
                   <span className="q-number">Q{i + 1}</span>
                   <span className="tag tag-subject">{q.subject}</span>
+                  {q.isModernized && <span className="tag tag-modernized">✨ BNS/BSA Updated</span>}
                   {!userAns && <span className="rq-status skip">Skipped</span>}
                   {userAns && isCorrect && <span className="rq-status correct">✓ Correct</span>}
                   {userAns && !isCorrect && <span className="rq-status wrong">✗ Wrong</span>}
@@ -230,6 +231,7 @@ export default function MockTest() {
         <div className="tq-header">
           <span className="q-number">Question {currentQ + 1}</span>
           <span className="tag tag-subject">{q.subject}</span>
+          {q.isModernized && <span className="tag tag-modernized">✨ BNS/BSA Updated</span>}
         </div>
         <p className="tq-text">{q.question}</p>
         <div className="tq-options">

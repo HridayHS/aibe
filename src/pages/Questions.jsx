@@ -35,7 +35,7 @@ export default function Questions() {
     <div className="questions-page">
       <div className="page-header">
         <h1>Question Bank</h1>
-        <p>Search and filter {questions.length} questions from AIBE 18–20</p>
+        <p>Search and filter {questions.length} questions from AIBE 17–20</p>
       </div>
 
       {/* Filters */}
@@ -80,6 +80,9 @@ export default function Questions() {
               <span className="q-number">Q{q.questionNumber}</span>
               <div className="q-tags">
                 <span className="tag tag-gold">{q.exam}</span>
+                {q.isModernized && (
+                  <span className="tag tag-modernized">✨ BNS/BSA Updated</span>
+                )}
                 {!q.correctAnswer && (
                   <span className="tag tag-withdrawn">Withdrawn</span>
                 )}
