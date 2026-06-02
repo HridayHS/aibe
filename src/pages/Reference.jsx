@@ -31,13 +31,33 @@ const keyCases = [
   { name: 'MC Mehta v. Union of India (1987)', subject: 'Environmental Law', significance: 'Absolute liability principle for hazardous industries. Oleum Gas Leak Case.' },
   { name: 'Navtej Singh Johar v. Union of India (2018)', subject: 'Constitutional Law', significance: 'Decriminalized homosexuality by reading down Section 377 IPC.' },
   { name: 'K.S. Puttaswamy v. Union of India (2017)', subject: 'Constitutional Law', significance: 'Right to privacy is a fundamental right under Article 21.' },
-  { name: 'Ajay Hasia v. Khalid Mujib (1981)', subject: 'Constitutional Law', significance: 'Test for "other authorities" under Article 12 — government company can be State.' },
+  { name: 'Ajay Hasia v. Khalid Mujib (1981)', subject: 'Constitutional Law', significance: 'Test for \"other authorities\" under Article 12 — government company can be State.' },
   { name: 'Basheshar Nath v. IT Commissioner (1959)', subject: 'Constitutional Law', significance: 'Fundamental rights cannot be waived.' },
   { name: 'R.D. Shetty v. International Airport Authority (1979)', subject: 'Constitutional Law', significance: 'Extended Article 12 to instrumentalities of the State.' },
 ]
 
-// Landmark cases from 2024 and 2025
+// Landmark cases from 2024 to 2026
 const recentCases = [
+  {
+    name: "In Re: Women Representation in Bar Associations (April 2026)",
+    subject: "Legal Ethics / Constitutional Law",
+    significance: "Mandated a 30% reservation posts for women in the executive committees of all Bar Associations across India to promote gender diversity and representation in legal leadership."
+  },
+  {
+    name: "Sumit Bansal v. MGI Developers (2026)",
+    subject: "Negotiable Instruments Act",
+    significance: "Held that a separate cause of action arises for each dishonored check under Section 138 of the NI Act, allowing multiple filings even if they relate to the same transaction."
+  },
+  {
+    name: "Pannalal Bhansali v. Bharti Telecom Limited (March 2026)",
+    subject: "Corporate Law",
+    significance: "Ruled that a valuation report is not a mandatory statutory requirement for the reduction of share capital under Section 66 of the Companies Act, 2013, if it is approved by a special resolution of shareholders."
+  },
+  {
+    name: "Adani Power v. Union of India (January 2026)",
+    subject: "Tax Law / Constitutional Law",
+    significance: "Affirmed under Article 265 that the executive cannot retrospectively impose tax liabilities or retain levies collected without explicit legislative authorization from the parliament or state legislature."
+  },
   {
     name: "Association for Democratic Reforms v. Union of India (2024)",
     subject: "Constitutional Law",
@@ -82,6 +102,58 @@ const recentCases = [
 
 // Mock interactive questions for recent cases
 const mockQuestions = [
+  {
+    id: 'case-q9',
+    caseName: 'In Re: Women Representation in Bar Associations (2026)',
+    question: "In April 2026, the Supreme Court of India mandated what minimum percentage of representation for women in the executive committees of all Bar Associations across India?",
+    options: [
+      "10%",
+      "20%",
+      "30%",
+      "50%"
+    ],
+    correctAnswer: "C",
+    explanation: "The Supreme Court issued a landmark directive mandating a minimum of 30% posts for women in the executive committees of all Bar Associations to promote gender diversity and women representation in legal leadership."
+  },
+  {
+    id: 'case-q10',
+    caseName: 'Sumit Bansal v. MGI Developers (2026)',
+    question: "Under the Negotiable Instruments Act, 1881, the Supreme Court in Sumit Bansal v. MGI Developers (2026) ruled that if multiple checks given for the same transaction/debt are dishonored:",
+    options: [
+      "Only a single consolidated case can be filed under Section 138",
+      "A separate cause of action arises for each dishonored check, allowing multiple filings",
+      "No criminal liability arises because they stem from the same transaction",
+      "The dispute must be settled out-of-court or referred to arbitration"
+    ],
+    correctAnswer: "B",
+    explanation: "The Supreme Court ruled that each dishonored check constitutes a separate and distinct offence under Section 138 of the Negotiable Instruments Act, 1881, even if they were issued to clear a single transaction or liability."
+  },
+  {
+    id: 'case-q11',
+    caseName: 'Pannalal Bhansali v. Bharti Telecom Limited (2026)',
+    question: "Under Section 66 of the Companies Act, 2013, the Supreme Court in Pannalal Bhansali v. Bharti Telecom (2026) held that for the reduction of share capital:",
+    options: [
+      "A valuation report is an absolute mandatory statutory requirement in all cases",
+      "A valuation report is not a mandatory statutory requirement, provided a special resolution is passed by shareholders",
+      "Reduction of share capital is completely prohibited for public companies",
+      "NCLT approval is not required if members pass a unanimous resolution"
+    ],
+    correctAnswer: "B",
+    explanation: "The Supreme Court held that a valuation report is not an absolute statutory requirement under Section 66 for share capital reduction, provided it is approved by a special resolution of the shareholders."
+  },
+  {
+    id: 'case-q12',
+    caseName: 'Adani Power v. Union of India (2026)',
+    question: "In Adani Power v. Union of India (2026), the Supreme Court affirmed under Article 265 of the Constitution that the executive:",
+    options: [
+      "Can retrospectively impose taxes without legislative approval under executive discretion",
+      "Cannot retrospectively impose tax liabilities or retain levies without explicit legislative authorization from the parliament or state legislature",
+      "Has absolute powers to levy customs duty through notifications",
+      "Can retain any tax collected by mistake without returning it to the assessee"
+    ],
+    correctAnswer: "B",
+    explanation: "Under Article 265 of the Constitution ('No tax shall be levied or collected except by authority of law'), the Court ruled that the executive has no authority to retrospectively levy tax or retain collected funds without an explicit statutory backing from the legislature."
+  },
   {
     id: 'case-q1',
     caseName: 'Association for Democratic Reforms v. Union of India (2024)',
@@ -217,7 +289,7 @@ export default function Reference() {
     <div className="reference-page">
       <div className="page-header">
         <h1>Legal Reference</h1>
-        <p>Essential Latin maxims, landmark cases, and recent Supreme Court judgments</p>
+        <p>Essential Latin maxims, landmark cases, and recent Supreme Court judgments (2024–2026)</p>
       </div>
 
       <div className="ref-tabs">
@@ -228,7 +300,7 @@ export default function Reference() {
           🏛️ Landmark Cases ({keyCases.length})
         </button>
         <button className={`tab-btn ${tab === 'recent' ? 'active' : ''}`} onClick={() => { setTab('recent'); setSearch('') }}>
-          🔥 Recent Judgments (2024–2025)
+          🔥 Recent Judgments (2024–2026)
         </button>
       </div>
 
@@ -277,7 +349,7 @@ export default function Reference() {
           <section className="recent-section" style={{ marginBottom: '2.5rem' }}>
             <h2>⚖️ Recent Landmark Rulings</h2>
             <p className="section-desc" style={{ marginBottom: '1.25rem', color: 'var(--text-secondary)' }}>
-              These high-profile Supreme Court decisions from 2024 and 2025 are highly likely to appear on the upcoming AIBE exam.
+              These high-profile Supreme Court decisions from 2024, 2025, and early 2026 are highly likely to appear on the upcoming AIBE exam.
             </p>
             <div className="cases-list">
               {filteredRecent.map((c, i) => (
