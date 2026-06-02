@@ -1,93 +1,35 @@
 {
   "clusters": [
     {
-      "id": "repeat-7",
-      "subject": "Civil Procedure",
-      "exams": [
-        "AIBE 17",
-        "AIBE 18",
-        "AIBE 19",
-        "AIBE 20"
-      ],
-      "sharedConcepts": [
-        "section 11",
-        "section 10",
-        "section 12"
-      ],
-      "importance": "critical",
-      "questions": [
-        {
-          "id": "aibe17-q77",
-          "exam": "AIBE 17",
-          "year": 2023,
-          "questionNumber": 77,
-          "question": "Which of the following Section of Civil Procedure Code deals with the concept of Res Judicata? ?",
-          "options": [
-            "Section 10",
-            "Section 11",
-            "Section 12",
-            "Section 13."
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe18-q31",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 31,
-          "question": "Which of the following provision of the Code of Civil Procedure, 1908 makes the doctrine of res judicata applicable in representative suit? ?",
-          "options": [
-            "Section 11, Explanation V V",
-            "Section 11, Explanation VI VI",
-            "Section 11, Explanation VII VII",
-            "Section 11, Explanation VIII VIII"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe19-q36",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 36,
-          "question": "Which section of the CPC deals with the principle of \"res judicata\"? ?",
-          "options": [
-            "Section 11 11",
-            "Section 10 10",
-            "Section 12 12",
-            "Section 9 9"
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "aibe20-q61",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 61,
-          "question": "As per Section 11 of the Code of Civil Procedure, 1908 for Res Judicata to be applicable on a subsequent suit, the former suit I. has been finally decided. II. can only be instituted prior to the subsequent suit. III. relates to the same matter directly and substantially in issue in the subsequent suit. IV. is between the same parties, or between parties under whom they or any of them claim. Select the correct answer.",
-          "options": [
-            "I, II and III",
-            "II, III and IV",
-            "I, III and IV",
-            "I, II, III and IV"
-          ],
-          "correctAnswer": "C"
-        }
-      ]
-    },
-    {
-      "id": "repeat-14",
+      "id": "repeat-6",
       "subject": "ADR & Arbitration",
       "exams": [
+        "AIBE 16",
         "AIBE 17",
         "AIBE 19",
         "AIBE 20"
       ],
       "sharedConcepts": [
-        "section 9",
-        "section 8"
+        "section 7",
+        "section 8",
+        "section 9"
       ],
       "importance": "critical",
       "questions": [
+        {
+          "id": "aibe16-q37",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 37,
+          "question": "Reference to the Arbitration is provided in which section of the Arbitration and Conciliation Act, 1996",
+          "options": [
+            "Section 7",
+            "Section 8",
+            "Section 9",
+            "Section 10"
+          ],
+          "correctAnswer": "B"
+        },
         {
           "id": "aibe17-q94",
           "exam": "AIBE 17",
@@ -133,7 +75,180 @@
       ]
     },
     {
-      "id": "repeat-5",
+      "id": "repeat-8",
+      "subject": "Civil Procedure",
+      "exams": [
+        "AIBE 16",
+        "AIBE 18",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 9"
+      ],
+      "importance": "critical",
+      "questions": [
+        {
+          "id": "aibe16-q21",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 21,
+          "question": "Under Civil Procedure Code find the incorrect match:",
+          "options": [
+            "Section 5... Revenue Court",
+            "Section 7............ Provincial Small Causes Court",
+            "Section 9............ Pecuniary Jurisdiction of Courts",
+            "Section 8............ Presidency Small Cause Courts"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "aibe18-q30",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 30,
+          "question": "Which of the following cannot be considered as the suit of civil nature for Section 9 of the Code of Civil Procedure, 1908 ? ?",
+          "options": [
+            "Suit for recovery of voluntary payments or offerings.",
+            "Suit for rights of franchise.",
+            "Suit for specific reliefs.",
+            "Suit relating to rights of worship."
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "aibe19-q36",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 36,
+          "question": "Which section of the CPC deals with the principle of \"res judicata\"? ?",
+          "options": [
+            "Section 11 11",
+            "Section 10 10",
+            "Section 12 12",
+            "Section 9 9"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "id": "repeat-10",
+      "subject": "Civil Procedure",
+      "exams": [
+        "AIBE 16",
+        "AIBE 18",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "section 11"
+      ],
+      "importance": "critical",
+      "questions": [
+        {
+          "id": "aibe16-q35",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 35,
+          "question": "Constructive res - judicata is contained in which of the following?",
+          "options": [
+            "Explanation III to Section 11",
+            "Explanation IV to Section 11",
+            "Explanation VI to Section 11",
+            "Explanation VIII to Section 11"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe18-q31",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 31,
+          "question": "Which of the following provision of the Code of Civil Procedure, 1908 makes the doctrine of res judicata applicable in representative suit? ?",
+          "options": [
+            "Section 11, Explanation V V",
+            "Section 11, Explanation VI VI",
+            "Section 11, Explanation VII VII",
+            "Section 11, Explanation VIII VIII"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe20-q61",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 61,
+          "question": "As per Section 11 of the Code of Civil Procedure, 1908 for Res Judicata to be applicable on a subsequent suit, the former suit I. has been finally decided. II. can only be instituted prior to the subsequent suit. III. relates to the same matter directly and substantially in issue in the subsequent suit. IV. is between the same parties, or between parties under whom they or any of them claim. Select the correct answer.",
+          "options": [
+            "I, II and III",
+            "II, III and IV",
+            "I, III and IV",
+            "I, II, III and IV"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "repeat-12",
+      "subject": "Evidence Law",
+      "exams": [
+        "AIBE 16",
+        "AIBE 17",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 15",
+        "section 16",
+        "section 17"
+      ],
+      "importance": "critical",
+      "questions": [
+        {
+          "id": "aibe16-q40",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 40,
+          "question": "Under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023, admissions are defined?",
+          "options": [
+            "Section 15",
+            "Section 16",
+            "Section 17",
+            "Section 18"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "aibe17-q86",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 86,
+          "question": "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+          "options": [
+            "Section 15",
+            "Section 16",
+            "Section 17",
+            "Section 19"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "aibe19-q40",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 40,
+          "question": "Existence of course of business when relevant is discussed in ?",
+          "options": [
+            "Section 12 of the BSA, 2023 12",
+            "Section 13 of the BSA, 2023 13",
+            "Section 14 of the BSA, 2023 14",
+            "Section 15 of the BSA, 2023 15"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "repeat-19",
       "subject": "Criminal Law",
       "exams": [
         "AIBE 18",
@@ -192,6 +307,94 @@
       "id": "repeat-1",
       "subject": "Family Law",
       "exams": [
+        "AIBE 16",
+        "AIBE 17"
+      ],
+      "sharedConcepts": [
+        "section 22",
+        "section 23",
+        "section 24"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe16-q13",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 13,
+          "question": "Which of the following sections of the Hindu Adoption and Maintenance Act, 1956 deals with \" amount of maintenance\"?",
+          "options": [
+            "Section 21",
+            "Section 22",
+            "Section 23",
+            "Section 24"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "aibe17-q97",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 97,
+          "question": "The provision for 'maintenance pendente lite' in Hindu Marriage Act, 1955 is given in --- .",
+          "options": [
+            "Section 22",
+            "Section 23",
+            "Section 24",
+            "Section 25"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "repeat-2",
+      "subject": "Family Law",
+      "exams": [
+        "AIBE 16",
+        "AIBE 17"
+      ],
+      "sharedConcepts": [
+        "section 6",
+        "section 5",
+        "section 7"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe16-q95",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 95,
+          "question": "Which of the following sections of the Muslim Personal Law (Shariat ) Application Act, 1937 have been repealed/amended by section 6 of the Dissolution of Muslim Marriage Act, 1939?",
+          "options": [
+            "Section 4",
+            "Section 5",
+            "Section 6",
+            "Section 7"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe17-q7",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 7,
+          "question": "Muslim woman has option to be governed by the provisions of Sections 125 to 128 of Criminal Procedure Code 1973 (Sec. 144 - 147 BNSS) . Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it? ?",
+          "options": [
+            "Section 5",
+            "Section 6",
+            "Section 7",
+            "None of these"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "id": "repeat-3",
+      "subject": "Family Law",
+      "exams": [
         "AIBE 17",
         "AIBE 20"
       ],
@@ -231,7 +434,7 @@
       ]
     },
     {
-      "id": "repeat-2",
+      "id": "repeat-4",
       "subject": "Family Law",
       "exams": [
         "AIBE 17",
@@ -273,7 +476,7 @@
       ]
     },
     {
-      "id": "repeat-3",
+      "id": "repeat-5",
       "subject": "Family Law",
       "exams": [
         "AIBE 18",
@@ -316,92 +519,91 @@
       ]
     },
     {
-      "id": "repeat-4",
-      "subject": "Legal Ethics",
+      "id": "repeat-7",
+      "subject": "ADR & Arbitration",
       "exams": [
-        "AIBE 17",
+        "AIBE 16",
         "AIBE 20"
       ],
       "sharedConcepts": [
-        "section 35"
+        "section 21"
       ],
       "importance": "high",
       "questions": [
         {
-          "id": "aibe17-q23",
-          "exam": "AIBE 17",
-          "year": 2023,
-          "questionNumber": 23,
-          "question": "If any advocate is aggrieved by an order of Disciplinary Committee of State Bar Council made under Section 35 of the Advocate Act or Advocate General of the State may prefer and appeal to the Bar Council of India within ____________ days of the date of communication of order.",
+          "id": "aibe16-q54",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 54,
+          "question": "The Section of the Arbitration and Conciliation Act, dealing with the time of commencement of arbitral proceeding is",
           "options": [
-            "30",
-            "45",
-            "60",
-            "90"
+            "Section 20",
+            "Section 21",
+            "Section 22",
+            "None of the above"
           ],
-          "correctAnswer": "C"
+          "correctAnswer": "B"
         },
         {
-          "id": "aibe20-q73",
+          "id": "aibe20-q57",
           "exam": "AIBE 20",
           "year": 2025,
-          "questionNumber": 73,
-          "question": "Which Section of the Advocates Act, 1961 provides for the disciplinary powers of the Bar Council of India ? ?",
+          "questionNumber": 57,
+          "question": "In the absence of an agreement between the parties, the arbitration proceedings are said to have commenced under Section 21 of The Arbitration and Conciliation Act, 1996: :",
           "options": [
-            "Section 35 35",
-            "Section 36 36",
-            "Section 37 37",
-            "Section 380 38"
+            "on the date of appointment of arbitrator.",
+            "on the date the arbitration agreement is signed.",
+            "on the date the request for reference is received by the respondent.",
+            "on the date the arbitral tribunal issues notice."
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "C"
         }
       ]
     },
     {
-      "id": "repeat-6",
-      "subject": "Tax Law",
+      "id": "repeat-9",
+      "subject": "Civil Procedure",
       "exams": [
-        "AIBE 18",
-        "AIBE 19"
+        "AIBE 16",
+        "AIBE 17"
       ],
       "sharedConcepts": [
-        "section 3",
-        "income tax act"
+        "section 10"
       ],
       "importance": "high",
       "questions": [
         {
-          "id": "aibe18-q88",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 88,
-          "question": "Income is defined under which of the following provision of the Income Tax Act, 1961 ? ?",
+          "id": "aibe16-q34",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 34,
+          "question": "Provisions of Section 10 of CPC are:",
           "options": [
-            "Section 2(31) 2(31)",
-            "Section 2(24) 2 (24)",
-            "Section 2(9) 2(9)",
-            "Section 3 3"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe19-q85",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 85,
-          "question": "The term \"Income\" is described in the Income Tax Act, 1961 under -------------- .",
-          "options": [
-            "Section 2 (24) 2 (24)",
-            "Section 2 (40) 2(40)",
-            "Section 3 3",
-            "Section 10 E 10 E"
+            "Directory",
+            "Mandatory",
+            "None Mandatory",
+            "Discretionary"
           ],
           "correctAnswer": "A"
+        },
+        {
+          "id": "aibe17-q77",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 77,
+          "question": "Which of the following Section of Civil Procedure Code deals with the concept of Res Judicata? ?",
+          "options": [
+            "Section 10",
+            "Section 11",
+            "Section 12",
+            "Section 13."
+          ],
+          "correctAnswer": "B"
         }
       ]
     },
     {
-      "id": "repeat-8",
+      "id": "repeat-11",
       "subject": "Civil Procedure",
       "exams": [
         "AIBE 18",
@@ -443,134 +645,7 @@
       ]
     },
     {
-      "id": "repeat-9",
-      "subject": "Contract Law",
-      "exams": [
-        "AIBE 17",
-        "AIBE 19"
-      ],
-      "sharedConcepts": [
-        "section 5"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe17-q38",
-          "exam": "AIBE 17",
-          "year": 2023,
-          "questionNumber": 38,
-          "question": "According to Section 5 of Specific Relief Act, 1963 a person entitled to the possession of specific immovable property may recover it in the manner provided in -----",
-          "options": [
-            "The Specific Relief Act, 1963 , 1963",
-            "The Code of Civil Procedure, 1908 , 1908",
-            "The Code of Criminal Procedure, 1973 , 1973",
-            "The Tr"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe19-q96",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 96,
-          "question": "Which section of Law of Contract defines, \"A proposal may be revoked at any time, before the communication of its acceptance is complete as against the proposer, but not afterwards.\" ? \" ?",
-          "options": [
-            "Section 5 5",
-            "Section 4 4",
-            "Section 6 6",
-            "Section 7 7"
-          ],
-          "correctAnswer": "A"
-        }
-      ]
-    },
-    {
-      "id": "repeat-10",
-      "subject": "Contract Law",
-      "exams": [
-        "AIBE 18",
-        "AIBE 20"
-      ],
-      "sharedConcepts": [
-        "negotiable instrument",
-        "negotiable instruments"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe18-q95",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 95,
-          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881 ? ?",
-          "options": [
-            "Promissory note",
-            "Hundi",
-            "Bill of exchange",
-            "Cheque"
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "aibe20-q36",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 36,
-          "question": "Read the given statements and choose the correct option. Statement 1 : Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually recei ved. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct? ?",
-          "options": [
-            "Both Statements 1 and 2 are false",
-            "Only Statement 1 is true",
-            "Only Statement 2 is true",
-            "Both the Statements are true"
-          ],
-          "correctAnswer": "D"
-        }
-      ]
-    },
-    {
-      "id": "repeat-11",
-      "subject": "Evidence Law",
-      "exams": [
-        "AIBE 17",
-        "AIBE 19"
-      ],
-      "sharedConcepts": [
-        "section 15"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe17-q86",
-          "exam": "AIBE 17",
-          "year": 2023,
-          "questionNumber": 86,
-          "question": "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
-          "options": [
-            "Section 15",
-            "Section 16",
-            "Section 17",
-            "Section 19"
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "aibe19-q40",
-          "exam": "AIBE 19",
-          "year": 2024,
-          "questionNumber": 40,
-          "question": "Existence of course of business when relevant is discussed in ?",
-          "options": [
-            "Section 12 of the BSA, 2023 12",
-            "Section 13 of the BSA, 2023 13",
-            "Section 14 of the BSA, 2023 14",
-            "Section 15 of the BSA, 2023 15"
-          ],
-          "correctAnswer": "C"
-        }
-      ]
-    },
-    {
-      "id": "repeat-12",
+      "id": "repeat-13",
       "subject": "Evidence Law",
       "exams": [
         "AIBE 18",
@@ -613,7 +688,7 @@
       ]
     },
     {
-      "id": "repeat-13",
+      "id": "repeat-14",
       "subject": "Evidence Law",
       "exams": [
         "AIBE 19",
@@ -653,19 +728,366 @@
           "correctAnswer": "B"
         }
       ]
+    },
+    {
+      "id": "repeat-15",
+      "subject": "Legal Ethics",
+      "exams": [
+        "AIBE 17",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "section 35"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe17-q23",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 23,
+          "question": "If any advocate is aggrieved by an order of Disciplinary Committee of State Bar Council made under Section 35 of the Advocate Act or Advocate General of the State may prefer and appeal to the Bar Council of India within ____________ days of the date of communication of order.",
+          "options": [
+            "30",
+            "45",
+            "60",
+            "90"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "aibe20-q73",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 73,
+          "question": "Which Section of the Advocates Act, 1961 provides for the disciplinary powers of the Bar Council of India ? ?",
+          "options": [
+            "Section 35 35",
+            "Section 36 36",
+            "Section 37 37",
+            "Section 380 38"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-16",
+      "subject": "Criminal Law",
+      "exams": [
+        "AIBE 16",
+        "AIBE 17"
+      ],
+      "sharedConcepts": [
+        "bnss",
+        "crpc"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe16-q29",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 29,
+          "question": "The bond under Section 128 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (formerly Section 109 CrPC) as security for good behaviour from suspected persons can be executed for a period not exceeding:",
+          "options": [
+            "Six months",
+            "Two years",
+            "One year",
+            "Three months"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "aibe17-q66",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 66,
+          "question": "Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) is \"SECULAR\" in character was observed in which of the following cases (originally decided under Section 125 of CrPC)?",
+          "options": [
+            "Lalita Kumari V. State of Uttar Pradesh",
+            "Arnesh Kumar's Case",
+            "Mohd. Ahmed Khan V. Shah Bano Begum",
+            "Selvy V. State of Karnataka"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "repeat-17",
+      "subject": "Criminal Law",
+      "exams": [
+        "AIBE 16",
+        "AIBE 17"
+      ],
+      "sharedConcepts": [
+        "section 100"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe16-q44",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 44,
+          "question": "Under which Section of the Bharatiya Nyaya Sanhita (BNS), 2023, Professional Negligence is specifically invoked against medical professionals in cases alleging professional negligence?",
+          "options": [
+            "Section 105",
+            "Section 106",
+            "Section 100",
+            "Section 107"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe17-q61",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 61,
+          "question": "Causing of the death of a child in the mother's womb is not homicide as provided under...",
+          "options": [
+            "Explanation III to Section 101 of BNS",
+            "Explanation III to Section 100 of BNS",
+            "Explanation III to Section 102 of BNS",
+            "Explanation III to Section 103 of BNS"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-18",
+      "subject": "Criminal Law",
+      "exams": [
+        "AIBE 16",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "section 72"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe16-q63",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 63,
+          "question": "Under Section 72 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, how long a warrant of arrest shall remain in force?",
+          "options": [
+            "6 years",
+            "10 years",
+            "12 years",
+            "Until executed or cancelled"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "aibe20-q93",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 93,
+          "question": "If multiple offences carry different punishments but it is unclear which one has been committed, how does Section 72 of the Indian Penal Code ensure proportional justice? ?",
+          "options": [
+            "By imposing punishment for the offence with the lowest prescribed term",
+            "By applying punishment equal to the average of all possible offences",
+            "By leaving the choice of punishment to the prosecuting authority",
+            "By suspending the punishment until further clarification is made"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "id": "repeat-20",
+      "subject": "Contract Law",
+      "exams": [
+        "AIBE 17",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 5"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe17-q38",
+          "exam": "AIBE 17",
+          "year": 2023,
+          "questionNumber": 38,
+          "question": "According to Section 5 of Specific Relief Act, 1963 a person entitled to the possession of specific immovable property may recover it in the manner provided in -----",
+          "options": [
+            "The Specific Relief Act, 1963 , 1963",
+            "The Code of Civil Procedure, 1908 , 1908",
+            "The Code of Criminal Procedure, 1973 , 1973",
+            "The Tr"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe19-q96",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 96,
+          "question": "Which section of Law of Contract defines, \"A proposal may be revoked at any time, before the communication of its acceptance is complete as against the proposer, but not afterwards.\" ? \" ?",
+          "options": [
+            "Section 5 5",
+            "Section 4 4",
+            "Section 6 6",
+            "Section 7 7"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "id": "repeat-21",
+      "subject": "Contract Law",
+      "exams": [
+        "AIBE 18",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "negotiable instrument",
+        "negotiable instruments"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe18-q95",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 95,
+          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881 ? ?",
+          "options": [
+            "Promissory note",
+            "Hundi",
+            "Bill of exchange",
+            "Cheque"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe20-q36",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 36,
+          "question": "Read the given statements and choose the correct option. Statement 1 : Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually recei ved. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct? ?",
+          "options": [
+            "Both Statements 1 and 2 are false",
+            "Only Statement 1 is true",
+            "Only Statement 2 is true",
+            "Both the Statements are true"
+          ],
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "id": "repeat-22",
+      "subject": "Tax Law",
+      "exams": [
+        "AIBE 16",
+        "AIBE 20"
+      ],
+      "sharedConcepts": [
+        "section 24"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe16-q65",
+          "exam": "AIBE 16",
+          "year": 2021,
+          "questionNumber": 65,
+          "question": "Amount of deduction under section 24 of The Income Tax Act from annual value is –",
+          "options": [
+            "1/2 of Annual Value",
+            "1/3 of Annual Value",
+            "3/10 of Annual Value",
+            "17/10 of Annual Value"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "aibe20-q38",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 38,
+          "question": "Under Section 24(a) of the Income - tax Act, 1961, what percentage of the annual value of an income from house property is allowed as a standard deduction? ?",
+          "options": [
+            "20",
+            "40",
+            "30",
+            "50"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "repeat-23",
+      "subject": "Tax Law",
+      "exams": [
+        "AIBE 18",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 3",
+        "income tax act"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe18-q88",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 88,
+          "question": "Income is defined under which of the following provision of the Income Tax Act, 1961 ? ?",
+          "options": [
+            "Section 2(31) 2(31)",
+            "Section 2(24) 2 (24)",
+            "Section 2(9) 2(9)",
+            "Section 3 3"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe19-q85",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 85,
+          "question": "The term \"Income\" is described in the Income Tax Act, 1961 under -------------- .",
+          "options": [
+            "Section 2 (24) 2 (24)",
+            "Section 2 (40) 2(40)",
+            "Section 3 3",
+            "Section 10 E 10 E"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
     }
   ],
   "hotTopics": [
     {
       "subject": "Family Law",
-      "repeats": 3
+      "repeats": 5
+    },
+    {
+      "subject": "Civil Procedure",
+      "repeats": 4
+    },
+    {
+      "subject": "Criminal Law",
+      "repeats": 4
     },
     {
       "subject": "Evidence Law",
       "repeats": 3
     },
     {
-      "subject": "Civil Procedure",
+      "subject": "ADR & Arbitration",
       "repeats": 2
     },
     {
@@ -673,22 +1095,14 @@
       "repeats": 2
     },
     {
-      "subject": "ADR & Arbitration",
-      "repeats": 1
-    },
-    {
-      "subject": "Criminal Law",
-      "repeats": 1
+      "subject": "Tax Law",
+      "repeats": 2
     },
     {
       "subject": "Legal Ethics",
       "repeats": 1
-    },
-    {
-      "subject": "Tax Law",
-      "repeats": 1
     }
   ],
-  "totalClusters": 14,
-  "totalQuestions": 32
+  "totalClusters": 23,
+  "totalQuestions": 52
 }

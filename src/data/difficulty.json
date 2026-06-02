@@ -1,0 +1,131 @@
+{
+  "byExam": {
+    "AIBE 16": {
+      "easy": 75,
+      "medium": 20,
+      "hard": 5
+    },
+    "AIBE 17": {
+      "easy": 79,
+      "medium": 14,
+      "hard": 7
+    },
+    "AIBE 18": {
+      "easy": 68,
+      "medium": 24,
+      "hard": 8
+    },
+    "AIBE 19": {
+      "easy": 52,
+      "medium": 28,
+      "hard": 20
+    },
+    "AIBE 20": {
+      "easy": 30,
+      "medium": 38,
+      "hard": 32
+    }
+  },
+  "bySubject": {
+    "Family Law": {
+      "easy": 23,
+      "medium": 10,
+      "hard": 8
+    },
+    "ADR & Arbitration": {
+      "easy": 8,
+      "medium": 7,
+      "hard": 5
+    },
+    "Civil Procedure": {
+      "easy": 34,
+      "medium": 13,
+      "hard": 5
+    },
+    "Evidence Law": {
+      "easy": 22,
+      "medium": 10,
+      "hard": 8
+    },
+    "Administrative Law": {
+      "easy": 8,
+      "medium": 5,
+      "hard": 2
+    },
+    "Legal Ethics": {
+      "easy": 11,
+      "medium": 3,
+      "hard": 4
+    },
+    "Motor Vehicle Law": {
+      "easy": 2,
+      "medium": 3,
+      "hard": 0
+    },
+    "Criminal Law": {
+      "easy": 52,
+      "medium": 22,
+      "hard": 12
+    },
+    "Consumer Law": {
+      "easy": 5,
+      "medium": 1,
+      "hard": 1
+    },
+    "Constitutional Law": {
+      "easy": 50,
+      "medium": 15,
+      "hard": 8
+    },
+    "Environmental Law": {
+      "easy": 8,
+      "medium": 2,
+      "hard": 2
+    },
+    "Cyber Law": {
+      "easy": 7,
+      "medium": 2,
+      "hard": 2
+    },
+    "Limitation Law": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "Contract Law": {
+      "easy": 18,
+      "medium": 6,
+      "hard": 7
+    },
+    "Property Law": {
+      "easy": 10,
+      "medium": 5,
+      "hard": 0
+    },
+    "Tax Law": {
+      "easy": 13,
+      "medium": 6,
+      "hard": 2
+    },
+    "Corporate Law": {
+      "easy": 7,
+      "medium": 1,
+      "hard": 2
+    },
+    "Labour Law": {
+      "easy": 12,
+      "medium": 3,
+      "hard": 4
+    },
+    "Intellectual Property": {
+      "easy": 4,
+      "medium": 5,
+      "hard": 0
+    },
+    "Law of Torts": {
+      "easy": 9,
+      "medium": 5,
+      "hard": 0
+    }
+  }
+}

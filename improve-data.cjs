@@ -97,7 +97,7 @@ questions.forEach(q => {
 
 // Count new distribution
 const newDiff = { easy: 0, medium: 0, hard: 0 };
-questions.filter(q => q.set === 'A').forEach(q => newDiff[q.difficulty]++);
+questions.forEach(q => newDiff[q.difficulty]++);
 console.log('\nDifficulty rebalanced:');
 console.log('  Before: 211 easy, 64 medium, 9 hard');
 console.log('  After:', newDiff);
@@ -108,14 +108,7 @@ fs.writeFileSync('src/data/questions.json', JSON.stringify(questions, null, 2));
 console.log('\nSaved improved questions.json');
 
 // Regenerate trends and difficulty
-const unique = [];
-const seen = new Set();
-questions.forEach(q => {
-  if (q.set === 'A') {
-    const key = `${q.exam}-${q.questionNumber}`;
-    if (!seen.has(key)) { seen.add(key); unique.push(q); }
-  }
-});
+const unique = questions;
 
 // Trends
 const trends = {};

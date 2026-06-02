@@ -6,6 +6,217 @@ const dir = 'aibe question papers';
 const outFile = 'src/data/questions.json';
 
 const OVERRIDES = {
+  // AIBE 16
+  "aibe16-q23": {
+    question: "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, a Chief Judicial Magistrate may pass a sentence of imprisonment:",
+    options: [
+      "Not exceeding seven years",
+      "Exceeding seven years",
+      "For life",
+      "None of the above"
+    ],
+    correctAnswer: "A",
+    isModernized: true
+  },
+  "aibe16-q24": {
+    question: "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, if the offence be capital is dealt under:",
+    options: [
+      "Section 252 of the Bharatiya Nyaya Sanhita (BNS), 2023",
+      "Section 253 of the Bharatiya Nyaya Sanhita (BNS), 2023",
+      "Section 254 of the Bharatiya Nyaya Sanhita (BNS), 2023",
+      "Section 255 of the Bharatiya Nyaya Sanhita (BNS), 2023"
+    ],
+    correctAnswer: "B",
+    isModernized: true
+  },
+  "aibe16-q29": {
+    question: "The bond under Section 128 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (formerly Section 109 CrPC) as security for good behaviour from suspected persons can be executed for a period not exceeding:",
+    options: [
+      "Six months",
+      "Two years",
+      "One year",
+      "Three months"
+    ],
+    correctAnswer: "C",
+    isModernized: true
+  },
+  "aibe16-q30": {
+    question: "The maximum limit of Rs. 500 that could be paid to the wife as maintenance under Section 125 of the Cr.P.C 1973 (now corresponding to Section 144 of the BNSS, 2023) was removed in:",
+    options: [
+      "1973",
+      "1989",
+      "2001",
+      "2007"
+    ],
+    correctAnswer: "C",
+    isModernized: true
+  },
+  "aibe16-q36": {
+    question: "The famous pronouncement of Delhi High Court regarding the constitutional validity of Section 377 of the Indian Penal Code (dealing with unnatural offences, which has been omitted in the BNS, 2023) was reversed by the Supreme Court in:",
+    options: [
+      "NALSA Vs Union of India",
+      "Naz Foundation Vs Government of NCT of Delhi",
+      "Shabnam Hasmi Vs Union of India",
+      "Suresh Kaushal Vs Naz Foundation"
+    ],
+    correctAnswer: "D",
+    isModernized: true
+  },
+  "aibe16-q40": {
+    question: "Under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023, admissions are defined?",
+    options: [
+      "Section 15",
+      "Section 16",
+      "Section 17",
+      "Section 18"
+    ],
+    correctAnswer: "A",
+    isModernized: true
+  },
+  "aibe16-q44": {
+    question: "Under which Section of the Bharatiya Nyaya Sanhita (BNS), 2023, Professional Negligence is specifically invoked against medical professionals in cases alleging professional negligence?",
+    options: [
+      "Section 105",
+      "Section 106",
+      "Section 100",
+      "Section 107"
+    ],
+    correctAnswer: "B",
+    isModernized: true
+  },
+  "aibe16-q45": {
+    question: "A offers to bribe B, a public servant, as a reward for showing A some favour in the exercise of B's official functions. B accepts the bribe. A has committed the offence of bribing a public servant under which Section of the Prevention of Corruption Act, 1988?",
+    options: [
+      "Section 7",
+      "Section 8",
+      "Section 9",
+      "Section 10"
+    ],
+    correctAnswer: "B",
+    isModernized: true
+  },
+  "aibe16-q55": {
+    question: "Under Section 173 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, who shall record the information of rape being given by a rape victim?",
+    options: [
+      "Officer in charge of the police station",
+      "Deputy Superintendent of police",
+      "Officer not below the rank of Sub Inspector",
+      "Woman police officer or any Woman officer"
+    ],
+    correctAnswer: "D",
+    isModernized: true
+  },
+  "aibe16-q56": {
+    question: "Under the provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, which of the following is true regarding summons?",
+    options: [
+      "Summons can be oral",
+      "Summons cannot be served on corporate entities",
+      "Summons are either for appearance or for producing a document/thing",
+      "Summons can be served to servants in case the person on whose name summons are made cannot be found"
+    ],
+    correctAnswer: "C",
+    isModernized: true
+  },
+  "aibe16-q60": {
+    question: "The Bharatiya Sakshya Adhiniyam (BSA), 2023 came into force on:",
+    options: [
+      "1st June, 2024",
+      "26th January, 2024",
+      "15th August, 2024",
+      "1st July, 2024"
+    ],
+    correctAnswer: "D",
+    isModernized: true
+  },
+  "aibe16-q62": {
+    question: "Under Section 40 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, any private person may arrest any person who:",
+    options: [
+      "Commits non - bailable offence in his presence",
+      "Commits non - bailable offence and cognizable offence in his presence",
+      "Commits compoundable offence in his presence",
+      "Commits non - bailable and cognizable offence in his presence, or is a proclaimed offender"
+    ],
+    correctAnswer: "D",
+    isModernized: true
+  },
+  "aibe16-q63": {
+    question: "Under Section 72 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, how long a warrant of arrest shall remain in force?",
+    options: [
+      "6 years",
+      "10 years",
+      "12 years",
+      "Until executed or cancelled"
+    ],
+    correctAnswer: "D",
+    isModernized: true
+  },
+  "aibe16-q72": {
+    question: "Section 64 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 lays down:",
+    options: [
+      "A notice must be given before secondary evidence can be received under Section 60(a) of the BSA, 2023",
+      "Notice to produce a document must be in writing",
+      "Order XI, Rule 15 of the Civil Procedure Code, 1908 prescribes the kind of notice to produce a document",
+      "All of them"
+    ],
+    correctAnswer: "D",
+    isModernized: true
+  },
+  "aibe16-q75": {
+    question: "Under the scheme of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, non-cognizable offences are:",
+    options: [
+      "Public wrongs",
+      "Private wrongs",
+      "Both public and private wrongs",
+      "None of the above"
+    ],
+    correctAnswer: "B",
+    isModernized: true
+  },
+  "aibe16-q79": {
+    question: "When the accused states, \"I will produce the share which I received in such and such robbery\", which of the following are not admissible with regard to Section 23 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 (excluding its proviso)? I. An admission that there was a robbery II. An admission that the accused took part in it III. An admission that he got part of the property IV. A statement as to where the property is",
+    options: [
+      "I II and III",
+      "III and IV",
+      "II, III and IV",
+      "All of above"
+    ],
+    correctAnswer: "A",
+    isModernized: true
+  },
+  "aibe16-q92": {
+    question: "Z, under the influence of madness, attempts to kill X. Is Z guilty of an offence? Has X the same right of private defence which he would have if Z were sane?",
+    options: [
+      "Z has not committed any offence as per Section 36 of BNS, and X has the same right of private defence",
+      "As per Section 36 of BNS, X has committed an offence and has no right of private defence",
+      "Z has committed an offence for not using his mind",
+      "None of the above"
+    ],
+    correctAnswer: "A",
+    isModernized: true
+  },
+  "aibe16-q96": {
+    question: "As per Section 2(14) of the Bharatiya Nyaya Sanhita (BNS), 2023, the word \"injury\" denotes any harm whatever illegally caused to any person's:",
+    options: [
+      "Body",
+      "Mind",
+      "Reputation",
+      "All above"
+    ],
+    correctAnswer: "D",
+    isModernized: true
+  },
+  "aibe16-q97": {
+    question: "Which of the following cases can be cured under Section 511 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (formerly Section 465 of CrPC)?",
+    options: [
+      "Entertaining of complaint without complying with Section 215 and 379 of the BNSS (formerly Sections 195 and 340 of the Cr.P.C)",
+      "The reading and recording of the evidence taken in one case into another companion case",
+      "The examination of witness in absence of the accused",
+      "Non - Compliance with Section 258(2) of the BNSS (formerly Section 235(2) of the Cr.P.C)"
+    ],
+    correctAnswer: "B",
+    isModernized: true
+  },
+
   // AIBE 17
   "aibe17-q52": {
     question: "As per Article 16 of the Constitution of India, no citizen shall, on grounds only of ----- or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
@@ -402,14 +613,16 @@ function parseSequential(text, examName, year) {
     }
     
     // Find option matches in the bilingual block using spacing regex
+    const isNumericOptions = examName === 'AIBE 16';
     const optionMatches = [];
-    const optReg = /(?:\n|\s{2,})\(\s*([A-D])\s*\)/gi;
+    const optReg = isNumericOptions ? /(?:\n|\s{2,})\(\s*([1-4])\s*\)/gi : /(?:\n|\s{2,})\(\s*([A-D])\s*\)/gi;
     let match;
     while ((match = optReg.exec(block)) !== null) {
       const prefixLen = match[0].indexOf('(');
-      const letter = match[1].toUpperCase();
+      const val = match[1];
+      const letter = isNumericOptions ? { '1': 'A', '2': 'B', '3': 'C', '4': 'D' }[val] : val.toUpperCase();
       const actualIdx = match.index + prefixLen;
-      if (isValidOptionMarker(block, actualIdx, letter)) {
+      if (isNumericOptions || isValidOptionMarker(block, actualIdx, letter)) {
         optionMatches.push({
           letter: letter,
           index: actualIdx,
@@ -443,14 +656,14 @@ function parseSequential(text, examName, year) {
 
       let answer = null;
       const lastBlock = optionTexts[uniqueOpts[3].letter];
-      const ansReg = /Ans\.?\s*\[?\s*([A-D]|withdrawn)\s*\]?/i;
+      const ansReg = isNumericOptions ? /Ans\.?\s*\[?\s*([1-4]|withdrawn)\s*\]?/i : /Ans\.?\s*\[?\s*([A-D]|withdrawn)\s*\]?/i;
       const ansMatch = lastBlock.match(ansReg) || block.match(ansReg);
       if (ansMatch) {
-        const val = ansMatch[1].trim().toUpperCase();
-        if (val === 'WITHDRAWN') {
+        const val = ansMatch[1].trim();
+        if (val.toLowerCase() === 'withdrawn') {
           answer = null;
-        } else if (['A', 'B', 'C', 'D'].includes(val)) {
-          answer = val;
+        } else {
+          answer = isNumericOptions ? { '1': 'A', '2': 'B', '3': 'C', '4': 'D' }[val] : val.toUpperCase();
         }
       }
       
@@ -508,6 +721,7 @@ function parseAK19(text) {
   const ak19 = parseAK19(akText);
 
   const files = [
+    { name: 'AIBE 16', file: 'aibe-exam-paper-16-1-1479.pdf', hasEmbeddedAns: true, year: 2021 },
     { name: 'AIBE 17', file: 'aibe-exam-paper-17-1480.pdf', hasEmbeddedAns: true, year: 2023 },
     { name: 'AIBE 18', file: 'aibe-exam-paper-18-1481.pdf', hasEmbeddedAns: true, year: 2023 },
     { name: 'AIBE 19', file: 'aibe-exam-paper-19-2-1693.pdf', hasEmbeddedAns: false, answerKey: ak19, year: 2024 },
