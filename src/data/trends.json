@@ -1,16 +1,16 @@
 {
   "Criminal Law": {
     "AIBE 20": 14,
-    "AIBE 19": 15,
-    "AIBE 18": 16
+    "AIBE 19": 18,
+    "AIBE 18": 17
   },
   "Motor Vehicle Law": {
     "AIBE 20": 2,
     "AIBE 18": 1
   },
   "Labour Law": {
-    "AIBE 20": 3,
-    "AIBE 19": 6,
+    "AIBE 20": 4,
+    "AIBE 19": 4,
     "AIBE 18": 4
   },
   "Evidence Law": {
@@ -19,47 +19,47 @@
     "AIBE 18": 7
   },
   "Constitutional Law": {
-    "AIBE 20": 13,
-    "AIBE 19": 11,
-    "AIBE 18": 10
+    "AIBE 20": 15,
+    "AIBE 19": 12,
+    "AIBE 18": 8
   },
   "Civil Procedure": {
     "AIBE 20": 7,
-    "AIBE 19": 13,
-    "AIBE 18": 11
+    "AIBE 19": 10,
+    "AIBE 18": 10
   },
   "Intellectual Property": {
     "AIBE 20": 2,
-    "AIBE 19": 2,
+    "AIBE 19": 1,
     "AIBE 18": 2
-  },
-  "Contract Law": {
-    "AIBE 20": 9,
-    "AIBE 19": 7,
-    "AIBE 18": 6
   },
   "ADR & Arbitration": {
     "AIBE 20": 4,
     "AIBE 19": 4,
-    "AIBE 18": 3
+    "AIBE 18": 4
   },
   "Family Law": {
     "AIBE 20": 6,
     "AIBE 19": 7,
-    "AIBE 18": 8
+    "AIBE 18": 9
   },
   "Property Law": {
     "AIBE 20": 3,
-    "AIBE 19": 3,
+    "AIBE 19": 2,
     "AIBE 18": 4
   },
   "Tax Law": {
     "AIBE 20": 4,
-    "AIBE 19": 4,
+    "AIBE 19": 5,
     "AIBE 18": 4
   },
+  "Contract Law": {
+    "AIBE 20": 7,
+    "AIBE 19": 7,
+    "AIBE 18": 6
+  },
   "Environmental Law": {
-    "AIBE 20": 4,
+    "AIBE 20": 3,
     "AIBE 19": 2,
     "AIBE 18": 2
   },
@@ -70,7 +70,7 @@
   },
   "Cyber Law": {
     "AIBE 20": 1,
-    "AIBE 19": 1,
+    "AIBE 19": 2,
     "AIBE 18": 2
   },
   "Legal Ethics": {
@@ -80,7 +80,7 @@
   },
   "Administrative Law": {
     "AIBE 20": 4,
-    "AIBE 19": 3,
+    "AIBE 19": 4,
     "AIBE 18": 3
   },
   "Law of Torts": {

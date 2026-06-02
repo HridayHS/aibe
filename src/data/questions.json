@@ -336,7 +336,7 @@
       "Article 32"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
+    "subject": "Constitutional Law",
     "difficulty": "easy"
   },
   {
@@ -557,7 +557,7 @@
       "(A) is false, but (R) is true"
     ],
     "correctAnswer": "C",
-    "subject": "Environmental Law",
+    "subject": "Criminal Law",
     "difficulty": "hard"
   },
   {
@@ -1203,7 +1203,7 @@
       "Article 255"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
+    "subject": "Constitutional Law",
     "difficulty": "easy"
   },
   {
@@ -1475,7 +1475,7 @@
       "invalid, only if the notice is not displayed in the establishment"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
+    "subject": "Labour Law",
     "difficulty": "hard"
   },
   {
@@ -1696,7 +1696,7 @@
       "Article 255"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
+    "subject": "Constitutional Law",
     "difficulty": "easy"
   },
   {
@@ -1968,7 +1968,7 @@
       "invalid, only if the notice is not displayed in the establishment"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
+    "subject": "Labour Law",
     "difficulty": "hard"
   },
   {
@@ -2410,7 +2410,7 @@
       "Article 32"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
+    "subject": "Constitutional Law",
     "difficulty": "easy"
   },
   {
@@ -2631,7 +2631,7 @@
       "(A) is false, but (R) is true"
     ],
     "correctAnswer": "C",
-    "subject": "Environmental Law",
+    "subject": "Criminal Law",
     "difficulty": "hard"
   },
   {
@@ -3413,7 +3413,7 @@
       "Attempt to commit culpable homicide under Section 308 of IPC"
     ],
     "correctAnswer": "B",
-    "subject": "Labour Law",
+    "subject": "Criminal Law",
     "difficulty": "medium"
   },
   {
@@ -3447,7 +3447,7 @@
       "Burglary"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "medium"
   },
   {
@@ -3498,7 +3498,7 @@
       "Only (2)"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "hard"
   },
   {
@@ -3731,7 +3731,7 @@
     "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court?",
     "options": [
       "Section 132",
-      "(B) Section 133",
+      "Section 133",
       "Section 128",
       "Section 130"
     ],
@@ -4054,7 +4054,7 @@
     "question": "Aarti and Rajesh have been married for five years. Over time, Aarti has been subjected 1 continuous cruelty by Rajesh, which has led to emotional and mental distress. Aarti decide to file for divorce on the grounds of cruelty under Section 13(1)(ia) of the Hindu Marriag Act, 1955. Which of the following statements is true regarding the grounds for divorce under the Hind Marriage Act?",
     "options": [
       "Aarti can only seek divorce on the grounds of adultery.",
-      "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental physical cruelty.",
+      "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental or physical cruelty.",
       "Aarti cannot seek divorce on the grounds of cruelty as it is not recognized under the Hindu Marriage Act.",
       "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition. 54.On matters where Dayabhaga is silent, what prevails? (A) The local customs (B) The Smritis (C) The Shrutis (D) Mitakshara"
     ],
@@ -4106,7 +4106,7 @@
     "options": [
       "Fatima is not entitled to maintenance because she has remarried.",
       "Fatima is entitled to maintenance only for a period of three months after the divorce.",
-      "Fatima entitled to maintenance for herself during her iddat period and for her children until they are self-supporting.",
+      "Fatima is entitled to maintenance for herself during her iddat period and for her children until they are self-supporting.",
       "Fatimaan claim maintenance for herself and her children indefinitely, irrespective of her remarriage or the children's age."
     ],
     "correctAnswer": "C",
@@ -4170,9 +4170,9 @@
     "year": 2024,
     "set": "A",
     "questionNumber": 62,
-    "question": "Given below are two statements, one labelled as Assertion",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The concept of \"locus standi\" is relaxed in PIL cases.\nReason (R): PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves.\nIn the context of the above two statements, which one of the following is correct?",
     "options": [
-      "and the other labelled as Reason (R). Assertion (A) : The concept of \"locus standi\" is relaxed in PIL cases. Reason (R) : PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves. In the context of the above two statements, which one of the following is correct? (A) Both (A) and (R) are true, and (R) is thecorrect explanation of (A).",
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
       "(A) is true, but (R) is false.",
       "(A) is false, and (R) is true."
@@ -4399,7 +4399,7 @@
       "The customers do not have any legal remedy under the Information Technology Act, 2000."
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
+    "subject": "Cyber Law",
     "difficulty": "hard"
   },
   {
@@ -4461,7 +4461,7 @@
     "questionNumber": 79,
     "question": "XYZ Textiles Ltd., a manufacturing company, recently terminated 04 workers without providing any compensation. The termination was because of the misconduct on the part of the workers. The company issued a show cause notice and the disciplinary enquiry conducted against them. On the basis of the recommendations of the committee the services which was rejected by the management. Aggrieved by the rejection the workers have filed a of these employees were terminated. The workers claimed the retrenchment compensation complaint in the Labour Court under the provisions of the Industrial Disputes Act, 1947. Based on the above problem, select the correct answer.",
     "options": [
-      "The terminationpdoes not amount to retrenchment, hence no compensation.",
+      "The termination does not amount to retrenchment, hence no compensation.",
       "The termination amounts to lay-off, hence compensation will be awarded.",
       "The termination amounts to retrenchment, hence compensation will be awarded.",
       "The termination violated the provisions under the Industrial Disputes Act, 1947, hence the compensation will be awarded."
@@ -4620,7 +4620,7 @@
       "Allowance under Section 10 (1) of the Income Tax Act"
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
+    "subject": "Tax Law",
     "difficulty": "medium"
   },
   {
@@ -4772,7 +4772,7 @@
       "(i) & (iii)",
       "(i), (ii) & (iii)"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "D",
     "subject": "Property Law",
     "difficulty": "easy"
   },
@@ -4790,7 +4790,7 @@
       "Land Acquisition Act, 1874"
     ],
     "correctAnswer": "C",
-    "subject": "Property Law",
+    "subject": "Administrative Law",
     "difficulty": "easy"
   },
   {
@@ -4821,10 +4821,10 @@
       "50 years from the creation of the work",
       "60 years from the date of publication",
       "Lifetime of the author plus 60 years",
-      "10 years from the date of first sales Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans 1 B 51 D 1 B 51 C 1 D 51 C 1 C 51 D 2 D 52 C 2 C 52 B 2 B 52 A 2 B 52 C 3 A 53 B 3 B 53 A 3 A 53 D 3 D 53 B 4 C 54 D 4 A 54 D 4 A 54 C 4 A 54 B 5 B 55 C 5 D 55 B 5 B 55 A 5 D 55 A 6 A 56 C 6 D 56 A 6 A 56 D 6 D 56 C 7 C 57 C 7 C 57 D 7 D 57 B 7 A 57 A 8 B 58 D 8 A 58 B 8 A 58 C 8 B 58 C 9 C 59 B 9 C 59 C 9 B 59 A 9 C 59 A 10 A 60 C 10 A 60 D 10 A 60 A 10 A 60 D 11 C 61 D 11 C 61 A 11 B 61 B 11 C 61 A 12 C 62 A 12 D 62 C 12 C 62 D 12 C 62 C 13 D 63 C 13 A 63 A 13 B 63 D 13 B 63 D 14 B 64 A 14 A 64 C 14 B 64 D 14 D 64 C 15 B 65 D 15 B 65 A 15 C 65 A 15 C 65 B 16 B 66 D 16 A 66 B 16 A 66 B 16 C 66 C 17 B 67 A 17 D 67 A 17 C 67 D 17 B 67 C 18 D 68 C 18 A 68 A 18 A 68 D 18 A 68 B 19 B 69 B 19 A 69 D 19 D 69 A 19 C 69 B 20 B 70 C 20 D 70 C 20 C 70 A 20 B 70 C 21 C 71 B 21 C 71 D 21 B 71 B 21 D 71 B 22 C 72 A 22 A 72 D 22 D 72 C 22 B 72 D 23 D 73 D 23 D 73 B 23 D 73 D 23 D 73 C 24 A 74 B 24 B 74 D 24 A 74 D 24 C 74 D 25 D 75 C 25 A 75 B 25 A 75 B 25 A 75 A 26 C 76 D 26 B 76 A 26 D 76 A 26 B 76 C 27 D 77 C 27 B 77 C 27 C 77 D 27 D 77 A 28 C 78 B 28 A 78 D 28 A 78 C 28 C 78 D 29 B 79 A 29 C 79 B 29 B 79 C 29 B 79 D 30 A 80 B 30 B 80 A 30 C 80 B 30 D 80 A 31 A 81 B 31 B 81 D 31 A 81 D 31 C 81 D 32 D 82 A 32 C 82 B 32 B 82 B 32 A 82 C 33 B 83 C 33 C 83 A 33 C 83 D 33 B 83 D 34 D 84 D 34 A 84 B 34 D 84 B 34 D 84 A 35 B 85 A 35 B 85 D 35 B 85 A 35 D 85 D 36 A 86 B 36 C 86 B 36 D 86 D 36 A 86 A 37 A 87 D 37 B 87 B 37 D 87 D 37 C 87 C 38 B 88 A 38 B 88 C 38 D 88 A 38 C 88 A 39 B 89 D 39 D 89 A 39 A 89 D 39 C 89 A 40 C 90 B 40 C 90 A 40 D 90 C 40 D 90 B 41 B 91 C 41 C 91 A 41 D 91 D 41 B 91 D 42 A 92 B 42 D 92 A 42 C 92 D 42 C 92 B 43 B 93 B 43 B 93 C 43 B 93 C 43 C 93 D 44 B 94 B 44 D 94 A 44 C 94 C 44 D 94 B 45 C 95 D 45 B 95 A 45 C 95 D 45 D 95 B 46 D 96 A 46 A 96 B 46 A 96 C 46 A 96 A 47 B 97 A 47 D 97 B 47 C 97 A 47 B 97 C 48 A 98 C 48 C 98 C 48 A 98 D 48 C 98 C 49 C 99 A 49 A 99 D 49 D 99 A 49 C 99 D 50 B 100 C 50 A 100 A 50 B 100 B 50 A 100 C Set Code-A Set Code-B Set Code-C Set Code-D AIBE-XIX (AIBE-19) ALL SETS ANSWER KEYS Set Code-A Answer Key Set Code-A Answer Key 1 B 51 D 2 D 52 withdrawn 3 A 53 B 4 withdrawn 54 D 5 withdrawn 55 C 6 A 56 C 7 C 57 withdrawn 8 B 58 D 9 C 59 B 10 A 60 C 11 C 61 D 12 C 62 A 13 C 63 C 14 withdrawn 64 A 15 B 65 D 16 B 66 D 17 B 67 A 18 D 68 C 19 B 69 withdrawn 20 B 70 C 21 C 71 B 22 C 72 A 23 D 73 D 24 A 74 B 25 withdrawn 75 A & C 26 C 76 D 27 D 77 C 28 C 78 B 29 B 79 A 30 A 80 B 31 A 81 B 32 D 82 A 33 B 83 C 34 D 84 D 35 B 85 A 36 A 86 B 37 A 87 D 38 B 88 A 39 B 89 D 40 C 90 B 41 B 91 C 42 A 92 B 43 B 93 B 44 B 94 B 45 C 95 D 46 D 96 A 47 B 97 D 48 A 98 C 49 C 99 A 50 B 100 C AIBE-XIX FINAL ANSWER KEY Set Code-A"
+      "10 years from the date of first sales"
     ],
     "correctAnswer": "C",
-    "subject": "Intellectual Property",
+    "subject": "Constitutional Law",
     "difficulty": "hard"
   },
   {
@@ -5073,7 +5073,7 @@
     "questionNumber": 16,
     "question": "In a criminal trial, Rajesh is accused of theft. During the investigation, the police recover a stolen laptop from a location known to be frequented by Rajesh. His fingerprints are found on the laptop. According to the Bharatiya Sakshya Adhiniyam, 2023, how should the court interpret this piece of evidence?",
     "options": [
-      "The recovered laptop and fingerprints are circumstantial evidence that can be considered along with other evidence, but do not by themselves prove guilt beyond fare reasonable doubt.",
+      "The recovered laptop and fingerprints are circumstantial evidence that can be considered along with other evidence, but do not by themselves prove guilt beyond reasonable doubt.",
       "The evidence is inadmissible because the police did not obtain a search warrant before recovering the laptop.",
       "The fingerprints must be verified by at least two independent forensic experts before being presented in court.",
       "The recovered laptop and fingerprints are automatically considered conclusive proof of Rajesh's guilt."
@@ -5496,9 +5496,9 @@
     "year": 2024,
     "set": "B",
     "questionNumber": 44,
-    "question": "Given below are two statements, one labelled as Assertion",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The concept of \"locus standi\" is relaxed in PIL cases.\nReason (R): PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves.\nIn the context of the above two statements, which one of the following is correct?",
     "options": [
-      "and the other labelled as Reason (R). Assertion (A) : The concept of \" locus standi” is relaxed in PIL cases. Reason (R) : PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves. In the context of the above two statements, which one of the following is correct? (A) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
       "(A) is true, but (R) is false.",
       "(A) is false, and (R) is true.",
       "Both (A) and (R) are true, and (R) is the correct explanation of (A)."
@@ -5895,7 +5895,7 @@
       "Perquisite as per Section 17(2) of the Income Tax Act"
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
+    "subject": "Tax Law",
     "difficulty": "medium"
   },
   {
@@ -5945,7 +5945,7 @@
       "(i), (ii) & (iii)",
       "(i) & (ii)"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "C",
     "subject": "Property Law",
     "difficulty": "easy"
   },
@@ -5963,7 +5963,7 @@
       "Land Acquisition Act, 1956"
     ],
     "correctAnswer": "B",
-    "subject": "Property Law",
+    "subject": "Administrative Law",
     "difficulty": "easy"
   },
   {
@@ -5997,7 +5997,7 @@
       "50 years from the creation of the work"
     ],
     "correctAnswer": "B",
-    "subject": "Intellectual Property",
+    "subject": "Constitutional Law",
     "difficulty": "easy"
   },
   {
@@ -6235,7 +6235,7 @@
       "Simple hurt under Section 323 of IPC"
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
+    "subject": "Criminal Law",
     "difficulty": "medium"
   },
   {
@@ -6320,7 +6320,7 @@
       "(1) and (3)"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "hard"
   },
   {
@@ -6422,7 +6422,7 @@
       "Attempt to commit theft Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans 1 B 51 D 1 B 51 C 1 D 51 C 1 C 51 D 2 D 52 C 2 C 52 B 2 B 52 A 2 B 52 C 3 A 53 B 3 B 53 A 3 A 53 D 3 D 53 B 4 C 54 D 4 A 54 D 4 A 54 C 4 A 54 B 5 B 55 C 5 D 55 B 5 B 55 A 5 D 55 A 6 A 56 C 6 D 56 A 6 A 56 D 6 D 56 C 7 C 57 C 7 C 57 D 7 D 57 B 7 A 57 A 8 B 58 D 8 A 58 B 8 A 58 C 8 B 58 C 9 C 59 B 9 C 59 C 9 B 59 A 9 C 59 A 10 A 60 C 10 A 60 D 10 A 60 A 10 A 60 D 11 C 61 D 11 C 61 A 11 B 61 B 11 C 61 A 12 C 62 A 12 D 62 C 12 C 62 D 12 C 62 C 13 D 63 C 13 A 63 A 13 B 63 D 13 B 63 D 14 B 64 A 14 A 64 C 14 B 64 D 14 D 64 C 15 B 65 D 15 B 65 A 15 C 65 A 15 C 65 B 16 B 66 D 16 A 66 B 16 A 66 B 16 C 66 C 17 B 67 A 17 D 67 A 17 C 67 D 17 B 67 C 18 D 68 C 18 A 68 A 18 A 68 D 18 A 68 B 19 B 69 B 19 A 69 D 19 D 69 A 19 C 69 B 20 B 70 C 20 D 70 C 20 C 70 A 20 B 70 C 21 C 71 B 21 C 71 D 21 B 71 B 21 D 71 B 22 C 72 A 22 A 72 D 22 D 72 C 22 B 72 D 23 D 73 D 23 D 73 B 23 D 73 D 23 D 73 C 24 A 74 B 24 B 74 D 24 A 74 D 24 C 74 D 25 D 75 C 25 A 75 B 25 A 75 B 25 A 75 A 26 C 76 D 26 B 76 A 26 D 76 A 26 B 76 C 27 D 77 C 27 B 77 C 27 C 77 D 27 D 77 A 28 C 78 B 28 A 78 D 28 A 78 C 28 C 78 D 29 B 79 A 29 C 79 B 29 B 79 C 29 B 79 D 30 A 80 B 30 B 80 A 30 C 80 B 30 D 80 A 31 A 81 B 31 B 81 D 31 A 81 D 31 C 81 D 32 D 82 A 32 C 82 B 32 B 82 B 32 A 82 C 33 B 83 C 33 C 83 A 33 C 83 D 33 B 83 D 34 D 84 D 34 A 84 B 34 D 84 B 34 D 84 A 35 B 85 A 35 B 85 D 35 B 85 A 35 D 85 D 36 A 86 B 36 C 86 B 36 D 86 D 36 A 86 A 37 A 87 D 37 B 87 B 37 D 87 D 37 C 87 C 38 B 88 A 38 B 88 C 38 D 88 A 38 C 88 A 39 B 89 D 39 D 89 A 39 A 89 D 39 C 89 A 40 C 90 B 40 C 90 A 40 D 90 C 40 D 90 B 41 B 91 C 41 C 91 A 41 D 91 D 41 B 91 D 42 A 92 B 42 D 92 A 42 C 92 D 42 C 92 B 43 B 93 B 43 B 93 C 43 B 93 C 43 C 93 D 44 B 94 B 44 D 94 A 44 C 94 C 44 D 94 B 45 C 95 D 45 B 95 A 45 C 95 D 45 D 95 B 46 D 96 A 46 A 96 B 46 A 96 C 46 A 96 A 47 B 97 A 47 D 97 B 47 C 97 A 47 B 97 C 48 A 98 C 48 C 98 C 48 A 98 D 48 C 98 C 49 C 99 A 49 A 99 D 49 D 99 A 49 C 99 D 50 B 100 C 50 A 100 A 50 B 100 B 50 A 100 C Set Code-A Set Code-B Set Code-C Set Code-D AIBE-XIX (AIBE-19) ALL SETS ANSWER KEYS Set Code-B Answer Key Set Code-B Answer Key 1 B 51 C 2 C 52 B 3 B 53 A 4 A 54 D 5 D 55 B & D 6 D 56 A 7 C 57 D 8 A 58 B 9 C 59 C 10 A 60 D 11 withdrawn 61 A 12 D 62 C 13 A 63 A 14 A 64 C 15 B 65 A 16 A 66 B 17 D 67 A 18 A 68 A 19 A 69 D 20 D 70 C 21 C 71 D 22 A 72 C 23 D 73 B 24 B 74 D 25 A 75 B 26 B 76 A 27 withdrawn 77 C 28 A 78 D 29 C 79 withdrawn 30 B 80 withdrawn 31 B 81 D 32 C 82 B 33 C 83 A 34 A 84 B 35 B 85 D 36 C 86 B 37 withdrawn 87 B 38 B 88 B 39 D 89 withdrawn 40 C 90 A 41 C 91 A 42 D 92 A 43 B 93 C 44 D 94 A 45 B 95 A 46 A 96 B 47 D 97 B 48 C 98 C 49 A 99 D 50 withdrawn 100 A AIBE-XIX FINAL ANSWER KEY Set Code-B"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "hard"
   },
   {
@@ -6686,7 +6686,7 @@
     "year": 2024,
     "set": "C",
     "questionNumber": 17,
-    "question": "Given below are two statements, one labelled as Assertion",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The concept of \"locus standi\" is relaxed in PIL cases.\nReason (R): PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves.\nIn the context of the above two statements, which one of the following is correct?",
     "options": [
       "and the other labelled as Reason (R). Assertion (A) : The concept of \"locus standi\" is relaxed in PIL cases. Reason (R) : PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves? In the context of the above two statements, which one of the following is correct? (A) (A) is true, but (R) is false.",
       "(A) is false, and (R) is true.",
@@ -6847,7 +6847,7 @@
       "Environmental Tribunals"
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
+    "subject": "Environmental Law",
     "difficulty": "easy"
   },
   {
@@ -6881,7 +6881,7 @@
       "It is punishable only under the criminal laws."
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
+    "subject": "Cyber Law",
     "difficulty": "hard"
   },
   {
@@ -7102,7 +7102,7 @@
       "Perquisite as per section 16(2) of the Income Tax Act"
     ],
     "correctAnswer": "C",
-    "subject": "Labour Law",
+    "subject": "Tax Law",
     "difficulty": "medium"
   },
   {
@@ -7152,7 +7152,7 @@
       "(i) & (ii)",
       "(ii) & (iii)"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "subject": "Property Law",
     "difficulty": "easy"
   },
@@ -7170,7 +7170,7 @@
       "Land Acquisition Act, 1862"
     ],
     "correctAnswer": "A",
-    "subject": "Property Law",
+    "subject": "Administrative Law",
     "difficulty": "easy"
   },
   {
@@ -7204,7 +7204,7 @@
       "60 years from the date of publication"
     ],
     "correctAnswer": "A",
-    "subject": "Intellectual Property",
+    "subject": "Constitutional Law",
     "difficulty": "easy"
   },
   {
@@ -7425,7 +7425,7 @@
       "Voluntarily causing grievous hurt under Section 325 of IPC"
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
+    "subject": "Criminal Law",
     "difficulty": "medium"
   },
   {
@@ -7510,7 +7510,7 @@
       "(2) and (4)"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "hard"
   },
   {
@@ -7612,7 +7612,7 @@
       "House trespass with intent to commit theft"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "medium"
   },
   {
@@ -8066,7 +8066,7 @@
     "question": "Under section 146 of the BSA 2023, when the leading questions are permissible in the court proceedings?",
     "options": [
       "Leading question can be asked in an examination- in chief, re-examination, cross examination without any objection.",
-      "Leading question are permitted during cross examination and when matters are introductory, undisputed, or sufficiently proved.",
+      "Leading questions are permitted during cross-examination and when matters are introductory, undisputed, or sufficiently proved.",
       "Leading question are always allowed during examination- in chief without restriction.",
       "Leading question are not allowed during cross examination Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans Qno Ans 1 B 51 D 1 B 51 C 1 D 51 C 1 C 51 D 2 D 52 C 2 C 52 B 2 B 52 A 2 B 52 C 3 A 53 B 3 B 53 A 3 A 53 D 3 D 53 B 4 C 54 D 4 A 54 D 4 A 54 C 4 A 54 B 5 B 55 C 5 D 55 B 5 B 55 A 5 D 55 A 6 A 56 C 6 D 56 A 6 A 56 D 6 D 56 C 7 C 57 C 7 C 57 D 7 D 57 B 7 A 57 A 8 B 58 D 8 A 58 B 8 A 58 C 8 B 58 C 9 C 59 B 9 C 59 C 9 B 59 A 9 C 59 A 10 A 60 C 10 A 60 D 10 A 60 A 10 A 60 D 11 C 61 D 11 C 61 A 11 B 61 B 11 C 61 A 12 C 62 A 12 D 62 C 12 C 62 D 12 C 62 C 13 D 63 C 13 A 63 A 13 B 63 D 13 B 63 D 14 B 64 A 14 A 64 C 14 B 64 D 14 D 64 C 15 B 65 D 15 B 65 A 15 C 65 A 15 C 65 B 16 B 66 D 16 A 66 B 16 A 66 B 16 C 66 C 17 B 67 A 17 D 67 A 17 C 67 D 17 B 67 C 18 D 68 C 18 A 68 A 18 A 68 D 18 A 68 B 19 B 69 B 19 A 69 D 19 D 69 A 19 C 69 B 20 B 70 C 20 D 70 C 20 C 70 A 20 B 70 C 21 C 71 B 21 C 71 D 21 B 71 B 21 D 71 B 22 C 72 A 22 A 72 D 22 D 72 C 22 B 72 D 23 D 73 D 23 D 73 B 23 D 73 D 23 D 73 C 24 A 74 B 24 B 74 D 24 A 74 D 24 C 74 D 25 D 75 C 25 A 75 B 25 A 75 B 25 A 75 A 26 C 76 D 26 B 76 A 26 D 76 A 26 B 76 C 27 D 77 C 27 B 77 C 27 C 77 D 27 D 77 A 28 C 78 B 28 A 78 D 28 A 78 C 28 C 78 D 29 B 79 A 29 C 79 B 29 B 79 C 29 B 79 D 30 A 80 B 30 B 80 A 30 C 80 B 30 D 80 A 31 A 81 B 31 B 81 D 31 A 81 D 31 C 81 D 32 D 82 A 32 C 82 B 32 B 82 B 32 A 82 C 33 B 83 C 33 C 83 A 33 C 83 D 33 B 83 D 34 D 84 D 34 A 84 B 34 D 84 B 34 D 84 A 35 B 85 A 35 B 85 D 35 B 85 A 35 D 85 D 36 A 86 B 36 C 86 B 36 D 86 D 36 A 86 A 37 A 87 D 37 B 87 B 37 D 87 D 37 C 87 C 38 B 88 A 38 B 88 C 38 D 88 A 38 C 88 A 39 B 89 D 39 D 89 A 39 A 89 D 39 C 89 A 40 C 90 B 40 C 90 A 40 D 90 C 40 D 90 B 41 B 91 C 41 C 91 A 41 D 91 D 41 B 91 D 42 A 92 B 42 D 92 A 42 C 92 D 42 C 92 B 43 B 93 B 43 B 93 C 43 B 93 C 43 C 93 D 44 B 94 B 44 D 94 A 44 C 94 C 44 D 94 B 45 C 95 D 45 B 95 A 45 C 95 D 45 D 95 B 46 D 96 A 46 A 96 B 46 A 96 C 46 A 96 A 47 B 97 A 47 D 97 B 47 C 97 A 47 B 97 C 48 A 98 C 48 C 98 C 48 A 98 D 48 C 98 C 49 C 99 A 49 A 99 D 49 D 99 A 49 C 99 D 50 B 100 C 50 A 100 A 50 B 100 B 50 A 100 C Set Code-A Set Code-B Set Code-C Set Code-D AIBE-XIX (AIBE-19) ALL SETS ANSWER KEYS Set Code-C Answer Key Set Code-C Answer Key 1 D 51 C 2 B 52 withdrawn 3 A 53 withdrawn 4 A 54 C 5 B 55 A 6 withdrawn 56 D 7 D 57 B 8 A 58 C 9 B 59 A 10 withdrawn 60 A 11 B 61 A 12 C 62 withdrawn 13 B 63 D 14 B 64 D 15 C 65 A 16 A 66 B 17 C 67 D 18 A 68 D 19 D 69 A 20 C 70 A 21 B 71 B 22 D 72 C 23 withdrawn 73 D 24 A 74 D 25 A 75 B 26 D 76 A 27 C 77 D 28 A & C 78 C 29 B 79 C 30 C 80 B 31 A 81 D 32 B 82 B 33 C 83 D 34 D 84 withdrawn 35 B 85 A 36 D 86 D 37 D 87 D 38 D 88 A 39 A 89 D 40 D 90 C 41 D 91 D 42 C 92 D 43 B 93 C 44 C 94 C 45 B 95 D 46 A 96 C 47 C 97 A 48 A 98 D 49 D 99 A 50 B 100 B AIBE-XIX FINAL ANSWER KEY Set Code-C"
     ],
@@ -8088,7 +8088,7 @@
       "Labour Courts"
     ],
     "correctAnswer": "C",
-    "subject": "Labour Law",
+    "subject": "Environmental Law",
     "difficulty": "easy"
   },
   {
@@ -8122,7 +8122,7 @@
       "It is punishable under Section 66 of the Information Technology Act, 2000 and the customers can also claim the compensation under certain circumstances."
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
+    "subject": "Cyber Law",
     "difficulty": "hard"
   },
   {
@@ -8360,7 +8360,7 @@
       "Allowance under section 10(13A) of the Income Tax Act"
     ],
     "correctAnswer": "B",
-    "subject": "Labour Law",
+    "subject": "Tax Law",
     "difficulty": "medium"
   },
   {
@@ -8410,7 +8410,7 @@
       "(ii) & (iii)",
       "(i) & (iii)"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "subject": "Property Law",
     "difficulty": "easy"
   },
@@ -8428,7 +8428,7 @@
       "Land Acquisition Act, 1894"
     ],
     "correctAnswer": "D",
-    "subject": "Property Law",
+    "subject": "Administrative Law",
     "difficulty": "easy"
   },
   {
@@ -8462,7 +8462,7 @@
       "Lifetime of the author plus 60 years"
     ],
     "correctAnswer": "D",
-    "subject": "Intellectual Property",
+    "subject": "Constitutional Law",
     "difficulty": "easy"
   },
   {
@@ -8700,7 +8700,7 @@
       "Voluntarily causing hurt under Section 324 of IPC"
     ],
     "correctAnswer": "C",
-    "subject": "Labour Law",
+    "subject": "Criminal Law",
     "difficulty": "medium"
   },
   {
@@ -8785,7 +8785,7 @@
       "Only (2)"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "hard"
   },
   {
@@ -8887,7 +8887,7 @@
       "Attempt to commit robbery"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
+    "subject": "Criminal Law",
     "difficulty": "medium"
   },
   {
@@ -9155,7 +9155,7 @@
     "options": [
       "The fingerprints must be verified by at least two independent forensic experts before being presented in court.",
       "The recovered laptop and fingerprints are automatically considered conclusive proof of Rajesh's guilt.",
-      "The recovered laptop and fingerprints are circumstantial evidence that can be considered along with other evidence but do not by themselves prove guilt beyond reasonable doubt.",
+      "The recovered laptop and fingerprints are circumstantial evidence that can be considered along with other evidence, but do not by themselves prove guilt beyond reasonable doubt.",
       "The evidence is inadmissible because the police did not obtain a search warrant before recovering the laptop."
     ],
     "correctAnswer": "C",
@@ -9340,7 +9340,7 @@
     "questionNumber": 75,
     "question": "Under section 146 of the BSA 2023, when the leading questions are permissible in the court proceedings?",
     "options": [
-      "Leading question are permitted during cross examination and when matters are introductory, undisputed, or sufficiently proved,",
+      "Leading questions are permitted during cross-examination and when matters are introductory, undisputed, or sufficiently proved.",
       "Leading question are always allowed during examination- in chief without restriction.",
       "Leading question are not allowed during cross examination",
       "Leading question can be asked in an examination- in chief, re-examination, cross examination without any objection."
@@ -9610,7 +9610,7 @@
     "year": 2024,
     "set": "D",
     "questionNumber": 92,
-    "question": "Given below are two statements, one labelled as Assertion",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The concept of \"locus standi\" is relaxed in PIL cases.\nReason (R): PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves.\nIn the context of the above two statements, which one of the following is correct?",
     "options": [
       "and the other labelled as Reason (R). Assertion (A) : The concept of \"locus standi\" is relaxed in PIL cases. Reason (R) : PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves. In the context of the above two statements, which one of the following is correct? (A) (A) is false, and (R) is true.",
       "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
@@ -10094,7 +10094,7 @@
       "Section 395"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
+    "subject": "Criminal Law",
     "difficulty": "easy"
   },
   {
@@ -10434,7 +10434,7 @@
       "Negotiation"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
+    "subject": "ADR & Arbitration",
     "difficulty": "easy"
   },
   {
@@ -10501,7 +10501,7 @@
       "When they are descended from a common ancestress by different husbands.",
       "When they are not descended from a common ancestor at all."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "subject": "Family Law",
     "difficulty": "medium"
   },
@@ -10604,7 +10604,7 @@
       "The Hindu Succession (Amendment) Act, 2006"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
+    "subject": "Family Law",
     "difficulty": "easy"
   },
   {

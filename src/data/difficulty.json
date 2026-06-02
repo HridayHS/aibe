@@ -18,9 +18,9 @@
   },
   "bySubject": {
     "Criminal Law": {
-      "easy": 29,
-      "medium": 9,
-      "hard": 7
+      "easy": 30,
+      "medium": 11,
+      "hard": 8
     },
     "Motor Vehicle Law": {
       "easy": 2,
@@ -29,8 +29,8 @@
     },
     "Labour Law": {
       "easy": 6,
-      "medium": 3,
-      "hard": 4
+      "medium": 1,
+      "hard": 5
     },
     "Evidence Law": {
       "easy": 7,
@@ -40,47 +40,47 @@
     "Constitutional Law": {
       "easy": 21,
       "medium": 8,
-      "hard": 5
+      "hard": 6
     },
     "Civil Procedure": {
-      "easy": 20,
-      "medium": 7,
-      "hard": 4
+      "easy": 19,
+      "medium": 6,
+      "hard": 2
     },
     "Intellectual Property": {
       "easy": 1,
       "medium": 3,
-      "hard": 2
-    },
-    "Contract Law": {
-      "easy": 11,
-      "medium": 5,
-      "hard": 6
+      "hard": 1
     },
     "ADR & Arbitration": {
-      "easy": 2,
+      "easy": 3,
       "medium": 5,
       "hard": 4
     },
     "Family Law": {
-      "easy": 8,
+      "easy": 9,
       "medium": 7,
       "hard": 6
     },
     "Property Law": {
-      "easy": 7,
+      "easy": 6,
       "medium": 2,
       "hard": 1
     },
     "Tax Law": {
       "easy": 7,
-      "medium": 2,
+      "medium": 3,
       "hard": 3
+    },
+    "Contract Law": {
+      "easy": 9,
+      "medium": 5,
+      "hard": 6
     },
     "Environmental Law": {
       "easy": 4,
       "medium": 1,
-      "hard": 3
+      "hard": 2
     },
     "Corporate Law": {
       "easy": 4,
@@ -90,7 +90,7 @@
     "Cyber Law": {
       "easy": 2,
       "medium": 1,
-      "hard": 1
+      "hard": 2
     },
     "Legal Ethics": {
       "easy": 5,
@@ -98,7 +98,7 @@
       "hard": 3
     },
     "Administrative Law": {
-      "easy": 4,
+      "easy": 5,
       "medium": 5,
       "hard": 1
     },

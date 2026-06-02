@@ -1,7 +1,7 @@
 {
   "clusters": [
     {
-      "id": "repeat-5",
+      "id": "repeat-6",
       "subject": "Civil Procedure",
       "exams": [
         "AIBE 19",
@@ -101,6 +101,48 @@
     },
     {
       "id": "repeat-2",
+      "subject": "Criminal Law",
+      "exams": [
+        "AIBE 19",
+        "AIBE 18"
+      ],
+      "sharedConcepts": [
+        "section 325"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe19-a-q14",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 14,
+          "question": "Rajesh, in a heated argument with Sunil, strikes him with a heavy iron rod. The blow fractures Sunil's arm, and he is unable to use it for several weeks. The medical report confirms that the fracture amounts to grievous hurt. Which of the following offenses has Rajesh committed?",
+          "options": [
+            "Simple hurt under Section 323 of IPC",
+            "Voluntarily causing grievous hurt under Section 325 of IPC",
+            "Voluntarily causing hurt under Section 324 of IPC",
+            "Attempt to commit culpable homicide under Section 308 of IPC"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe18-a-q26",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 26,
+          "question": "Which of the following Section of the Code of Criminal Procedure, 1973 provides for reference to High Court?",
+          "options": [
+            "Section 275",
+            "Section 325",
+            "Section 383",
+            "Section 395"
+          ],
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "id": "repeat-3",
       "subject": "Evidence Law",
       "exams": [
         "AIBE 20",
@@ -142,7 +184,7 @@
       ]
     },
     {
-      "id": "repeat-3",
+      "id": "repeat-4",
       "subject": "Evidence Law",
       "exams": [
         "AIBE 19",
@@ -185,7 +227,7 @@
       ]
     },
     {
-      "id": "repeat-4",
+      "id": "repeat-5",
       "subject": "Civil Procedure",
       "exams": [
         "AIBE 19",
@@ -223,49 +265,6 @@
             "Woman to whom Section 132 of the Civil Procedure Code, 1908 does not apply."
           ],
           "correctAnswer": "C"
-        }
-      ]
-    },
-    {
-      "id": "repeat-6",
-      "subject": "Contract Law",
-      "exams": [
-        "AIBE 20",
-        "AIBE 18"
-      ],
-      "sharedConcepts": [
-        "negotiable instruments",
-        "negotiable instrument"
-      ],
-      "importance": "high",
-      "questions": [
-        {
-          "id": "aibe20-a-q36",
-          "exam": "AIBE 20",
-          "year": 2025,
-          "questionNumber": 36,
-          "question": "Read the given statements and choose the correct option. Statement 1: Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually received. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct?",
-          "options": [
-            "Both Statements 1 and 2 are false",
-            "Only Statement 1 is true",
-            "Only Statement 2 is true",
-            "Both the Statements are true"
-          ],
-          "correctAnswer": "D"
-        },
-        {
-          "id": "aibe18-a-q95",
-          "exam": "AIBE 18",
-          "year": 2023,
-          "questionNumber": 95,
-          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881?",
-          "options": [
-            "Promissory note",
-            "Hundi",
-            "Bill of exchange",
-            "Cheque"
-          ],
-          "correctAnswer": "B"
         }
       ]
     },
@@ -397,6 +396,49 @@
           "correctAnswer": "B"
         }
       ]
+    },
+    {
+      "id": "repeat-10",
+      "subject": "Contract Law",
+      "exams": [
+        "AIBE 20",
+        "AIBE 18"
+      ],
+      "sharedConcepts": [
+        "negotiable instruments",
+        "negotiable instrument"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe20-a-q36",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 36,
+          "question": "Read the given statements and choose the correct option. Statement 1: Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually received. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct?",
+          "options": [
+            "Both Statements 1 and 2 are false",
+            "Only Statement 1 is true",
+            "Only Statement 2 is true",
+            "Both the Statements are true"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "aibe18-a-q95",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 95,
+          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881?",
+          "options": [
+            "Promissory note",
+            "Hundi",
+            "Bill of exchange",
+            "Cheque"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
     }
   ],
   "hotTopics": [
@@ -405,16 +447,12 @@
       "repeats": 2
     },
     {
-      "subject": "Evidence Law",
+      "subject": "Criminal Law",
       "repeats": 2
     },
     {
-      "subject": "Criminal Law",
-      "repeats": 1
-    },
-    {
-      "subject": "Contract Law",
-      "repeats": 1
+      "subject": "Evidence Law",
+      "repeats": 2
     },
     {
       "subject": "ADR & Arbitration",
@@ -427,8 +465,12 @@
     {
       "subject": "Tax Law",
       "repeats": 1
+    },
+    {
+      "subject": "Contract Law",
+      "repeats": 1
     }
   ],
-  "totalClusters": 9,
-  "totalQuestions": 19
+  "totalClusters": 10,
+  "totalQuestions": 21
 }
