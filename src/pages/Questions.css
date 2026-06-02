@@ -158,3 +158,23 @@
   font-size: 0.88rem;
   color: var(--text-secondary);
 }
+
+.tag-withdrawn {
+  color: #f87171;
+  border-color: rgba(248, 113, 113, 0.4);
+  background: rgba(248, 113, 113, 0.08);
+}
+
+.withdrawn-note {
+  font-size: 0.85rem;
+  color: #f87171;
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-sm);
+  background: rgba(248, 113, 113, 0.05);
+  border: 1px dashed rgba(248, 113, 113, 0.3);
+  margin-top: 0.5rem;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}

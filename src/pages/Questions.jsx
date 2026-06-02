@@ -89,9 +89,13 @@ export default function Questions() {
               <span className="q-number">Q{q.questionNumber}</span>
               <div className="q-tags">
                 <span className="tag tag-gold">{q.exam}</span>
-                <span className="tag" style={{ color: getDiffColor(q.difficulty), borderColor: getDiffColor(q.difficulty) + '40', background: getDiffColor(q.difficulty) + '12' }}>
-                  {q.difficulty}
-                </span>
+                {!q.correctAnswer ? (
+                  <span className="tag tag-withdrawn">Withdrawn</span>
+                ) : (
+                  <span className="tag" style={{ color: getDiffColor(q.difficulty), borderColor: getDiffColor(q.difficulty) + '40', background: getDiffColor(q.difficulty) + '12' }}>
+                    {q.difficulty}
+                  </span>
+                )}
                 <span className="tag tag-subject">{q.subject}</span>
               </div>
             </div>
@@ -109,10 +113,15 @@ export default function Questions() {
                 )
               })}
             </div>
-            {q.correctAnswer && (
+            {q.correctAnswer ? (
               <button className="btn btn-ghost show-answer-btn" onClick={() => toggleAnswer(q.id)}>
                 {showAnswer[q.id] ? 'Hide Answer' : 'Show Answer'}
               </button>
+            ) : (
+              <div className="withdrawn-note">
+                <span>⚠️</span>
+                <span>This question was officially withdrawn by the BCI. No official answer is available.</span>
+              </div>
             )}
           </div>
         ))}
