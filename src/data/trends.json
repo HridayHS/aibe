@@ -1,17 +1,17 @@
 {
   "Constitutional Law": {
     "AIBE 18": 14,
-    "AIBE 19": 15,
-    "AIBE 20": 16
+    "AIBE 19": 13,
+    "AIBE 20": 15
   },
   "Criminal Law": {
     "AIBE 18": 17,
     "AIBE 19": 18,
-    "AIBE 20": 13
+    "AIBE 20": 15
   },
   "Family Law": {
     "AIBE 18": 9,
-    "AIBE 19": 7,
+    "AIBE 19": 8,
     "AIBE 20": 8
   },
   "Civil Procedure": {
@@ -36,8 +36,8 @@
   },
   "Administrative Law": {
     "AIBE 18": 3,
-    "AIBE 19": 2,
-    "AIBE 20": 4
+    "AIBE 19": 3,
+    "AIBE 20": 3
   },
   "Legal Ethics": {
     "AIBE 18": 4,
@@ -46,7 +46,7 @@
   },
   "Corporate Law": {
     "AIBE 18": 2,
-    "AIBE 19": 1,
+    "AIBE 19": 2,
     "AIBE 20": 2
   },
   "Environmental Law": {
@@ -61,7 +61,7 @@
   },
   "Law of Torts": {
     "AIBE 18": 2,
-    "AIBE 19": 6,
+    "AIBE 19": 5,
     "AIBE 20": 2
   },
   "Motor Vehicle Law": {
