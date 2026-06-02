@@ -1,5 +1,6 @@
 import { Outlet, NavLink, useLocation } from 'react-router-dom'
 import { useState } from 'react'
+import questions from '../data/questions.json'
 import './Layout.css'
 
 const NAV_ITEMS = [
@@ -68,7 +69,7 @@ export default function Layout() {
             {NAV_ITEMS.find(n => n.path === location.pathname)?.label || 'AIBE Prep'}
           </div>
           <div className="topbar-badge">
-            <span className="tag tag-gold">667 Questions</span>
+            <span className="tag tag-gold">{questions.length} Questions</span>
           </div>
         </header>
         <main className="main-content">
