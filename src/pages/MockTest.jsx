@@ -9,7 +9,7 @@ const pool = []
 const seen = new Set()
 questions.forEach(q => {
   if (!q.correctAnswer) return
-  const key = q.question.substring(0, 60)
+  const key = q.question.trim().toLowerCase()
   if (seen.has(key)) return
   seen.add(key)
   pool.push(q)
