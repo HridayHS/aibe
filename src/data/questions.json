@@ -1,5 +1,1605 @@
 [
   {
+    "id": "aibe17-q1",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 1,
+    "question": "Sapinda Relationship means",
+    "options": [
+      "3rd generation (mother), 7th generation (father) )",
+      "3rd generation (mother), 5th generation (father) )",
+      "3rd generation (mother), 4th generation (father) )",
+      "2nd generation (mother), 5th generation (father) )"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q2",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 2,
+    "question": "Which one of the following is not a ground of divorce in the Hindu Marriage Act? ?",
+    "options": [
+      "Mental Disorder",
+      "Venereal Disease in communicable form",
+      "Incurable Unsound Mind",
+      "Living separately for less than three months."
+    ],
+    "correctAnswer": "D",
+    "subject": "Family Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q3",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 3,
+    "question": "Indian Christians can obtain divorce under which of the following enactments? ?",
+    "options": [
+      "Special Marriage Act, 1954 , 1954",
+      "Christian Marriage Act, 1872 , 1872",
+      "Indian Divorce Act, 1869 , 1869",
+      "Special Marriage Act, 1872 , 1872"
+    ],
+    "correctAnswer": "C",
+    "subject": "Family Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q4",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 4,
+    "question": "The Section 12 of Hindu Maintenance and Adoption Act, 1956 deals with",
+    "options": [
+      "Rights of adoptive parents to dispose of their properties",
+      "Effects of adoption",
+      "Presumption as to the document relating to adoption",
+      "Cancellation of adoption"
+    ],
+    "correctAnswer": "B",
+    "subject": "Family Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q5",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 5,
+    "question": "Which of the following categories of cases will not be entertained as Public Interest Litigation (PIL)? ?",
+    "options": [
+      "Family Pension",
+      "Petitions from riot victims",
+      "Neglected Children",
+      "Landlord - Tenant matter"
+    ],
+    "correctAnswer": "D",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q6",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 6,
+    "question": "Who is known as Father of Public Interest Litigation in India? ?",
+    "options": [
+      "Justice A. N. Ray",
+      "Justice Y. V. Chandrachud",
+      "Justice R. S. Pathak",
+      "Justice P. N. Bhagwati"
+    ],
+    "correctAnswer": "D",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q7",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 7,
+    "question": "Muslim woman has option to be governed by the provisions of Sections 125 to 128 of Criminal Procedure Code 1973 (Sec. 144 - 147 BNSS) . Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it? ?",
+    "options": [
+      "Section 5",
+      "Section 6",
+      "Section 7",
+      "None of these"
+    ],
+    "correctAnswer": "A",
+    "subject": "Family Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q8",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 8,
+    "question": "Which of the following is not a ground of void marriage under Section 11 of the Hindu Marriage Act? ?",
+    "options": [
+      "Bigamy",
+      "Degrees of Prohibited Relationship",
+      "Sapinda Relationship",
+      "Child marriage"
+    ],
+    "correctAnswer": "D",
+    "subject": "Family Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q9",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 9,
+    "question": "Which of the following writ can be issued against usurpation of public office? ?",
+    "options": [
+      "Writ of Mandamus",
+      "Writ of Certiorari",
+      "Writ of Quo Warranto",
+      "Writ of Prohibition"
+    ],
+    "correctAnswer": "C",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q10",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 10,
+    "question": "Ridge V. Baldwin's case deals with",
+    "options": [
+      "Corporation All India Bar Examination - XVII (Set Code - C )",
+      "Natural Justice",
+      "State Liability",
+      "Delegated Legislation"
+    ],
+    "correctAnswer": "B",
+    "subject": "Administrative Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q11",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 11,
+    "question": "Meaning of \"Audi alteram partem\":",
+    "options": [
+      "A person cannot be condemned without being heard",
+      "An adjudicating authority must give a speaking order",
+      "No man can be a judge in his own case",
+      "No one should fear the courts."
+    ],
+    "correctAnswer": "A",
+    "subject": "Administrative Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q12",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 12,
+    "question": "Rules made by Bar Council of India in exercising its rule making power under -------",
+    "options": [
+      "The Advocates Act, 1951 , 1951",
+      "The Advocates Act, 1954 , 1954",
+      "The Advocates Act, 1961 , 1961",
+      "The Advocates Act, 1964 , 1964"
+    ],
+    "correctAnswer": "C",
+    "subject": "Legal Ethics",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q13",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 13,
+    "question": "An advocate may, while practicing, take up teaching of Law in any educational institution which is affiliated to a University, so long as the hours during which he is so engaged in the teaching of Law do not exceed --------- hours in a day.",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctAnswer": "B",
+    "subject": "Legal Ethics",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q14",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 14,
+    "question": "In which of the following landmark case the advocate was held guilty of professional misconduct as he had forged the court order? ?",
+    "options": [
+      "Pratap Narain V. Y. P. Raheja",
+      "Vikramaditya V. Smt. Jamila Khatoon",
+      "Babulal Jain V. Subhash Jain",
+      "Smt. P. Pankajam V. B. H. Chandrashekhar"
+    ],
+    "correctAnswer": "A",
+    "subject": "Legal Ethics",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q15",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 15,
+    "question": "Which of the following is not a real purpose of Public Interest Litigation? ?",
+    "options": [
+      "Vindication of the rule of law",
+      "Facilitate effective access to Justice",
+      "Meaningful realization of Fundamental Rights",
+      "Getting famous and making wealth"
+    ],
+    "correctAnswer": "D",
+    "subject": "Administrative Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q16",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 16,
+    "question": "In Hussainara Khatoon V. State of Bihar, ---------- emerged as a basic fundamental right.",
+    "options": [
+      "Right to Speedy Justice",
+      "Right to Clean Environment",
+      "Right to Free Legal Aid",
+      "None of these"
+    ],
+    "correctAnswer": "A",
+    "subject": "Environmental Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q17",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 17,
+    "question": "\"Doctrine of lifting of or piercing the corporate veil\" is associated with",
+    "options": [
+      "Labour Law",
+      "Company Law",
+      "Banking Law",
+      "Service Law"
+    ],
+    "correctAnswer": "B",
+    "subject": "Corporate Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q18",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 18,
+    "question": "Under which Section of The Environment (Protection) Act, 1986, an appeal to National Green Tribunal (NGT) lies? ?",
+    "options": [
+      "Section 4A",
+      "Section 5A",
+      "Section 6A",
+      "Section 7A"
+    ],
+    "correctAnswer": "B",
+    "subject": "Environmental Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q19",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 19,
+    "question": "Which one of the following Fundamental Duties relates to Environmental Protection? ?",
+    "options": [
+      "Article 51A (b)",
+      "Article 51A (g)",
+      "Article 51A (j)",
+      "Article 51A (k)"
+    ],
+    "correctAnswer": "B",
+    "subject": "Environmental Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q20",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 20,
+    "question": "Mr. A who was aggrieved by an order made by Controller or an adjudicating officer, made an appeal to Cyber Appellate Tribunal. Later Mr. A aggrieved by an order of Cyber Appellate Tribunal, may prefer an appeal ---------",
+    "options": [
+      "In any District Court",
+      "In Higher Tribunal",
+      "Only in High Court",
+      "Only in Supreme Court"
+    ],
+    "correctAnswer": "C",
+    "subject": "Cyber Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q21",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 21,
+    "question": "Mr. X, a person who is intended by Mr. Y an originator to receive the electronic record is, under the IT Act, known as --------------",
+    "options": [
+      "Intermediary",
+      "Originators Agent",
+      "Addressee",
+      "Key Holder"
+    ],
+    "correctAnswer": "C",
+    "subject": "Cyber Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q22",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 22,
+    "question": "The minimum number of members required for registration of a trade union is -",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "correctAnswer": "D",
+    "subject": "Labour Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q23",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 23,
+    "question": "If any advocate is aggrieved by an order of Disciplinary Committee of State Bar Council made under Section 35 of the Advocate Act or Advocate General of the State may prefer and appeal to the Bar Council of India within ____________ days of the date of communication of order.",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correctAnswer": "C",
+    "subject": "Legal Ethics",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q24",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 24,
+    "question": "ABC Private Limited Company choose to convert itself into a Public Company. It can do so by altering its Memorandum of Association and Articles of Association and by passing ---------",
+    "options": [
+      "Ordinary Resolution",
+      "Special Resolution",
+      "Board Resolution",
+      "None of these"
+    ],
+    "correctAnswer": "B",
+    "subject": "Corporate Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q25",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 25,
+    "question": "If the factory employs more than 1000 workers, they should appoint qualified ------ to carry out the prescribed duties.",
+    "options": [
+      "Safety officer",
+      "Welfare officer",
+      "Development officer",
+      "None of these"
+    ],
+    "correctAnswer": "A",
+    "subject": "Labour Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q26",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 26,
+    "question": "Suppose road accident occurs, then being an Advocate what is the correct way of approaching the situation? ?",
+    "options": [
+      "FIR > Petition > Summon to Insurance Company",
+      "Petition > FIR > Summon to Insurance Company",
+      "Summon to Insurance Company > Petition > FIR > FIR",
+      "FIR > Summon to Insurance Company > Petition"
+    ],
+    "correctAnswer": "A",
+    "subject": "Criminal Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q27",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 27,
+    "question": "The principle of \"Ubi jus ibi idem remedium\" was recognized in",
+    "options": [
+      "Winterbottom V. Wright",
+      "Chapman V. Pickersgill",
+      "Ashby V. White",
+      "Rylands V. Fletcher"
+    ],
+    "correctAnswer": "C",
+    "subject": "Law of Torts",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q28",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 28,
+    "question": "Gloucester Grammar School Case is a landmark case based on which of the following maxim? ?",
+    "options": [
+      "Damnum sine injuria",
+      "Injuria sine damnum",
+      "Volenti non fit injuria",
+      "Audi alteram partem"
+    ],
+    "correctAnswer": "A",
+    "subject": "Law of Torts",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q29",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 29,
+    "question": "The National Consumer Disputes Redressal Commission under Consumer Protection Act, 2019 shall have the jurisdiction to complaints where the value of the goods or services paid as consideration exceeds",
+    "options": [
+      "1 Crore",
+      "10 Crores",
+      "50 Crores",
+      "100 Crores"
+    ],
+    "correctAnswer": "B",
+    "subject": "Consumer Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q30",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 30,
+    "question": "The text of the Certified Standing Orders shall be prominently posted by the employer in and in the language understood by the majority of his workmen.",
+    "options": [
+      "Hindi",
+      "English",
+      "Devanagari Script",
+      "Language specified in 8th Schedule of the Constitution"
+    ],
+    "correctAnswer": "B",
+    "subject": "Labour Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q31",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 31,
+    "question": "A person who has ultimate control over the affairs of the factory under Factories Act, 1948 is called as -- ---- . ----------",
+    "options": [
+      "Occupier",
+      "Managing Director",
+      "Chairman",
+      "Manager"
+    ],
+    "correctAnswer": "A",
+    "subject": "Labour Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q32",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 32,
+    "question": "Mr. Kapoor purchased a residential house in January, 2021 for 80,00,000. He sold the house in April, 2022 for 94,00,000. In this case the gain of 14,00,000 arising on account of sale of residential house will be charged to tax under which of the following head? ?",
+    "options": [
+      "Income from capital gains",
+      "Income from house property",
+      "Income from profits and gains from business or profession",
+      "Income from other sources"
+    ],
+    "correctAnswer": "A",
+    "subject": "Tax Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q33",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 33,
+    "question": "Mr. Manjot is a trader supplying goods from his M/s Singh Traders. The office of the firm is located in Delhi whereas its godowns are located in the State of Uttar Pradesh, Punjab and Jammu & Kashmir (J&K) respectively. M/s Singh Traders made following intra - state supplies from different States during the current financial year: : (i) Delhi - Taxable Supplies: ₹ 21,00,000 : ₹ 21,00,000 (ii) Punjab - Exempted Supplies: ₹ 6,00,000 : ₹ 6,00,000 (iii) Uttar Pradesh - Taxable and Exempted Supplies: ₹ 3,00,000 each respectively. : ₹ 3,00,000 (iv) J&K - Taxable and Exempted Supplies : ₹ 8,00,000 and ₹ 3,00,000 respectively. 3,00,000 Ascertain the States in which Mr. Manjot is required to take registration under GST. ?",
+    "options": [
+      "Delhi, Punjab, Uttar Pradesh and J&K",
+      "Delhi, Uttar Pradesh and J&K",
+      "Delhi and Uttar Pradesh",
+      "Delhi"
+    ],
+    "correctAnswer": "B",
+    "subject": "Tax Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q34",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 34,
+    "question": "The primary GST slabs for any regular taxpayers are presently pegged at",
+    "options": [
+      "0%, 5%, 12%, 18%, 26%",
+      "0%, 6%, 12%, 18%, 28%",
+      "0%, 5%, 12%, 18%, 28%",
+      "0%, 5%, 12%, 16%, 28%"
+    ],
+    "correctAnswer": "C",
+    "subject": "Tax Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q35",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 35,
+    "question": "Under Section 41 of Consumer Protection Act, 2019 an appeal from the order of District Commission lies to ----- .",
+    "options": [
+      "State Commission",
+      "Consumer Tribunal",
+      "National Commission",
+      "High Court"
+    ],
+    "correctAnswer": "A",
+    "subject": "Consumer Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q36",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 36,
+    "question": "For an individual to be deemed to be resident in India in any previous year one of the condition is: :",
+    "options": [
+      "If he is in India for a period of 182 days or more during the previous year.",
+      "If he is in India for a period of 180 days or more during the previous year.",
+      "If he is in India for a period of 181 days or more during the previous year.",
+      "If he is in India for a period of 360 days or more during the previous year."
+    ],
+    "correctAnswer": "A",
+    "subject": "Tax Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q37",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 37,
+    "question": "A ----- injunction can only be granted by the decree made at the hearing and upon the merits of the suit; the defendant is thereby perpetually enjoined from, the assertion of a right, or from the commission of an act, which could be contrary to the rights of the plaintiff.",
+    "options": [
+      "Temporary",
+      "Perpetual",
+      "Both Temporary and Perpetual",
+      "None of these"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q38",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 38,
+    "question": "According to Section 5 of Specific Relief Act, 1963 a person entitled to the possession of specific immovable property may recover it in the manner provided in -----",
+    "options": [
+      "The Specific Relief Act, 1963 , 1963",
+      "The Code of Civil Procedure, 1908 , 1908",
+      "The Code of Criminal Procedure, 1973 , 1973",
+      "The Tr"
+    ],
+    "correctAnswer": "B",
+    "subject": "Contract Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q39",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 39,
+    "question": "Where the mortgagor delivers possession of the mortgaged property to the mortgagee, and authorises him to retain such possession until payment of the mortgage - money, and to receive the rents and profits accruing from the property in lieu of interest, or in payment of the mortgage - money, the transaction is called an ------ mortgage.",
+    "options": [
+      "Conditional",
+      "English",
+      "Simple",
+      "Usufructuary"
+    ],
+    "correctAnswer": "D",
+    "subject": "Property Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q40",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 40,
+    "question": "In which of the following cases it was decided that a contract with minor is void? ?",
+    "options": [
+      "Carlill V. Carbolic Smokes Ball Co .",
+      "Chinnaih V. Ramaiah",
+      "Mohori Bibee V. Dharmodas Ghose",
+      "Harvey V. Facey"
+    ],
+    "correctAnswer": "C",
+    "subject": "Contract Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q41",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 41,
+    "question": "B, the proprietor of a newspaper, publishes at A's request, a libel upon C in the paper, and A agrees to indemnify B against the consequences of the publication, and all costs and damages of any action in respect thereof. B is sued by C and has to pay damages, and also incurs expenses. Decide in the light of the Section 224 of the Indian Contract Act, 1872.",
+    "options": [
+      "A is not liable to B upon indemnity.",
+      "A is liable to B upon indemnity.",
+      "A is not liable to C upon indemnity.",
+      "None of these"
+    ],
+    "correctAnswer": "A",
+    "subject": "Contract Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q42",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 42,
+    "question": "A person whom the agent names to act for the principal in the business of agency, under the express or implied authority to name, is called |",
+    "options": [
+      "Sub - agent",
+      "Substituted Agent",
+      "Agent",
+      "Procured Agent"
+    ],
+    "correctAnswer": "B",
+    "subject": "Contract Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q43",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 43,
+    "question": "According to Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 appropriate Government can acquire the land for which of the following purposes? ? 1. for strategic purposes relating to naval, military, air force, and armed forces of the Union 2. project for water harvesting and water conservation structures, sanitation 3. project for project affected families 4. project for sports, health care, tourism, transportation or space programme",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": "D",
+    "subject": "Property Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q44",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 44,
+    "question": "'Specified person' under Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 means any person other than ------- .",
+    "options": [
+      "appropriate Government",
+      "Government company",
+      "association of persons or trust or society wholly or partially aided by the appropriate Government or controlled by the appropriate Government",
+      "All of these"
+    ],
+    "correctAnswer": "D",
+    "subject": "Property Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q45",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 45,
+    "question": "Who shall be the Registrar of Trade Marks for the purposes of Trade Marks Act, 1999? ?",
+    "options": [
+      "Controller - General of Patents, Designs and Trade Marks.",
+      "Controller - General of Copyright, Designs and Trade Marks",
+      "Director - General of Patents, Designs and Trade Marks",
+      "Director - General of Copyright, Designs and Trade Marks"
+    ],
+    "correctAnswer": "A",
+    "subject": "Intellectual Property",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q46",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 46,
+    "question": "Which one of the following is not a type/s of IPR ? ?",
+    "options": [
+      "Copyright",
+      "Patents",
+      "Designs",
+      "Historical Indications"
+    ],
+    "correctAnswer": "D",
+    "subject": "Intellectual Property",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q47",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 47,
+    "question": "Which of the following is/are CORRECT with respect to \"Declaratory Decrees\" under The Specific Relief Act, 1963? ?",
+    "options": [
+      "Section 34 of the said Act deals with it.",
+      "It is discretionary in nature.",
+      "Both, (Section 34 of the said Act deals with it) and (It is discretionary in nature) )",
+      "None of these"
+    ],
+    "correctAnswer": "C",
+    "subject": "Contract Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q48",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 48,
+    "question": "Which of the following is not a Negotiable Instrument as defined under The Negotiable Instrument Act, 1881? ?",
+    "options": [
+      "Promissory Note",
+      "Bill of Exchange",
+      "Cheque",
+      "Billing Receipt"
+    ],
+    "correctAnswer": "D",
+    "subject": "Contract Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q49",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 49,
+    "question": "By which of the following Amendment Act of 1985, Anti Defection Law was added in the Constitution of India ? ?",
+    "options": [
+      "51 st Constitutional Amendment",
+      "52 nd Constitutional Amendment",
+      "53 rd Constitutional Amendment",
+      "54 th Constitutional Amendment"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q50",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 50,
+    "question": "In which one of the following cases the Supreme Court decided that, a constitutional amendment is a 'law' within the meaning of Article 13(2) and therefore if it violates any of the fundamental rights it may be declared void? ?",
+    "options": [
+      "Sajjan Singh V. State of Rajasthan",
+      "Keshvananda Bharati V. State of Kerala",
+      "Indra Sawhney V. Union of India",
+      "Golak Nath V. State of Punjab"
+    ],
+    "correctAnswer": "D",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q51",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 51,
+    "question": "Uniform Civil Code in India is: :",
+    "options": [
+      "Fundamental Rights",
+      "Directive Principles of State Policy",
+      "Government Policy",
+      "Constitutional Right"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q52",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 52,
+    "subject": "Constitutional Law",
+    "difficulty": "medium",
+    "question": "As per Article 16 of the Constitution of India, no citizen shall, on grounds only of ----- or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
+    "options": [
+      "religion, race, caste, sex, descent, place of birth, residence",
+      "religion, age, caste, sex, descent, place of birth, residence",
+      "religion, race, age, sex, descent, place of birth, residence",
+      "religion, race, caste, sex, descent, place of birth, age"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "aibe17-q53",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 53,
+    "question": "The minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under Article 143 shall be ------",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "D",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q54",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 54,
+    "question": "According to the Article 300A of the Constitution of India, No____________ shall be deprived his property save by authority of law.",
+    "options": [
+      "person",
+      "citizen",
+      "foreigner",
+      "Indian"
+    ],
+    "correctAnswer": "A",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q55",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 55,
+    "question": "The title of the Constitution of India is laid down in ?",
+    "options": [
+      "Article 1",
+      "Article 5",
+      "Article 390",
+      "Article 393"
+    ],
+    "correctAnswer": "D",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q56",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 56,
+    "question": "Constitutional provisions of Fundamental Rights (FRs) are given under which part of the Constitution of India? ?",
+    "options": [
+      "Part I",
+      "Part II",
+      "Part III.",
+      "Part IV"
+    ],
+    "correctAnswer": "C",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q57",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 57,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Under Section 20 and 21 of the Bharatiya Nyaya Sanhita (BNS), nothing is an offence if it is done by a child...",
+    "options": [
+      "of below seven years of age.",
+      "of above seven years of age but under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.",
+      "of above seven years of age but under ten years of age, who has not attained sufficient maturity of understanding.",
+      "of above seven years of age but under twelve years of age, who has attained sufficient maturity of understanding."
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "aibe17-q58",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 58,
+    "question": "Name two essential conditions of Penal Liability.",
+    "options": [
+      "Guilty Body & Rightful Act",
+      "Guilty Intent & Wrong Motive",
+      "Guilty Mind & Wrongful Act",
+      "Guilty Motive and Wrongful Act"
+    ],
+    "correctAnswer": "C",
+    "subject": "Criminal Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q59",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 59,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Provisions for the Right of Private Defence are given between Sections ------- of the Bharatiya Nyaya Sanhita (BNS).",
+    "options": [
+      "Sections 25 to 35",
+      "Sections 34 to 44",
+      "Sections 45 to 55",
+      "Sections 56 to 65"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "aibe17-q60",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 60,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Consent is not a valid consent under Section 28 of the Bharatiya Nyaya Sanhita (BNS):",
+    "options": [
+      "If given under fear of injury or misconception of fact.",
+      "If given by person of unsound mind.",
+      "If given by child below 12 years of age.",
+      "All of these"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "aibe17-q61",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 61,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Causing of the death of a child in the mother's womb is not homicide as provided under...",
+    "options": [
+      "Explanation III to Section 101 of BNS",
+      "Explanation III to Section 100 of BNS",
+      "Explanation III to Section 102 of BNS",
+      "Explanation III to Section 103 of BNS"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "aibe17-q62",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 62,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Punishment for Defamation under Section 356 of the Bharatiya Nyaya Sanhita (BNS) is simple imprisonment for a term which may extend to ---------- or with fine or with both.",
+    "options": [
+      "2 Years",
+      "3 Years",
+      "4 Years",
+      "5 Years"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "aibe17-q63",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 63,
+    "question": "Which of the following is not 'Law' according to Article 13 of Indian Constitution? ?",
+    "options": [
+      "Rule",
+      "By - laws",
+      "Custom or usage",
+      "None of these"
+    ],
+    "correctAnswer": "D",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q64",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 64,
+    "question": "Which of the following Schedule deals with Union list, State list and Concurrent list in the Constitution of India? ?",
+    "options": [
+      "Schedule 7",
+      "Schedule 10",
+      "Schedule 11",
+      "Schedule 12"
+    ],
+    "correctAnswer": "A",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q65",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 65,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "The provisions of 'Plea Bargaining' under Chapter XXIII of the Bharatiya Nagarik Suraksha Sanhita (BNSS) are not applicable if the offence is committed against a child below the age of -------",
+    "options": [
+      "12 years",
+      "14 years",
+      "16 years",
+      "18 years"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "aibe17-q66",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 66,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) is \"SECULAR\" in character was observed in which of the following cases (originally decided under Section 125 of CrPC)?",
+    "options": [
+      "Lalita Kumari V. State of Uttar Pradesh",
+      "Arnesh Kumar's Case",
+      "Mohd. Ahmed Khan V. Shah Bano Begum",
+      "Selvy V. State of Karnataka"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "aibe17-q67",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 67,
+    "question": "Who has the power of summary trial of a case ? ?",
+    "options": [
+      "Chief Judicial Magistrate )",
+      "Metropolitan Magistrate",
+      "Any Magistrate of first class specially empowered by the High Court",
+      "All of these"
+    ],
+    "correctAnswer": "D",
+    "subject": "Criminal Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q68",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 68,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Which Sections deal with the processes to compel appearance under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
+    "options": [
+      "Sections 63 to 93",
+      "Sections 173 to 193",
+      "Sections 234 to 242",
+      "Sections 300 to 310"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "aibe17-q69",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 69,
+    "question": "An offence for which, a police officer may arrest a person without warrant is known as ?",
+    "options": [
+      "Non - cognizable offence",
+      "Cognizable offence",
+      "Bailable offence",
+      "None of these"
+    ],
+    "correctAnswer": "B",
+    "subject": "Criminal Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q70",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 70,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Assault or use of criminal force to a woman with intent to outrage her modesty under Section 74 of the Bharatiya Nyaya Sanhita (BNS) is which kind of offence?",
+    "options": [
+      "Non - Cognizable and Bailable",
+      "Cognizable and Bailable",
+      "Cognizable and Non - Bailable",
+      "Non - Cognizable and Non - Bailable"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "aibe17-q71",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 71,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "'A' places men with firearms at the outlets of a building and tells 'Z', that they will fire at 'Z', if 'Z' attempts to leave the building. Under Section 126 of the Bharatiya Nyaya Sanhita (BNS), 'A' is guilty of:",
+    "options": [
+      "wrongful confinement",
+      "wrongful restraint",
+      "Both wrongful confinement and wrongful restraint",
+      "None of these"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "aibe17-q72",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 72,
+    "subject": "Criminal Law",
+    "difficulty": "medium",
+    "question": "Any police officer making an investigation under Section 179 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) cannot require the attendance of a male, at a place other than the place of his residence, who is",
+    "options": [
+      "under the age of 15 years and above the age of 60 years",
+      "under the age of 18 years and above the age of 60 years",
+      "under the age of 15 years and above the age of 65 years",
+      "under the age of 18 years and above the age of 65 years"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "aibe17-q73",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 73,
+    "question": "If someone lies before the court on affidavit, how it can be tackled by the Advocates? ?",
+    "options": [
+      "Perjury Application can be filed.",
+      "Withdraw from the case.",
+      "File application to support that.",
+      "Pay the fine for the same."
+    ],
+    "correctAnswer": "A",
+    "subject": "Criminal Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q74",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 74,
+    "question": "Proclamation for person absconding shall be published as follows: : (i) It shall be publicly read in some conspicuous place of the town or village in which such person ordinarily resides; (ii) It shall be affixed to some conspicuous part of the house or homestead in which such person ordinarily resides or to some conspicuous place of such town or village; (iii) A copy thereof shall be affixed to some conspicuous part of the Court - house; (iv) The Court may also, if it thinks fit, direct a copy of the proclamation to be published in a daily newspaper circulating in the place in which such person ordinarily resides.",
+    "options": [
+      "Only ii, iii, iv are correct.",
+      "Only ii and iii are correct.",
+      "Only i, iii, iv are correct.",
+      "All i, ii, iii, iv are correct."
+    ],
+    "correctAnswer": "D",
+    "subject": "Criminal Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q75",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 75,
+    "question": "In a summons trial case instituted on a complaint wherein the summons has been issued to the accused, the non - appearance or death of the complainant shall entail -------- . ---------",
+    "options": [
+      "Discharge of the accused",
+      "Acquittal of the accused",
+      "Either discharge or acquittal depending on the facts & circumstances of the case",
+      "None of these"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q76",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 76,
+    "question": "Suppose F.I.R. is not registered by the Station House Officer. What are the options that the complainant has? ?",
+    "options": [
+      "Approach Superintendent of Police",
+      "Approach Magistrate by filing Private Complaint",
+      "None of these",
+      "Both (Approach Superintendent of Police) & (Approach Magistrate by filing Private Complaint) )"
+    ],
+    "correctAnswer": "D",
+    "subject": "Criminal Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q77",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 77,
+    "question": "Which of the following Section of Civil Procedure Code deals with the concept of Res Judicata? ?",
+    "options": [
+      "Section 10",
+      "Section 11",
+      "Section 12",
+      "Section 13."
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q78",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 78,
+    "question": "Mr. X, Mr. Y and Mr. Z are jointly and severally liable for 10,000 under a decree obtained by Mr. A. Mr. Y obtains a decree for 10,000 against Mr. A singly and applies for execution to the Court in which the joint - decree is being executed. Which of the following option is correct for Mr. A? ?",
+    "options": [
+      "Mr. A may treat his joint - decree as cross - decree under Order 21 Rule 18.",
+      "Mr. A cannot treat his joint - decree as cross - decree under Order 21 Rule 18.",
+      "Mr. A cannot treat his joint - decree as cross - decree under Order 22 Rule 18.",
+      "None of these"
+    ],
+    "correctAnswer": "A",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q79",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 79,
+    "question": "A, B and C are coparceners of Joint Hindu Family. They jointly execute a mortgage in favour of Y. Y files a suit against all of them. Summons is served to C but not to A and B. None of them appears and an ex parte decree is passed against all. A and B applied to set aside the ex parte decree. The decree will be set aside against.",
+    "options": [
+      "Only C",
+      "Only A & B",
+      "A, B and C",
+      "None of these"
+    ],
+    "correctAnswer": "C",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q80",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 80,
+    "question": "Which of the following provision of Civil Procedure Code, 1908 deals with the Institution of Suits? ?",
+    "options": [
+      "Section 22",
+      "Section 24",
+      "Section 26",
+      "Section 28"
+    ],
+    "correctAnswer": "C",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q81",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 81,
+    "question": "Defendant shall, within ------ days from the date of service of summon on him, present a Written Statement of his defence (ORDER VIII).",
+    "options": [
+      "15",
+      "30",
+      "60",
+      "45"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q82",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 82,
+    "question": "Which of the following statement is incorrect? ?",
+    "options": [
+      "First appeal can be on question of fact or law or both.",
+      "Second appeal can be on substantial question of law only.",
+      "Second appeal can be on question of fact or law or both.",
+      "First appeal may or may not be in the High Court, Second appeal has to be in the High Court."
+    ],
+    "correctAnswer": "C",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q83",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 83,
+    "question": "Which Order of Civil Procedure Code deals with Temporary Injunction and Interlocutory Injunction? ?",
+    "options": [
+      "Order 38",
+      "Order 39",
+      "Order 40",
+      "Order 41"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q84",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 84,
+    "question": "A is a tradesman in Ahmedabad, B carries on business in Delhi. B, by his agent in Ahmedabad, buys goods of A and requests A to deliver them to the Western Roadways Transport Company. A delivers the goods accordingly in Ahmedabad. A may sue B for the price of the goods.",
+    "options": [
+      "In Ahmedabad only",
+      "In Delhi only",
+      "In either Ahmedabad or Delhi",
+      "Anywhere in India"
+    ],
+    "correctAnswer": "C",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q85",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 85,
+    "subject": "Evidence Law",
+    "difficulty": "medium",
+    "question": "The doctrine of 'Res Gestae' is codified in which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 3",
+      "Section 4",
+      "Section 8",
+      "Section 9"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "aibe17-q86",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 86,
+    "subject": "Evidence Law",
+    "difficulty": "medium",
+    "question": "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 15",
+      "Section 16",
+      "Section 17",
+      "Section 19"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "aibe17-q87",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 87,
+    "question": "Judicial Evidence means ?",
+    "options": [
+      "Evidence received by Courts in proof or disproof of facts",
+      "Evidence received by Police Officer",
+      "Evidence received by Home Department",
+      "Evidence received by Tribunal."
+    ],
+    "correctAnswer": "A",
+    "subject": "Evidence Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q88",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 88,
+    "subject": "Evidence Law",
+    "difficulty": "medium",
+    "question": "Which of the following is not a 'document' according to Section 2(1)(d) of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "An inscription on a metal plate or stone",
+      "A map or plan",
+      "A caricature",
+      "None of these"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "aibe17-q89",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 89,
+    "question": "\"Presumptions as to Dowry Deaths\" is given under which Section? ?",
+    "options": [
+      "113A",
+      "113B",
+      "114A",
+      "114B"
+    ],
+    "correctAnswer": "B",
+    "subject": "Evidence Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q90",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 90,
+    "subject": "Evidence Law",
+    "difficulty": "medium",
+    "question": "Which of the following is not 'Secondary evidence' as per Section 58 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy, and copies compared with such copies.",
+      "Copies made from or compared with the original.",
+      "Oral accounts of the contents of a document given by some person who has himself seen it.",
+      "Copies not certified under Section 58."
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "aibe17-q91",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 91,
+    "question": "As per Order VI, Pleading shall mean? ?",
+    "options": [
+      "Plaint",
+      "Written Statement",
+      "Both Plaint and Written Statement",
+      "None of these"
+    ],
+    "correctAnswer": "C",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q92",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 92,
+    "question": "Which of the following Order deals with \"Death, Marriage and Insolvency of Parties\"? ?",
+    "options": [
+      "Order 20",
+      "Order 21",
+      "Order 22",
+      "Order 23"
+    ],
+    "correctAnswer": "C",
+    "subject": "Civil Procedure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q93",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 93,
+    "subject": "ADR & Arbitration",
+    "difficulty": "medium",
+    "question": "The Arbitral Tribunal shall not be bound by ------ in the determination of rules of procedure.",
+    "options": [
+      "The Code of Civil Procedure, 1908",
+      "The Bharatiya Sakshya Adhiniyam (BSA), 2023",
+      "The Code of Criminal Procedure, 1973 (or BNSS, 2023)",
+      "Both, (The Code of Civil Procedure, 1908) and (The Bharatiya Sakshya Adhiniyam (BSA), 2023)"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "aibe17-q94",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 94,
+    "question": "Which of the following Section deals with \"Arbitration Agreement\" in Arbitration and Conciliation Act, 1996 ? ?",
+    "options": [
+      "Section 6",
+      "Section 7",
+      "Section 8",
+      "Section 9"
+    ],
+    "correctAnswer": "B",
+    "subject": "ADR & Arbitration",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q95",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 95,
+    "question": "Under what circumstances the arbitral proceedings can be terminated? ? 1. Final Arbitral award 2. Interim award 3. Where the arbitral tribunal issues an order for the termination",
+    "options": [
+      "1 and 3",
+      "1 and 2",
+      "2 and 3",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": "A",
+    "subject": "ADR & Arbitration",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q96",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 96,
+    "question": "Under Section 29 of The Arbitration And Conciliation Act, 1996 arbitral proceedings with more than one arbitrator, any decision of the arbitral tribunal ------ ------",
+    "options": [
+      "shall be made by all members",
+      "shall be made by 2/3 majority of its members 2",
+      "shall be made by the chief arbitrator",
+      "shall be made by majority of its members"
+    ],
+    "correctAnswer": "D",
+    "subject": "ADR & Arbitration",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q97",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 97,
+    "question": "The provision for 'maintenance pendente lite' in Hindu Marriage Act, 1955 is given in --- .",
+    "options": [
+      "Section 22",
+      "Section 23",
+      "Section 24",
+      "Section 25"
+    ],
+    "correctAnswer": "C",
+    "subject": "Family Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q98",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 98,
+    "question": "A Muslim wife may sue for divorce under the Dissolution of Muslim Marriage Act, 1939 Section 2, if the husband has been insane for a period of: :",
+    "options": [
+      "1 year",
+      "2 years",
+      "5 years",
+      "7 years"
+    ],
+    "correctAnswer": "B",
+    "subject": "Family Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q99",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 99,
+    "question": "A leading question may be asked in",
+    "options": [
+      "Examination - in - chief",
+      "Re - examination",
+      "Cross examination",
+      "None of these"
+    ],
+    "correctAnswer": "C",
+    "subject": "Evidence Law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aibe17-q100",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 100,
+    "subject": "Evidence Law",
+    "difficulty": "medium",
+    "question": "Extra Judicial Confession means ?",
+    "options": [
+      "Confessions made either to Police or person other than Judges and Magistrates.",
+      "Confessions made before Magistrates.",
+      "Confessions made before Judges.",
+      "None of these"
+    ],
+    "correctAnswer": "A"
+  },
+  {
     "id": "aibe18-q1",
     "exam": "AIBE 18",
     "year": 2023,

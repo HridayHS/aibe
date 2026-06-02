@@ -6,6 +6,188 @@ const dir = 'aibe question papers';
 const outFile = 'src/data/questions.json';
 
 const OVERRIDES = {
+  // AIBE 17
+  "aibe17-q52": {
+    question: "As per Article 16 of the Constitution of India, no citizen shall, on grounds only of ----- or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
+    options: [
+      "religion, race, caste, sex, descent, place of birth, residence",
+      "religion, age, caste, sex, descent, place of birth, residence",
+      "religion, race, age, sex, descent, place of birth, residence",
+      "religion, race, caste, sex, descent, place of birth, age"
+    ],
+    correctAnswer: "A"
+  },
+  "aibe17-q57": {
+    question: "Under Section 20 and 21 of the Bharatiya Nyaya Sanhita (BNS), nothing is an offence if it is done by a child...",
+    options: [
+      "of below seven years of age.",
+      "of above seven years of age but under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.",
+      "of above seven years of age but under ten years of age, who has not attained sufficient maturity of understanding.",
+      "of above seven years of age but under twelve years of age, who has attained sufficient maturity of understanding."
+    ],
+    correctAnswer: "B"
+  },
+  "aibe17-q59": {
+    question: "Provisions for the Right of Private Defence are given between Sections ------- of the Bharatiya Nyaya Sanhita (BNS).",
+    options: [
+      "Sections 25 to 35",
+      "Sections 34 to 44",
+      "Sections 45 to 55",
+      "Sections 56 to 65"
+    ],
+    correctAnswer: "B"
+  },
+  "aibe17-q60": {
+    question: "Consent is not a valid consent under Section 28 of the Bharatiya Nyaya Sanhita (BNS):",
+    options: [
+      "If given under fear of injury or misconception of fact.",
+      "If given by person of unsound mind.",
+      "If given by child below 12 years of age.",
+      "All of these"
+    ],
+    correctAnswer: "D"
+  },
+  "aibe17-q61": {
+    question: "Causing of the death of a child in the mother's womb is not homicide as provided under...",
+    options: [
+      "Explanation III to Section 101 of BNS",
+      "Explanation III to Section 100 of BNS",
+      "Explanation III to Section 102 of BNS",
+      "Explanation III to Section 103 of BNS"
+    ],
+    correctAnswer: "B"
+  },
+  "aibe17-q62": {
+    question: "Punishment for Defamation under Section 356 of the Bharatiya Nyaya Sanhita (BNS) is simple imprisonment for a term which may extend to ---------- or with fine or with both.",
+    options: [
+      "2 Years",
+      "3 Years",
+      "4 Years",
+      "5 Years"
+    ],
+    correctAnswer: "A"
+  },
+  "aibe17-q65": {
+    question: "The provisions of 'Plea Bargaining' under Chapter XXIII of the Bharatiya Nagarik Suraksha Sanhita (BNSS) are not applicable if the offence is committed against a child below the age of -------",
+    options: [
+      "12 years",
+      "14 years",
+      "16 years",
+      "18 years"
+    ],
+    correctAnswer: "B"
+  },
+  "aibe17-q66": {
+    question: "Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) is \"SECULAR\" in character was observed in which of the following cases (originally decided under Section 125 of CrPC)?",
+    options: [
+      "Lalita Kumari V. State of Uttar Pradesh",
+      "Arnesh Kumar's Case",
+      "Mohd. Ahmed Khan V. Shah Bano Begum",
+      "Selvy V. State of Karnataka"
+    ],
+    correctAnswer: "C"
+  },
+  "aibe17-q68": {
+    question: "Which Sections deal with the processes to compel appearance under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
+    options: [
+      "Sections 63 to 93",
+      "Sections 173 to 193",
+      "Sections 234 to 242",
+      "Sections 300 to 310"
+    ],
+    correctAnswer: "A"
+  },
+  "aibe17-q70": {
+    question: "Assault or use of criminal force to a woman with intent to outrage her modesty under Section 74 of the Bharatiya Nyaya Sanhita (BNS) is which kind of offence?",
+    options: [
+      "Non - Cognizable and Bailable",
+      "Cognizable and Bailable",
+      "Cognizable and Non - Bailable",
+      "Non - Cognizable and Non - Bailable"
+    ],
+    correctAnswer: "C"
+  },
+  "aibe17-q71": {
+    question: "'A' places men with firearms at the outlets of a building and tells 'Z', that they will fire at 'Z', if 'Z' attempts to leave the building. Under Section 126 of the Bharatiya Nyaya Sanhita (BNS), 'A' is guilty of:",
+    options: [
+      "wrongful confinement",
+      "wrongful restraint",
+      "Both wrongful confinement and wrongful restraint",
+      "None of these"
+    ],
+    correctAnswer: "C"
+  },
+  "aibe17-q72": {
+    question: "Any police officer making an investigation under Section 179 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) cannot require the attendance of a male, at a place other than the place of his residence, who is",
+    options: [
+      "under the age of 15 years and above the age of 60 years",
+      "under the age of 18 years and above the age of 60 years",
+      "under the age of 15 years and above the age of 65 years",
+      "under the age of 18 years and above the age of 65 years"
+    ],
+    correctAnswer: "A"
+  },
+  "aibe17-q85": {
+    question: "The doctrine of 'Res Gestae' is codified in which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    options: [
+      "Section 3",
+      "Section 4",
+      "Section 8",
+      "Section 9"
+    ],
+    correctAnswer: "B"
+  },
+  "aibe17-q86": {
+    question: "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    options: [
+      "Section 15",
+      "Section 16",
+      "Section 17",
+      "Section 19"
+    ],
+    correctAnswer: "C"
+  },
+  "aibe17-q88": {
+    question: "Which of the following is not a 'document' according to Section 2(1)(d) of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    options: [
+      "An inscription on a metal plate or stone",
+      "A map or plan",
+      "A caricature",
+      "None of these"
+    ],
+    correctAnswer: "D"
+  },
+  "aibe17-q90": {
+    question: "Which of the following is not 'Secondary evidence' as per Section 58 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    options: [
+      "Copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy, and copies compared with such copies.",
+      "Copies made from or compared with the original.",
+      "Oral accounts of the contents of a document given by some person who has himself seen it.",
+      "Copies not certified under Section 58."
+    ],
+    correctAnswer: "D"
+  },
+  "aibe17-q93": {
+    question: "The Arbitral Tribunal shall not be bound by ------ in the determination of rules of procedure.",
+    options: [
+      "The Code of Civil Procedure, 1908",
+      "The Bharatiya Sakshya Adhiniyam (BSA), 2023",
+      "The Code of Criminal Procedure, 1973 (or BNSS, 2023)",
+      "Both, (The Code of Civil Procedure, 1908) and (The Bharatiya Sakshya Adhiniyam (BSA), 2023)"
+    ],
+    correctAnswer: "D"
+  },
+  "aibe17-q100": {
+    question: "Extra Judicial Confession means ?",
+    options: [
+      "Confessions made either to Police or person other than Judges and Magistrates.",
+      "Confessions made before Magistrates.",
+      "Confessions made before Judges.",
+      "None of these"
+    ],
+    correctAnswer: "A"
+  },
+
   // AIBE 18
   "aibe18-q66": {
     question: "What penalty is prescribed for persons illegally practising in courts under the Advocate Act, 1961 ?",
@@ -166,7 +348,7 @@ function parseSequential(text, examName, year) {
       while ((match = regex.exec(cleanedText)) !== null) {
         const candidateIdx = match.index;
         const contextBefore = cleanedText.substring(Math.max(0, candidateIdx - 20), candidateIdx).toLowerCase();
-        const isFalsePositive = /\b(article|section|sec|art|order|rule|act|no|class|grade|level)\b/i.test(contextBefore);
+        const isFalsePositive = /\b(article|section|sec|art|order|rule|act|no|class|grade|level)[\s-]*$/i.test(contextBefore);
         if (!isFalsePositive) {
           foundIndex = candidateIdx;
           break;
@@ -309,6 +491,7 @@ function parseAK19(text) {
   const ak19 = parseAK19(akText);
 
   const files = [
+    { name: 'AIBE 17', file: 'aibe-exam-paper-17-1480.pdf', hasEmbeddedAns: true, year: 2023 },
     { name: 'AIBE 18', file: 'aibe-exam-paper-18-1481.pdf', hasEmbeddedAns: true, year: 2023 },
     { name: 'AIBE 19', file: 'aibe-exam-paper-19-2-1693.pdf', hasEmbeddedAns: false, answerKey: ak19, year: 2024 },
     { name: 'AIBE 20', file: 'aibe-exam-paper-20-3-1694.pdf', hasEmbeddedAns: true, year: 2025 }
