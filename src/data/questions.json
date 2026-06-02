@@ -12,8 +12,7 @@
       "Does permit any person related to either party to that"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q2",
@@ -28,8 +27,7 @@
       "Non cognizable and bailable"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q3",
@@ -44,8 +42,7 @@
       "None of the above"
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe16-q4",
@@ -60,8 +57,7 @@
       "(a) (b) (c)"
     ],
     "correctAnswer": "D",
-    "subject": "ADR & Arbitration",
-    "difficulty": "medium"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe16-q5",
@@ -76,8 +72,7 @@
       "Section 2 (12)"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q6",
@@ -92,8 +87,7 @@
       "All of them"
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe16-q7",
@@ -108,8 +102,7 @@
       "Rule of evidence"
     ],
     "correctAnswer": "A",
-    "subject": "Administrative Law",
-    "difficulty": "easy"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe16-q8",
@@ -124,8 +117,7 @@
       "19th January, 1961"
     ],
     "correctAnswer": "A",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe16-q9",
@@ -140,8 +132,7 @@
       "Either under (a) OR under (b)"
     ],
     "correctAnswer": "D",
-    "subject": "Motor Vehicle Law",
-    "difficulty": "medium"
+    "subject": "Motor Vehicle Law"
   },
   {
     "id": "aibe16-q10",
@@ -156,8 +147,7 @@
       "None of the above"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe16-q11",
@@ -172,8 +162,7 @@
       "6 passengers excluding the driver"
     ],
     "correctAnswer": "D",
-    "subject": "Motor Vehicle Law",
-    "difficulty": "medium"
+    "subject": "Motor Vehicle Law"
   },
   {
     "id": "aibe16-q12",
@@ -188,8 +177,7 @@
       "6 members:"
     ],
     "correctAnswer": "B",
-    "subject": "Consumer Law",
-    "difficulty": "easy"
+    "subject": "Consumer Law"
   },
   {
     "id": "aibe16-q13",
@@ -204,8 +192,7 @@
       "Section 24"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q14",
@@ -220,8 +207,7 @@
       "F.K. Hussain Vs Union of India."
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q15",
@@ -236,8 +222,7 @@
       "The control of tr"
     ],
     "correctAnswer": "D",
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe16-q16",
@@ -252,8 +237,7 @@
       "None of the above"
     ],
     "correctAnswer": "B",
-    "subject": "Cyber Law",
-    "difficulty": "easy"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe16-q17",
@@ -268,8 +252,7 @@
       "All of the above"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q18",
@@ -284,8 +267,7 @@
       "All of the above"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q19",
@@ -300,8 +282,7 @@
       "(a) and (b)"
     ],
     "correctAnswer": "D",
-    "subject": "Administrative Law",
-    "difficulty": "medium"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe16-q20",
@@ -316,8 +297,7 @@
       "Certiorari"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q21",
@@ -332,8 +312,7 @@
       "Section 8............ Presidency Small Cause Courts"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q22",
@@ -348,8 +327,7 @@
       "18 months"
     ],
     "correctAnswer": "C",
-    "subject": "Limitation Law",
-    "difficulty": "easy"
+    "subject": "Limitation Law"
   },
   {
     "id": "aibe16-q23",
@@ -357,7 +335,6 @@
     "year": 2021,
     "questionNumber": 23,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, a Chief Judicial Magistrate may pass a sentence of imprisonment:",
     "options": [
       "Not exceeding seven years",
@@ -374,7 +351,6 @@
     "year": 2021,
     "questionNumber": 24,
     "subject": "Criminal Law",
-    "difficulty": "medium",
     "question": "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, if the offence be capital is dealt under:",
     "options": [
       "Section 252 of the Bharatiya Nyaya Sanhita (BNS), 2023",
@@ -398,8 +374,7 @@
       "In crime intention is relevant, motive is irrelevant"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe16-q26",
@@ -414,8 +389,7 @@
       "Dikinson Vs Dads"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe16-q27",
@@ -430,8 +404,7 @@
       "Within 10 months"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe16-q28",
@@ -446,8 +419,7 @@
       "State Government"
     ],
     "correctAnswer": "D",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe16-q29",
@@ -455,7 +427,6 @@
     "year": 2021,
     "questionNumber": 29,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "The bond under Section 128 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (formerly Section 109 CrPC) as security for good behaviour from suspected persons can be executed for a period not exceeding:",
     "options": [
       "Six months",
@@ -472,7 +443,6 @@
     "year": 2021,
     "questionNumber": 30,
     "subject": "Family Law",
-    "difficulty": "easy",
     "question": "The maximum limit of Rs. 500 that could be paid to the wife as maintenance under Section 125 of the Cr.P.C 1973 (now corresponding to Section 144 of the BNSS, 2023) was removed in:",
     "options": [
       "1973",
@@ -496,8 +466,7 @@
       "World institute for Prevention of organized crime"
     ],
     "correctAnswer": "B",
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe16-q32",
@@ -512,8 +481,7 @@
       "Company only"
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe16-q33",
@@ -528,8 +496,7 @@
       "The loss of one party is the gain of other party"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe16-q34",
@@ -544,8 +511,7 @@
       "Discretionary"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q35",
@@ -560,8 +526,7 @@
       "Explanation VIII to Section 11"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q36",
@@ -569,7 +534,6 @@
     "year": 2021,
     "questionNumber": 36,
     "subject": "Constitutional Law",
-    "difficulty": "easy",
     "question": "The famous pronouncement of Delhi High Court regarding the constitutional validity of Section 377 of the Indian Penal Code (dealing with unnatural offences, which has been omitted in the BNS, 2023) was reversed by the Supreme Court in:",
     "options": [
       "NALSA Vs Union of India",
@@ -593,8 +557,7 @@
       "Section 10"
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe16-q38",
@@ -609,8 +572,7 @@
       "All of them"
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe16-q39",
@@ -625,8 +587,7 @@
       "Clause (1) (C)"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q40",
@@ -634,7 +595,6 @@
     "year": 2021,
     "questionNumber": 40,
     "subject": "Evidence Law",
-    "difficulty": "easy",
     "question": "Under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023, admissions are defined?",
     "options": [
       "Section 15",
@@ -658,8 +618,7 @@
       "State of Rajasthan Vs Om prakash"
     ],
     "correctAnswer": "A",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe16-q42",
@@ -674,8 +633,7 @@
       "Thirty days"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q43",
@@ -690,8 +648,7 @@
       "None"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe16-q44",
@@ -699,7 +656,6 @@
     "year": 2021,
     "questionNumber": 44,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Under which Section of the Bharatiya Nyaya Sanhita (BNS), 2023, Professional Negligence is specifically invoked against medical professionals in cases alleging professional negligence?",
     "options": [
       "Section 105",
@@ -716,7 +672,6 @@
     "year": 2021,
     "questionNumber": 45,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "A offers to bribe B, a public servant, as a reward for showing A some favour in the exercise of B's official functions. B accepts the bribe. A has committed the offence of bribing a public servant under which Section of the Prevention of Corruption Act, 1988?",
     "options": [
       "Section 7",
@@ -740,8 +695,7 @@
       "All of the above"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q47",
@@ -756,8 +710,7 @@
       "Shamsher singh Bedi Vs High court of Punjab & Haryana, (1996) 7 SCC 99."
     ],
     "correctAnswer": "B",
-    "subject": "Administrative Law",
-    "difficulty": "medium"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe16-q48",
@@ -772,8 +725,7 @@
       "Effect of memorandum and articles."
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law",
-    "difficulty": "easy"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe16-q49",
@@ -788,8 +740,7 @@
       "120 days"
     ],
     "correctAnswer": "A",
-    "subject": "Corporate Law",
-    "difficulty": "easy"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe16-q50",
@@ -804,8 +755,7 @@
       "All of the above"
     ],
     "correctAnswer": "D",
-    "subject": "Cyber Law",
-    "difficulty": "easy"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe16-q51",
@@ -820,8 +770,7 @@
       "The Workmen Compensation Act, 1986"
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe16-q52",
@@ -836,8 +785,7 @@
       "Rs 1,20,000/-"
     ],
     "correctAnswer": "C",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe16-q53",
@@ -852,8 +800,7 @@
       "Industrial designs"
     ],
     "correctAnswer": "B",
-    "subject": "Intellectual Property",
-    "difficulty": "easy"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe16-q54",
@@ -868,8 +815,7 @@
       "None of the above"
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe16-q55",
@@ -877,7 +823,6 @@
     "year": 2021,
     "questionNumber": 55,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Under Section 173 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, who shall record the information of rape being given by a rape victim?",
     "options": [
       "Officer in charge of the police station",
@@ -894,7 +839,6 @@
     "year": 2021,
     "questionNumber": 56,
     "subject": "Criminal Law",
-    "difficulty": "medium",
     "question": "Under the provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, which of the following is true regarding summons?",
     "options": [
       "Summons can be oral",
@@ -918,8 +862,7 @@
       "Both (A) and (B)"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q58",
@@ -934,8 +877,7 @@
       "I and III"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q59",
@@ -950,8 +892,7 @@
       "151"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q60",
@@ -959,7 +900,6 @@
     "year": 2021,
     "questionNumber": 60,
     "subject": "Evidence Law",
-    "difficulty": "easy",
     "question": "The Bharatiya Sakshya Adhiniyam (BSA), 2023 came into force on:",
     "options": [
       "1st June, 2024",
@@ -983,8 +923,7 @@
       "None of them"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q62",
@@ -992,7 +931,6 @@
     "year": 2021,
     "questionNumber": 62,
     "subject": "Criminal Law",
-    "difficulty": "medium",
     "question": "Under Section 40 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, any private person may arrest any person who:",
     "options": [
       "Commits non - bailable offence in his presence",
@@ -1009,7 +947,6 @@
     "year": 2021,
     "questionNumber": 63,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Under Section 72 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, how long a warrant of arrest shall remain in force?",
     "options": [
       "6 years",
@@ -1033,8 +970,7 @@
       "30%"
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe16-q65",
@@ -1049,8 +985,7 @@
       "17/10 of Annual Value"
     ],
     "correctAnswer": "C",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe16-q66",
@@ -1065,8 +1000,7 @@
       "Summative"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q67",
@@ -1081,8 +1015,7 @@
       "Parliament"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q68",
@@ -1097,8 +1030,7 @@
       "Kedar Nath Vs Gauri Mohamad"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe16-q69",
@@ -1113,8 +1045,7 @@
       "Sec. 56"
     ],
     "correctAnswer": "D",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe16-q70",
@@ -1129,8 +1060,7 @@
       "List of injuries Deemed to Result in Permanent Total Disablement"
     ],
     "correctAnswer": "B",
-    "subject": "Labour Law",
-    "difficulty": "medium"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe16-q71",
@@ -1145,8 +1075,7 @@
       "Both A and B"
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe16-q72",
@@ -1154,7 +1083,6 @@
     "year": 2021,
     "questionNumber": 72,
     "subject": "Evidence Law",
-    "difficulty": "medium",
     "question": "Section 64 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 lays down:",
     "options": [
       "A notice must be given before secondary evidence can be received under Section 60(a) of the BSA, 2023",
@@ -1178,8 +1106,7 @@
       "Where there is no fault there is no remedy"
     ],
     "correctAnswer": "A",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe16-q74",
@@ -1194,8 +1121,7 @@
       "Justice A.S. Anand"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe16-q75",
@@ -1203,7 +1129,6 @@
     "year": 2021,
     "questionNumber": 75,
     "subject": "Criminal Law",
-    "difficulty": "medium",
     "question": "Under the scheme of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, non-cognizable offences are:",
     "options": [
       "Public wrongs",
@@ -1227,8 +1152,7 @@
       "Religion"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q77",
@@ -1243,8 +1167,7 @@
       "B.N. Rao"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q78",
@@ -1259,8 +1182,7 @@
       "Morarji Desai"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q79",
@@ -1268,7 +1190,6 @@
     "year": 2021,
     "questionNumber": 79,
     "subject": "Evidence Law",
-    "difficulty": "hard",
     "question": "When the accused states, \"I will produce the share which I received in such and such robbery\", which of the following are not admissible with regard to Section 23 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 (excluding its proviso)? I. An admission that there was a robbery II. An admission that the accused took part in it III. An admission that he got part of the property IV. A statement as to where the property is",
     "options": [
       "I II and III",
@@ -1292,8 +1213,7 @@
       "None of the above"
     ],
     "correctAnswer": "C",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe16-q81",
@@ -1308,8 +1228,7 @@
       "Kalawati Vs state of HP"
     ],
     "correctAnswer": "A",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe16-q82",
@@ -1324,8 +1243,7 @@
       "Laxmi Vs Krishna"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q83",
@@ -1340,8 +1258,7 @@
       "No fixed rule"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q84",
@@ -1356,8 +1273,7 @@
       "Not affect the execution"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q85",
@@ -1372,8 +1288,7 @@
       "2 years from the date of decree"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe16-q86",
@@ -1388,8 +1303,7 @@
       "18th June, 1955"
     ],
     "correctAnswer": "A",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q87",
@@ -1404,8 +1318,7 @@
       "All of the above"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q88",
@@ -1420,8 +1333,7 @@
       "None"
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe16-q89",
@@ -1436,8 +1348,7 @@
       "8 chapters and 44 Sections"
     ],
     "correctAnswer": "D",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe16-q90",
@@ -1452,8 +1363,7 @@
       "filing PIL alleging it to be in public interest but actually seeking protection of private interest"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q91",
@@ -1468,8 +1378,7 @@
       "All of the above"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q92",
@@ -1477,7 +1386,6 @@
     "year": 2021,
     "questionNumber": 92,
     "subject": "Criminal Law",
-    "difficulty": "hard",
     "question": "Z, under the influence of madness, attempts to kill X. Is Z guilty of an offence? Has X the same right of private defence which he would have if Z were sane?",
     "options": [
       "Z has not committed any offence as per Section 36 of BNS, and X has the same right of private defence",
@@ -1501,8 +1409,7 @@
       "Article 22A"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q94",
@@ -1517,8 +1424,7 @@
       "51st Amendment Act"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe16-q95",
@@ -1533,8 +1439,7 @@
       "Section 7"
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe16-q96",
@@ -1542,7 +1447,6 @@
     "year": 2021,
     "questionNumber": 96,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "As per Section 2(14) of the Bharatiya Nyaya Sanhita (BNS), 2023, the word \"injury\" denotes any harm whatever illegally caused to any person's:",
     "options": [
       "Body",
@@ -1559,7 +1463,6 @@
     "year": 2021,
     "questionNumber": 97,
     "subject": "Criminal Law",
-    "difficulty": "hard",
     "question": "Which of the following cases can be cured under Section 511 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (formerly Section 465 of CrPC)?",
     "options": [
       "Entertaining of complaint without complying with Section 215 and 379 of the BNSS (formerly Sections 195 and 340 of the Cr.P.C)",
@@ -1583,8 +1486,7 @@
       "None of these"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe16-q99",
@@ -1599,8 +1501,7 @@
       "90%"
     ],
     "correctAnswer": "B",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe16-q100",
@@ -1615,8 +1516,7 @@
       "20%"
     ],
     "correctAnswer": "C",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe17-q1",
@@ -1631,8 +1531,7 @@
       "2nd generation (mother), 5th generation (father) )"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q2",
@@ -1647,8 +1546,7 @@
       "Living separately for less than three months."
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q3",
@@ -1663,8 +1561,7 @@
       "Special Marriage Act, 1872 , 1872"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q4",
@@ -1679,8 +1576,7 @@
       "Cancellation of adoption"
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q5",
@@ -1695,8 +1591,7 @@
       "Landlord - Tenant matter"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q6",
@@ -1711,8 +1606,7 @@
       "Justice P. N. Bhagwati"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q7",
@@ -1727,8 +1621,7 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q8",
@@ -1743,8 +1636,7 @@
       "Child marriage"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q9",
@@ -1759,8 +1651,7 @@
       "Writ of Prohibition"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q10",
@@ -1775,8 +1666,7 @@
       "Delegated Legislation"
     ],
     "correctAnswer": "B",
-    "subject": "Administrative Law",
-    "difficulty": "easy"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe17-q11",
@@ -1791,8 +1681,7 @@
       "No one should fear the courts."
     ],
     "correctAnswer": "A",
-    "subject": "Administrative Law",
-    "difficulty": "easy"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe17-q12",
@@ -1807,8 +1696,7 @@
       "The Advocates Act, 1964 , 1964"
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe17-q13",
@@ -1823,8 +1711,7 @@
       "4"
     ],
     "correctAnswer": "B",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe17-q14",
@@ -1839,8 +1726,7 @@
       "Smt. P. Pankajam V. B. H. Chandrashekhar"
     ],
     "correctAnswer": "A",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe17-q15",
@@ -1855,8 +1741,7 @@
       "Getting famous and making wealth"
     ],
     "correctAnswer": "D",
-    "subject": "Administrative Law",
-    "difficulty": "easy"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe17-q16",
@@ -1871,8 +1756,7 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe17-q17",
@@ -1887,8 +1771,7 @@
       "Service Law"
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law",
-    "difficulty": "easy"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe17-q18",
@@ -1903,8 +1786,7 @@
       "Section 7A"
     ],
     "correctAnswer": "B",
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe17-q19",
@@ -1919,8 +1801,7 @@
       "Article 51A (k)"
     ],
     "correctAnswer": "B",
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe17-q20",
@@ -1935,8 +1816,7 @@
       "Only in Supreme Court"
     ],
     "correctAnswer": "C",
-    "subject": "Cyber Law",
-    "difficulty": "easy"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe17-q21",
@@ -1951,8 +1831,7 @@
       "Key Holder"
     ],
     "correctAnswer": "C",
-    "subject": "Cyber Law",
-    "difficulty": "easy"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe17-q22",
@@ -1967,8 +1846,7 @@
       "7"
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe17-q23",
@@ -1983,8 +1861,7 @@
       "90"
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe17-q24",
@@ -1999,8 +1876,7 @@
       "None of these"
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law",
-    "difficulty": "easy"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe17-q25",
@@ -2015,8 +1891,7 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe17-q26",
@@ -2031,8 +1906,7 @@
       "FIR > Summon to Insurance Company > Petition"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe17-q27",
@@ -2047,8 +1921,7 @@
       "Rylands V. Fletcher"
     ],
     "correctAnswer": "C",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe17-q28",
@@ -2063,8 +1936,7 @@
       "Audi alteram partem"
     ],
     "correctAnswer": "A",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe17-q29",
@@ -2079,8 +1951,7 @@
       "100 Crores"
     ],
     "correctAnswer": "B",
-    "subject": "Consumer Law",
-    "difficulty": "easy"
+    "subject": "Consumer Law"
   },
   {
     "id": "aibe17-q30",
@@ -2095,8 +1966,7 @@
       "Language specified in 8th Schedule of the Constitution"
     ],
     "correctAnswer": "B",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe17-q31",
@@ -2111,8 +1981,7 @@
       "Manager"
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe17-q32",
@@ -2127,8 +1996,7 @@
       "Income from other sources"
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe17-q33",
@@ -2143,8 +2011,7 @@
       "Delhi"
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law",
-    "difficulty": "medium"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe17-q34",
@@ -2159,8 +2026,7 @@
       "0%, 5%, 12%, 16%, 28%"
     ],
     "correctAnswer": "C",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe17-q35",
@@ -2175,8 +2041,7 @@
       "High Court"
     ],
     "correctAnswer": "A",
-    "subject": "Consumer Law",
-    "difficulty": "easy"
+    "subject": "Consumer Law"
   },
   {
     "id": "aibe17-q36",
@@ -2191,8 +2056,7 @@
       "If he is in India for a period of 360 days or more during the previous year."
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law",
-    "difficulty": "medium"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe17-q37",
@@ -2207,8 +2071,7 @@
       "None of these"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "hard"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q38",
@@ -2223,8 +2086,7 @@
       "The Tr"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe17-q39",
@@ -2239,8 +2101,7 @@
       "Usufructuary"
     ],
     "correctAnswer": "D",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe17-q40",
@@ -2255,8 +2116,7 @@
       "Harvey V. Facey"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe17-q41",
@@ -2271,8 +2131,7 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "subject": "Contract Law",
-    "difficulty": "medium"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe17-q42",
@@ -2287,8 +2146,7 @@
       "Procured Agent"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe17-q43",
@@ -2303,8 +2161,7 @@
       "1, 2, 3 and 4"
     ],
     "correctAnswer": "D",
-    "subject": "Property Law",
-    "difficulty": "medium"
+    "subject": "Property Law"
   },
   {
     "id": "aibe17-q44",
@@ -2319,8 +2176,7 @@
       "All of these"
     ],
     "correctAnswer": "D",
-    "subject": "Property Law",
-    "difficulty": "medium"
+    "subject": "Property Law"
   },
   {
     "id": "aibe17-q45",
@@ -2335,8 +2191,7 @@
       "Director - General of Copyright, Designs and Trade Marks"
     ],
     "correctAnswer": "A",
-    "subject": "Intellectual Property",
-    "difficulty": "medium"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe17-q46",
@@ -2351,8 +2206,7 @@
       "Historical Indications"
     ],
     "correctAnswer": "D",
-    "subject": "Intellectual Property",
-    "difficulty": "easy"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe17-q47",
@@ -2367,8 +2221,7 @@
       "None of these"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "hard"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe17-q48",
@@ -2383,8 +2236,7 @@
       "Billing Receipt"
     ],
     "correctAnswer": "D",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe17-q49",
@@ -2399,8 +2251,7 @@
       "54 th Constitutional Amendment"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q50",
@@ -2415,8 +2266,7 @@
       "Golak Nath V. State of Punjab"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q51",
@@ -2431,8 +2281,7 @@
       "Constitutional Right"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q52",
@@ -2440,7 +2289,6 @@
     "year": 2023,
     "questionNumber": 52,
     "subject": "Constitutional Law",
-    "difficulty": "medium",
     "question": "As per Article 16 of the Constitution of India, no citizen shall, on grounds only of ----- or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
     "options": [
       "religion, race, caste, sex, descent, place of birth, residence",
@@ -2463,8 +2311,7 @@
       "5"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q54",
@@ -2479,8 +2326,7 @@
       "Indian"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q55",
@@ -2495,8 +2341,7 @@
       "Article 393"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q56",
@@ -2511,8 +2356,7 @@
       "Part IV"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q57",
@@ -2520,7 +2364,6 @@
     "year": 2023,
     "questionNumber": 57,
     "subject": "Criminal Law",
-    "difficulty": "hard",
     "question": "Under Section 20 and 21 of the Bharatiya Nyaya Sanhita (BNS), nothing is an offence if it is done by a child...",
     "options": [
       "of below seven years of age.",
@@ -2544,8 +2387,7 @@
       "Guilty Motive and Wrongful Act"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe17-q59",
@@ -2553,7 +2395,6 @@
     "year": 2023,
     "questionNumber": 59,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Provisions for the Right of Private Defence are given between Sections ------- of the Bharatiya Nyaya Sanhita (BNS).",
     "options": [
       "Sections 25 to 35",
@@ -2570,7 +2411,6 @@
     "year": 2023,
     "questionNumber": 60,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Consent is not a valid consent under Section 28 of the Bharatiya Nyaya Sanhita (BNS):",
     "options": [
       "If given under fear of injury or misconception of fact.",
@@ -2587,7 +2427,6 @@
     "year": 2023,
     "questionNumber": 61,
     "subject": "Criminal Law",
-    "difficulty": "medium",
     "question": "Causing of the death of a child in the mother's womb is not homicide as provided under...",
     "options": [
       "Explanation III to Section 101 of BNS",
@@ -2604,7 +2443,6 @@
     "year": 2023,
     "questionNumber": 62,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Punishment for Defamation under Section 356 of the Bharatiya Nyaya Sanhita (BNS) is simple imprisonment for a term which may extend to ---------- or with fine or with both.",
     "options": [
       "2 Years",
@@ -2628,8 +2466,7 @@
       "None of these"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q64",
@@ -2644,8 +2481,7 @@
       "Schedule 12"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q65",
@@ -2653,7 +2489,6 @@
     "year": 2023,
     "questionNumber": 65,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "The provisions of 'Plea Bargaining' under Chapter XXIII of the Bharatiya Nagarik Suraksha Sanhita (BNSS) are not applicable if the offence is committed against a child below the age of -------",
     "options": [
       "12 years",
@@ -2670,7 +2505,6 @@
     "year": 2023,
     "questionNumber": 66,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) is \"SECULAR\" in character was observed in which of the following cases (originally decided under Section 125 of CrPC)?",
     "options": [
       "Lalita Kumari V. State of Uttar Pradesh",
@@ -2694,8 +2528,7 @@
       "All of these"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe17-q68",
@@ -2703,7 +2536,6 @@
     "year": 2023,
     "questionNumber": 68,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Which Sections deal with the processes to compel appearance under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "Sections 63 to 93",
@@ -2727,8 +2559,7 @@
       "None of these"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe17-q70",
@@ -2736,7 +2567,6 @@
     "year": 2023,
     "questionNumber": 70,
     "subject": "Criminal Law",
-    "difficulty": "easy",
     "question": "Assault or use of criminal force to a woman with intent to outrage her modesty under Section 74 of the Bharatiya Nyaya Sanhita (BNS) is which kind of offence?",
     "options": [
       "Non - Cognizable and Bailable",
@@ -2753,7 +2583,6 @@
     "year": 2023,
     "questionNumber": 71,
     "subject": "Criminal Law",
-    "difficulty": "medium",
     "question": "'A' places men with firearms at the outlets of a building and tells 'Z', that they will fire at 'Z', if 'Z' attempts to leave the building. Under Section 126 of the Bharatiya Nyaya Sanhita (BNS), 'A' is guilty of:",
     "options": [
       "wrongful confinement",
@@ -2770,7 +2599,6 @@
     "year": 2023,
     "questionNumber": 72,
     "subject": "Criminal Law",
-    "difficulty": "medium",
     "question": "Any police officer making an investigation under Section 179 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) cannot require the attendance of a male, at a place other than the place of his residence, who is",
     "options": [
       "under the age of 15 years and above the age of 60 years",
@@ -2794,8 +2622,7 @@
       "Pay the fine for the same."
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe17-q74",
@@ -2810,8 +2637,7 @@
       "All i, ii, iii, iv are correct."
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe17-q75",
@@ -2826,8 +2652,7 @@
       "None of these"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe17-q76",
@@ -2842,8 +2667,7 @@
       "Both (Approach Superintendent of Police) & (Approach Magistrate by filing Private Complaint) )"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe17-q77",
@@ -2858,8 +2682,7 @@
       "Section 13."
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q78",
@@ -2874,8 +2697,7 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q79",
@@ -2890,8 +2712,7 @@
       "None of these"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q80",
@@ -2906,8 +2727,7 @@
       "Section 28"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q81",
@@ -2922,8 +2742,7 @@
       "45"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q82",
@@ -2938,8 +2757,7 @@
       "First appeal may or may not be in the High Court, Second appeal has to be in the High Court."
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "hard"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q83",
@@ -2954,8 +2772,7 @@
       "Order 41"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q84",
@@ -2970,8 +2787,7 @@
       "Anywhere in India"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q85",
@@ -2979,7 +2795,6 @@
     "year": 2023,
     "questionNumber": 85,
     "subject": "Evidence Law",
-    "difficulty": "easy",
     "question": "The doctrine of 'Res Gestae' is codified in which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Section 3",
@@ -2996,7 +2811,6 @@
     "year": 2023,
     "questionNumber": 86,
     "subject": "Evidence Law",
-    "difficulty": "easy",
     "question": "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Section 15",
@@ -3020,8 +2834,7 @@
       "Evidence received by Tribunal."
     ],
     "correctAnswer": "A",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe17-q88",
@@ -3029,7 +2842,6 @@
     "year": 2023,
     "questionNumber": 88,
     "subject": "Evidence Law",
-    "difficulty": "easy",
     "question": "Which of the following is not a 'document' according to Section 2(1)(d) of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "An inscription on a metal plate or stone",
@@ -3053,8 +2865,7 @@
       "114B"
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe17-q90",
@@ -3062,7 +2873,6 @@
     "year": 2023,
     "questionNumber": 90,
     "subject": "Evidence Law",
-    "difficulty": "hard",
     "question": "Which of the following is not 'Secondary evidence' as per Section 58 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy, and copies compared with such copies.",
@@ -3086,8 +2896,7 @@
       "None of these"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q92",
@@ -3102,8 +2911,7 @@
       "Order 23"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe17-q93",
@@ -3111,7 +2919,6 @@
     "year": 2023,
     "questionNumber": 93,
     "subject": "ADR & Arbitration",
-    "difficulty": "hard",
     "question": "The Arbitral Tribunal shall not be bound by ------ in the determination of rules of procedure.",
     "options": [
       "The Code of Civil Procedure, 1908",
@@ -3135,8 +2942,7 @@
       "Section 9"
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe17-q95",
@@ -3151,8 +2957,7 @@
       "1, 2 and 3"
     ],
     "correctAnswer": "A",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe17-q96",
@@ -3167,8 +2972,7 @@
       "shall be made by majority of its members"
     ],
     "correctAnswer": "D",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe17-q97",
@@ -3183,8 +2987,7 @@
       "Section 25"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q98",
@@ -3199,8 +3002,7 @@
       "7 years"
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q99",
@@ -3215,8 +3017,7 @@
       "None of these"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe17-q100",
@@ -3224,7 +3025,6 @@
     "year": 2023,
     "questionNumber": 100,
     "subject": "Evidence Law",
-    "difficulty": "easy",
     "question": "Extra Judicial Confession means ?",
     "options": [
       "Confessions made either to Police or person other than Judges and Magistrates.",
@@ -3248,8 +3048,7 @@
       "United Kingdom"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q2",
@@ -3264,8 +3063,7 @@
       "Prohibition"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q3",
@@ -3280,8 +3078,7 @@
       "58th Amendment"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q4",
@@ -3296,8 +3093,7 @@
       "Keshavan Madhava Menon v State of Bombay"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q5",
@@ -3312,8 +3108,7 @@
       "The Constitution (Eleventh Amendment) Act, 1961 , 1961"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q6",
@@ -3328,8 +3123,7 @@
       "Article 256 256"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q7",
@@ -3344,8 +3138,7 @@
       "25 years"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q8",
@@ -3360,8 +3153,7 @@
       "State of Kerala v N.M. Thomas"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q9",
@@ -3376,8 +3168,7 @@
       "Article 19(1)(g) )"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q10",
@@ -3392,8 +3183,7 @@
       "Doctrine of Pith and substance"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q11",
@@ -3408,8 +3198,7 @@
       "Only i & ii"
     ],
     "correctAnswer": null,
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q12",
@@ -3424,8 +3213,7 @@
       "6"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q13",
@@ -3440,8 +3228,7 @@
       "No offence"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q14",
@@ -3456,8 +3243,7 @@
       "In case when assault is reflecting intention of gratifying unnatural lust."
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q15",
@@ -3472,8 +3258,7 @@
       "Section 370 370"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q16",
@@ -3488,8 +3273,7 @@
       "Grievous hurt"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q17",
@@ -3504,8 +3288,7 @@
       "Imprisonment for life and fine"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q18",
@@ -3520,8 +3303,7 @@
       "Imprisonment upto 7 years, or with fine or with both."
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q19",
@@ -3536,8 +3318,7 @@
       "Sentence of imprisonment for a term exceeding ten years."
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q20",
@@ -3552,8 +3333,7 @@
       "Section 43 43"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q21",
@@ -3568,8 +3348,7 @@
       "Wife is forcefully removed from the house."
     ],
     "correctAnswer": null,
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q22",
@@ -3584,8 +3363,7 @@
       "Recording of first information report by police officer."
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q23",
@@ -3600,8 +3378,7 @@
       "Can be used by the police officers to refresh memory."
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q24",
@@ -3616,8 +3393,7 @@
       "A is accused of giving false evidence at a given time and place."
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q25",
@@ -3632,8 +3408,7 @@
       "Offence punishable with life imprisonment."
     ],
     "correctAnswer": null,
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q26",
@@ -3648,8 +3423,7 @@
       "Section 395 395"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q27",
@@ -3664,8 +3438,7 @@
       "i, ii & iii"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q28",
@@ -3680,8 +3453,7 @@
       "Hold an inquest under Section 176 of the CrPC."
     ],
     "correctAnswer": null,
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe18-q29",
@@ -3696,8 +3468,7 @@
       "Neither (A) nor (B) ( B)"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q30",
@@ -3712,8 +3483,7 @@
       "Suit relating to rights of worship."
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q31",
@@ -3728,8 +3498,7 @@
       "Section 11, Explanation VIII VIII"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q32",
@@ -3744,8 +3513,7 @@
       "Woman to whom Section 132 of the Civil Procedure Code, 1908 does not apply."
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "hard"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q33",
@@ -3760,8 +3528,7 @@
       "Dismissal of suit because plaintiff did not apply for fresh summons within given time limit once it returned unserved."
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "hard"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q34",
@@ -3776,8 +3543,7 @@
       "No limit prescribed"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q35",
@@ -3792,8 +3558,7 @@
       "Such provision does not exist."
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q36",
@@ -3808,8 +3573,7 @@
       "Any other expenses incurred in connection with the proceedings."
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q37",
@@ -3824,8 +3588,7 @@
       "Thirty days from the date of receiving of summons."
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q38",
@@ -3840,8 +3603,7 @@
       "Order XLI Rule 25 25"
     ],
     "correctAnswer": null,
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe18-q39",
@@ -3856,8 +3618,7 @@
       "Whatever said by A or B a day before the day of beating."
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe18-q40",
@@ -3872,8 +3633,7 @@
       "Section 27 27"
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe18-q41",
@@ -3888,8 +3648,7 @@
       "Section 37 37"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe18-q42",
@@ -3904,8 +3663,7 @@
       "Contents of documents may be proved either by primary or by secondary evidence."
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "hard"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe18-q43",
@@ -3920,8 +3678,7 @@
       "Leading question cannot be asked in cross - examination."
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe18-q44",
@@ -3936,8 +3693,7 @@
       "State of Punjab v Jagir Singh"
     ],
     "correctAnswer": "A",
-    "subject": "Cyber Law",
-    "difficulty": "easy"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe18-q45",
@@ -3952,8 +3708,7 @@
       "Confession is statement written or oral which is direct admission of suit."
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe18-q46",
@@ -3968,8 +3723,7 @@
       "Section 32 (5) 32 (5)"
     ],
     "correctAnswer": "A",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe18-q47",
@@ -3984,8 +3738,7 @@
       "Negotiation"
     ],
     "correctAnswer": "D",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe18-q48",
@@ -4000,8 +3753,7 @@
       "No appeal against the award of Lok Adalat is allowed."
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "medium"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe18-q49",
@@ -4016,8 +3768,7 @@
       "Arbitration agreement may be for all or certain disputes which may arise between the parties."
     ],
     "correctAnswer": "A",
-    "subject": "ADR & Arbitration",
-    "difficulty": "hard"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe18-q50",
@@ -4032,8 +3783,7 @@
       "When he becomes ineligible as per the seventh schedule of the Act."
     ],
     "correctAnswer": "C",
-    "subject": "ADR & Arbitration",
-    "difficulty": "medium"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe18-q51",
@@ -4048,8 +3798,7 @@
       "When they are not descended from a common ancestor at all."
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q52",
@@ -4064,8 +3813,7 @@
       "The parties should not be suffering from epilepsy."
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q53",
@@ -4080,8 +3828,7 @@
       "Only iii"
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q54",
@@ -4096,8 +3843,7 @@
       "Irregular marriage"
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q55",
@@ -4112,8 +3858,7 @@
       "Talaq - a - hasan"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q56",
@@ -4128,8 +3873,7 @@
       "Neither i nor ii is correct."
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q57",
@@ -4144,8 +3888,7 @@
       "The Hindu Succession (Amendment) Act, 2006 , 2006"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q58",
@@ -4160,8 +3903,7 @@
       "No specific age difference required."
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe18-q59",
@@ -4176,8 +3918,7 @@
       "Kalyaneshwari v Union of India"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q60",
@@ -4192,8 +3933,7 @@
       "Justice H.R. Khanna"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q61",
@@ -4208,8 +3948,7 @@
       "Against Municipal Corporation"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q62",
@@ -4224,8 +3963,7 @@
       "Petitions against police for refusing to register a case."
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe18-q63",
@@ -4240,8 +3978,7 @@
       "Maneka Gandhi v Union of India"
     ],
     "correctAnswer": "A",
-    "subject": "Administrative Law",
-    "difficulty": "medium"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe18-q64",
@@ -4256,8 +3993,7 @@
       "S.K. Sarkar v Vinay Chandra Mishra"
     ],
     "correctAnswer": "B",
-    "subject": "Administrative Law",
-    "difficulty": "easy"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe18-q65",
@@ -4272,8 +4008,7 @@
       "Garner"
     ],
     "correctAnswer": "B",
-    "subject": "Administrative Law",
-    "difficulty": "easy"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe18-q66",
@@ -4281,7 +4016,6 @@
     "year": 2023,
     "questionNumber": 66,
     "subject": "Legal Ethics",
-    "difficulty": "easy",
     "question": "What penalty is prescribed for persons illegally practising in courts under the Advocate Act, 1961 ?",
     "options": [
       "Imprisonment upto 3 months",
@@ -4304,8 +4038,7 @@
       "Section 49 49"
     ],
     "correctAnswer": "D",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe18-q68",
@@ -4320,8 +4053,7 @@
       "An Advocate shall not influence the decision of a court by any improper me"
     ],
     "correctAnswer": null,
-    "subject": "Legal Ethics",
-    "difficulty": "hard"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe18-q69",
@@ -4336,8 +4068,7 @@
       "Supreme Court of India"
     ],
     "correctAnswer": "D",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe18-q70",
@@ -4352,8 +4083,7 @@
       "In case the paid - up share capital of an OPC exceeds one crore rupees."
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law",
-    "difficulty": "hard"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe18-q71",
@@ -4368,8 +4098,7 @@
       "7"
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law",
-    "difficulty": "easy"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe18-q72",
@@ -4384,8 +4113,7 @@
       "M.C. Mehta v Kamal Nath"
     ],
     "correctAnswer": null,
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe18-q73",
@@ -4400,8 +4128,7 @@
       "M.C. Mehta v Kamal Nath"
     ],
     "correctAnswer": "D",
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe18-q74",
@@ -4416,8 +4143,7 @@
       "Maneka Gandhi v Union of India"
     ],
     "correctAnswer": "A",
-    "subject": "Cyber Law",
-    "difficulty": "easy"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe18-q75",
@@ -4432,8 +4158,7 @@
       "Electronic record sent by an unauthorized person."
     ],
     "correctAnswer": "D",
-    "subject": "Cyber Law",
-    "difficulty": "medium"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe18-q76",
@@ -4448,8 +4173,7 @@
       "26 weeks"
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe18-q77",
@@ -4464,8 +4188,7 @@
       "8 weeks"
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe18-q78",
@@ -4480,8 +4203,7 @@
       "250 workers"
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe18-q79",
@@ -4496,8 +4218,7 @@
       "A supervisor drawing monthly salary of 12,000."
     ],
     "correctAnswer": "C",
-    "subject": "Labour Law",
-    "difficulty": "medium"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe18-q80",
@@ -4512,8 +4233,7 @@
       "Winfield"
     ],
     "correctAnswer": "D",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe18-q81",
@@ -4528,8 +4248,7 @@
       "Volenti non fit injuria"
     ],
     "correctAnswer": "A",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe18-q82",
@@ -4544,8 +4263,7 @@
       "Section 128 128"
     ],
     "correctAnswer": "A",
-    "subject": "Motor Vehicle Law",
-    "difficulty": "easy"
+    "subject": "Motor Vehicle Law"
   },
   {
     "id": "aibe18-q83",
@@ -4560,8 +4278,7 @@
       "8"
     ],
     "correctAnswer": "C",
-    "subject": "Consumer Law",
-    "difficulty": "easy"
+    "subject": "Consumer Law"
   },
   {
     "id": "aibe18-q84",
@@ -4576,8 +4293,7 @@
       "State Consumer Protection Council"
     ],
     "correctAnswer": null,
-    "subject": "Consumer Law",
-    "difficulty": "easy"
+    "subject": "Consumer Law"
   },
   {
     "id": "aibe18-q85",
@@ -4592,8 +4308,7 @@
       "Article 265 265"
     ],
     "correctAnswer": "D",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe18-q86",
@@ -4608,8 +4323,7 @@
       "Start from 1st January, 2020 and will end on 31st March, 2020"
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law",
-    "difficulty": "medium"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe18-q87",
@@ -4624,8 +4338,7 @@
       "186 days"
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe18-q88",
@@ -4640,8 +4353,7 @@
       "Section 3 3"
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe18-q89",
@@ -4656,8 +4368,7 @@
       "Any act or omission law specifically declares to be fraudulent."
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "medium"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe18-q90",
@@ -4672,8 +4383,7 @@
       "Contract is voidable at the option of A & B."
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe18-q91",
@@ -4688,8 +4398,7 @@
       "Prohibitory injunction"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe18-q92",
@@ -4704,8 +4413,7 @@
       "Section 76 76"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "medium"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe18-q93",
@@ -4720,8 +4428,7 @@
       "No default rate prescribed."
     ],
     "correctAnswer": "C",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe18-q94",
@@ -4736,8 +4443,7 @@
       "Neither (A) nor (B) ( B)"
     ],
     "correctAnswer": "B",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe18-q95",
@@ -4752,8 +4458,7 @@
       "Cheque"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe18-q96",
@@ -4768,8 +4473,7 @@
       "20% per annum"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe18-q97",
@@ -4784,8 +4488,7 @@
       "24 months"
     ],
     "correctAnswer": null,
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe18-q98",
@@ -4800,8 +4503,7 @@
       "100%"
     ],
     "correctAnswer": null,
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe18-q99",
@@ -4816,8 +4518,7 @@
       "Registered designs"
     ],
     "correctAnswer": "C",
-    "subject": "Intellectual Property",
-    "difficulty": "easy"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe18-q100",
@@ -4832,8 +4533,7 @@
       "50 years"
     ],
     "correctAnswer": "B",
-    "subject": "Intellectual Property",
-    "difficulty": "easy"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe19-q1",
@@ -4848,8 +4548,7 @@
       "R.D. Shetty vs. International Airport Authority"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q2",
@@ -4864,8 +4563,7 @@
       "Basheshar Nath vs. I.T. Commissioner"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q3",
@@ -4880,8 +4578,7 @@
       "85"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q4",
@@ -4896,8 +4593,7 @@
       "All of these"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q5",
@@ -4912,8 +4608,7 @@
       "Doctrine of Colour able Legislation"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q6",
@@ -4928,8 +4623,7 @@
       "Public Accounts Committee"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q7",
@@ -4944,8 +4638,7 @@
       "Article 135 135"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q8",
@@ -4960,8 +4653,7 @@
       "102"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q9",
@@ -4976,8 +4668,7 @@
       "102"
     ],
     "correctAnswer": "C",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe19-q10",
@@ -4992,8 +4683,7 @@
       "Rajya Sabha"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q11",
@@ -5008,8 +4698,7 @@
       "When it is used in self - defence."
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q12",
@@ -5024,8 +4713,7 @@
       "One thousand rupees"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q13",
@@ -5040,8 +4728,7 @@
       "(1) (2) and (3)"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q14",
@@ -5056,8 +4743,7 @@
       "Attempt to commit culpable homicide under Section 308 of IPC"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q15",
@@ -5072,8 +4758,7 @@
       "Voluntarily causing grievous hurt under Section 325 of IPC"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q16",
@@ -5088,8 +4773,7 @@
       "Burglary"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q17",
@@ -5104,8 +4788,7 @@
       "72"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q18",
@@ -5120,8 +4803,7 @@
       "304"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q19",
@@ -5136,8 +4818,7 @@
       "Only (2)"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q20",
@@ -5152,8 +4833,7 @@
       "Counter FIR ( FIR)"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q21",
@@ -5168,8 +4848,7 @@
       "5"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q22",
@@ -5184,8 +4863,7 @@
       "366"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q23",
@@ -5200,8 +4878,7 @@
       "530"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q24",
@@ -5216,8 +4893,7 @@
       "1"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q25",
@@ -5232,8 +4908,7 @@
       "398"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q26",
@@ -5248,8 +4923,7 @@
       "45"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q27",
@@ -5264,8 +4938,7 @@
       "86"
     ],
     "correctAnswer": "D",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q28",
@@ -5280,8 +4953,7 @@
       "356"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe19-q29",
@@ -5296,8 +4968,7 @@
       "A committee of local advocates"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q30",
@@ -5312,8 +4983,7 @@
       "Order 6, Rule 17 - Amendment of Pleadings"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q31",
@@ -5328,8 +4998,7 @@
       "Section 104 104"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q32",
@@ -5344,8 +5013,7 @@
       "90 Days"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q33",
@@ -5360,8 +5028,7 @@
       "Section 130 130"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q34",
@@ -5376,8 +5043,7 @@
       "Tr"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q35",
@@ -5392,8 +5058,7 @@
       "Order XXXVI XXXVI"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q36",
@@ -5408,8 +5073,7 @@
       "Section 9 9"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q37",
@@ -5424,8 +5088,7 @@
       "Section 86 86"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe19-q38",
@@ -5433,7 +5096,6 @@
     "year": 2024,
     "questionNumber": 38,
     "subject": "Civil Procedure",
-    "difficulty": "easy",
     "question": "Which section of the CPC provides for the payment of compensatory costs ?",
     "options": [
       "Section 35",
@@ -5456,8 +5118,7 @@
       "Promise"
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q40",
@@ -5472,8 +5133,7 @@
       "Section 15 of the BSA, 2023 15"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q41",
@@ -5488,8 +5148,7 @@
       "The fingerprints must be verfied by at least two independent forensic experts before being presented in court."
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "hard"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q42",
@@ -5504,8 +5163,7 @@
       "Scientific evidence"
     ],
     "correctAnswer": "A",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q43",
@@ -5520,8 +5178,7 @@
       "168"
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q44",
@@ -5536,8 +5193,7 @@
       "Only in criminal cases"
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q45",
@@ -5552,8 +5208,7 @@
       "The document's authenticity is independent of the official's official character"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law",
-    "difficulty": "hard"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q46",
@@ -5568,8 +5223,7 @@
       "Leading questions are permitted during cross - examination and when matters are introductory, undisputed, or sufficiently proved."
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "hard"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe19-q47",
@@ -5584,8 +5238,7 @@
       "It is always court - ordered."
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "medium"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe19-q48",
@@ -5600,8 +5253,7 @@
       "The parties can resolve the appointment issue by opting for conciliation instead of arbitration."
     ],
     "correctAnswer": "A",
-    "subject": "ADR & Arbitration",
-    "difficulty": "hard"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe19-q49",
@@ -5616,8 +5268,7 @@
       "It is often less expensive than court proceedings."
     ],
     "correctAnswer": "C",
-    "subject": "ADR & Arbitration",
-    "difficulty": "medium"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe19-q50",
@@ -5632,8 +5283,7 @@
       "Section 11 of the Act deals with the enforcement of arbitral awards, not the appeal."
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "hard"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe19-q51",
@@ -5648,8 +5298,7 @@
       "Sections 3(f) (i) \\ & (ii), Explanation to section 3 (g), 5(v) , (5( v )"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q52",
@@ -5664,8 +5313,7 @@
       "None of these"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q53",
@@ -5680,8 +5328,7 @@
       "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition."
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q54",
@@ -5696,8 +5343,7 @@
       "Mitakshara"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q55",
@@ -5712,8 +5358,7 @@
       "The parent who is financially more stable is granted custody automatically."
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q56",
@@ -5728,8 +5373,7 @@
       "a - iii, b - fiw, c - i, d - ii, e - vi"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q57",
@@ -5744,8 +5388,7 @@
       "Fatima claim maintenance for herself and her children indefinitely, irrespective of her remarriage or the children's age."
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q58",
@@ -5760,8 +5403,7 @@
       "9"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe19-q59",
@@ -5776,8 +5418,7 @@
       "The Narasimha Rao case"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q60",
@@ -5792,8 +5433,7 @@
       "The Court ruled that only government agencies, and not social activists, could file petitions concerning labour rights."
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q61",
@@ -5808,8 +5448,7 @@
       "Both statements are false."
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q62",
@@ -5824,8 +5463,7 @@
       "(A) is false, and (R) is true."
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe19-q63",
@@ -5840,8 +5478,7 @@
       "A judicial decision made by an administrative tribunal."
     ],
     "correctAnswer": "C",
-    "subject": "Administrative Law",
-    "difficulty": "medium"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe19-q64",
@@ -5856,8 +5493,7 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "subject": "Administrative Law",
-    "difficulty": "medium"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe19-q65",
@@ -5865,7 +5501,6 @@
     "year": 2024,
     "questionNumber": 65,
     "subject": "Administrative Law",
-    "difficulty": "easy",
     "question": "Which of the following is/are not ground/s for judicial review of administrative action ?",
     "options": [
       "Only (2)",
@@ -5888,8 +5523,7 @@
       "A situation where personal interests conflict with professional duties"
     ],
     "correctAnswer": "D",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe19-q67",
@@ -5904,8 +5538,7 @@
       "It amounts to the Contempt of Court under the Contempt of Courts Act, 1971"
     ],
     "correctAnswer": "A",
-    "subject": "Legal Ethics",
-    "difficulty": "hard"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe19-q68",
@@ -5920,8 +5553,7 @@
       "(1), (3) and (4)"
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics",
-    "difficulty": "medium"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe19-q69",
@@ -5936,8 +5568,7 @@
       "(2) and (4)"
     ],
     "correctAnswer": "B",
-    "subject": "Legal Ethics",
-    "difficulty": "medium"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe19-q70",
@@ -5952,8 +5583,7 @@
       "(1), (2), (3) and (4)"
     ],
     "correctAnswer": "C",
-    "subject": "Corporate Law",
-    "difficulty": "easy"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe19-q71",
@@ -5968,8 +5598,7 @@
       "Reduction in share Capital"
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law",
-    "difficulty": "easy"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe19-q72",
@@ -5984,8 +5613,7 @@
       "It is the violation of Section 23 of the Water (Prevention and Control of Pollution) Act, 1974."
     ],
     "correctAnswer": "A",
-    "subject": "Environmental Law",
-    "difficulty": "hard"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe19-q73",
@@ -6000,8 +5628,7 @@
       "The Environment (Protection) Act, 1986 , 1986"
     ],
     "correctAnswer": "D",
-    "subject": "Environmental Law",
-    "difficulty": "medium"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe19-q74",
@@ -6016,8 +5643,7 @@
       "(1), (2), (3) and (4)"
     ],
     "correctAnswer": "B",
-    "subject": "Cyber Law",
-    "difficulty": "easy"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe19-q75",
@@ -6032,8 +5658,7 @@
       "The customers do not have any legal remedy under the Information Technology Act, 2000."
     ],
     "correctAnswer": "C",
-    "subject": "Cyber Law",
-    "difficulty": "hard"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe19-q76",
@@ -6048,8 +5673,7 @@
       "(1), (2) and ( 3)"
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe19-q77",
@@ -6064,8 +5688,7 @@
       "(1), (2), (3) and (4)"
     ],
     "correctAnswer": "C",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe19-q78",
@@ -6080,8 +5703,7 @@
       "National Tribunal"
     ],
     "correctAnswer": "B",
-    "subject": "Labour Law",
-    "difficulty": "easy"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe19-q79",
@@ -6096,8 +5718,7 @@
       "The termination violated the provisions under the Industrial Disputes Act, 1947, hence the compensation will be awarded."
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
-    "difficulty": "hard"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe19-q80",
@@ -6112,8 +5733,7 @@
       "Res - ipsa - loquitur"
     ],
     "correctAnswer": "B",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe19-q81",
@@ -6121,7 +5741,6 @@
     "year": 2024,
     "questionNumber": 81,
     "subject": "Law of Torts",
-    "difficulty": "medium",
     "question": "Mr B told Mr A to leave the premises in occupation of Mr A. When Mr A refused then Mr B collected some of his workmen who mustered round Mr A. They tucking up their sleeves and aprons and threatened to break the plaintiff's neck, he did not leave. Under which tortious act, Mr A can file the case?",
     "options": [
       "False Imprisonment",
@@ -6144,8 +5763,7 @@
       "Act of Necessity"
     ],
     "correctAnswer": "A",
-    "subject": "Law of Torts",
-    "difficulty": "easy"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe19-q83",
@@ -6160,8 +5778,7 @@
       "Negligence"
     ],
     "correctAnswer": "C",
-    "subject": "Law of Torts",
-    "difficulty": "medium"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe19-q84",
@@ -6176,8 +5793,7 @@
       "Contributory negligence."
     ],
     "correctAnswer": "D",
-    "subject": "Law of Torts",
-    "difficulty": "medium"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe19-q85",
@@ -6192,8 +5808,7 @@
       "Section 10 E 10 E"
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe19-q86",
@@ -6208,8 +5823,7 @@
       "It is an unlawful act to treat a personal expenditure."
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law",
-    "difficulty": "medium"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe19-q87",
@@ -6224,8 +5838,7 @@
       "Both the Statements are correct."
     ],
     "correctAnswer": "D",
-    "subject": "Tax Law",
-    "difficulty": "hard"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe19-q88",
@@ -6240,8 +5853,7 @@
       "Allowance under Section 10(1) of the Income Tax Act"
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law",
-    "difficulty": "medium"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe19-q89",
@@ -6256,8 +5868,7 @@
       "Section 2(g) )"
     ],
     "correctAnswer": "D",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe19-q90",
@@ -6272,8 +5883,7 @@
       "140 - 143"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe19-q91",
@@ -6288,8 +5898,7 @@
       "No suit can be brought against \"A\" as there in no breach of contract. \"A\""
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "hard"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe19-q92",
@@ -6304,8 +5913,7 @@
       "It amounts to conditions precedent in the Tr"
     ],
     "correctAnswer": "B",
-    "subject": "Property Law",
-    "difficulty": "medium"
+    "subject": "Property Law"
   },
   {
     "id": "aibe19-q93",
@@ -6320,8 +5928,7 @@
       "A complaint in writing is to be made by Mr. Sharma in the court within two months for the dishonour of the cheque."
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "hard"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe19-q94",
@@ -6336,8 +5943,7 @@
       "Perpetual injunction"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe19-q95",
@@ -6352,8 +5958,7 @@
       "A person entitled to the possession of specific immovable property may recover it in the manner provided by the Code of Civil Procedure, 1908."
     ],
     "correctAnswer": "D",
-    "subject": "Contract Law",
-    "difficulty": "hard"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe19-q96",
@@ -6368,8 +5973,7 @@
       "Section 7 7"
     ],
     "correctAnswer": "A",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe19-q97",
@@ -6384,8 +5988,7 @@
       "(i), (ii) & (iii)"
     ],
     "correctAnswer": "A",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe19-q98",
@@ -6400,8 +6003,7 @@
       "Land Acquisition Act, 1874 , 1874"
     ],
     "correctAnswer": "C",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe19-q99",
@@ -6416,8 +6018,7 @@
       "No, trademark infringement can only occur if there is identical copying."
     ],
     "correctAnswer": "A",
-    "subject": "Intellectual Property",
-    "difficulty": "medium"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe19-q100",
@@ -6432,8 +6033,7 @@
       "10 years from the date of first safe Scan QR code for watching video solution of AIBE Exam 19 th 2024 Click to Buy MPADPO Live + Recorded cou rse"
     ],
     "correctAnswer": "C",
-    "subject": "Intellectual Property",
-    "difficulty": "medium"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe20-q1",
@@ -6448,8 +6048,7 @@
       "The bailiff is required to compensate the evicted person"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q2",
@@ -6464,8 +6063,7 @@
       "Twenty - one"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q3",
@@ -6480,8 +6078,7 @@
       "Seventy - five thousand rupees"
     ],
     "correctAnswer": "B",
-    "subject": "Motor Vehicle Law",
-    "difficulty": "easy"
+    "subject": "Motor Vehicle Law"
   },
   {
     "id": "aibe20-q4",
@@ -6496,8 +6093,7 @@
       "(A) is false, but (R) is true."
     ],
     "correctAnswer": "D",
-    "subject": "Labour Law",
-    "difficulty": "hard"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe20-q5",
@@ -6512,8 +6108,7 @@
       "Both the Statements are true"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q6",
@@ -6528,8 +6123,7 @@
       "Three years"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q7",
@@ -6544,8 +6138,7 @@
       "Section 482 482"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q8",
@@ -6560,8 +6153,7 @@
       "60"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q9",
@@ -6576,8 +6168,7 @@
       "Six months"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q10",
@@ -6592,8 +6183,7 @@
       "10 years"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q11",
@@ -6608,8 +6198,7 @@
       "When they are part of an admission made in writing"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q12",
@@ -6624,8 +6213,7 @@
       "The evidence must have been corroborated by expert opinion."
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q13",
@@ -6640,8 +6228,7 @@
       "Judicial and executive acts of public officers"
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q14",
@@ -6656,8 +6243,7 @@
       "There must be proof that each conspirator personally committed the act"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q15",
@@ -6672,8 +6258,7 @@
       "3 months"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q16",
@@ -6688,8 +6273,7 @@
       "Article 45 45"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q17",
@@ -6704,8 +6288,7 @@
       "The Police Authority of the concerned jurisdictionum"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q18",
@@ -6720,8 +6303,7 @@
       "Five Judges of the High Court"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q19",
@@ -6736,8 +6318,7 @@
       "Imprisonment up to seven years and fine up to five lakh rupees"
     ],
     "correctAnswer": "A",
-    "subject": "Intellectual Property",
-    "difficulty": "medium"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe20-q20",
@@ -6752,8 +6333,7 @@
       "Article 32 32"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q21",
@@ -6768,8 +6348,7 @@
       "Six months"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q22",
@@ -6784,8 +6363,7 @@
       "Decree for ₹ 10,000, detention up to one year"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q23",
@@ -6800,8 +6378,7 @@
       "Ninety days"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "hard"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q24",
@@ -6816,8 +6393,7 @@
       "Five years from the date of decree"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q25",
@@ -6832,8 +6408,7 @@
       "The tribunal terminates the proceedings"
     ],
     "correctAnswer": "D",
-    "subject": "ADR & Arbitration",
-    "difficulty": "easy"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe20-q26",
@@ -6848,8 +6423,7 @@
       "Three months"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q27",
@@ -6864,8 +6438,7 @@
       "Three years"
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "easy"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q28",
@@ -6880,8 +6453,7 @@
       "Article 14 14"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q29",
@@ -6896,8 +6468,7 @@
       "Not less than 30 days"
     ],
     "correctAnswer": "C",
-    "subject": "Property Law",
-    "difficulty": "easy"
+    "subject": "Property Law"
   },
   {
     "id": "aibe20-q30",
@@ -6912,8 +6483,7 @@
       "Section 482 of Code of Criminal Procedure, 1973 482"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q31",
@@ -6928,8 +6498,7 @@
       "₹10,00,000"
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe20-q32",
@@ -6944,8 +6513,7 @@
       "When the applicant has requested for an extension of time."
     ],
     "correctAnswer": "B",
-    "subject": "Intellectual Property",
-    "difficulty": "medium"
+    "subject": "Intellectual Property"
   },
   {
     "id": "aibe20-q33",
@@ -6960,8 +6528,7 @@
       "(A) is false, but (R) is true."
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q34",
@@ -6976,8 +6543,7 @@
       "Both the Statements are true"
     ],
     "correctAnswer": "D",
-    "subject": "Evidence Law",
-    "difficulty": "hard"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q35",
@@ -6992,8 +6558,7 @@
       "Leave Travel Allowance given for domestic travel"
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law",
-    "difficulty": "medium"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe20-q36",
@@ -7008,8 +6573,7 @@
       "Both the Statements are true"
     ],
     "correctAnswer": "D",
-    "subject": "Contract Law",
-    "difficulty": "hard"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe20-q37",
@@ -7024,8 +6588,7 @@
       "Neither Conclusion I nor II follows"
     ],
     "correctAnswer": "A",
-    "subject": "Environmental Law",
-    "difficulty": "hard"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe20-q38",
@@ -7040,8 +6603,7 @@
       "50"
     ],
     "correctAnswer": "C",
-    "subject": "Tax Law",
-    "difficulty": "easy"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe20-q39",
@@ -7056,8 +6618,7 @@
       "Bona fide diminution of profits due to acquisition process"
     ],
     "correctAnswer": "D",
-    "subject": "Property Law",
-    "difficulty": "medium"
+    "subject": "Property Law"
   },
   {
     "id": "aibe20-q40",
@@ -7072,8 +6633,7 @@
       "₹3,000"
     ],
     "correctAnswer": "D",
-    "subject": "Civil Procedure",
-    "difficulty": "easy"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q41",
@@ -7088,8 +6648,7 @@
       "When the proposer acknowledges receipt in his records"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law",
-    "difficulty": "medium"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe20-q42",
@@ -7104,8 +6663,7 @@
       "Sixty days' notice"
     ],
     "correctAnswer": "B",
-    "subject": "Property Law",
-    "difficulty": "medium"
+    "subject": "Property Law"
   },
   {
     "id": "aibe20-q43",
@@ -7120,8 +6678,7 @@
       "Three years' imprisonment"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "easy"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe20-q44",
@@ -7136,8 +6693,7 @@
       "Neither Conclusion I nor II follows"
     ],
     "correctAnswer": "C",
-    "subject": "Corporate Law",
-    "difficulty": "hard"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe20-q45",
@@ -7152,8 +6708,7 @@
       "Both the Statements are true"
     ],
     "correctAnswer": "B",
-    "subject": "Cyber Law",
-    "difficulty": "hard"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe20-q46",
@@ -7168,8 +6723,7 @@
       "Neither Conclusion I nor II follows"
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law",
-    "difficulty": "hard"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe20-q47",
@@ -7184,8 +6738,7 @@
       "(A) is false, but (R) is true"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q48",
@@ -7200,8 +6753,7 @@
       "(A) is false, but (R) is true"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "hard"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q49",
@@ -7216,8 +6768,7 @@
       "Neither Statement 1 nor 2 is true"
     ],
     "correctAnswer": "A",
-    "subject": "ADR & Arbitration",
-    "difficulty": "hard"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe20-q50",
@@ -7232,8 +6783,7 @@
       "Neither Conclusion I nor II follows"
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics",
-    "difficulty": "hard"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe20-q51",
@@ -7248,8 +6798,7 @@
       "Both the Statements are true"
     ],
     "correctAnswer": "D",
-    "subject": "Tax Law",
-    "difficulty": "hard"
+    "subject": "Tax Law"
   },
   {
     "id": "aibe20-q52",
@@ -7264,8 +6813,7 @@
       "(A) is false, but (R) is true."
     ],
     "correctAnswer": "A",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q53",
@@ -7280,8 +6828,7 @@
       "It suspends the original proposal until the new term is accepted or rejected by the proposer."
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "hard"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe20-q54",
@@ -7296,8 +6843,7 @@
       "A promise made by a minor upon attaining majority to pay a debt incurred during his minority."
     ],
     "correctAnswer": "A",
-    "subject": "Contract Law",
-    "difficulty": "hard"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe20-q55",
@@ -7312,8 +6858,7 @@
       "Separation of Powers ..."
     ],
     "correctAnswer": "B",
-    "subject": "Administrative Law",
-    "difficulty": "easy"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe20-q56",
@@ -7328,8 +6873,7 @@
       "The parties have not attempted reconciliation through a counselling center."
     ],
     "correctAnswer": "B",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q57",
@@ -7344,8 +6888,7 @@
       "on the date the arbitral tribunal issues notice."
     ],
     "correctAnswer": "C",
-    "subject": "ADR & Arbitration",
-    "difficulty": "medium"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe20-q58",
@@ -7360,8 +6903,7 @@
       "Olga Tellis v. Bombay Municipal Corporation, (1985) 3 SCC 545 545"
     ],
     "correctAnswer": "A",
-    "subject": "Environmental Law",
-    "difficulty": "medium"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe20-q59",
@@ -7376,8 +6918,7 @@
       "M.C. Mehta v. Union of India, AIR 1997 SC 734 734"
     ],
     "correctAnswer": "A",
-    "subject": "Law of Torts",
-    "difficulty": "medium"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe20-q60",
@@ -7392,8 +6933,7 @@
       "Union of India v. G. Ganayutham, (1997) 7 SCC 463 463"
     ],
     "correctAnswer": "C",
-    "subject": "Administrative Law",
-    "difficulty": "hard"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe20-q61",
@@ -7408,8 +6948,7 @@
       "I, II, III and IV"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q62",
@@ -7424,8 +6963,7 @@
       "I, II, III and IV"
     ],
     "correctAnswer": "C",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q63",
@@ -7440,8 +6978,7 @@
       "I, II, III and IV"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure",
-    "difficulty": "medium"
+    "subject": "Civil Procedure"
   },
   {
     "id": "aibe20-q64",
@@ -7456,8 +6993,7 @@
       "Only if it is recorded after the charge sheet is filed"
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "medium"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q65",
@@ -7472,8 +7008,7 @@
       "Section 46 4 6"
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "easy"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q66",
@@ -7488,8 +7023,7 @@
       "A orders goods from B by a letter in which nothing is said as to the time of payment, and accepts the goods on delivery. B sues A for the price. A may show that the goods were supplied on credit for a term still unexpired."
     ],
     "correctAnswer": "B",
-    "subject": "Evidence Law",
-    "difficulty": "hard"
+    "subject": "Evidence Law"
   },
   {
     "id": "aibe20-q67",
@@ -7504,8 +7038,7 @@
       "MI, II, III and IV"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q68",
@@ -7520,8 +7053,7 @@
       "Article 51A (h) 51A (h)"
     ],
     "correctAnswer": "C",
-    "subject": "Environmental Law",
-    "difficulty": "easy"
+    "subject": "Environmental Law"
   },
   {
     "id": "aibe20-q69",
@@ -7536,8 +7068,7 @@
       "None of these"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q70",
@@ -7552,8 +7083,7 @@
       "I, II, III and IV"
     ],
     "correctAnswer": "D",
-    "subject": "Cyber Law",
-    "difficulty": "medium"
+    "subject": "Cyber Law"
   },
   {
     "id": "aibe20-q71",
@@ -7568,8 +7098,7 @@
       "Refusing to grant an interim measure under Section 17."
     ],
     "correctAnswer": "B",
-    "subject": "ADR & Arbitration",
-    "difficulty": "medium"
+    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe20-q72",
@@ -7584,8 +7113,7 @@
       "Not exceeding seven but not less than three members."
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics",
-    "difficulty": "medium"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe20-q73",
@@ -7600,8 +7128,7 @@
       "Section 380 38"
     ],
     "correctAnswer": "B",
-    "subject": "Legal Ethics",
-    "difficulty": "easy"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe20-q74",
@@ -7616,8 +7143,7 @@
       "1 - 4:11 - 1; ill - 3; iv - 2"
     ],
     "correctAnswer": "C",
-    "subject": "Law of Torts",
-    "difficulty": "medium"
+    "subject": "Law of Torts"
   },
   {
     "id": "aibe20-q75",
@@ -7632,8 +7158,7 @@
       "a Chairperson and ten other members."
     ],
     "correctAnswer": "C",
-    "subject": "Consumer Law",
-    "difficulty": "medium"
+    "subject": "Consumer Law"
   },
   {
     "id": "aibe20-q76",
@@ -7648,8 +7173,7 @@
       "Minerva Mills Ltd. v. Union of India, AIR 1980 SC 1789 , AIR 1980 SC 1789"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q77",
@@ -7664,8 +7188,7 @@
       "Article 255 255"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q78",
@@ -7680,8 +7203,7 @@
       "I, II, III and IV"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q79",
@@ -7696,8 +7218,7 @@
       "Legislative enactment by the Parliament, and then executive action of the Union of India."
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q80",
@@ -7712,8 +7233,7 @@
       "Yes, because it is pronounced in open court"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q81",
@@ -7728,8 +7248,7 @@
       "Residuary power"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q82",
@@ -7737,7 +7256,6 @@
     "year": 2025,
     "questionNumber": 82,
     "subject": "Constitutional Law",
-    "difficulty": "medium",
     "question": "The Supreme Court of India has declared that 'Right to Information' is a fundamental right of every citizen of India. Which of the following stated provisions is used as source of the fundamental right given by the Supreme Court?",
     "options": [
       "Article 19 (1) (b), Constitution of India",
@@ -7760,8 +7278,7 @@
       "Schedule XB) X"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law",
-    "difficulty": "easy"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q84",
@@ -7776,8 +7293,7 @@
       "All Statements are true"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "medium"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q85",
@@ -7792,8 +7308,7 @@
       "The respective High Courts can take up the matter of such a contempt under whose jurisdiction the lower court falls."
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q86",
@@ -7808,8 +7323,7 @@
       "circulating scandalous pamphlets against a sitting Chief Justice.de estosis"
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics",
-    "difficulty": "hard"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe20-q87",
@@ -7824,8 +7338,7 @@
       "- 1; ii - 2; iii - 4; iv - 3"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "medium"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q88",
@@ -7840,8 +7353,7 @@
       "The entire unpaid portion is to be paid by the surety first approached"
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law",
-    "difficulty": "medium"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe20-q89",
@@ -7856,8 +7368,7 @@
       "When the property is held as co - owner in common with the plaintiff"
     ],
     "correctAnswer": "A",
-    "subject": "Contract Law",
-    "difficulty": "medium"
+    "subject": "Contract Law"
   },
   {
     "id": "aibe20-q90",
@@ -7872,8 +7383,7 @@
       "Both the Statements are true to the loin w"
     ],
     "correctAnswer": "D",
-    "subject": "Administrative Law",
-    "difficulty": "hard"
+    "subject": "Administrative Law"
   },
   {
     "id": "aibe20-q91",
@@ -7888,8 +7398,7 @@
       "(A) is false, but (R) is true."
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q92",
@@ -7904,8 +7413,7 @@
       "₹ 1,00,000"
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law",
-    "difficulty": "medium"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe20-q93",
@@ -7920,8 +7428,7 @@
       "By suspending the punishment until further clarification is made"
     ],
     "correctAnswer": "A",
-    "subject": "Criminal Law",
-    "difficulty": "medium"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q94",
@@ -7936,8 +7443,7 @@
       "invalid, only if the notice is not displayed in the establishment."
     ],
     "correctAnswer": "B",
-    "subject": "Labour Law",
-    "difficulty": "hard"
+    "subject": "Labour Law"
   },
   {
     "id": "aibe20-q95",
@@ -7952,8 +7458,7 @@
       "A person who uses furniture bought by a relative with the latter's consent."
     ],
     "correctAnswer": "C",
-    "subject": "Consumer Law",
-    "difficulty": "hard"
+    "subject": "Consumer Law"
   },
   {
     "id": "aibe20-q96",
@@ -7968,8 +7473,7 @@
       "(A) is false, but (R) is true."
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law",
-    "difficulty": "hard"
+    "subject": "Constitutional Law"
   },
   {
     "id": "aibe20-q97",
@@ -7984,8 +7488,7 @@
       "Neither Conclusion I nor II follows"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law",
-    "difficulty": "hard"
+    "subject": "Family Law"
   },
   {
     "id": "aibe20-q98",
@@ -8000,8 +7503,7 @@
       "The place where the applicant ordinarily resides or carries on business."
     ],
     "correctAnswer": "D",
-    "subject": "Motor Vehicle Law",
-    "difficulty": "medium"
+    "subject": "Motor Vehicle Law"
   },
   {
     "id": "aibe20-q99",
@@ -8016,8 +7518,7 @@
       "Fifty years of imprisonment"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law",
-    "difficulty": "easy"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe20-q100",
@@ -8032,7 +7533,6 @@
       "Tr"
     ],
     "correctAnswer": "C",
-    "subject": "Labour Law",
-    "difficulty": "medium"
+    "subject": "Labour Law"
   }
 ]

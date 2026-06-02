@@ -34,13 +34,6 @@
 .eb-track { flex: 1; height: 6px; background: var(--bg-tertiary); border-radius: var(--radius-full); overflow: hidden; }
 .eb-fill { height: 100%; background: var(--gold-500); border-radius: var(--radius-full); }
 .eb-count { font-size: 0.82rem; font-weight: 600; color: var(--text-primary); min-width: 20px; text-align: right; }
-
-.diff-chips { display: flex; gap: 0.5rem; flex-wrap: wrap; }
-.diff-chip { font-size: 0.82rem; padding: 0.35rem 0.75rem; border-radius: var(--radius-full); font-weight: 500; }
-.diff-chip.easy { background: rgba(52,211,153,0.1); color: #34d399; }
-.diff-chip.medium { background: rgba(251,191,36,0.1); color: #fbbf24; }
-.diff-chip.hard { background: rgba(248,113,113,0.1); color: #f87171; }
-
 .acts-list { display: flex; flex-direction: column; gap: 0.35rem; }
 .act-item { display: flex; justify-content: space-between; align-items: center; padding: 0.4rem 0.65rem; background: var(--bg-tertiary); border-radius: var(--radius-sm); }
 .act-name { font-size: 0.85rem; text-transform: capitalize; }

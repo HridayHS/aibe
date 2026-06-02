@@ -43,9 +43,6 @@ SUBJECTS.forEach(subject => {
   const byExam = {}
   qs.forEach(q => { byExam[q.exam] = (byExam[q.exam] || 0) + 1 })
 
-  const diffDist = { easy: 0, medium: 0, hard: 0 }
-  qs.forEach(q => diffDist[q.difficulty]++)
-
   const provisions = extractProvisions(qs)
 
   // Key Acts mentioned
@@ -79,7 +76,6 @@ SUBJECTS.forEach(subject => {
   subjectNotes[subject] = {
     totalQuestions: qs.length,
     examBreakdown: byExam,
-    difficultyDist: diffDist,
     weightage: Math.round((qs.length / unique.length) * 100),
     provisions,
     keyActs,
@@ -161,16 +157,6 @@ export default function Notes() {
                         <span className="eb-count">{count}</span>
                       </div>
                     ))}
-                  </div>
-                </div>
-
-                {/* Difficulty */}
-                <div className="note-section">
-                  <h4>Difficulty Distribution</h4>
-                  <div className="diff-chips">
-                    <span className="diff-chip easy">Easy: {note.difficultyDist.easy}</span>
-                    <span className="diff-chip medium">Medium: {note.difficultyDist.medium}</span>
-                    <span className="diff-chip hard">Hard: {note.difficultyDist.hard}</span>
                   </div>
                 </div>
 

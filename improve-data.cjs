@@ -63,45 +63,7 @@ questions.filter(q => q.subject === 'Miscellaneous' && q.set === 'A').forEach(q 
   console.log(`  [${q.exam} Q${q.questionNumber}] ${q.question.substring(0, 100)}...`);
 });
 
-// 3. Rebalance difficulty
-// Current: 211 easy, 64 medium, 9 hard — way too skewed
-// New heuristic: based on question length, option complexity, and legal specificity
-let diffChanges = { easy: 0, medium: 0, hard: 0 };
-
-questions.forEach(q => {
-  const text = q.question + ' ' + q.options.join(' ');
-  const len = text.length;
-  const hasNegative = /\b(not|except|incorrect|false|wrong|neither)\b/i.test(q.question);
-  const hasAssert = /assertion|reason|statement.*statement/i.test(q.question);
-  const hasMultiPart = /\b(i\.|ii\.|iii\.|iv\.|\(a\).*\(b\).*\(c\)|both.*and)\b/i.test(text);
-  const hasProviso = /proviso|explanation|exception|provided that/i.test(text);
-  const optionLen = q.options.reduce((s, o) => s + o.length, 0);
-  
-  let score = 0;
-  if (len > 400) score += 2;
-  else if (len > 250) score += 1;
-  if (hasNegative) score += 1;
-  if (hasAssert) score += 2;
-  if (hasMultiPart) score += 2;
-  if (hasProviso) score += 1;
-  if (optionLen > 200) score += 1;
-  if (q.options.some(o => o.length > 80)) score += 1;
-  
-  const oldDiff = q.difficulty;
-  if (score >= 4) q.difficulty = 'hard';
-  else if (score >= 2) q.difficulty = 'medium';
-  else q.difficulty = 'easy';
-  
-  if (oldDiff !== q.difficulty) diffChanges[q.difficulty]++;
-});
-
-// Count new distribution
-const newDiff = { easy: 0, medium: 0, hard: 0 };
-questions.forEach(q => newDiff[q.difficulty]++);
-console.log('\nDifficulty rebalanced:');
-console.log('  Before: 211 easy, 64 medium, 9 hard');
-console.log('  After:', newDiff);
-console.log('  Changes:', diffChanges);
+// 3. Rebalance difficulty is completely removed (feature dropped)
 
 // Save
 fs.writeFileSync('src/data/questions.json', JSON.stringify(questions, null, 2));
@@ -119,14 +81,4 @@ unique.forEach(q => {
 });
 fs.writeFileSync('src/data/trends.json', JSON.stringify(trends, null, 2));
 
-// Difficulty
-const byExam = {}, bySubject = {};
-unique.forEach(q => {
-  if (!byExam[q.exam]) byExam[q.exam] = { easy:0, medium:0, hard:0 };
-  byExam[q.exam][q.difficulty]++;
-  if (!bySubject[q.subject]) bySubject[q.subject] = { easy:0, medium:0, hard:0 };
-  bySubject[q.subject][q.difficulty]++;
-});
-fs.writeFileSync('src/data/difficulty.json', JSON.stringify({ byExam, bySubject }, null, 2));
-
-console.log('Regenerated trends.json and difficulty.json');
+console.log('Regenerated trends.json');

@@ -17,7 +17,6 @@ questions.forEach(q => {
     front: q.question,
     back: q.options[ansIdx] || q.options[0],
     exam: q.exam,
-    difficulty: q.difficulty,
   })
 })
 

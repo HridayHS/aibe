@@ -35,7 +35,6 @@ export const PLACEHOLDER_QUESTIONS = [
     options: ['Right to livelihood', 'Right to education', 'Right to shelter', 'All of the above'],
     correctAnswer: 'D',
     subject: 'Constitutional Law',
-    difficulty: 'easy',
   },
   {
     id: 'aibe20-a-q2',
@@ -47,7 +46,6 @@ export const PLACEHOLDER_QUESTIONS = [
     options: ['Murder', 'Culpable homicide', 'Theft', 'Robbery'],
     correctAnswer: 'A',
     subject: 'Criminal Law',
-    difficulty: 'easy',
   },
   {
     id: 'aibe20-a-q3',
@@ -59,7 +57,6 @@ export const PLACEHOLDER_QUESTIONS = [
     options: ['Section 10', 'Section 11', 'Section 12', 'Section 13'],
     correctAnswer: 'B',
     subject: 'Civil Procedure',
-    difficulty: 'medium',
   },
 ];
 

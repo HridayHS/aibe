@@ -606,7 +606,6 @@ function parseSequential(text, examName, year) {
         year: year,
         questionNumber: qnum,
         subject: 'Constitutional Law',
-        difficulty: 'medium',
         ...OVERRIDES[qid]
       });
       continue;
@@ -689,8 +688,7 @@ function parseSequential(text, examName, year) {
           question: questionText,
           options: [optA, optB, optC, optD],
           correctAnswer: answer,
-          subject: 'Constitutional Law',
-          difficulty: 'medium'
+          subject: 'Constitutional Law'
         });
       }
     }
