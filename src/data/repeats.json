@@ -1,7 +1,7 @@
 {
   "clusters": [
     {
-      "id": "repeat-1",
+      "id": "repeat-5",
       "subject": "Civil Procedure",
       "exams": [
         "AIBE 19",
@@ -58,7 +58,91 @@
       ]
     },
     {
+      "id": "repeat-1",
+      "subject": "Criminal Law",
+      "exams": [
+        "AIBE 20",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 302"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe20-a-q7",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 7,
+          "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Code of Criminal Procedure, 1973, will the case primarily fall?",
+          "options": [
+            "Section 27",
+            "Section 125",
+            "Section 302",
+            "Section 482"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "aibe19-a-q15",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 15,
+          "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evidence of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed?",
+          "options": [
+            "Murder under Section 302 of IPC",
+            "Culpable homicide not amounting to murder under Section 304 of IPC",
+            "Causing death by negligence under Section 304A of IPC",
+            "Voluntarily causing grievous hurt under Section 325 of IPC"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
       "id": "repeat-2",
+      "subject": "Evidence Law",
+      "exams": [
+        "AIBE 20",
+        "AIBE 19"
+      ],
+      "sharedConcepts": [
+        "section 46"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe20-a-q65",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 65,
+          "question": "Which Section of The Bharatiya Sakshya Adhiniyam, 2023 pertains to opinions of experts?",
+          "options": [
+            "Section 38",
+            "Section 39",
+            "Section 36",
+            "Section 46"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe19-a-q44",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 44,
+          "question": "According to Section 46 of Bharatiya Sakshya Adhiniyam, when character evidence is relevant in civil cases?",
+          "options": [
+            "Always relevant to prove conduct",
+            "Only when related to other relevant fact",
+            "Never relevant",
+            "Only in criminal cases"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "id": "repeat-3",
       "subject": "Evidence Law",
       "exams": [
         "AIBE 19",
@@ -101,7 +185,92 @@
       ]
     },
     {
-      "id": "repeat-3",
+      "id": "repeat-4",
+      "subject": "Civil Procedure",
+      "exams": [
+        "AIBE 19",
+        "AIBE 18"
+      ],
+      "sharedConcepts": [
+        "section 132"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe19-a-q33",
+          "exam": "AIBE 19",
+          "year": 2024,
+          "questionNumber": 33,
+          "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court?",
+          "options": [
+            "Section 132",
+            "(B) Section 133",
+            "Section 128",
+            "Section 130"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "aibe18-a-q32",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 32,
+          "question": "In which of the following situations a court will not issue summons for per- sonal appearance to the defendant?",
+          "options": [
+            "If defendant resides within the local limit of the court’s jurisdiction.",
+            "If defendant resides within 40 miles from the court.",
+            "If defendant resides 250 miles away from the court in an area having public conveyance available.",
+            "Woman to whom Section 132 of the Civil Procedure Code, 1908 does not apply."
+          ],
+          "correctAnswer": null
+        }
+      ]
+    },
+    {
+      "id": "repeat-6",
+      "subject": "Contract Law",
+      "exams": [
+        "AIBE 20",
+        "AIBE 18"
+      ],
+      "sharedConcepts": [
+        "negotiable instruments",
+        "negotiable instrument"
+      ],
+      "importance": "high",
+      "questions": [
+        {
+          "id": "aibe20-a-q36",
+          "exam": "AIBE 20",
+          "year": 2025,
+          "questionNumber": 36,
+          "question": "Read the given statements and choose the correct option. Statement 1: Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually received. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct?",
+          "options": [
+            "Both Statements 1 and 2 are false",
+            "Only Statement 1 is true",
+            "Only Statement 2 is true",
+            "Both the Statements are true"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "aibe18-a-q95",
+          "exam": "AIBE 18",
+          "year": 2023,
+          "questionNumber": 95,
+          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881?",
+          "options": [
+            "Promissory note",
+            "Hundi",
+            "Bill of exchange",
+            "Cheque"
+          ],
+          "correctAnswer": null
+        }
+      ]
+    },
+    {
+      "id": "repeat-7",
       "subject": "ADR & Arbitration",
       "exams": [
         "AIBE 20",
@@ -144,7 +313,7 @@
       ]
     },
     {
-      "id": "repeat-4",
+      "id": "repeat-8",
       "subject": "Family Law",
       "exams": [
         "AIBE 19",
@@ -187,7 +356,7 @@
       ]
     },
     {
-      "id": "repeat-5",
+      "id": "repeat-9",
       "subject": "Tax Law",
       "exams": [
         "AIBE 19",
@@ -233,10 +402,18 @@
   "hotTopics": [
     {
       "subject": "Civil Procedure",
-      "repeats": 1
+      "repeats": 2
     },
     {
       "subject": "Evidence Law",
+      "repeats": 2
+    },
+    {
+      "subject": "Criminal Law",
+      "repeats": 1
+    },
+    {
+      "subject": "Contract Law",
       "repeats": 1
     },
     {
@@ -252,6 +429,6 @@
       "repeats": 1
     }
   ],
-  "totalClusters": 5,
-  "totalQuestions": 11
+  "totalClusters": 9,
+  "totalQuestions": 19
 }
