@@ -5,15 +5,8 @@ import './Trends.css'
 
 const COLORS = ['#818cf8', '#f87171', '#34d399', '#fbbf24', '#f472b6', '#a78bfa', '#fb923c', '#38bdf8', '#4ade80', '#e879f9', '#22d3ee', '#94a3b8', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899', '#14b8a6', '#6366f1', '#d946ef']
 
-// Get unique questions (Set A only) for AIBE 20 and 19
-const uniqueQs = []
-const seen = new Set()
-questions.forEach(q => {
-  if (q.set === 'A' || (q.exam === 'AIBE 18' && q.set === 'C')) {
-    const key = `${q.exam}-${q.questionNumber}`
-    if (!seen.has(key)) { seen.add(key); uniqueQs.push(q) }
-  }
-})
+// Unique questions (already unique in questions.json)
+const uniqueQs = questions
 
 // Subject distribution across all exams
 const subjectCounts = {}

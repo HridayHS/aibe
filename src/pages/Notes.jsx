@@ -2,15 +2,8 @@ import { useState } from 'react'
 import questions from '../data/questions.json'
 import './Notes.css'
 
-// Generate revision notes from question data analysis
-const unique = []
-const seen = new Set()
-questions.forEach(q => {
-  if (q.set === 'A') {
-    const key = `${q.exam}-${q.questionNumber}`
-    if (!seen.has(key)) { seen.add(key); unique.push(q) }
-  }
-})
+// Revision notes from unique question data
+const unique = questions
 
 // Extract key provisions mentioned in questions
 function extractProvisions(qs) {

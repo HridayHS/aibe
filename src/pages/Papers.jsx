@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import './Papers.css'
 
@@ -23,101 +24,117 @@ const exams = [
     sets: [
       { code: 'A', pdf: 'aibe-18-set-a.pdf' },
     ],
-    totalQ: 100, hasAnswers: false },
+    totalQ: 100, hasAnswers: true },
 ]
 
 export default function Papers() {
-  const getCount = (exam, set) => questions.filter(q => q.exam === exam && q.set === set).length
+  const getCount = (exam) => questions.filter(q => q.exam === exam).length
 
   return (
     <div className="papers-page">
       <div className="page-header">
         <h1>Question Papers</h1>
-        <p>Access AIBE exam papers — extracted questions and original PDFs</p>
+        <p>Access AIBE exam papers — practice online or download original PDFs</p>
       </div>
 
       <div className="papers-list">
-        {exams.map(exam => (
-          <div key={exam.id} className="paper-card glass-card">
-            <div className="paper-header">
-              <div>
-                <h2 className="paper-name">{exam.name}</h2>
-                <span className="paper-date">{exam.date}</span>
+        {exams.map(exam => {
+          const count = getCount(exam.name)
+          return (
+            <div key={exam.id} className="paper-card glass-card">
+              <div className="paper-header">
+                <div>
+                  <h2 className="paper-name">{exam.name}</h2>
+                  <span className="paper-date">{exam.date}</span>
+                </div>
+                <div className="paper-meta">
+                  <span className="tag tag-gold">{count} Questions Extracted</span>
+                  {exam.hasAnswers && <span className="tag tag-green">Answer Key Verified ✓</span>}
+                </div>
               </div>
-              <div className="paper-meta">
-                <span className="tag tag-gold">{exam.totalQ} Questions</span>
-                {exam.hasAnswers && <span className="tag tag-green">Answer Key ✓</span>}
-              </div>
-            </div>
 
-            <div className="sets-grid">
-              {exam.sets.map(set => {
-                const count = getCount(exam.name, set.code)
-                return (
-                  <div key={set.code} className="set-card">
-                    <div className="set-top">
-                      <div className="set-label">Set {set.code}</div>
-                      <div className="set-actions">
-                        <a href={PDF_BASE + set.pdf} target="_blank" rel="noopener noreferrer" className="pdf-btn view" title="View PDF">
+              {/* Extraction progress bar */}
+              <div className="paper-progress-section">
+                <div className="progress-labels">
+                  <span>Data Coverage</span>
+                  <span>{count}% complete</span>
+                </div>
+                <div className="set-bar">
+                  <div className="set-fill" style={{ width: `${count}%` }} />
+                </div>
+              </div>
+
+              {/* Action Buttons */}
+              <div className="paper-actions-row">
+                <Link to="/mock-test" className="btn btn-primary">
+                  📝 Start Mock Test
+                </Link>
+                <Link to="/questions" className="btn btn-secondary">
+                  🔍 Browse Questions
+                </Link>
+              </div>
+
+              {/* PDF Downloads */}
+              <div className="paper-pdfs-section">
+                <h4>Original Question Paper PDFs</h4>
+                <div className="pdf-links-list">
+                  {exam.sets.map(set => (
+                    <div key={set.code} className="pdf-link-item">
+                      <span className="pdf-set-label">Set {set.code} Original PDF</span>
+                      <div className="pdf-action-buttons">
+                        <a href={PDF_BASE + set.pdf} target="_blank" rel="noopener noreferrer" className="pdf-btn-link view">
                           👁️ View
                         </a>
-                        <a href={PDF_BASE + set.pdf} download className="pdf-btn download" title="Download PDF">
-                          ⬇️
+                        <a href={PDF_BASE + set.pdf} download className="pdf-btn-link download">
+                          ⬇️ Download
                         </a>
                       </div>
                     </div>
-                    <div className="set-count">{count} questions extracted</div>
-                    <div className="set-bar">
-                      <div className="set-fill" style={{ width: `${count}%` }} />
+                  ))}
+                  {exam.answerKeyPdf && (
+                    <div className="pdf-link-item answer-key-item">
+                      <span className="pdf-set-label">Official Answer Key PDF</span>
+                      <div className="pdf-action-buttons">
+                        <a href={PDF_BASE + exam.answerKeyPdf} target="_blank" rel="noopener noreferrer" className="pdf-btn-link view">
+                          📋 View Key
+                        </a>
+                      </div>
                     </div>
-                  </div>
-                )
-              })}
-            </div>
-
-            {exam.answerKeyPdf && (
-              <div className="ak-link">
-                <a href={PDF_BASE + exam.answerKeyPdf} target="_blank" rel="noopener noreferrer" className="pdf-btn view">
-                  📋 View Answer Key PDF
-                </a>
+                  )}
+                </div>
               </div>
-            )}
 
-            <div className="paper-subjects">
-              <h4>Subject Breakdown (Set {exam.sets[0].code})</h4>
-              <div className="subject-chips">
-                {getSubjectBreakdown(exam.name, exam.sets[0].code).map(({ subject, count }) => (
-                  <span key={subject} className="subject-chip">
-                    {subject}: <strong>{count}</strong>
-                  </span>
-                ))}
+              {/* Subject Breakdown */}
+              <div className="paper-subjects">
+                <h4>Subject Breakdown</h4>
+                <div className="subject-chips">
+                  {getSubjectBreakdown(exam.name).map(({ subject, count }) => (
+                    <span key={subject} className="subject-chip">
+                      {subject}: <strong>{count}</strong>
+                    </span>
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
-        ))}
+          )
+        })}
       </div>
 
       <div className="papers-note glass-card">
         <h3>📋 Note on Data Coverage</h3>
         <p>
-          <strong>AIBE 20:</strong> Sets A & D are text-based PDFs (fully extracted). Sets B & C are scanned images.
-        </p>
-        <p>
-          <strong>AIBE 19:</strong> All 4 sets fully extracted with official answer key.
-        </p>
-        <p>
-          <strong>AIBE 18:</strong> Set A fully extracted. No official answer key available.
+          We maintain a unified database of unique questions for each exam year. Duplicate questions across different sets have been consolidated for maximum study efficiency.
         </p>
         <p style={{ color: 'var(--text-tertiary)', fontSize: '0.85rem', marginTop: '0.5rem' }}>
-          All original PDFs are available for viewing/download above as a failsafe.
+          Original PDFs for all sets are provided above for reference.
         </p>
       </div>
     </div>
   )
 }
 
-function getSubjectBreakdown(exam, set) {
-  const qs = questions.filter(q => q.exam === exam && q.set === set)
+function getSubjectBreakdown(exam) {
+  const qs = questions.filter(q => q.exam === exam)
   const counts = {}
   qs.forEach(q => { counts[q.subject] = (counts[q.subject] || 0) + 1 })
   return Object.entries(counts).map(([subject, count]) => ({ subject, count })).sort((a, b) => b.count - a.count)

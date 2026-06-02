@@ -14,7 +14,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-a-q36",
+          "id": "aibe19-q36",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 36,
@@ -28,7 +28,7 @@
           "correctAnswer": "A"
         },
         {
-          "id": "aibe18-a-q30",
+          "id": "aibe18-q30",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 30,
@@ -42,7 +42,7 @@
           "correctAnswer": "A"
         },
         {
-          "id": "aibe18-a-q31",
+          "id": "aibe18-q31",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 31,
@@ -70,7 +70,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe20-a-q7",
+          "id": "aibe20-q7",
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 7,
@@ -84,7 +84,7 @@
           "correctAnswer": "A"
         },
         {
-          "id": "aibe19-a-q15",
+          "id": "aibe19-q15",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 15,
@@ -112,7 +112,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-a-q14",
+          "id": "aibe19-q14",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 14,
@@ -126,7 +126,7 @@
           "correctAnswer": "B"
         },
         {
-          "id": "aibe18-a-q26",
+          "id": "aibe18-q26",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 26,
@@ -154,7 +154,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe20-a-q65",
+          "id": "aibe20-q65",
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 65,
@@ -168,7 +168,7 @@
           "correctAnswer": "B"
         },
         {
-          "id": "aibe19-a-q44",
+          "id": "aibe19-q44",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 44,
@@ -197,7 +197,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-a-q39",
+          "id": "aibe19-q39",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 39,
@@ -211,7 +211,7 @@
           "correctAnswer": "B"
         },
         {
-          "id": "aibe18-a-q40",
+          "id": "aibe18-q40",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 40,
@@ -239,21 +239,21 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-a-q33",
+          "id": "aibe19-q33",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 33,
           "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court?",
           "options": [
             "Section 132",
-            "(B) Section 133",
+            "Section 133",
             "Section 128",
             "Section 130"
           ],
           "correctAnswer": "B"
         },
         {
-          "id": "aibe18-a-q32",
+          "id": "aibe18-q32",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 32,
@@ -282,7 +282,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe20-a-q71",
+          "id": "aibe20-q71",
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 71,
@@ -296,7 +296,7 @@
           "correctAnswer": "B"
         },
         {
-          "id": "aibe19-a-q50",
+          "id": "aibe19-q50",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 50,
@@ -325,21 +325,21 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-a-q53",
+          "id": "aibe19-q53",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 53,
           "question": "Aarti and Rajesh have been married for five years. Over time, Aarti has been subjected 1 continuous cruelty by Rajesh, which has led to emotional and mental distress. Aarti decide to file for divorce on the grounds of cruelty under Section 13(1)(ia) of the Hindu Marriag Act, 1955. Which of the following statements is true regarding the grounds for divorce under the Hind Marriage Act?",
           "options": [
             "Aarti can only seek divorce on the grounds of adultery.",
-            "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental physical cruelty.",
+            "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental or physical cruelty.",
             "Aarti cannot seek divorce on the grounds of cruelty as it is not recognized under the Hindu Marriage Act.",
             "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition. 54.On matters where Dayabhaga is silent, what prevails? (A) The local customs (B) The Smritis (C) The Shrutis (D) Mitakshara"
           ],
           "correctAnswer": "B"
         },
         {
-          "id": "aibe18-a-q53",
+          "id": "aibe18-q53",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 53,
@@ -368,7 +368,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe19-a-q85",
+          "id": "aibe19-q85",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 85,
@@ -382,7 +382,7 @@
           "correctAnswer": "A"
         },
         {
-          "id": "aibe18-a-q88",
+          "id": "aibe18-q88",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 88,
@@ -411,7 +411,7 @@
       "importance": "high",
       "questions": [
         {
-          "id": "aibe20-a-q36",
+          "id": "aibe20-q36",
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 36,
@@ -425,7 +425,7 @@
           "correctAnswer": "D"
         },
         {
-          "id": "aibe18-a-q95",
+          "id": "aibe18-q95",
           "exam": "AIBE 18",
           "year": 2023,
           "questionNumber": 95,

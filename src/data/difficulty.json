@@ -40,7 +40,7 @@
     "Constitutional Law": {
       "easy": 21,
       "medium": 8,
-      "hard": 6
+      "hard": 5
     },
     "Civil Procedure": {
       "easy": 19,
@@ -50,7 +50,7 @@
     "Intellectual Property": {
       "easy": 1,
       "medium": 3,
-      "hard": 1
+      "hard": 2
     },
     "ADR & Arbitration": {
       "easy": 3,
@@ -63,7 +63,7 @@
       "hard": 6
     },
     "Property Law": {
-      "easy": 6,
+      "easy": 7,
       "medium": 2,
       "hard": 1
     },
@@ -98,7 +98,7 @@
       "hard": 3
     },
     "Administrative Law": {
-      "easy": 5,
+      "easy": 4,
       "medium": 5,
       "hard": 1
     },

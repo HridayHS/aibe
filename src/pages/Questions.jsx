@@ -11,7 +11,6 @@ export default function Questions() {
   const [examFilter, setExamFilter] = useState('all')
   const [subjectFilter, setSubjectFilter] = useState('all')
   const [diffFilter, setDiffFilter] = useState('all')
-  const [setFilter, setSetFilter] = useState('A')
   const [showAnswer, setShowAnswer] = useState({})
   const [page, setPage] = useState(1)
   const perPage = 20
@@ -21,14 +20,13 @@ export default function Questions() {
       if (examFilter !== 'all' && q.exam !== examFilter) return false
       if (subjectFilter !== 'all' && q.subject !== subjectFilter) return false
       if (diffFilter !== 'all' && q.difficulty !== diffFilter) return false
-      if (q.set !== setFilter && !(q.exam === 'AIBE 18' && q.set === 'C')) return false
       if (search) {
         const s = search.toLowerCase()
         if (!q.question.toLowerCase().includes(s) && !q.options.some(o => o.toLowerCase().includes(s))) return false
       }
       return true
     })
-  }, [search, examFilter, subjectFilter, diffFilter, setFilter])
+  }, [search, examFilter, subjectFilter, diffFilter])
 
   const totalPages = Math.ceil(filtered.length / perPage)
   const paged = filtered.slice((page - 1) * perPage, page * perPage)
@@ -75,14 +73,6 @@ export default function Questions() {
               <option value="all">All</option>
               {DIFFICULTIES.map(d => <option key={d} value={d}>{d.charAt(0).toUpperCase() + d.slice(1)}</option>)}
             </select>
-          </div>
-          <div className="filter-group">
-            <label>Set</label>
-            <div className="set-chips">
-              {['A', 'B', 'C', 'D'].map(s => (
-                <button key={s} className={`filter-chip ${setFilter === s ? 'active' : ''}`} onClick={() => { setSetFilter(s); setPage(1) }}>{s}</button>
-              ))}
-            </div>
           </div>
         </div>
       </div>

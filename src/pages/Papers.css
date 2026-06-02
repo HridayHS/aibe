@@ -2,24 +2,118 @@
 .papers-list { display: flex; flex-direction: column; gap: 1.5rem; margin-bottom: 1.5rem; }
 .paper-card { padding: 1.5rem; }
 .paper-card:hover { transform: none; }
-.paper-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem; }
 .paper-name { font-size: 1.5rem; color: var(--gold-300); margin-bottom: 0.25rem; }
 .paper-date { font-size: 0.85rem; color: var(--text-tertiary); }
 .paper-meta { display: flex; gap: 0.5rem; }
-.sets-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 0.75rem; margin-bottom: 1.25rem; }
-.set-card { background: var(--bg-tertiary); border-radius: var(--radius-md); padding: 0.85rem; }
-.set-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.25rem; }
-.set-label { font-weight: 600; font-size: 0.95rem; }
-.set-actions { display: flex; gap: 0.35rem; }
-.pdf-btn { font-size: 0.72rem; padding: 0.25rem 0.55rem; border-radius: var(--radius-sm); text-decoration: none; transition: all var(--transition-fast); cursor: pointer; }
-.pdf-btn.view { background: rgba(201,168,76,0.1); color: var(--gold-300); border: 1px solid rgba(201,168,76,0.2); }
-.pdf-btn.view:hover { background: rgba(201,168,76,0.2); }
-.pdf-btn.download { background: rgba(52,211,153,0.08); color: var(--accent-300); border: 1px solid rgba(52,211,153,0.15); }
-.pdf-btn.download:hover { background: rgba(52,211,153,0.15); }
-.ak-link { margin-bottom: 1rem; }
-.set-count { font-size: 0.78rem; color: var(--text-tertiary); margin-bottom: 0.5rem; }
-.set-bar { height: 4px; background: rgba(148,163,184,0.1); border-radius: var(--radius-full); overflow: hidden; }
-.set-fill { height: 100%; background: linear-gradient(90deg, var(--gold-500), var(--accent-300)); border-radius: var(--radius-full); }
+
+.paper-progress-section {
+  margin-bottom: 1.25rem;
+}
+.progress-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.4rem;
+}
+.set-bar {
+  height: 6px;
+  background: rgba(148,163,184,0.1);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+.set-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--gold-500), var(--accent-300));
+  border-radius: var(--radius-full);
+}
+
+.paper-actions-row {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.paper-actions-row .btn {
+  padding: 0.65rem 1.25rem;
+  font-size: 0.9rem;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.paper-pdfs-section {
+  background: rgba(15, 23, 42, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+.paper-pdfs-section h4 {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  padding-bottom: 0.4rem;
+}
+.pdf-links-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.pdf-link-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.4rem 0;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.03);
+}
+.pdf-link-item:last-child {
+  border-bottom: none;
+}
+.pdf-set-label {
+  font-size: 0.9rem;
+  color: var(--text-primary);
+}
+.pdf-action-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+.pdf-btn-link {
+  font-size: 0.75rem;
+  padding: 0.3rem 0.65rem;
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  transition: all var(--transition-fast);
+  cursor: pointer;
+}
+.pdf-btn-link.view {
+  background: rgba(201,168,76,0.1);
+  color: var(--gold-300);
+  border: 1px solid rgba(201,168,76,0.2);
+}
+.pdf-btn-link.view:hover {
+  background: rgba(201,168,76,0.2);
+}
+.pdf-btn-link.download {
+  background: rgba(52,211,153,0.08);
+  color: var(--accent-300);
+  border: 1px solid rgba(52,211,153,0.15);
+}
+.pdf-btn-link.download:hover {
+  background: rgba(52,211,153,0.15);
+}
+.answer-key-item {
+  background: rgba(129, 140, 248, 0.04);
+  padding: 0.4rem 0.5rem;
+  border-radius: var(--radius-sm);
+}
+.answer-key-item .pdf-set-label {
+  color: #a5b4fc;
+}
+
 .paper-subjects h4 { font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.65rem; }
 .subject-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
 .subject-chip { font-size: 0.75rem; padding: 0.3rem 0.65rem; background: var(--bg-tertiary); border-radius: var(--radius-full); color: var(--text-secondary); }

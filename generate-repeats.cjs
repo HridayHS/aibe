@@ -1,15 +1,8 @@
 const fs = require('fs');
 const questions = JSON.parse(fs.readFileSync('src/data/questions.json', 'utf8'));
 
-// Unique questions (Set A only)
-const unique = [];
-const seen = new Set();
-questions.forEach(q => {
-  if (q.set === 'A') {
-    const key = `${q.exam}-${q.questionNumber}`;
-    if (!seen.has(key)) { seen.add(key); unique.push(q); }
-  }
-});
+// Unique questions (questions are already unique)
+const unique = questions;
 
 // Extract legal references from question text
 function extractRefs(q) {

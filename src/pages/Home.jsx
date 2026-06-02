@@ -12,10 +12,8 @@ const stats = {
 
 const uniqueByExam = {}
 questions.forEach(q => {
-  if (q.set === 'A') {
-    if (!uniqueByExam[q.exam]) uniqueByExam[q.exam] = 0
-    uniqueByExam[q.exam]++
-  }
+  if (!uniqueByExam[q.exam]) uniqueByExam[q.exam] = 0
+  uniqueByExam[q.exam]++
 })
 
 const features = [

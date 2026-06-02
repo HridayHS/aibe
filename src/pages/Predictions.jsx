@@ -1,15 +1,8 @@
 import questions from '../data/questions.json'
 import './Predictions.css'
 
-// Generate predictions from actual data analysis
-const uniqueQs = []
-const seen = new Set()
-questions.forEach(q => {
-  if (q.set === 'A' || (q.exam === 'AIBE 18' && q.set === 'C')) {
-    const key = `${q.exam}-${q.questionNumber}`
-    if (!seen.has(key)) { seen.add(key); uniqueQs.push(q) }
-  }
-})
+// Unique questions (already unique in questions.json)
+const uniqueQs = questions
 
 // Calculate per-exam subject counts
 const examSubjects = {}
