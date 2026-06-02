@@ -9,7 +9,6 @@ const NAV_ITEMS = [
   { path: '/questions', label: 'Question Bank', icon: '❓' },
   { path: '/mock-test', label: 'Mock Test', icon: '📝' },
   { path: '/trends', label: 'Trends', icon: '📊' },
-  { path: '/difficulty', label: 'Difficulty', icon: '🎯' },
   { path: '/repeats', label: 'Repeats', icon: '🔁' },
   { path: '/flashcards', label: 'Flashcards', icon: '🃏' },
   { path: '/notes', label: 'Revision Notes', icon: '📖' },

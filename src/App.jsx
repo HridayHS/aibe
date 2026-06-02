@@ -4,7 +4,6 @@ import Home from './pages/Home'
 import Papers from './pages/Papers'
 import Questions from './pages/Questions'
 import Trends from './pages/Trends'
-import Difficulty from './pages/Difficulty'
 import Repeats from './pages/Repeats'
 import MockTest from './pages/MockTest'
 import Flashcards from './pages/Flashcards'
@@ -20,7 +19,6 @@ export default function App() {
         <Route path="/papers" element={<Papers />} />
         <Route path="/questions" element={<Questions />} />
         <Route path="/trends" element={<Trends />} />
-        <Route path="/difficulty" element={<Difficulty />} />
         <Route path="/repeats" element={<Repeats />} />
         <Route path="/mock-test" element={<MockTest />} />
         <Route path="/flashcards" element={<Flashcards />} />

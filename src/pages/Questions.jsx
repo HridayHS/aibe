@@ -4,13 +4,12 @@ import './Questions.css'
 
 const EXAMS = [...new Set(questions.map(q => q.exam))].sort()
 const SUBJECTS = [...new Set(questions.map(q => q.subject))].sort()
-const DIFFICULTIES = ['easy', 'medium', 'hard']
+
 
 export default function Questions() {
   const [search, setSearch] = useState('')
   const [examFilter, setExamFilter] = useState('all')
   const [subjectFilter, setSubjectFilter] = useState('all')
-  const [diffFilter, setDiffFilter] = useState('all')
   const [showAnswer, setShowAnswer] = useState({})
   const [page, setPage] = useState(1)
   const perPage = 20
@@ -19,14 +18,13 @@ export default function Questions() {
     return questions.filter(q => {
       if (examFilter !== 'all' && q.exam !== examFilter) return false
       if (subjectFilter !== 'all' && q.subject !== subjectFilter) return false
-      if (diffFilter !== 'all' && q.difficulty !== diffFilter) return false
       if (search) {
         const s = search.toLowerCase()
         if (!q.question.toLowerCase().includes(s) && !q.options.some(o => o.toLowerCase().includes(s))) return false
       }
       return true
     })
-  }, [search, examFilter, subjectFilter, diffFilter])
+  }, [search, examFilter, subjectFilter])
 
   const totalPages = Math.ceil(filtered.length / perPage)
   const paged = filtered.slice((page - 1) * perPage, page * perPage)
@@ -67,13 +65,6 @@ export default function Questions() {
               {SUBJECTS.map(s => <option key={s} value={s}>{s}</option>)}
             </select>
           </div>
-          <div className="filter-group">
-            <label>Difficulty</label>
-            <select value={diffFilter} onChange={e => { setDiffFilter(e.target.value); setPage(1) }}>
-              <option value="all">All</option>
-              {DIFFICULTIES.map(d => <option key={d} value={d}>{d.charAt(0).toUpperCase() + d.slice(1)}</option>)}
-            </select>
-          </div>
         </div>
       </div>
 
@@ -89,12 +80,8 @@ export default function Questions() {
               <span className="q-number">Q{q.questionNumber}</span>
               <div className="q-tags">
                 <span className="tag tag-gold">{q.exam}</span>
-                {!q.correctAnswer ? (
+                {!q.correctAnswer && (
                   <span className="tag tag-withdrawn">Withdrawn</span>
-                ) : (
-                  <span className="tag" style={{ color: getDiffColor(q.difficulty), borderColor: getDiffColor(q.difficulty) + '40', background: getDiffColor(q.difficulty) + '12' }}>
-                    {q.difficulty}
-                  </span>
                 )}
                 <span className="tag tag-subject">{q.subject}</span>
               </div>
@@ -139,8 +126,3 @@ export default function Questions() {
   )
 }
 
-function getDiffColor(d) {
-  if (d === 'easy') return '#34d399'
-  if (d === 'medium') return '#fbbf24'
-  return '#f87171'
-}
