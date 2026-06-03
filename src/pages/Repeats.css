@@ -23,7 +23,7 @@
 .cq-exam { font-weight: 600; font-size: 0.85rem; color: var(--gold-300); }
 .cq-num { font-size: 0.8rem; color: var(--text-tertiary); }
 .cq-sim { font-size: 0.72rem; color: var(--text-tertiary); margin-left: auto; background: rgba(251,191,36,0.1); padding: 0.15rem 0.45rem; border-radius: var(--radius-full); }
-.cq-text { font-size: 0.9rem; line-height: 1.6; margin-bottom: 0.75rem; }
+.cq-text { font-size: 0.9rem; line-height: 1.6; margin-bottom: 0.75rem; white-space: pre-line; }
 .cq-options { display: flex; flex-direction: column; gap: 0.3rem; }
 .cq-option { font-size: 0.82rem; color: var(--text-secondary); padding: 0.3rem 0.5rem; border-radius: var(--radius-sm); }
 .cq-option.correct { color: var(--accent-300); background: rgba(52,211,153,0.08); }
