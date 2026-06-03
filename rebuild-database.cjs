@@ -2814,12 +2814,12 @@ const OVERRIDES = {
   "aibe20-q37": {
     "question": "In the following question, a statement is followed by two Conclusions, I and II.\nStatement: Under the Environment (Protection) Act, 1986, when an offence is committed by a company, every person who was directly in charge of and responsible to the company at the time of the offence, as well as the company itself, is deemed guilty. However, a person may escape liability if he proves that the offence was committed without his knowledge or that he exercised due diligence to prevent it.\nConclusions:\nI. A company as well as its responsible officers may be held liable for environmental offences under the Act.\nII. An officer of a company can never escape liability once the company is found guilty of an offence.\n\nIn the context of the above Statement and Conclusions under the Environment (Protection) Act, 1986, which one of the following is correct?",
     "options": [
-      "Both Statements 1 and 2 are false",
-      "Only Statement 1 is true",
-      "Only Statement 2 is true",
-      "Both the Statements are true"
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusions I and II follow",
+      "Neither Conclusion I nor II follows"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "isModernized": false
   },
   "aibe20-q38": {
@@ -2907,7 +2907,7 @@ const OVERRIDES = {
       "Both Conclusions I and II follow",
       "Neither Conclusion I nor II follows"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "isModernized": false
   },
   "aibe20-q47": {
