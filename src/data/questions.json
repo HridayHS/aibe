@@ -1310,6 +1310,7 @@
     "exam": "AIBE 16",
     "year": 2021,
     "questionNumber": 87,
+    "subject": "Family Law",
     "question": "Which of the following properties will section 30 of the Hindu Succession Act, 1956, govern? I. Tarwad II. Tavazhi III. Kutumba IV. Kavaru V. Illom",
     "options": [
       "I, III, and V",
@@ -1317,8 +1318,7 @@
       "I and II",
       "All of the above"
     ],
-    "correctAnswer": "C",
-    "subject": "Family Law"
+    "correctAnswer": "D"
   },
   {
     "id": "aibe16-q88",
@@ -1531,7 +1531,7 @@
       "2nd generation (mother), 5th generation (father) )"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law"
+    "subject": "Family Law"
   },
   {
     "id": "aibe17-q2",
@@ -7030,15 +7030,15 @@
     "exam": "AIBE 20",
     "year": 2025,
     "questionNumber": 67,
+    "subject": "Family Law",
     "question": "As per The Hindu Marriage Act, 1955, two persons are said to be within the \"degrees of prohibited relationship\" if: : I. one is a lineal ascendant of the other, including relationship by adoption. II. one was the wife or husband of a lineal ascendant or descendant of the other, including relationship by half or uterine blood as well as by full blood. III. one was the wife of the brother or of the father's or mother's brother or of the grandfather's or grandmother's brother of the other. IV. the two are brother and sister, uncle and niece, aunt and nephew, or children of brother and sister or of two brothers or of two sisters. Select the correct answer.",
     "options": [
       "I, III and IV",
       "III and IV",
       "II, III and IV",
-      "MI, II, III and IV"
+      "I, II, III and IV"
     ],
-    "correctAnswer": "D",
-    "subject": "Family Law"
+    "correctAnswer": "D"
   },
   {
     "id": "aibe20-q68",

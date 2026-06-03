@@ -183,6 +183,16 @@ const OVERRIDES = {
     correctAnswer: "A",
     isModernized: true
   },
+  "aibe16-q87": {
+    question: "Which of the following properties will section 30 of the Hindu Succession Act, 1956, govern? I. Tarwad II. Tavazhi III. Kutumba IV. Kavaru V. Illom",
+    options: [
+      "I, III, and V",
+      "II, IV and V",
+      "I and II",
+      "All of the above"
+    ],
+    correctAnswer: "D"
+  },
   "aibe16-q92": {
     question: "Z, under the influence of madness, attempts to kill X. Is Z guilty of an offence? Has X the same right of private defence which he would have if Z were sane?",
     options: [
@@ -457,6 +467,16 @@ const OVERRIDES = {
       "Hurt"
     ],
     correctAnswer: "B"
+  },
+  "aibe20-q67": {
+    question: "As per The Hindu Marriage Act, 1955, two persons are said to be within the \"degrees of prohibited relationship\" if: : I. one is a lineal ascendant of the other, including relationship by adoption. II. one was the wife or husband of a lineal ascendant or descendant of the other, including relationship by half or uterine blood as well as by full blood. III. one was the wife of the brother or of the father's or mother's brother or of the grandfather's or grandmother's brother of the other. IV. the two are brother and sister, uncle and niece, aunt and nephew, or children of brother and sister or of two brothers or of two sisters. Select the correct answer.",
+    options: [
+      "I, III and IV",
+      "III and IV",
+      "II, III and IV",
+      "I, II, III and IV"
+    ],
+    correctAnswer: "D"
   },
   // AIBE 20
   "aibe20-q82": {
