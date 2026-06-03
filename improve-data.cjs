@@ -65,9 +65,38 @@ questions.filter(q => q.subject === 'Miscellaneous' && q.set === 'A').forEach(q 
 
 // 3. Rebalance difficulty is completely removed (feature dropped)
 
+// 4. Format questions & options (lists on newlines, clean double question marks/colons/stray brackets)
+function formatQuestionText(text) {
+  if (!text) return '';
+  text = text.replace(/\s*\?\s*\?/g, '?');
+  text = text.replace(/\s+\?/g, '?');
+  text = text.replace(/\s*:\s*:\s*/g, ': ');
+  text = text.replace(/\s+:\s+/g, ': ');
+  text = text.replace(/\b(List\s*-\s*I|List\s*I|List\s*-\s*II|List\s*II|Codes\s*:)/gi, '\n$1');
+  text = text.replace(/(?<!\b(?:and|or|between|both|of|to|with|statement|conclusion|clause|article|section|sec|rule|order|cpc|crpc|ipc|bns|bnss|bsa|act)\s+)\b(I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+/g, '\n$1. ');
+  text = text.replace(/(?<!\b(?:and|or|between|both|of|to|with|statement|conclusion|clause|article|section|sec|rule|order|cpc|crpc|ipc|bns|bnss|bsa|act)\s+)\(([a-e]|[i-v])\)\s+/g, '\n($1) ');
+  text = text.replace(/(?<!\b(?:and|or|between|both|of|to|with|statement|conclusion|clause|article|section|sec|rule|order|cpc|crpc|ipc|bns|bnss|bsa|act)\s+)\b(i|ii|iii|iv|v)\.\s+/g, '\n$1. ');
+  text = text.replace(/[ \t]+/g, ' ');
+  text = text.replace(/\n\s+/g, '\n');
+  text = text.replace(/\n+/g, '\n').trim();
+  return text;
+}
+
+function formatOptionText(text) {
+  if (!text) return '';
+  text = text.replace(/[ \t]+/g, ' ').trim();
+  text = text.replace(/\s*\)\s*\)?$/g, '');
+  return text.trim();
+}
+
+questions.forEach(q => {
+  q.question = formatQuestionText(q.question);
+  q.options = q.options.map(opt => formatOptionText(opt));
+});
+
 // Save
 fs.writeFileSync('src/data/questions.json', JSON.stringify(questions, null, 2));
-console.log('\nSaved improved questions.json');
+console.log('\nSaved improved and formatted questions.json');
 
 // Regenerate trends and difficulty
 const unique = questions;
