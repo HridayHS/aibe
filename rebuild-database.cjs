@@ -4190,6 +4190,149 @@ const OVERRIDES = {
     ],
     "correctAnswer": "C",
     "isModernized": false
+  },
+  "aibe14-q7": {
+    "question": "Which one of the following sections of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with irregularities which vitiate proceedings?",
+    "options": [
+      "Section 514",
+      "Section 515",
+      "Section 516",
+      "Section 520"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe14-q48": {
+    "question": "Under which one of the following sections of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 can a police officer arrest an accused without warrant?",
+    "options": [
+      "Section 37",
+      "Section 35",
+      "Section 39",
+      "Section 40"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe14-q49": {
+    "question": "Which one of the following courts, under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 can try a murder case?",
+    "options": [
+      "Judicial Magistrate 1st class",
+      "Chief Judicial Magistrate",
+      "Court of Session",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  "aibe14-q61": {
+    "question": "Under which one of the following sections of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is a police officer under obligation to inform the arrested person of the grounds of arrest and of their right to bail?",
+    "options": [
+      "Section 45",
+      "Section 47",
+      "Section 54",
+      "Section 57"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe14-q63": {
+    "question": "Inherent power under Section 528 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 can be exercised by:",
+    "options": [
+      "The Supreme Court",
+      "The Court of Session",
+      "The High Court",
+      "All of the above"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  "aibe14-q81": {
+    "question": "Under which of the following sections of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 are provisions relating to the police report (charge sheet) given?",
+    "options": [
+      "Section 193 (3) (i)",
+      "Section 197",
+      "Section 194 (2) (i)",
+      "Section 195"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe14-q82": {
+    "question": "Which one of the following provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with direction for grant of bail to a person apprehending arrest (anticipatory bail)?",
+    "options": [
+      "Section 480",
+      "Section 482",
+      "Section 483",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe14-q58": {
+    "question": "If it is proved that a person has not been heard of for a certain period by those who would naturally have heard of them if they were alive, they are presumed dead under Section 112 of the Bharatiya Sakshya Adhiniyam (BSA), 2023. What is this period?",
+    "options": [
+      "5 years",
+      "7 years",
+      "15 years",
+      "20 years"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe14-q69": {
+    "question": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023, the character of a person is not relevant in which of the following cases?",
+    "options": [
+      "Previous good character of an accused in criminal case",
+      "Previous bad character in reply to good character in criminal case.",
+      "Character to prove conduct imputed in civil case",
+      "Character affected the amount of damage in civil case"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  "aibe14-q73": {
+    "question": "Which of the following facts is not relevant in civil and criminal cases under Section 6 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Motive",
+      "Attempt",
+      "Conduct",
+      "Preparation"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe14-q79": {
+    "question": "Which of the following is not a duty of an Advocate to Court?",
+    "options": [
+      "To not commit breach of Section 132 of the Bharatiya Sakshya Adhiniyam (BSA), 2023.",
+      "To not to appear on behalf of any organisation of whose Executive Committee, he is a member.",
+      "To not appear before a Court, Tribunal or Authority in which his near relation is a member.",
+      "To conduct himself with dignity and self - respect during presentation of a case before a Court and otherwise acting before a Court."
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe14-q94": {
+    "question": "The Consumer Protection Act, 2019 came into force on:",
+    "options": [
+      "20th July 2020",
+      "15th August 2019",
+      "26th January 2020",
+      "1st April 2020"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe14-q95": {
+    "question": "Which of the following provisions of the Consumer Protection Act, 2019 defines the term 'Consumer'?",
+    "options": [
+      "Section 2(1)",
+      "Section 2(5)",
+      "Section 2(7)",
+      "Section 2(10)"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
   }
 };
 
@@ -4270,10 +4413,10 @@ function isValidOptionMarker(text, matchIdx, letter) {
   return true;
 }
 
-function parseSequential(text, examName, year) {
+function parseSequential(text, examName, year, isNonSequential) {
   let cleanedText = text
-    .replace(/\b\d+\s+Linking Laws Tansukh Sir\s+Get Subscription Now\s+www\.LinkingLaws\.com/gi, '')
     .replace(/Page\s*-\s*\d+/gi, '')
+    .replace(/\b\d+\s+Linking Laws Tansukh Sir\s+Get Subscription Now\s+www\.LinkingLaws\.com/gi, '')
     .replace(/Linking Laws Tansukh Sir/gi, '')
     .replace(/www\.LinkingLaws\.com/gi, '')
     .replace(/Get Subscription Now/gi, '')
@@ -4284,35 +4427,59 @@ function parseSequential(text, examName, year) {
   let lastIndex = 0;
   const qIndices = [];
   
-  for (let qnum = 1; qnum <= 100; qnum++) {
-    let numStr = qnum.toString();
-    let regexes = [];
-    if (numStr.length === 2) {
-      regexes.push(new RegExp(`\\b${numStr[0]}\\s+${numStr[1]}\\s*\\.\\s+`, 'g'));
-    }
-    regexes.push(new RegExp(`\\b${qnum}\\s*\\.\\s+`, 'g'));
-
-    let foundIndex = -1;
-    for (const regex of regexes) {
-      regex.lastIndex = lastIndex;
-      let match;
-      while ((match = regex.exec(cleanedText)) !== null) {
-        const candidateIdx = match.index;
-        const contextBefore = cleanedText.substring(Math.max(0, candidateIdx - 20), candidateIdx).toLowerCase();
-        const isFalsePositive = /\b(article|section|sec|art|order|rule|act|no|class|grade|level)[\s-]*$/i.test(contextBefore);
-        if (!isFalsePositive) {
-          foundIndex = candidateIdx;
+    for (let qnum = 1; qnum <= 100; qnum++) {
+    if (isNonSequential) {
+      const searchStr = `${qnum}.`;
+      let tempIndex = 0;
+      let foundIndex = -1;
+      while (true) {
+        const idx = cleanedText.indexOf(searchStr, tempIndex);
+        if (idx === -1) break;
+        const beforeChar = (idx > 0) ? cleanedText[idx - 1] : ' ';
+        const afterChar = cleanedText[idx + searchStr.length];
+        const isWordBoundaryBefore = /\s/.test(beforeChar) || beforeChar === '\n' || beforeChar === '\r';
+        const isWordBoundaryAfter = /\s/.test(afterChar) || afterChar === '\n' || afterChar === '\r' || afterChar === '(';
+        if (isWordBoundaryBefore && isWordBoundaryAfter) {
+          foundIndex = idx;
           break;
         }
+        tempIndex = idx + 1;
       }
-      if (foundIndex > -1) break;
-    }
+      if (foundIndex > -1) {
+        qIndices.push({ qnum, index: foundIndex });
+      }
+    } else {
+      let numStr = qnum.toString();
+      let regexes = [];
+      if (numStr.length === 2) {
+        regexes.push(new RegExp(`\\b${numStr[0]}\\s+${numStr[1]}\\s*\\.\\s+`, 'g'));
+      }
+      regexes.push(new RegExp(`\\b${qnum}\\s*\\.\\s+`, 'g'));
 
-    if (foundIndex > -1) {
-      qIndices.push({ qnum, index: foundIndex });
-      lastIndex = foundIndex + 5;
+      let foundIndex = -1;
+      for (const regex of regexes) {
+        regex.lastIndex = lastIndex;
+        let match;
+        while ((match = regex.exec(cleanedText)) !== null) {
+          const candidateIdx = match.index;
+          const contextBefore = cleanedText.substring(Math.max(0, candidateIdx - 20), candidateIdx).toLowerCase();
+          const isFalsePositive = /\b(article|section|sec|art|order|rule|act|no|class|grade|level)[\s-]*$/i.test(contextBefore);
+          if (!isFalsePositive) {
+            foundIndex = candidateIdx;
+            break;
+          }
+        }
+        if (foundIndex > -1) break;
+      }
+
+      if (foundIndex > -1) {
+        qIndices.push({ qnum, index: foundIndex });
+        lastIndex = foundIndex + 5;
+      }
     }
   }
+
+  qIndices.sort((a, b) => a.index - b.index);
 
   for (let k = 0; k < qIndices.length; k++) {
     const qnum = qIndices[k].qnum;
@@ -4335,7 +4502,7 @@ function parseSequential(text, examName, year) {
     }
     
     // Find option matches in the bilingual block using spacing regex
-    const isNumericOptions = examName === 'AIBE 16' || examName === 'AIBE 15';
+    const isNumericOptions = examName === 'AIBE 16' || examName === 'AIBE 15' || examName === 'AIBE 14';
     const optionMatches = [];
     const optReg = isNumericOptions ? /(?:\n|\s{2,})\(\s*([1-4])\s*\)/gi : /(?:\n|\s{2,})\(\s*([A-D])\s*\)/gi;
     let match;
@@ -4447,6 +4614,7 @@ function parseAK19(text) {
   const ak19 = parseAK19(akText);
 
   const files = [
+    { name: 'AIBE 14', file: 'aibe-exam-paper-14-1-1477.pdf', hasEmbeddedAns: true, year: 2019, isNonSequential: true },
     { name: 'AIBE 15', file: 'aibe-exam-paper-15-1-1478.pdf', hasEmbeddedAns: true, year: 2021 },
     { name: 'AIBE 16', file: 'aibe-exam-paper-16-1-1479.pdf', hasEmbeddedAns: true, year: 2021 },
     { name: 'AIBE 17', file: 'aibe-exam-paper-17-1480.pdf', hasEmbeddedAns: true, year: 2023 },
@@ -4459,7 +4627,7 @@ function parseAK19(text) {
 
   for (const f of files) {
     const text = await extractText(path.join(dir, f.file));
-    const parsed = parseSequential(text, f.name, f.year);
+    const parsed = parseSequential(text, f.name, f.year, f.isNonSequential);
     
     if (!f.hasEmbeddedAns && f.answerKey) {
       parsed.forEach(q => {

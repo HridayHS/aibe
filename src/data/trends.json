@@ -1,37 +1,15 @@
 {
-  "Cyber Law": {
-    "AIBE 15": 3,
-    "AIBE 16": 2,
-    "AIBE 17": 2,
-    "AIBE 18": 3,
-    "AIBE 19": 2,
-    "AIBE 20": 2
-  },
-  "Labour Law": {
-    "AIBE 15": 4,
-    "AIBE 16": 3,
-    "AIBE 17": 4,
-    "AIBE 18": 4,
-    "AIBE 19": 4,
-    "AIBE 20": 4
-  },
-  "ADR & Arbitration": {
-    "AIBE 15": 4,
-    "AIBE 16": 4,
-    "AIBE 17": 4,
-    "AIBE 18": 4,
-    "AIBE 19": 4,
-    "AIBE 20": 4
-  },
-  "Evidence Law": {
-    "AIBE 15": 8,
-    "AIBE 16": 9,
-    "AIBE 17": 8,
-    "AIBE 18": 7,
-    "AIBE 19": 8,
-    "AIBE 20": 8
+  "Constitutional Law": {
+    "AIBE 14": 16,
+    "AIBE 15": 10,
+    "AIBE 16": 16,
+    "AIBE 17": 14,
+    "AIBE 18": 14,
+    "AIBE 19": 13,
+    "AIBE 20": 15
   },
   "Criminal Law": {
+    "AIBE 14": 18,
     "AIBE 15": 18,
     "AIBE 16": 18,
     "AIBE 17": 18,
@@ -39,15 +17,44 @@
     "AIBE 19": 18,
     "AIBE 20": 15
   },
-  "Contract Law": {
+  "Civil Procedure": {
+    "AIBE 14": 10,
+    "AIBE 15": 10,
+    "AIBE 16": 11,
+    "AIBE 17": 11,
+    "AIBE 18": 10,
+    "AIBE 19": 10,
+    "AIBE 20": 10
+  },
+  "Evidence Law": {
+    "AIBE 14": 8,
     "AIBE 15": 8,
-    "AIBE 16": 5,
-    "AIBE 17": 6,
-    "AIBE 18": 6,
-    "AIBE 19": 7,
-    "AIBE 20": 7
+    "AIBE 16": 9,
+    "AIBE 17": 8,
+    "AIBE 18": 7,
+    "AIBE 19": 8,
+    "AIBE 20": 8
+  },
+  "ADR & Arbitration": {
+    "AIBE 14": 4,
+    "AIBE 15": 4,
+    "AIBE 16": 4,
+    "AIBE 17": 4,
+    "AIBE 18": 4,
+    "AIBE 19": 4,
+    "AIBE 20": 4
+  },
+  "Corporate Law": {
+    "AIBE 14": 2,
+    "AIBE 15": 2,
+    "AIBE 16": 2,
+    "AIBE 17": 2,
+    "AIBE 18": 2,
+    "AIBE 19": 2,
+    "AIBE 20": 2
   },
   "Administrative Law": {
+    "AIBE 14": 1,
     "AIBE 15": 4,
     "AIBE 16": 3,
     "AIBE 17": 3,
@@ -56,6 +63,7 @@
     "AIBE 20": 3
   },
   "Legal Ethics": {
+    "AIBE 14": 4,
     "AIBE 15": 4,
     "AIBE 16": 2,
     "AIBE 17": 4,
@@ -64,6 +72,7 @@
     "AIBE 20": 4
   },
   "Family Law": {
+    "AIBE 14": 8,
     "AIBE 15": 8,
     "AIBE 16": 9,
     "AIBE 17": 8,
@@ -71,15 +80,8 @@
     "AIBE 19": 8,
     "AIBE 20": 8
   },
-  "Civil Procedure": {
-    "AIBE 15": 10,
-    "AIBE 16": 11,
-    "AIBE 17": 11,
-    "AIBE 18": 10,
-    "AIBE 19": 10,
-    "AIBE 20": 10
-  },
   "Environmental Law": {
+    "AIBE 14": 2,
     "AIBE 15": 3,
     "AIBE 16": 2,
     "AIBE 17": 3,
@@ -87,39 +89,17 @@
     "AIBE 19": 2,
     "AIBE 20": 3
   },
-  "Constitutional Law": {
-    "AIBE 15": 10,
-    "AIBE 16": 16,
-    "AIBE 17": 14,
-    "AIBE 18": 14,
-    "AIBE 19": 13,
-    "AIBE 20": 15
-  },
-  "Intellectual Property": {
-    "AIBE 15": 2,
-    "AIBE 16": 1,
+  "Cyber Law": {
+    "AIBE 14": 2,
+    "AIBE 15": 3,
+    "AIBE 16": 2,
     "AIBE 17": 2,
-    "AIBE 18": 2,
+    "AIBE 18": 3,
     "AIBE 19": 2,
     "AIBE 20": 2
   },
-  "Tax Law": {
-    "AIBE 15": 4,
-    "AIBE 16": 4,
-    "AIBE 17": 4,
-    "AIBE 18": 4,
-    "AIBE 19": 5,
-    "AIBE 20": 4
-  },
-  "Law of Torts": {
-    "AIBE 15": 4,
-    "AIBE 16": 3,
-    "AIBE 17": 2,
-    "AIBE 18": 2,
-    "AIBE 19": 5,
-    "AIBE 20": 2
-  },
   "Property Law": {
+    "AIBE 14": 3,
     "AIBE 15": 2,
     "AIBE 16": 2,
     "AIBE 17": 3,
@@ -127,24 +107,63 @@
     "AIBE 19": 3,
     "AIBE 20": 3
   },
-  "Corporate Law": {
-    "AIBE 15": 2,
-    "AIBE 16": 2,
+  "Labour Law": {
+    "AIBE 14": 4,
+    "AIBE 15": 4,
+    "AIBE 16": 3,
+    "AIBE 17": 4,
+    "AIBE 18": 4,
+    "AIBE 19": 4,
+    "AIBE 20": 4
+  },
+  "Law of Torts": {
+    "AIBE 14": 2,
+    "AIBE 15": 4,
+    "AIBE 16": 3,
     "AIBE 17": 2,
     "AIBE 18": 2,
-    "AIBE 19": 2,
+    "AIBE 19": 5,
+    "AIBE 20": 2
+  },
+  "Motor Vehicle Law": {
+    "AIBE 14": 1,
+    "AIBE 16": 2,
+    "AIBE 18": 1,
     "AIBE 20": 2
   },
   "Consumer Law": {
+    "AIBE 14": 2,
     "AIBE 15": 2,
     "AIBE 16": 1,
     "AIBE 17": 2,
     "AIBE 18": 2,
     "AIBE 20": 2
   },
-  "Motor Vehicle Law": {
-    "AIBE 16": 2,
-    "AIBE 18": 1,
+  "Tax Law": {
+    "AIBE 14": 4,
+    "AIBE 15": 4,
+    "AIBE 16": 4,
+    "AIBE 17": 4,
+    "AIBE 18": 4,
+    "AIBE 19": 5,
+    "AIBE 20": 4
+  },
+  "Contract Law": {
+    "AIBE 14": 7,
+    "AIBE 15": 8,
+    "AIBE 16": 5,
+    "AIBE 17": 6,
+    "AIBE 18": 6,
+    "AIBE 19": 7,
+    "AIBE 20": 7
+  },
+  "Intellectual Property": {
+    "AIBE 14": 2,
+    "AIBE 15": 2,
+    "AIBE 16": 1,
+    "AIBE 17": 2,
+    "AIBE 18": 2,
+    "AIBE 19": 2,
     "AIBE 20": 2
   },
   "Limitation Law": {
