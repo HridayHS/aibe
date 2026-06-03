@@ -2812,14 +2812,14 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q37": {
-    "question": "In the following question, a statement is followed by two Conclusions, I and II. anoth Statement : Under the Environment (Protection) Act, 1986, when an offence is committed by a company, every person who was directly in charge of and responsible to the company at the time of the offence, as well as the company itself, is deemed guilty. However, a perso n may escape liability if he proves that the offence was committed without his knowledge or that he exercised due diligence to prevent it. Conclusions : I. A company as well as its responsible officers may be held liable for environmental offences under the Act. II. An officer of a company can never escape liability once the company is found guilty of an offence. In the context of the above Statement and Conclusions under the Environment (Protection) Act, 1986, which one of the following is correct?",
+    "question": "In the following question, a statement is followed by two Conclusions, I and II.\nStatement: Under the Environment (Protection) Act, 1986, when an offence is committed by a company, every person who was directly in charge of and responsible to the company at the time of the offence, as well as the company itself, is deemed guilty. However, a person may escape liability if he proves that the offence was committed without his knowledge or that he exercised due diligence to prevent it.\nConclusions:\nI. A company as well as its responsible officers may be held liable for environmental offences under the Act.\nII. An officer of a company can never escape liability once the company is found guilty of an offence.\n\nIn the context of the above Statement and Conclusions under the Environment (Protection) Act, 1986, which one of the following is correct?",
     "options": [
-      "Only Conclusion I follows",
-      "Only Conclusion II follows",
-      "Both Conclusions I and II follow",
-      "Neither Conclusion I nor II follows"
+      "Both Statements 1 and 2 are false",
+      "Only Statement 1 is true",
+      "Only Statement 2 is true",
+      "Both the Statements are true"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "isModernized": false
   },
   "aibe20-q38": {
@@ -2889,7 +2889,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q44": {
-    "question": "In the following question, a Statement is followed by two Conclusions, I and II. Statement : As per Section 157 of the Companies Act, 2013 every company must, within fifteen days of receiving intimation under Section 156, furnish the Director Identification Number (DIN) of all its Directors to the Registrar with prescribed fees. Failure to comply attracts penalties. Conclusions : I. If a company fails to furnish the DIN, it can be penalized. II. Every officer of the company in default is also liable for penalties. In the context of the above Statement and Conclusions, which one of the following is correct?",
+    "question": "In the following question, a Statement is followed by two Conclusions, I and II.\nStatement: As per Section 157 of the Companies Act, 2013 every company must, within fifteen days of receiving intimation under Section 156, furnish the Director Identification Number (DIN) of all its Directors to the Registrar with prescribed fees. Failure to comply attracts penalties.\nConclusions:\nI. If a company fails to furnish the DIN, it can be penalized.\nII. Every officer of the company in default is also liable for penalties.\n\nIn the context of the above Statement and Conclusions, which one of the following is correct?",
     "options": [
       "Only Conclusion I follows",
       "Only Conclusion II follows",
@@ -2900,14 +2900,14 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q46": {
-    "question": "In the following question, a Statement is followed by two Conclusions, I and II. Statement : According to the Child and Adolescent Labour (Prohibition and Regulation) Act, 1986, the appropriate Government credits 15,000 to the Child and Adolescent Labour Rehabilitation Fund for each child or adolescent for whom the fine amount from the employer ha s been deposited. The amount in the Fund is deposited or invested in banks, and the interest accrued is also payable to the child or adolescent. Conclusions : I. The child or adolescent is entitled not only to the credited amount but also to the interest accrued on it. II. The Government is not required to deposit any money other than what is collected as fines from the employer. In the context of the above Statement and Conclusions, which one of the following is correct?",
+    "question": "In the following question, a Statement is followed by two Conclusions, I and II.\nStatement: According to the Child and Adolescent Labour (Prohibition and Regulation) Act, 1986, the appropriate Government credits 15,000 to the Child and Adolescent Labour Rehabilitation Fund for each child or adolescent for whom the fine amount from the employer has been deposited. The amount in the Fund is deposited or invested in banks, and the interest accrued is also payable to the child or adolescent.\nConclusions:\nI. The child or adolescent is entitled not only to the credited amount but also to the interest accrued on it.\nII. The Government is not required to deposit any money other than what is collected as fines from the employer.\n\nIn the context of the above Statement and Conclusions, which one of the following is correct?",
     "options": [
       "Only Conclusion I follows",
       "Only Conclusion II follows",
       "Both Conclusions I and II follow",
       "Neither Conclusion I nor II follows"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "C",
     "isModernized": false
   },
   "aibe20-q47": {
@@ -2944,7 +2944,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q50": {
-    "question": "In the following question, a Statement is followed by two Conclusions, I and II. Statement : According to the Advocates Act, 1961, when the term of a State Bar Council expires without an election, the Bar Council of India shall constitute a Special Committee consisting of the ex officio member of the State Bar Council as Chairman and two nominated members. The Special Committee has the power to discharge all functions of the State Bar Council until the new Council is constituted, and elections must be held within six months unless the period is extended by the Bar Council of India. Conclusions : I. The Special Committee is empowered to handle pending disciplinary matters of the State Bar Council. II. The Bar Council of India may extend the six - month period for holding elections to the State Bar Council, for recorded reasons. In the context of the above Statement and Conclusions, which one of the following is correct?",
+    "question": "In the following question, a Statement is followed by two Conclusions, I and II.\nStatement: According to the Advocates Act, 1961, when the term of a State Bar Council expires without an election, the Bar Council of India shall constitute a Special Committee consisting of the ex officio member of the State Bar Council as Chairman and two nominated members. The Special Committee has the power to discharge all functions of the State Bar Council until the new Council is constituted, and elections must be held within six months unless the period is extended by the Bar Council of India.\nConclusions:\nI. The Special Committee is empowered to handle pending disciplinary matters of the State Bar Council.\nII. The Bar Council of India may extend the six-month period for holding elections to the State Bar Council, for recorded reasons.\n\nIn the context of the above Statement and Conclusions, which one of the following is correct?",
     "options": [
       "Only Conclusion I follows",
       "Only Conclusion II follows",
