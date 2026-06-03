@@ -35,7 +35,7 @@ export default function Questions() {
     <div className="questions-page">
       <div className="page-header">
         <h1>Question Bank</h1>
-        <p>Search and filter {questions.length} questions from AIBE 17–20</p>
+        <p>Search and filter {questions.length} questions from AIBE 16–20</p>
       </div>
 
       {/* Filters */}

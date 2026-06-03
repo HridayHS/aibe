@@ -107,7 +107,7 @@ export default function Notes() {
     <div className="notes-page">
       <div className="page-header">
         <h1>Revision Notes</h1>
-        <p>Subject-wise study guide compiled from {unique.length} questions across AIBE 18–20</p>
+        <p>Subject-wise study guide compiled from {unique.length} questions across AIBE 16–20</p>
       </div>
 
       <div className="notes-overview glass-card">
