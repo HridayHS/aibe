@@ -4179,6 +4179,17 @@ const OVERRIDES = {
     ],
     "correctAnswer": "D",
     "isModernized": true
+  },
+  "aibe15-q89": {
+    "question": "The principle of Res Judicata is dealt under Section ---- of CPC",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false
   }
 };
 

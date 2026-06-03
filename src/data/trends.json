@@ -32,7 +32,7 @@
     "AIBE 20": 8
   },
   "Criminal Law": {
-    "AIBE 15": 17,
+    "AIBE 15": 18,
     "AIBE 16": 18,
     "AIBE 17": 18,
     "AIBE 18": 17,
@@ -56,7 +56,7 @@
     "AIBE 20": 3
   },
   "Legal Ethics": {
-    "AIBE 15": 3,
+    "AIBE 15": 4,
     "AIBE 16": 2,
     "AIBE 17": 4,
     "AIBE 18": 4,
@@ -88,16 +88,12 @@
     "AIBE 20": 3
   },
   "Constitutional Law": {
-    "AIBE 15": 13,
+    "AIBE 15": 10,
     "AIBE 16": 16,
     "AIBE 17": 14,
     "AIBE 18": 14,
     "AIBE 19": 13,
     "AIBE 20": 15
-  },
-  "Limitation Law": {
-    "AIBE 15": 2,
-    "AIBE 16": 1
   },
   "Intellectual Property": {
     "AIBE 15": 2,
@@ -131,8 +127,16 @@
     "AIBE 19": 3,
     "AIBE 20": 3
   },
+  "Corporate Law": {
+    "AIBE 15": 2,
+    "AIBE 16": 2,
+    "AIBE 17": 2,
+    "AIBE 18": 2,
+    "AIBE 19": 2,
+    "AIBE 20": 2
+  },
   "Consumer Law": {
-    "AIBE 15": 1,
+    "AIBE 15": 2,
     "AIBE 16": 1,
     "AIBE 17": 2,
     "AIBE 18": 2,
@@ -143,11 +147,7 @@
     "AIBE 18": 1,
     "AIBE 20": 2
   },
-  "Corporate Law": {
-    "AIBE 16": 2,
-    "AIBE 17": 2,
-    "AIBE 18": 2,
-    "AIBE 19": 2,
-    "AIBE 20": 2
+  "Limitation Law": {
+    "AIBE 16": 1
   }
 }

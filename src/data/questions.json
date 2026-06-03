@@ -610,7 +610,7 @@
       "Section 168 of Cr. P.C."
     ],
     "correctAnswer": "D",
-    "subject": "Limitation Law"
+    "subject": "Criminal Law"
   },
   {
     "id": "aibe15-q41",
@@ -988,7 +988,7 @@
       "(i) Honesty (ii) Courage (iii) Industry (iv) seriousness (v) Eloquence, (vi) Judgment and (vii) Fellowship."
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law"
+    "subject": "Legal Ethics"
   },
   {
     "id": "aibe15-q66",
@@ -1003,7 +1003,7 @@
       "5"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe15-q67",
@@ -1018,7 +1018,7 @@
       "a company in which that other company has full shares, and is a subsidiary company of the company having such influence and includes a joint venture company"
     ],
     "correctAnswer": "B",
-    "subject": "Constitutional Law"
+    "subject": "Corporate Law"
   },
   {
     "id": "aibe15-q68",
@@ -1345,6 +1345,7 @@
     "exam": "AIBE 15",
     "year": 2021,
     "questionNumber": 89,
+    "subject": "Civil Procedure",
     "question": "The principle of Res Judicata is dealt under Section ---- of CPC",
     "options": [
       "9",
@@ -1352,8 +1353,8 @@
       "11",
       "12"
     ],
-    "correctAnswer": "B",
-    "subject": "Civil Procedure"
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe15-q90",
@@ -1435,7 +1436,7 @@
     "exam": "AIBE 15",
     "year": 2021,
     "questionNumber": 95,
-    "subject": "Limitation Law",
+    "subject": "Consumer Law",
     "question": "What is the limitation period applicable to the three forums in entertaining a complaint under the Consumer Protection Act, 2019?",
     "options": [
       "3 years from the date on which the cause of action has arisen",
