@@ -6,6 +6,237 @@ const dir = 'aibe question papers';
 const outFile = 'src/data/questions.json';
 
 const OVERRIDES = {
+  "aibe15-q10": {
+    "question": "Security for good behaviour from habitual offenders is dealt under which section of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
+    "options": [
+      "Section 128",
+      "Section 129",
+      "Section 130",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe15-q17": {
+    "question": "Requisites of a valid adoption: no adoption shall be valid unless -\n(i) the person adopting has the capacity, and also the right, to take in adoption;\n(ii) the person giving in adoption has the capacity to do so;\n(iii) the person adopted is capable of being taken in adoption; and\n(iv) the adoption is made in compliance with the other conditions mentioned in this Chapter.\n\n- mentioned under:",
+    "options": [
+      "Section 6 of Hindu Adoptions and Maintenance Act",
+      "Section 8 of Hindu Adoptions and Maintenance Act",
+      "Section 12 of Hindu Adoptions and Maintenance Act",
+      "Section 10 of Hindu Adoptions and Maintenance Act"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false
+  },
+  "aibe15-q24": {
+    "question": "The question is, whether A owes B rupees 10,000. Which of the following statements are relevant under the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "The facts that A asked C to lend him money",
+      "D said to C in A's presence and hearing \"I advise you not to trust A, for he owes B 10,000 rupees,\"",
+      "A went away without making any answer",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  "aibe15-q25": {
+    "question": "So much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered by the police may be proved under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 25",
+      "Section 24",
+      "Section 23",
+      "Section 29"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  "aibe15-q26": {
+    "question": "When the Court has to form an opinion upon a point of foreign law or of science, or art, or as to identity of handwriting, or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions are relevant facts. This is under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 42",
+      "Section 39",
+      "Section 50",
+      "Section 55"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe15-q30": {
+    "question": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, Plea Bargaining is applicable only in respect of those offences for which punishment of imprisonment is up to a period of:",
+    "options": [
+      "7 years.",
+      "10 years",
+      "11 years",
+      "14 years"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe15-q34": {
+    "question": "Which provision under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with the procedure to be adopted by the Magistrate to record confessions and statements?",
+    "options": [
+      "Section 162",
+      "Section 183",
+      "Section 163A",
+      "Section 165"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe15-q35": {
+    "question": "Attachment of property of person absconding can be done under Section ........ of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023.",
+    "options": [
+      "85",
+      "84",
+      "87",
+      "88"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe15-q36": {
+    "question": "Magistrate may dispense with personal attendance of accused under Section ....... of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023.",
+    "options": [
+      "224",
+      "227",
+      "228",
+      "223"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  "aibe15-q38": {
+    "question": "The provisions of the Bharatiya Nyaya Sanhita (BNS), 2023 apply also to any offence committed by:",
+    "options": [
+      "any citizen of India in any place without and beyond India;",
+      "any person on any ship or aircraft registered in India wherever it may be",
+      "any person in any place without and beyond India committing offence targeting a computer resource located in India.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  "aibe15-q39": {
+    "question": "Section 120 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with:",
+    "options": [
+      "Forfeiture of property in certain cases.",
+      "Notice of forfeiture of property",
+      "Management of properties seized or forfeited",
+      "Identifying unlawfully acquired property"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe15-q53": {
+    "question": "Voluntarily throwing or attempting to throw acid is an offence punishable under which section of the Bharatiya Nyaya Sanhita (BNS), 2023?",
+    "options": [
+      "Section 124(2) of BNS",
+      "Section 120(2) of BNS",
+      "Section 114 of BNS",
+      "Section 122 of BNS"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe15-q55": {
+    "question": "A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z's handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search - A has committed an Offence under which section of the Bharatiya Nyaya Sanhita (BNS), 2023?",
+    "options": [
+      "Section 256 of BNS",
+      "Section 228 of BNS",
+      "Section 195 A of BNS",
+      "Section 201(a) of BNS"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe15-q63": {
+    "question": "Res gestae, Relevancy of facts forming part of same transaction is dealt under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 4 of the BSA",
+      "Section 17 of the BSA",
+      "Section 18 of the BSA",
+      "Section 20 of the BSA"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  "aibe15-q74": {
+    "question": "A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked, and goals are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them. - under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 12",
+      "Section 4",
+      "Section 3",
+      "Section 5"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe15-q75": {
+    "question": "Section 113 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 deals with:",
+    "options": [
+      "Documentary Evidence",
+      "Exclusion of Oral Evidence",
+      "Burden of proof as to ownership",
+      "Proof of guilt."
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  "aibe15-q76": {
+    "question": "Section 117 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 deals with:",
+    "options": [
+      "Presumption as to abetment of murder",
+      "Presumption as to rape and abetment of suicide by a woman",
+      "Presumption as to abetment of kidnap of a girl",
+      "Presumption as to abetment of suicide by a married woman"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  "aibe15-q78": {
+    "question": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs is an offence under which section of the Bharatiya Nyaya Sanhita (BNS), 2023?",
+    "options": [
+      "Section 295",
+      "Section 299",
+      "Section 265A",
+      "Section 276"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  "aibe15-q79": {
+    "question": "Under Section 23 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, the Court of a Chief Judicial Magistrate may pass any sentence authorized by law except:",
+    "options": [
+      "A sentence of death",
+      "Imprisonment for life",
+      "Imprisonment for a term exceeding seven years.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  "aibe15-q95": {
+    "question": "What is the limitation period applicable to the three forums in entertaining a complaint under the Consumer Protection Act, 2019?",
+    "options": [
+      "3 years from the date on which the cause of action has arisen",
+      "5 years from the date on which the cause of action has arisen",
+      "4 years from the date on which the cause of action has arisen",
+      "2 years from the date on which the cause of action has arisen"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  "aibe15-q96": {
+    "question": "Under Section 20 of the Bharatiya Nyaya Sanhita (BNS), 2023, nothing is an offence which is done by a child under the age of:",
+    "options": [
+      "14 years",
+      "7 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
   "aibe16-q13": {
     "question": "Which of the following sections of the Hindu Adoption and Maintenance Act, 1956 deals with \"amount of maintenance\"?",
     "options": [
@@ -249,7 +480,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe17-q7": {
-    "question": "Muslim woman has option to be governed by the provisions of Sections 125 to 128 of Criminal Procedure Code 1973 (Sec. 144 - 147 BNSS) . Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it?",
+    "question": "Muslim woman has option to be governed by the provisions of Sections 144 to 147 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it?",
     "options": [
       "Section 5",
       "Section 6",
@@ -257,7 +488,7 @@ const OVERRIDES = {
       "None of these"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe17-q8": {
     "question": "Which of the following is not a ground of void marriage under Section 11 of the Hindu Marriage Act?",
@@ -788,26 +1019,26 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe18-q11": {
-    "question": "In which of the following situations Indian Penal Code, 1860 may not apply? i. An offence committed by Indians outside India. ii. An offence committed by any person on any ship registered in India. iii. Any person committing offence targeting computer resources located in any country.",
+    "question": "In which of the following situations may the Bharatiya Nyaya Sanhita (BNS), 2023 not apply?\ni. An offence committed by a citizen of India outside India.\nii. An offence committed by any person on any ship or aircraft registered in India.\niii. Any person committing an offence targeting computer resources located in any country outside India.",
     "options": [
       "Only i",
       "Only ii",
       "Only iii",
       "Only i & ii"
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   "aibe18-q12": {
-    "question": "How many types of punishment are currently existing under the Indian Penal Code, 1860 ?",
+    "question": "How many types of punishment are currently existing under the Bharatiya Nyaya Sanhita (BNS), 2023?",
     "options": [
       "3",
       "4",
       "5",
       "6"
     ],
-    "correctAnswer": "C",
-    "isModernized": false
+    "correctAnswer": "D",
+    "isModernized": true
   },
   "aibe18-q13": {
     "question": "A and Z agree to fence with each other for amusement. In the course of such fencing, while playing fairly, A hurts Z severely. Which of the following offence is committed by A?",
@@ -832,18 +1063,18 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe18-q15": {
-    "question": "For which of the following Section of the Indian Penal Code, 1860 the word benefit does not include pecuniary benefits?",
+    "question": "For which of the following sections of the Bharatiya Nyaya Sanhita (BNS), 2023 does the word 'benefit' not include pecuniary benefits?",
     "options": [
-      "Section 89 89",
-      "Section 155 155",
-      "Section 156 156",
-      "Section 370 370"
+      "Section 27",
+      "Section 193",
+      "Section 194",
+      "Section 143"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q16": {
-    "question": "X intentionally pulls up a woman's veil without her consent intending to annoy her. As per the Indian Penal Code, 1860 which of the following offence he has committed?",
+    "question": "X intentionally pulls up a woman's veil without her consent intending to annoy her. As per the Bharatiya Nyaya Sanhita (BNS), 2023, which of the following offences has he committed?",
     "options": [
       "Hurt",
       "Criminal force",
@@ -851,10 +1082,10 @@ const OVERRIDES = {
       "Grievous hurt"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q17": {
-    "question": "What punishment is prescribed under the Indian Penal Code, 1860 for a person who maims any minor in order that such minor may be used for the purposes of begging?",
+    "question": "What punishment is prescribed under the Bharatiya Nyaya Sanhita (BNS), 2023 for a person who maims any child in order that such child may be used for the purposes of begging?",
     "options": [
       "Imprisonment for 5 years and fine",
       "Imprisonment for 7 years and fine",
@@ -862,65 +1093,65 @@ const OVERRIDES = {
       "Imprisonment for life and fine"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q18": {
-    "question": "X threatens to publish a defamatory libel concerning Y unless Y gives him money. Which of the following punishment may be given to X for the act committed by him as per the Indian Penal Code, 1860 ?",
+    "question": "X threatens to publish a defamatory libel concerning Y unless Y gives him money. Which of the following punishments may be given to X for the act committed by him as per the Bharatiya Nyaya Sanhita (BNS), 2023?",
     "options": [
       "Imprisonment upto 2 years, or with fine or with both.",
       "Imprisonment upto 3 years, or with fine or with both.",
       "Imprisonment upto 5 years, or with fine or with both.",
       "Imprisonment upto 7 years, or with fine or with both."
     ],
-    "correctAnswer": "A",
-    "isModernized": false
+    "correctAnswer": "D",
+    "isModernized": true
   },
   "aibe18-q19": {
-    "question": "Which of the following sentence is an Assistant Sessions Judge authorised to pass as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following sentences is a Judicial Magistrate of the First Class authorised to pass as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
-      "Sentence of death.",
-      "Sentence of imprisonment for life.",
-      "Sentence of imprisonment for a term not exceeding ten years.",
-      "Sentence of imprisonment for a term exceeding ten years."
+      "Imprisonment for a term not exceeding three years, or fine not exceeding fifty thousand rupees, or both",
+      "Imprisonment for a term not exceeding seven years",
+      "Imprisonment for life",
+      "Sentence of death"
     ],
-    "correctAnswer": "C",
-    "isModernized": false
+    "correctAnswer": "A",
+    "isModernized": true
   },
   "aibe18-q20": {
-    "question": "A person arrested by a private person for committing a non - bailable and cognizable offence shall be re - arrested by a police officer if such person comes under which of the following provision of the Code of Criminal Procedure, 1973 ?",
+    "question": "A person arrested by a private person for committing a non-bailable and cognizable offence shall be re-arrested by a police officer if such person comes under the provisions of Section 35 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. Which section of the BNSS deals with arrest by private person and procedure on such arrest?",
     "options": [
-      "Section 41 41",
-      "Section 41A",
-      "Section 42 42",
-      "Section 43 43"
+      "Section 35",
+      "Section 39",
+      "Section 40",
+      "Section 41"
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   "aibe18-q21": {
-    "question": "Under which of the following situation wife is not entitled for maintenance under Section. 125 of the Code of Criminal Procedure, 1973 ?",
+    "question": "Under which of the following situations is a wife not entitled to maintenance under Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "Husband presumes that wife is living in adultery.",
-      "Voluntarily wife refuses to live with husband.",
+      "Without any sufficient reason, she refuses to live with her husband.",
       "Wife living separately as husband keeps a mistress.",
       "Wife is forcefully removed from the house."
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "B",
+    "isModernized": true
   },
   "aibe18-q22": {
-    "question": "Which of the following procedure is dealt under Section 164 - A of the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following procedures is dealt with under Section 184 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "Medical examination of the victim of rape.",
       "Attendance of witness by police officer.",
-      "Recording of confession statement. Click Here To Buy Linking Publication",
+      "Recording of confession statement.",
       "Recording of first information report by police officer."
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q23": {
-    "question": "Which of the following is incorrect with respect to diary of proceedings in investigation as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following is incorrect with respect to the diary of proceedings in investigation as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "The statements of witnesses recorded during investigation shall be inserted in the diary.",
       "The diary shall be duly paginated.",
@@ -928,10 +1159,10 @@ const OVERRIDES = {
       "Can be used by the police officers to refresh memory."
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q24": {
-    "question": "In which of the following cases manner of committing offence is not required to be mentioned in the charge as per the Code of Criminal Procedure, 1973 ?",
+    "question": "In which of the following cases is the manner of committing the offence not required to be mentioned in the charge as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "A is accused of the theft of a certain article at a certain time and place.",
       "A is accused of cheating B at a given time and place.",
@@ -939,51 +1170,51 @@ const OVERRIDES = {
       "A is accused of giving false evidence at a given time and place."
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q25": {
-    "question": "Which of the following offences may be tried summarily as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following offences may be tried summarily as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
-      "Offence under Section 454 of the IPC.",
-      "Offence under Section 504 of the IPC.",
-      "Offence punishable with imprisonment for a term not exceeding two years.",
-      "Offence punishable with life imprisonment."
+      "Offences punishable with imprisonment for a term exceeding three years.",
+      "Offences punishable with life imprisonment or death.",
+      "Offences punishable with imprisonment for a term not exceeding three years.",
+      "All of the above"
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   "aibe18-q26": {
-    "question": "Which of the following Section of the Code of Criminal Procedure, 1973 provides for reference to High Court?",
+    "question": "Which of the following sections of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 provides for reference to the High Court?",
     "options": [
-      "Section 275 275",
-      "Section 325 325",
-      "Section 383 383",
-      "Section 395 395"
+      "Section 315",
+      "Section 365",
+      "Section 425",
+      "Section 436"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q27": {
-    "question": "A person accused of the following offence may not be granted bail under Section 438 of the Code of Criminal Procedure, 1973: i. Accused of offence under Section 376AB of the IPC. ii. Accused of offence under Section 376DA of the IPC. iii. Accused of offence under Section 376DB of the IPC.",
+    "question": "A person accused of which of the following offences may not be granted anticipatory bail under Section 482 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?\ni. Accused of offence under Section 65 of the BNS, 2023.\nii. Accused of offence under Section 70 of the BNS, 2023.",
     "options": [
-      "i & ii",
-      "ii & iii",
-      "iii & i",
-      "i, ii & iii"
+      "Only i",
+      "Only ii",
+      "Both i and ii",
+      "Neither i nor ii"
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   "aibe18-q28": {
-    "question": "Which of the following act if done by any Magistrate, even in good faith without being empowered, shall vitiate the proceedings as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following acts, if done by any Magistrate who is not empowered by law, shall make the proceedings void (vitiate proceedings) under Section 515 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
-      "Tender a pardon under Section 306 of CrPC.",
-      "Recall a case and try it under Section 410 of the CrPC.",
-      "Attaches property under Section 83 of the CrPC.",
-      "Hold an inquest under Section 176 of the CrPC."
+      "Tender a pardon under Section 343 of the BNSS",
+      "Recall a case and try it under Section 451 of the BNSS",
+      "Try an offender under Section 515 of the BNSS",
+      "Hold an inquest under Section 196 of the BNSS"
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   "aibe18-q29": {
     "question": "Which of the following is material for deciding the jurisdiction of the Civil Court in the light of the Code of Civil Procedure, 1908 ?",
@@ -1096,7 +1327,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe18-q39": {
-    "question": "A is accused of the murder of B by beating him. Which of the following will not be considered as relevant fact forming part of the same transaction as per the Indian Evidence Act, 1872 ?",
+    "question": "A is accused of the murder of B by beating him. Which of the following will not be considered as a relevant fact forming part of the same transaction as per the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Whatever said by A or B at the time of beating.",
       "Whatever done by A or B at the time of beating.",
@@ -1104,32 +1335,32 @@ const OVERRIDES = {
       "Whatever said by A or B a day before the day of beating."
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q40": {
-    "question": "Which of the following provisions of the Indian Evidence Act, 1872 says that the confession to police - officer shall not be proved against him?",
+    "question": "Which of the following provisions of the Bharatiya Sakshya Adhiniyam (BSA), 2023 says that a confession made to a police officer shall not be proved against a person accused of any offence?",
     "options": [
-      "Section 24 24",
-      "Section 25 25",
-      "Section 26 26",
-      "Section 27 27"
+      "Section 22",
+      "Section 23",
+      "Section 24",
+      "Section 25"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q41": {
-    "question": "Under which of the following provision of the Indian Evidence Act, 1872 dying declaration may be admitted as evidence?",
+    "question": "Under which of the following provisions of the Bharatiya Sakshya Adhiniyam (BSA), 2023 may a dying declaration be admitted as evidence?",
     "options": [
-      "Section 25 25",
-      "Section 29 29",
-      "Section 32 32",
-      "Section 37 37"
+      "Section 23",
+      "Section 25",
+      "Section 26",
+      "Section 30"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q42": {
-    "question": "Which of the following is correct according to the Indian Evidence Act, 1872 pertaining to proof of contents of the documents?",
+    "question": "Which of the following is correct according to the Bharatiya Sakshya Adhiniyam (BSA), 2023 pertaining to proof of contents of documents?",
     "options": [
       "Contents of the documents shall be proved by primary evidence.",
       "Contents of the documents may be proved by secondary evidence.",
@@ -1137,10 +1368,10 @@ const OVERRIDES = {
       "Contents of documents may be proved either by primary or by secondary evidence."
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q43": {
-    "question": "Which of the following is a correct statement as per the Indian Evidence Act, 1872 ?",
+    "question": "Which of the following is a correct statement as per the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Leading questions may be asked in examination - in - chief.",
       "Leading questions may be asked in cross - examination.",
@@ -1148,7 +1379,7 @@ const OVERRIDES = {
       "Leading question cannot be asked in cross - examination."
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q44": {
     "question": "In which of the following case did the Supreme Court of India clarify the admissibility of electronic record as evidence?",
@@ -1162,7 +1393,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe18-q45": {
-    "question": "Which of the following is incorrect statement in the light of Indian Evidence Act, 1872 ?",
+    "question": "Which of the following is an incorrect statement in the light of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Confession always go against a person making it.",
       "Admissions are conclusive as to the matters admitted.",
@@ -1170,18 +1401,18 @@ const OVERRIDES = {
       "Confession is statement written or oral which is direct admission of suit."
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q46": {
-    "question": "Which of the following Section of the Indian Evidence Act, 1872 is an exception to the hearsay rule?",
+    "question": "Which of the following sections of the Bharatiya Sakshya Adhiniyam (BSA), 2023 is an exception to the hearsay rule?",
     "options": [
-      "Section 32 (1) 32 (1)",
-      "Section 32 (2) 32 (5)",
-      "Section 32 (3) 32 (3)",
-      "Section 32 (5) 32 (5)"
+      "Section 26 (a)",
+      "Section 26 (b)",
+      "Section 26 (c)",
+      "Section 26 (e)"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe18-q47": {
     "question": "Which of the following is not a recognized alternate dispute resolution mechanism under the Code of Civil Procedure, 1908 ?",
@@ -1565,7 +1796,7 @@ const OVERRIDES = {
       "State Consumer Protection Authority",
       "State Consumer Protection Council"
     ],
-    "correctAnswer": null,
+    "correctAnswer": "B",
     "isModernized": false
   },
   "aibe18-q85": {
@@ -1857,24 +2088,24 @@ const OVERRIDES = {
   "aibe19-q14": {
     "question": "Rajesh, in a heated argument with Sunil, strikes him with a heavy iron rod. The blow fractures Sunil's arm, and he is unable to use it for several weeks. The medical report confirms that the fracture amounts to grievous hurt. Which of the following offenses has Rajesh committed?",
     "options": [
-      "Simple hurt under Section 323 of IPC",
-      "Voluntarily causing grievous hurt under Section 325 of IPC",
-      "Voluntarily causing hurt under Section 324 of IPC",
-      "Attempt to commit culpable homicide under Section 308 of IPC"
+      "Simple hurt under Section 115 of BNS, 2023",
+      "Voluntarily causing grievous hurt under Section 117 of BNS, 2023",
+      "Voluntarily causing hurt by dangerous weapon under Section 117(3) of BNS, 2023",
+      "Attempt to commit culpable homicide under Section 110 of BNS, 2023"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe19-q15": {
-    "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evide nce of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed?",
+    "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evidence of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed?",
     "options": [
-      "Murder under Section 302 of IPC",
-      "Culpable homicide not amounting to murder under Section 304 of IPC",
-      "Causing death by negligence under Section 304A of IPC",
-      "Voluntarily causing grievous hurt under Section 325 of IPC"
+      "Murder under Section 101 of BNS, 2023",
+      "Culpable homicide not amounting to murder under Section 105 of BNS, 2023",
+      "Causing death by negligence under Section 106 of BNS, 2023",
+      "Voluntarily causing grievous hurt under Section 117 of BNS, 2023"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe19-q16": {
     "question": "Amit and Rani decide to break into a house at night with the intent of stealing valuables. They use a crowbar to force open the door, but before they can take anything, the owner of the house, Vikram, unexpectedly arrives home. Amit and Rani panic and run away without stealing anything. The police arrest them the following morning based on a complaint from Vikram. Which of the following offenses under the BNS have Amit and Rani committed ?",
@@ -2427,7 +2658,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q1": {
-    "question": "If a bailiff executes an eviction based on a civil court order later declared void for lack of jurisdiction, what protection does Section 78 of the Indian Penal Code provide?",
+    "question": "If a bailiff executes an eviction based on a civil court order later declared void for lack of jurisdiction, what protection does Section 18 of the Bharatiya Nyaya Sanhita (BNS), 2023 provide?",
     "options": [
       "The bailiff is punishable as the order was invalid from the beginning",
       "The bailiff can be punished only with a reduced penalty",
@@ -2435,7 +2666,7 @@ const OVERRIDES = {
       "The bailiff is required to compensate the evicted person"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q2": {
     "question": "Under the Bharatiya Nyaya Sanhita, 2023, what is the maximum number of consecutive days an offender may be kept in solitary confinement at a time?",
@@ -2471,7 +2702,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q5": {
-    "question": "Read the following statements and choose the correct option..\nStatement 1: Under the Indian Penal Code, if a person harbours an offender who has escaped custody for an offence punishable with imprisonment up to 3 years, he shall be punished with imprisonment up to 7 years.\nStatement 2: The law provides an exception for harbouring or concealing by the husband or wife of the offender. In the context of the above statements under the Indian Penal Code, which one of the following is correct ?",
+    "question": "Read the following statements and choose the correct option..\nStatement 1: Under the Bharatiya Nyaya Sanhita (BNS), 2023, if a person harbours an offender who has escaped custody for an offence punishable with imprisonment up to 3 years, he shall be punished with imprisonment up to 7 years.\nStatement 2: The law provides an exception for harbouring or concealing by the husband or wife of the offender. In the context of the above statements under the BNS, 2023, which one of the following is correct ?",
     "options": [
       "Both Statements 1 and 2 are false",
       "Only Statement 1 is true",
@@ -2479,7 +2710,7 @@ const OVERRIDES = {
       "Both the Statements are true"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q6": {
     "question": "If a person attempts an offence punishable with a maximum of 10 years imprisonment, what is the maximum years of imprisonment that can be imposed under Section 62 of the Bharatiya Nyaya Sanhita,2023?",
@@ -2493,15 +2724,15 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q7": {
-    "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Code of Criminal Procedure, 1973, will the case. primarily fall ?",
+    "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, will the case primarily fall?",
     "options": [
-      "Section 27 M 27",
-      "Section 125 125",
-      "Section 302 302",
-      "Section 482 482"
+      "Section 21",
+      "Section 144",
+      "Section 101",
+      "Section 482"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q8": {
     "question": "Under Section 290 ( 1 ) of Bharatiya Nagarik Suraksha Sanhita, 2023, within how many days from the date of framing of charge can an accused file an application for plea bargaining?",
@@ -2537,7 +2768,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q11": {
-    "question": "Under the Indian Evidence Act, 1872, when can facts that are otherwise irrelevant be considered relevant?",
+    "question": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023, when can facts that are otherwise irrelevant be considered relevant?",
     "options": [
       "Only when they prove the guilt of the accused directly",
       "Only when they form part of a dying declaration",
@@ -2545,10 +2776,10 @@ const OVERRIDES = {
       "When they are part of an admission made in writing"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q12": {
-    "question": "What condition must be satisfied for prior evidence to be relevant under Section 33 of the Indian Evidence Act, 1872?",
+    "question": "What condition must be satisfied for prior evidence to be relevant under Section 27 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "The evidence must have been recorded in the presence of a jury.",
       "The proceeding was between the same parties or their representatives in interest.",
@@ -2556,10 +2787,10 @@ const OVERRIDES = {
       "The evidence must have been corroborated by expert opinion."
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q13": {
-    "question": "During a court trial, the defence lawyer objects to the admissibility of certain papers produced as evidence. The judge clarifies that only documents categorized as public documents under the Indian Evidence Act, 1872, can be accepted without strict proof . Which category of documents would fall under public documents in this context?",
+    "question": "During a court trial, the defence lawyer objects to the admissibility of certain papers produced as evidence. The judge clarifies that only documents categorized as public documents under the Bharatiya Sakshya Adhiniyam (BSA), 2023, can be accepted without strict proof. Which category of documents would fall under public documents in this context?",
     "options": [
       "Draft agreements between individuals",
       "Personal diaries of government officials",
@@ -2567,7 +2798,7 @@ const OVERRIDES = {
       "Judicial and executive acts of public officers"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q14": {
     "question": "Which condition must be satisfied for things said or done by one conspirator to be admissible against others under the Bharatiya Sakshya Adhiniyam, 2023 ?",
@@ -2581,7 +2812,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q15": {
-    "question": "As per Section 30 of Code of Criminal Procedure, 1973, if a Magistrate sentenced a person to two years' imprisonment and a fine, what is the maximum imprisonment he may impose in default of payment of the fine ?",
+    "question": "As per Section 24 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, if a Magistrate sentenced a person to two years' imprisonment and a fine, what is the maximum imprisonment he may impose in default of payment of the fine?",
     "options": [
       "1 year",
       "2 years",
@@ -2589,7 +2820,7 @@ const OVERRIDES = {
       "3 months"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q16": {
     "question": "As per the Constitution of India, after the 86th Constitutional Amendment, which directive principle was modified to ensure early childhood care and education below the age of six ?",
@@ -2735,15 +2966,15 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q30": {
-    "question": "Under which provision can a citizen file a public case in the Court of Magistrate regarding issues of public interest?",
+    "question": "Under which provision can a citizen file a public case in the Court of Magistrate regarding issues of public interest under the new criminal laws?",
     "options": [
-      "Section 302 of the Indian Penal Code 302",
-      "Section 144 of Code of Criminal Procedure, 1973 144",
-      "Section 133 of Code of Criminal Procedure, 1973 133",
-      "Section 482 of Code of Criminal Procedure, 1973 482"
+      "Section 101 of the Bharatiya Nyaya Sanhita (BNS), 2023",
+      "Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+      "Section 152 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+      "Section 528 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q31": {
     "question": "According to Section 44AA (2) (i ) of the Income tax Act, 1961, a person carrying on business must maintain books of account if income from business or profession exceeds:",
@@ -2768,7 +2999,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q33": {
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): Any person having an interest in a newspaper declared forfeited, may apply to the High Court to set aside the declaration within two months of its publication in the Official Gazette.\nReason (R): The Special Bench of the High Court to hear such applications must always consist of exactly three judges, regardless of the strength of that High Court.\n\nIn the context of the above assertion and reason under the Code of Criminal Procedure, 1973, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): Any person having an interest in a newspaper declared forfeited, may apply to the High Court to set aside the declaration within two months of its publication in the Official Gazette.\nReason (R): The Special Bench of the High Court to hear such applications must always consist of exactly three judges, regardless of the strength of that High Court.\n\nIn the context of the above assertion and reason under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
@@ -2776,7 +3007,7 @@ const OVERRIDES = {
       "(A) is false, but (R) is true."
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q34": {
     "question": "Read the following statements and choose the correct option..\nStatement 1: Under the Bharatiya Sakshya Adhiniyam, 2023, admissions are generally relevant and may be proved against the person making them, but cannot ordinarily be proved by or on behalf of that person.\nStatement 2: An admission can still be proved on behalf of the person making it if it relates to the existence of a state of mind or body, made at or about the time when such condition existed, and is supported by conduct showing its truthfulness. In the context of the above statements under the Bharatiya Sakshya Adhiniyam, 2023, which one of the following is correct?",
@@ -3340,7 +3571,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q93": {
-    "question": "If multiple offences carry different punishments but it is unclear which one has been committed, how does Section 72 of the Indian Penal Code ensure proportional justice?",
+    "question": "If multiple offences carry different punishments but it is unclear which one has been committed, how does Section 9 of the Bharatiya Nyaya Sanhita (BNS), 2023 ensure proportional justice?",
     "options": [
       "By imposing punishment for the offence with the lowest prescribed term",
       "By applying punishment equal to the average of all possible offences",
@@ -3348,7 +3579,7 @@ const OVERRIDES = {
       "By suspending the punishment until further clarification is made"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q95": {
     "question": "Which person will not be treated as a consumer under the definition of the Consumer Protection Act, 2019?",
@@ -3395,7 +3626,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q99": {
-    "question": "If a convict sentenced to life imprisonment is being considered for remission fractions under Section 57 of the Indian Penal Code, which equivalent term of years is applied by the court?",
+    "question": "If a convict sentenced to life imprisonment is being considered for remission fractions under Section 6 of the Bharatiya Nyaya Sanhita (BNS), 2023, which equivalent term of years is applied by the court?",
     "options": [
       "Ten years of imprisonment",
       "Twenty years of imprisonment",
@@ -3403,7 +3634,7 @@ const OVERRIDES = {
       "Fifty years of imprisonment"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   "aibe20-q100": {
     "question": "According to the Payment of Gratuity Act, 1972 under what circumstance is the completion of five years of continuous service not mandatory for payment of gratuity to an employee by his employer?",
@@ -3926,6 +4157,28 @@ const OVERRIDES = {
     ],
     "correctAnswer": "A",
     "isModernized": false
+  },
+  "aibe15-q7": {
+    "question": "A intentionally and falsely leads B to believe that certain land belongs to A, and thereby induces B to buy and pay for it. The land afterwards becomes the property of A, and A seeks to set aside the sale on the ground that, at the time of the sale, he had no title. He will not be allowed to prove his want of title. - Which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023 is applicable?",
+    "options": [
+      "Section 92",
+      "Section 124",
+      "Section 121",
+      "Section 101"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  "aibe15-q9": {
+    "question": "Sections 289 to 300, Chapter XXII of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with the concept of:",
+    "options": [
+      "Unlawful Assembly",
+      "Arrest without warrant",
+      "search and seizures",
+      "Plea bargaining"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
   }
 };
 
@@ -4008,6 +4261,7 @@ function isValidOptionMarker(text, matchIdx, letter) {
 
 function parseSequential(text, examName, year) {
   let cleanedText = text
+    .replace(/\b\d+\s+Linking Laws Tansukh Sir\s+Get Subscription Now\s+www\.LinkingLaws\.com/gi, '')
     .replace(/Page\s*-\s*\d+/gi, '')
     .replace(/Linking Laws Tansukh Sir/gi, '')
     .replace(/www\.LinkingLaws\.com/gi, '')
@@ -4070,7 +4324,7 @@ function parseSequential(text, examName, year) {
     }
     
     // Find option matches in the bilingual block using spacing regex
-    const isNumericOptions = examName === 'AIBE 16';
+    const isNumericOptions = examName === 'AIBE 16' || examName === 'AIBE 15';
     const optionMatches = [];
     const optReg = isNumericOptions ? /(?:\n|\s{2,})\(\s*([1-4])\s*\)/gi : /(?:\n|\s{2,})\(\s*([A-D])\s*\)/gi;
     let match;
@@ -4125,9 +4379,14 @@ function parseSequential(text, examName, year) {
       }
       
       let cleanDBlock = optionTexts['D'];
-      const ansIndex = cleanDBlock.search(/Ans\.?/i);
-      if (ansIndex > -1) {
-        cleanDBlock = cleanDBlock.substring(0, ansIndex);
+      const dAnsMatch = cleanDBlock.match(ansReg);
+      if (dAnsMatch) {
+        cleanDBlock = cleanDBlock.substring(0, dAnsMatch.index);
+      } else {
+        const ansIndex = cleanDBlock.search(/\bAns\b\.?/i);
+        if (ansIndex > -1) {
+          cleanDBlock = cleanDBlock.substring(0, ansIndex);
+        }
       }
       optionTexts['D'] = cleanDBlock;
 
@@ -4177,6 +4436,7 @@ function parseAK19(text) {
   const ak19 = parseAK19(akText);
 
   const files = [
+    { name: 'AIBE 15', file: 'aibe-exam-paper-15-1-1478.pdf', hasEmbeddedAns: true, year: 2021 },
     { name: 'AIBE 16', file: 'aibe-exam-paper-16-1-1479.pdf', hasEmbeddedAns: true, year: 2021 },
     { name: 'AIBE 17', file: 'aibe-exam-paper-17-1480.pdf', hasEmbeddedAns: true, year: 2023 },
     { name: 'AIBE 18', file: 'aibe-exam-paper-18-1481.pdf', hasEmbeddedAns: true, year: 2023 },

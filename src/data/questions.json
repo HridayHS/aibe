@@ -1,5 +1,1528 @@
 [
   {
+    "id": "aibe15-q1",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 1,
+    "question": "Section 66 - A of Information Technology Act was held unconstitutional in the case of",
+    "options": [
+      "Justice K. S. Putta swamy Vs Union of India",
+      "MP Sharma Vs Satish Chandra",
+      "Shreya Singhal Vs Union Of India",
+      "Gagan Harsh Sharma Vs The State of Maharashtra"
+    ],
+    "correctAnswer": "C",
+    "subject": "Cyber Law"
+  },
+  {
+    "id": "aibe15-q2",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 2,
+    "question": "A Teacher is not a workman within the purview of Industrial Disputes Act, held in the case of",
+    "options": [
+      "The Workmen Vs Greaves Cotton & Co. Ltd. & Ors",
+      "John Joseph Khokar Vs Bhadange B. S. & ors",
+      "A. Sundarambal Vs Government of Goa",
+      "Dinesh Sharma and Ors. Vs State of Bihar"
+    ],
+    "correctAnswer": "C",
+    "subject": "Labour Law"
+  },
+  {
+    "id": "aibe15-q3",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 3,
+    "question": "According to Factories Act",
+    "options": [
+      "\"child\" means a person who has not completed his fifteenth year of age;",
+      "\"child\" means a person who has not completed his fourteenth year of age",
+      "\"child\" means a person who has not completed his eighteenth year of age",
+      "\"child\" means a person who has not completed his sixteenth year of age"
+    ],
+    "correctAnswer": "A",
+    "subject": "Labour Law"
+  },
+  {
+    "id": "aibe15-q4",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 4,
+    "question": "This UNCITRAL Model Law and Rules do not become part of the Arbitration Act so as to become an aid to construe the provisions of the Act. - held in the case of",
+    "options": [
+      "Union of India Vs East Coast Boat Builders and Engineers Ltd.,",
+      "Union of India Vs M.C. Mehta",
+      "Tata Press Ltd Vs Union of India",
+      "Union of India Vs Indian Change Chrome Ltd"
+    ],
+    "correctAnswer": "A",
+    "subject": "ADR & Arbitration"
+  },
+  {
+    "id": "aibe15-q5",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 5,
+    "question": "According to Section 7(4) of the Arbitration and Conciliation Act, an arbitration agreement is in writing if it is contained in -",
+    "options": [
+      "a document signed by the parties;",
+      "an exchange of letters, telex, telegrams or other means of telecommunication which provide a record of the agreement;",
+      "an exchange of statements of claim and defence in which the existence of the agreement is alleged by one party and not denied by the other.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "ADR & Arbitration"
+  },
+  {
+    "id": "aibe15-q6",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 6,
+    "question": "Waiver of right to object deviance from arbitration agreement is mentioned under - ------- of the Arbitration and Conciliation Act",
+    "options": [
+      "Section 7",
+      "Section 4",
+      "Section 20",
+      "Section 22"
+    ],
+    "correctAnswer": "B",
+    "subject": "ADR & Arbitration"
+  },
+  {
+    "id": "aibe15-q7",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 7,
+    "subject": "Evidence Law",
+    "question": "A intentionally and falsely leads B to believe that certain land belongs to A, and thereby induces B to buy and pay for it. The land afterwards becomes the property of A, and A seeks to set aside the sale on the ground that, at the time of the sale, he had no title. He will not be allowed to prove his want of title. - Which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023 is applicable?",
+    "options": [
+      "Section 92",
+      "Section 124",
+      "Section 121",
+      "Section 101"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q8",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 8,
+    "question": "The Arbitration Act 1996 repeals",
+    "options": [
+      "The Arbitration Act, 1940,",
+      "The Arbitration (Protocol and Convention) Act, 1937",
+      "the Foreign Awards (Recognition and Enforcement) Act, 1961.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "ADR & Arbitration"
+  },
+  {
+    "id": "aibe15-q9",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 9,
+    "subject": "Criminal Law",
+    "question": "Sections 289 to 300, Chapter XXII of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with the concept of:",
+    "options": [
+      "Unlawful Assembly",
+      "Arrest without warrant",
+      "search and seizures",
+      "Plea bargaining"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q10",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 10,
+    "subject": "Criminal Law",
+    "question": "Security for good behaviour from habitual offenders is dealt under which section of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
+    "options": [
+      "Section 128",
+      "Section 129",
+      "Section 130",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q11",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 11,
+    "question": "X,Y, Z jointly promise to pay A an amount of Rs. 50,000/- Subsequently X,Y became untraceable. Can A compel Z to pay?",
+    "options": [
+      "A can, under Section 43 para 1",
+      "A can under Section 49 para 1",
+      "A cannot and will have to wait till X,Y become traceable",
+      "Z can be compelled only for one third"
+    ],
+    "correctAnswer": "A",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q12",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 12,
+    "question": "Delivery of goods by one person to another for some purpose upon a contract that they shall, when the purpose is accomplished, be returned or disposed of according to the directions of the person delivering them. This process is termed as",
+    "options": [
+      "Agency",
+      "Bailment",
+      "Guarantee",
+      "Contingency"
+    ],
+    "correctAnswer": "B",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q13",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 13,
+    "question": "Section 14A inserted by THE SPECIFIC RELIEF (AMENDMENT) ACT, 2018, relates to",
+    "options": [
+      "Power of the Courts to engage experts",
+      "Establishment of Special Court",
+      "Expeditious disposal of case",
+      "Specific performance with regard to contracts"
+    ],
+    "correctAnswer": "A",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q14",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 14,
+    "question": "Parliament may by law establish Administrative Tribunals under ............ of the Constitution",
+    "options": [
+      "Article 323B",
+      "Article 323A",
+      "Article 233",
+      "Article 323"
+    ],
+    "correctAnswer": "B",
+    "subject": "Administrative Law"
+  },
+  {
+    "id": "aibe15-q15",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 15,
+    "question": "The Bar Council of India has to lay down the standards of professional conduct and etiquette for the Advocates under",
+    "options": [
+      "Section 3 of the Advocate Act, 1961",
+      "Section 7 (1) (b) of the Advocate Act, 1961",
+      "Section 17 of the Advocate Act, 1961",
+      "Section 18 of the Advocate Act, 1961"
+    ],
+    "correctAnswer": "B",
+    "subject": "Legal Ethics"
+  },
+  {
+    "id": "aibe15-q16",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 16,
+    "question": "According to Section 49 of the Advocate Act of 1961 the bar Council of India has power to make rules",
+    "options": [
+      "qualifications for membership of a Bar Council and the disqualifications for such membership",
+      "the class or category of persons entitled to be enrolled as advocates",
+      "the standards of legal education to be observed by universities in India and the inspection of universities for that purpose.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Legal Ethics"
+  },
+  {
+    "id": "aibe15-q17",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 17,
+    "subject": "Family Law",
+    "question": "Requisites of a valid adoption: no adoption shall be valid unless -\n(i) the person adopting has the capacity, and also the right, to take in adoption;\n(ii) the person giving in adoption has the capacity to do so;\n(iii) the person adopted is capable of being taken in adoption; and\n(iv) the adoption is made in compliance with the other conditions mentioned in this Chapter.\n\n- mentioned under:",
+    "options": [
+      "Section 6 of Hindu Adoptions and Maintenance Act",
+      "Section 8 of Hindu Adoptions and Maintenance Act",
+      "Section 12 of Hindu Adoptions and Maintenance Act",
+      "Section 10 of Hindu Adoptions and Maintenance Act"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false
+  },
+  {
+    "id": "aibe15-q18",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 18,
+    "question": "According to the Muslim women (protection of right son marriage) act, 2019, any pronouncement of talaq as defined under the Act by a Muslim husband upon his wife, by words, either spoken or written or in electronic form or in any other manner whatsoever, s hall be",
+    "options": [
+      "Void",
+      "Cognizable",
+      "compoundable",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Family Law"
+  },
+  {
+    "id": "aibe15-q19",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 19,
+    "question": "The Hindu Succession (Amendment) Act (HSAA) 2005 provides for women:",
+    "options": [
+      "coparcenary rights at par with men;",
+      "inheritance rights in agricultural land from her parents at par with her brothers;",
+      "inheritance of the self - acquired agricultural land of her deceased husband",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Family Law"
+  },
+  {
+    "id": "aibe15-q20",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 20,
+    "question": "Section 25 of the Hindu Marriage Act provides for",
+    "options": [
+      "Custody of the Children",
+      "Permanent alimony and maintenance",
+      "Maintenance Pendente lite",
+      "Division of matrimonial property"
+    ],
+    "correctAnswer": "B",
+    "subject": "Family Law"
+  },
+  {
+    "id": "aibe15-q21",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 21,
+    "question": "A Hindu wife had been living with her children and all the children had been brought up by her without any assistance and help from the husband many years. The wife was entitled to separate residence and maintenance under",
+    "options": [
+      "Section 18 (2) (f) of Hindu Adoptions and Maintenance Act",
+      "Section 18 (2) (d) of Hindu Adoptions and Maintenance Act",
+      "Section 18 (2) (a) of Hindu Adoptions and Maintenance Act",
+      "Section 18 (2) (g) of Hindu Adoptions and Maintenance Act"
+    ],
+    "correctAnswer": "C",
+    "subject": "Family Law"
+  },
+  {
+    "id": "aibe15-q22",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 22,
+    "question": "Imposition of compensatory costs in respect of false or vexatious claims or defences is dealt under",
+    "options": [
+      "Section 33 of CPC",
+      "Section 35A of CPC",
+      "Section 30 of CPC",
+      "Section 35 of CPC"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q23",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 23,
+    "question": "Which provision under the Code of Civil Procedure deals with substituted service of summons upon the defendant",
+    "options": [
+      "Order 5 Rule 19A",
+      "Order 5 Rule 19",
+      "Order 5 Rule 20",
+      "Order 5 Rule 21"
+    ],
+    "correctAnswer": "C",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q24",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 24,
+    "subject": "Evidence Law",
+    "question": "The question is, whether A owes B rupees 10,000. Which of the following statements are relevant under the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "The facts that A asked C to lend him money",
+      "D said to C in A's presence and hearing \"I advise you not to trust A, for he owes B 10,000 rupees,\"",
+      "A went away without making any answer",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q25",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 25,
+    "subject": "Evidence Law",
+    "question": "So much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered by the police may be proved under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 25",
+      "Section 24",
+      "Section 23",
+      "Section 29"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q26",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 26,
+    "subject": "Evidence Law",
+    "question": "When the Court has to form an opinion upon a point of foreign law or of science, or art, or as to identity of handwriting, or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions are relevant facts. This is under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 42",
+      "Section 39",
+      "Section 50",
+      "Section 55"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q27",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 27,
+    "question": "According to Environmental Protection Act, 1986, 'environmental pollutant' means",
+    "options": [
+      "any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, helpful to environment",
+      "only gaseous substance present in such concentration as may be, or tend to be, injurious to environment",
+      "any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment",
+      "any solid, liquid present in such concentration as may be, or tend to be, injurious to environment"
+    ],
+    "correctAnswer": "C",
+    "subject": "Environmental Law"
+  },
+  {
+    "id": "aibe15-q28",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 28,
+    "question": "National Green Tribunal cannot exercise its Jurisdiction with reference to",
+    "options": [
+      "Wildlife (Protection) Act, 1972",
+      "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006",
+      "The Public Liability Insurance Act, 1991",
+      "both A & B"
+    ],
+    "correctAnswer": "D",
+    "subject": "Environmental Law"
+  },
+  {
+    "id": "aibe15-q29",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 29,
+    "question": "An attempt to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication - is known as",
+    "options": [
+      "Pharming",
+      "Smishing",
+      "Phishing",
+      "Didling"
+    ],
+    "correctAnswer": "C",
+    "subject": "Cyber Law"
+  },
+  {
+    "id": "aibe15-q30",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 30,
+    "subject": "Criminal Law",
+    "question": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, Plea Bargaining is applicable only in respect of those offences for which punishment of imprisonment is up to a period of:",
+    "options": [
+      "7 years.",
+      "10 years",
+      "11 years",
+      "14 years"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q31",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 31,
+    "question": "“From a plain reading of Section 195 Cr.P.C . it is manifest that it comes into operation at the stage when the Court intends to take cognizance of an offence under Section 190(1) Cr PC.; and it has nothing to do with the statutory power of the police to investigate into an F.I.R. which discloses a cognizable offence.... In other words, the statutory power of the Police to investigate under the Code is not in any way controlled or circumscribed by Section 195 Cr.P.C.\" - This was held by the Supreme Court in the case of",
+    "options": [
+      "Nalini Vs State of Tamilnadu",
+      "Raj Singh Vs State (1998)",
+      "Shamsher Singh Vs State of Punjab",
+      "State of Himachal Pradesh Vs Tara Dutta"
+    ],
+    "correctAnswer": "B",
+    "subject": "Criminal Law"
+  },
+  {
+    "id": "aibe15-q32",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 32,
+    "question": "Indemnity contract is defined under",
+    "options": [
+      "Section 124 of the Indian Contract Act",
+      "Section 67 of the Indian Contract Act",
+      "Section 127 of the Indian Contract Act",
+      "Section 128 of the Indian Contract Act"
+    ],
+    "correctAnswer": "B",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q33",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 33,
+    "question": "Peek Vs. Gurney is a famous case related to",
+    "options": [
+      "Coercion",
+      "Fraud",
+      "Mistake of fact",
+      "Mistake of law"
+    ],
+    "correctAnswer": "B",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q34",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 34,
+    "subject": "Criminal Law",
+    "question": "Which provision under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with the procedure to be adopted by the Magistrate to record confessions and statements?",
+    "options": [
+      "Section 162",
+      "Section 183",
+      "Section 163A",
+      "Section 165"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q35",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 35,
+    "subject": "Criminal Law",
+    "question": "Attachment of property of person absconding can be done under Section ........ of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023.",
+    "options": [
+      "85",
+      "84",
+      "87",
+      "88"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q36",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 36,
+    "subject": "Criminal Law",
+    "question": "Magistrate may dispense with personal attendance of accused under Section ....... of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023.",
+    "options": [
+      "224",
+      "227",
+      "228",
+      "223"
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q37",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 37,
+    "question": "The Supreme Court invoked the principle of Transformative Constitutionalism' in the case of",
+    "options": [
+      "Navtej Singh Johar Vs Union of India (2018)",
+      "Suresh Kumar Koushal Vs Naz Foundation (2010)",
+      "Naz Foundation Vs Government of NCT of Delhi, (2009)",
+      "Aruna Roy Vs Union of India, (2002)"
+    ],
+    "correctAnswer": "A",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q38",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 38,
+    "subject": "Criminal Law",
+    "question": "The provisions of the Bharatiya Nyaya Sanhita (BNS), 2023 apply also to any offence committed by:",
+    "options": [
+      "any citizen of India in any place without and beyond India;",
+      "any person on any ship or aircraft registered in India wherever it may be",
+      "any person in any place without and beyond India committing offence targeting a computer resource located in India.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q39",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 39,
+    "subject": "Criminal Law",
+    "question": "Section 120 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 deals with:",
+    "options": [
+      "Forfeiture of property in certain cases.",
+      "Notice of forfeiture of property",
+      "Management of properties seized or forfeited",
+      "Identifying unlawfully acquired property"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q40",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 40,
+    "question": "Bar to taking cognizance after lapse of the period of limitation is dealt under",
+    "options": [
+      "Section 178 of Cr. P.C.",
+      "Section 469 of Cr. P.C.",
+      "Section 478 of Cr. P.C.",
+      "Section 168 of Cr. P.C."
+    ],
+    "correctAnswer": "D",
+    "subject": "Limitation Law"
+  },
+  {
+    "id": "aibe15-q41",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 41,
+    "question": "\"decree - holder\" means",
+    "options": [
+      "any person in whose favour a decree has been passed or an order capable of execution has been made",
+      "any person in whose favour a decree has been passed or an order incapable of execution has been made",
+      "any Citizen in whose favour a decree has been passed or an order capable of execution has. been made",
+      "any corporation in whose favour a decree has been passed or an order capable of execution has been made"
+    ],
+    "correctAnswer": "A",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q42",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 42,
+    "question": "Under the Patent Act which of the following are not patentable?",
+    "options": [
+      "a method of agriculture horticulture",
+      "a presentation of information",
+      "topography of integrated circuits",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Intellectual Property"
+  },
+  {
+    "id": "aibe15-q43",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 43,
+    "question": "World Intellectual Property Organization (WIPO) has replaced pre - existing",
+    "options": [
+      "GATT",
+      "BIRPI",
+      "TPRM",
+      "PCT"
+    ],
+    "correctAnswer": "B",
+    "subject": "Intellectual Property"
+  },
+  {
+    "id": "aibe15-q44",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 44,
+    "question": "Anuradha Bhasin Vs Union of India on 10 January, 2020 relates to a challenge under Article 32 of the Constitution seeking issuance of an appropriate writ",
+    "options": [
+      "for setting aside orders of the Government by which all modes of communication including Internet have been shut down in J&K",
+      "for setting aside orders of the Government by which private property was sought to be acquired in J&K",
+      "for setting aside orders of the Government by which J&K was constituted as a UT",
+      "for setting aside orders of the Government by which Ladakh was separated."
+    ],
+    "correctAnswer": "A",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q45",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 45,
+    "question": "Section 66A of the Information Technology Act was struck down under Art. 19(1) (a) read with Article 19 (2) in the case of",
+    "options": [
+      "Justice K. S. Puttaswamy Vs Union of India",
+      "Kharak singh Vs State of U.P.",
+      "Govinda Vs State of M.P.",
+      "Shreya Singhal Vs Union of India"
+    ],
+    "correctAnswer": "D",
+    "subject": "Cyber Law"
+  },
+  {
+    "id": "aibe15-q46",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 46,
+    "question": "Article 145(3) of the Indian Constitution states that The minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any r eference under Article 143 shall be....",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Nine"
+    ],
+    "correctAnswer": "C",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q47",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 47,
+    "question": "The utility of Public Interest Litigation",
+    "options": [
+      "Liberalised locus standi",
+      "The proceedings are non - Adversarial",
+      "Procedural requirements are liberalized",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q48",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 48,
+    "question": "The petitioner, a professor of political science who had done substantial research and deeply interested in ensuring proper implementation of the constitutional provisions, challenged the practice followed by the state of Bihar in repromulgating a number of ordinances without getting the approval of the legislature. The court held that the petitioner as a member of public has 'sufficient interest' to maintain a petition under Article 32 - This relates to the case of",
+    "options": [
+      "Parmanand Katara Vs Union of India AIR 1989, SC 2039",
+      "D.C.Wadhwa Vs State of Bihar, AIR 1987 SC 579",
+      "Neeraja Choudhari Vs State of Madhya Pradesh AIR 1984SC1099",
+      "Chameli Singh Vs State of U.P. AIR 1996,SC1051"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q49",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 49,
+    "question": "Where a legal wrong or a legal injury is caused to a person or to a determinate class of persons by reason of violation of any constitutional or legal right or any burden is imposed in contravention of any constitutional or legal provision or without auth ority of law or any such legal wrong or legal injury or illegal burden is threatened and such person or determinate class of persons by reasons of poverty, helplessness or disability or socially or economically disadvantaged position unable to approach the court for relief, any member of public can maintain an application for an appropriate direction, order or writ in the High Court under Article 226 and in case any breach of fundamental rights of such persons or determinate class of persons, in this co urt under Article 32 seeking judicial redress for the legal wrong or legal injury caused to such person or determinate class of persons.\" - Justice Bhagwati in the case of",
+    "options": [
+      "Peoples Union for Democratic Rights Vs Union of India",
+      "Ashok Kumar Pandey Vs State of West Bengal",
+      "S. P. Gupta Vs Union of India",
+      "Janata Dal Vs H. S. Chowdhary"
+    ],
+    "correctAnswer": "C",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q50",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 50,
+    "question": "The definition of 'money' under GST law does not include",
+    "options": [
+      "Letter of Credit",
+      "Currency held for numismatic value",
+      "Pay order",
+      "Traveler cheque"
+    ],
+    "correctAnswer": "B",
+    "subject": "Tax Law"
+  },
+  {
+    "id": "aibe15-q51",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 51,
+    "question": "Under Article 279A GST Council is constituted by",
+    "options": [
+      "Prime Minister and his Council of Ministers",
+      "Respective Governors of the State",
+      "The President",
+      "A collective body of Union and States"
+    ],
+    "correctAnswer": "C",
+    "subject": "Tax Law"
+  },
+  {
+    "id": "aibe15-q52",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 52,
+    "question": "The definition of Contract is defined under",
+    "options": [
+      "Section 2(a) of the Indian Contract Act.",
+      "Section 2(h) of the Indian Contract Act.",
+      "Section 2(d) of the Indian Contract Act.",
+      "Section 2(g) of the Indian Contract Act."
+    ],
+    "correctAnswer": "B",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q53",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 53,
+    "subject": "Criminal Law",
+    "question": "Voluntarily throwing or attempting to throw acid is an offence punishable under which section of the Bharatiya Nyaya Sanhita (BNS), 2023?",
+    "options": [
+      "Section 124(2) of BNS",
+      "Section 120(2) of BNS",
+      "Section 114 of BNS",
+      "Section 122 of BNS"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q54",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 54,
+    "question": "A is at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part of A, his act is",
+    "options": [
+      "An Offence of murder",
+      "An offence of Culpable homicide",
+      "Not an offence",
+      "An Offence of causing grievous hurt"
+    ],
+    "correctAnswer": "C",
+    "subject": "Criminal Law"
+  },
+  {
+    "id": "aibe15-q55",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 55,
+    "subject": "Criminal Law",
+    "question": "A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z's handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search - A has committed an Offence under which section of the Bharatiya Nyaya Sanhita (BNS), 2023?",
+    "options": [
+      "Section 256 of BNS",
+      "Section 228 of BNS",
+      "Section 195 A of BNS",
+      "Section 201(a) of BNS"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q56",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 56,
+    "question": "India, that is Bharat, shall be a",
+    "options": [
+      "Federation of States",
+      "quasi federal",
+      "Union of states",
+      "Unitary state of a special type"
+    ],
+    "correctAnswer": "C",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q57",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 57,
+    "question": "In M.C. Mehta Vs. Union of India, AIR 1987 SC1086 (Sri Ram Fertilizers case) the court held that",
+    "options": [
+      "In escape of toxic gas the enterprise is strictly and absolutely liable to compensate all those who are affected by the accident and such liability is not subject to any of the exceptions which operate vis - a - vis the tortious principle of strict liability.",
+      "In escape of a dangerous animal the owner is strictly and absolutely liable to compensate all those who are affected by the accident and such liability is not subject to any of the exceptions which operate vis - a - vis the tortious principle of strict liabil ity.",
+      "In escape of toxic gas the enterprise is strictly liable to compensate all those who are affected by the accident and such liability is subject to any of the exceptions which operate vis - a - vis the tortious principle of strict liability",
+      "A company or a corporation is not a state and hence not liable for leak of toxic gas affecting the health of the people"
+    ],
+    "correctAnswer": "A",
+    "subject": "Law of Torts"
+  },
+  {
+    "id": "aibe15-q58",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 58,
+    "question": "Under Section 70 of the Indian Contract Act, Where a person lawfully does anything for another person, or delivers anything to him, not intending to do so gratuitously, and such other person enjoys the benefit thereof, the latter is bound to make compensa tion to the former in respect of, or to restore, the thing so done or delivered. This principle is known as",
+    "options": [
+      "A Contract of Uberrimae fide",
+      "Implied Agency",
+      "Quantum meruit",
+      "De nova contract"
+    ],
+    "correctAnswer": "C",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q59",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 59,
+    "question": "Agreement is",
+    "options": [
+      "a promise or set of promises forming consideration to each other",
+      "enforceable by law",
+      "enforceable contract",
+      "Un enforceable by law"
+    ],
+    "correctAnswer": "A",
+    "subject": "Contract Law"
+  },
+  {
+    "id": "aibe15-q60",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 60,
+    "question": "Under the Land Acquisition Act, the expression \"land\" includes",
+    "options": [
+      "benefits to arise out of land",
+      "things attached to the earth",
+      "things permanently fastened to anything attached to the earth",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Property Law"
+  },
+  {
+    "id": "aibe15-q61",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 61,
+    "question": "Temporary occupation of waste or arable land, procedure when difference as to compensation exists is provided under",
+    "options": [
+      "Section 32 of Land Acquisition Act",
+      "Section 30 of Land Acquisition Act",
+      "Section 35 of Land Acquisition Act",
+      "Section 31 of Land Acquisition Act"
+    ],
+    "correctAnswer": "C",
+    "subject": "Property Law"
+  },
+  {
+    "id": "aibe15-q62",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 62,
+    "question": "Suits by indigent persons is dealt under",
+    "options": [
+      "Order 44 of C.P.C",
+      "Order 33 of C.P.C",
+      "Order 55 of C.P.C",
+      "Order 22 of C.P.C"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q63",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 63,
+    "subject": "Evidence Law",
+    "question": "Res gestae, Relevancy of facts forming part of same transaction is dealt under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 4 of the BSA",
+      "Section 17 of the BSA",
+      "Section 18 of the BSA",
+      "Section 20 of the BSA"
+    ],
+    "correctAnswer": "A",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q64",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 64,
+    "question": "Among other things, the Function of Bar council of India includes laying down standards of professional conduct and etiquette for advocates. - Under which section of the Advocates Act",
+    "options": [
+      "Section 7",
+      "Section 8",
+      "Section 9",
+      "Section 6"
+    ],
+    "correctAnswer": "A",
+    "subject": "Legal Ethics"
+  },
+  {
+    "id": "aibe15-q65",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 65,
+    "question": "According to Justice 'Abbot Parry' what are the \"Seven Lamps of Advocacy\".",
+    "options": [
+      "(i) Honesty (ii) Courage (iii) professionalism (iv) Wit (v) Eloquence, (vi) Judgment and (vii) Fellowship.",
+      "(i) Honesty (ii) Courage (iii) Industry (iv) Wit (v) Eloquence, (vi) Judgment and (vii) Fellowship.",
+      "(i) influence (ii) Courage (iii) Industry (iv) Wit (v) Eloquence, (vi) Judgment and (vii) Fellowship.",
+      "(i) Honesty (ii) Courage (iii) Industry (iv) seriousness (v) Eloquence, (vi) Judgment and (vii) Fellowship."
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q66",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 66,
+    "question": "Minimum number of Directors in a Public company",
+    "options": [
+      "3",
+      "10",
+      "12",
+      "5"
+    ],
+    "correctAnswer": "A",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q67",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 67,
+    "question": "An associate company, in relation to another company, means",
+    "options": [
+      "a company in which that other company has a significant influence, but which is a subsidiary company of the company having such influence and includes a joint venture company",
+      "a company in which that other company has a significant influence, but which is not a subsidiary company of the company having such influence and includes a joint venture company",
+      "a company in which that other company has a significant influence, but which is not a subsidiary company of the company having such influence and does not include a joint venture company",
+      "a company in which that other company has full shares, and is a subsidiary company of the company having such influence and includes a joint venture company"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q68",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 68,
+    "question": "The Supreme Court has legalised living wills and passive euthanasia subject to certain conditions in the case of",
+    "options": [
+      "Aruna Ramachandra Shanbaug Vs Union of India (2011)",
+      "Common Cause Vs Union of India, (2018) 5 SCC 1.",
+      "Gian Kaur Vs State of Punjab (1996)",
+      "D Chenna Jagadeeswar Vs State of A.P. (1988)"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q69",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 69,
+    "question": "Article 310 of the Constitution mentions about",
+    "options": [
+      "Doctrine of Immunities and Instrumentalities with reference to civil servants",
+      "Doctrine of legitimate expectation with reference to civil servants",
+      "Doctrine of natural justice with reference to civil servants",
+      "Doctrine of pleasure with reference to civil servants is"
+    ],
+    "correctAnswer": "D",
+    "subject": "Administrative Law"
+  },
+  {
+    "id": "aibe15-q70",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 70,
+    "question": "Right to know the antecedents of the candidates in the election flow from",
+    "options": [
+      "Article 19 (1)(a)",
+      "Article 20",
+      "Article 13",
+      "Article 14"
+    ],
+    "correctAnswer": "A",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q71",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 71,
+    "question": "In the Preamble of the Indian Constitution, the expression 'liberty' is followed by the words",
+    "options": [
+      "of status and opportunity",
+      "of thought, expression, belief, faith and worship",
+      "Assuring the dignity of the individual",
+      "Justice, social economic and political"
+    ],
+    "correctAnswer": "B",
+    "subject": "Constitutional Law"
+  },
+  {
+    "id": "aibe15-q72",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 72,
+    "question": "According to Income Tax Act \"zero coupon bond\" means a bond",
+    "options": [
+      "issued by any infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank on or after the 1st day of June, 2005;",
+      "in respect of which no payment and benefit is received or receivable before maturity or redemption from infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank",
+      "which the Central Government may, by notification in the Official Gazette, specify in this behalf.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Tax Law"
+  },
+  {
+    "id": "aibe15-q73",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 73,
+    "question": "Provisions relating to GST are inserted in the Constitution by",
+    "options": [
+      "The Constitution (one hundred and first) Act 2016",
+      "The Constitution (one hundred and second) Act 2016",
+      "The Constitution (eighty fourth) Act 2016",
+      "The Constitution (seventy - seven) Act 2016"
+    ],
+    "correctAnswer": "A",
+    "subject": "Tax Law"
+  },
+  {
+    "id": "aibe15-q74",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 74,
+    "subject": "Evidence Law",
+    "question": "A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked, and goals are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them. - under which section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
+    "options": [
+      "Section 12",
+      "Section 4",
+      "Section 3",
+      "Section 5"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q75",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 75,
+    "subject": "Evidence Law",
+    "question": "Section 113 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 deals with:",
+    "options": [
+      "Documentary Evidence",
+      "Exclusion of Oral Evidence",
+      "Burden of proof as to ownership",
+      "Proof of guilt."
+    ],
+    "correctAnswer": "C",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q76",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 76,
+    "subject": "Evidence Law",
+    "question": "Section 117 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 deals with:",
+    "options": [
+      "Presumption as to abetment of murder",
+      "Presumption as to rape and abetment of suicide by a woman",
+      "Presumption as to abetment of kidnap of a girl",
+      "Presumption as to abetment of suicide by a married woman"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q77",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 77,
+    "question": "In which of the following case the offence of sedition was in issue",
+    "options": [
+      "Queen Empress Vs Bal Gangadhar Tilak",
+      "Niharendu Dutt Mazumdar Vs Emperor",
+      "Kedar Nath singh Vs State of Bihar",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Criminal Law"
+  },
+  {
+    "id": "aibe15-q78",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 78,
+    "subject": "Criminal Law",
+    "question": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs is an offence under which section of the Bharatiya Nyaya Sanhita (BNS), 2023?",
+    "options": [
+      "Section 295",
+      "Section 299",
+      "Section 265A",
+      "Section 276"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q79",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 79,
+    "subject": "Criminal Law",
+    "question": "Under Section 23 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, the Court of a Chief Judicial Magistrate may pass any sentence authorized by law except:",
+    "options": [
+      "A sentence of death",
+      "Imprisonment for life",
+      "Imprisonment for a term exceeding seven years.",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q80",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 80,
+    "question": "Provision regarding filing of suits by an alien under the Code of Civil procedure is dealt under",
+    "options": [
+      "Section 21A",
+      "Section 15",
+      "Section 218",
+      "Section 83"
+    ],
+    "correctAnswer": "D",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q81",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 81,
+    "question": "An order issued by court under Civil Procedure Code 1908 as per order XXI, rule 46, for recovery of amount due to judgment creditor - is known as",
+    "options": [
+      "IT Order",
+      "Garnishee Order",
+      "Decree Holder order",
+      "Bank Order"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q82",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 82,
+    "question": "Section 88 read with Order XXXV of the Code of Civil Procedure, 1908 deals with",
+    "options": [
+      "Interpleader suit",
+      "Interlocutory Order",
+      "Restitution Order",
+      "Attachment Order"
+    ],
+    "correctAnswer": "A",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q83",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 83,
+    "question": "Vis major means",
+    "options": [
+      "Act of God",
+      "Act of Individual",
+      "Act of other party",
+      "Act of plaintiff"
+    ],
+    "correctAnswer": "A",
+    "subject": "Law of Torts"
+  },
+  {
+    "id": "aibe15-q84",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 84,
+    "question": "According to Classical doctrine of Act of State in law of Torts means",
+    "options": [
+      "an act of the sovereign power of a country, that cannot be challenged, controlled or interfered with by municipal courts",
+      "an act of the Judiciary of a country, that cannot be challenged, controlled or interfered with by municipal courts",
+      "an act of the sovereign power of a country, that can be challenged, controlled or interfered with by municipal courts",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "subject": "Law of Torts"
+  },
+  {
+    "id": "aibe15-q85",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 85,
+    "question": "In Torts, all persons who aid, or counsel, or direct or join in the committal of a wrongful act, are known as",
+    "options": [
+      "Abettors",
+      "Joint tortfessors.",
+      "Tort holders",
+      "Tort holders in common"
+    ],
+    "correctAnswer": "B",
+    "subject": "Law of Torts"
+  },
+  {
+    "id": "aibe15-q86",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 86,
+    "question": "M.C. Mehta Vs Union of India 1986 Shriram food and Fertilisers case relates to",
+    "options": [
+      "Olieum Gas leak",
+      "Ganga water cleaning",
+      "Child labour",
+      "Bonded labour"
+    ],
+    "correctAnswer": "A",
+    "subject": "Environmental Law"
+  },
+  {
+    "id": "aibe15-q87",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 87,
+    "question": "A. K. Kraipak Vs Union of India relates to",
+    "options": [
+      "Likelihood of Bias",
+      "Delegated Legislation",
+      "Administrative Discretion",
+      "Notice"
+    ],
+    "correctAnswer": "A",
+    "subject": "Administrative Law"
+  },
+  {
+    "id": "aibe15-q88",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 88,
+    "question": "Judicial control of Delegated Legislation may be exercised on the ground of",
+    "options": [
+      "Doctrine of Ultravires",
+      "Malafides",
+      "Exclusion of Judicial Review",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "subject": "Administrative Law"
+  },
+  {
+    "id": "aibe15-q89",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 89,
+    "question": "The principle of Res Judicata is dealt under Section ---- of CPC",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q90",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 90,
+    "question": "Section 14 of the C.P.C. deals with",
+    "options": [
+      "Presumption as to decisions of tribunals",
+      "Presumption judgments as to foreign",
+      "Presumption as to judgments of the lower court",
+      "Presumption as to judgments of High Court"
+    ],
+    "correctAnswer": "B",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q91",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 91,
+    "question": "A, residing in Delhi, publishes in Kolkata statements defamatory of B. B may sue A",
+    "options": [
+      "Only in Delhi",
+      "Only in Kolkata",
+      "in both the place of Delhi and Kolkata",
+      "either in Kolkata or in Delhi."
+    ],
+    "correctAnswer": "D",
+    "subject": "Civil Procedure"
+  },
+  {
+    "id": "aibe15-q92",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 92,
+    "question": "\"Mere illegality of the strike does not per se spell unjustifiability\" - Justice Krishna lyer. Name the case.",
+    "options": [
+      "Chandramalai workmen Estate Vs Its",
+      "Associated Cement Ltd., Vs Their workmen",
+      "Gujarat Steel Tubes Vs Gujarat Steel Tubes Mazdoor Sabha",
+      "Indian General Navigation of Railway Co. Ltd., Vs Their workmen"
+    ],
+    "correctAnswer": "C",
+    "subject": "Labour Law"
+  },
+  {
+    "id": "aibe15-q93",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 93,
+    "question": "A workman aggrieved by the order of ............... may directly make an application to the labour court or tribunal for adjudication of the dispute and the court/tribunal is empowered to adjudicate such dispute as it had been referred to it by the approp riate government",
+    "options": [
+      "Dismissal, discharge and retrenchment",
+      "Dismissal, discharge, retrenchment or otherwise termination of service",
+      "Discharge simpliciter exclusively",
+      "Dismissal and retrenchment exclusively"
+    ],
+    "correctAnswer": "B",
+    "subject": "Labour Law"
+  },
+  {
+    "id": "aibe15-q94",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 94,
+    "question": "The national consumer dispute redressal commission was constituted in the year",
+    "options": [
+      "1988",
+      "1998",
+      "1999",
+      "1997"
+    ],
+    "correctAnswer": "A",
+    "subject": "Consumer Law"
+  },
+  {
+    "id": "aibe15-q95",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 95,
+    "subject": "Limitation Law",
+    "question": "What is the limitation period applicable to the three forums in entertaining a complaint under the Consumer Protection Act, 2019?",
+    "options": [
+      "3 years from the date on which the cause of action has arisen",
+      "5 years from the date on which the cause of action has arisen",
+      "4 years from the date on which the cause of action has arisen",
+      "2 years from the date on which the cause of action has arisen"
+    ],
+    "correctAnswer": "D",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q96",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 96,
+    "subject": "Criminal Law",
+    "question": "Under Section 20 of the Bharatiya Nyaya Sanhita (BNS), 2023, nothing is an offence which is done by a child under the age of:",
+    "options": [
+      "14 years",
+      "7 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctAnswer": "B",
+    "isModernized": true
+  },
+  {
+    "id": "aibe15-q97",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 97,
+    "question": "R. V. Dudley & Stephen stands for the principle that",
+    "options": [
+      "Killing an innocent life to save his own is not a defence and necessity cannot be pleaded as a defence against murder",
+      "Necessity can be pleaded as a defence against murder, killing an innocent life to save his own may become inevitable",
+      "Killing out of mercy is a defence and necessity cannot be pleaded as a defence against murder.",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "subject": "Criminal Law"
+  },
+  {
+    "id": "aibe15-q98",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 98,
+    "question": "On and from the commencement of the Hindu Succession (Amendment) Act, 2005, in a Joint Hindu family governed by the Mitakshara law, conferring on daughter coparcenary status by substituting new section for",
+    "options": [
+      "Section 6",
+      "section 10",
+      "Section 11",
+      "Section 13"
+    ],
+    "correctAnswer": "A",
+    "subject": "Family Law"
+  },
+  {
+    "id": "aibe15-q99",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 99,
+    "question": "Section 5 of Hindu Marriage Act relates to",
+    "options": [
+      "Void marriages",
+      "Voidable marriages",
+      "Ceremonies of Hindu marriage",
+      "Conditions of Hindu marriage"
+    ],
+    "correctAnswer": "D",
+    "subject": "Family Law"
+  },
+  {
+    "id": "aibe15-q100",
+    "exam": "AIBE 15",
+    "year": 2021,
+    "questionNumber": 100,
+    "question": "A marriage between a girl of 22 years marries her maternal uncle’s son of 23 years in accordance with the Special Marriage Act. Such marriage is",
+    "options": [
+      "Valid",
+      "Voidable",
+      "Void",
+      "Valid only in north India"
+    ],
+    "correctAnswer": "C",
+    "subject": "Family Law"
+  },
+  {
     "id": "aibe16-q1",
     "exam": "AIBE 16",
     "year": 2021,
@@ -573,7 +2096,7 @@
     "question": "Under the head subsequent conduct, which of the following type of conduct would be material?",
     "options": [
       "Change of life",
-      "Evasion of justice 4",
+      "Evasion of justice",
       "Fear, trembling",
       "All of them"
     ],
@@ -1634,7 +3157,7 @@
     "year": 2023,
     "questionNumber": 7,
     "subject": "Family Law",
-    "question": "Muslim woman has option to be governed by the provisions of Sections 125 to 128 of Criminal Procedure Code 1973 (Sec. 144 - 147 BNSS) . Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it?",
+    "question": "Muslim woman has option to be governed by the provisions of Sections 144 to 147 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it?",
     "options": [
       "Section 5",
       "Section 6",
@@ -1642,7 +3165,7 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe17-q8",
@@ -2115,7 +3638,7 @@
       "The Specific Relief Act, 1963 , 1963",
       "The Code of Civil Procedure, 1908 , 1908",
       "The Code of Criminal Procedure, 1973 , 1973",
-      "The Tr"
+      "The Transfer of Property Act, 1882 , 1882"
     ],
     "correctAnswer": "B",
     "subject": "Contract Law"
@@ -3260,15 +4783,15 @@
     "year": 2023,
     "questionNumber": 11,
     "subject": "Criminal Law",
-    "question": "In which of the following situations Indian Penal Code, 1860 may not apply? i. An offence committed by Indians outside India. ii. An offence committed by any person on any ship registered in India. iii. Any person committing offence targeting computer resources located in any country.",
+    "question": "In which of the following situations may the Bharatiya Nyaya Sanhita (BNS), 2023 not apply?\ni. An offence committed by a citizen of India outside India.\nii. An offence committed by any person on any ship or aircraft registered in India.\niii. Any person committing an offence targeting computer resources located in any country outside India.",
     "options": [
       "Only i",
       "Only ii",
       "Only iii",
       "Only i & ii"
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe18-q12",
@@ -3276,15 +4799,15 @@
     "year": 2023,
     "questionNumber": 12,
     "subject": "Criminal Law",
-    "question": "How many types of punishment are currently existing under the Indian Penal Code, 1860 ?",
+    "question": "How many types of punishment are currently existing under the Bharatiya Nyaya Sanhita (BNS), 2023?",
     "options": [
       "3",
       "4",
       "5",
       "6"
     ],
-    "correctAnswer": "C",
-    "isModernized": false
+    "correctAnswer": "D",
+    "isModernized": true
   },
   {
     "id": "aibe18-q13",
@@ -3324,15 +4847,15 @@
     "year": 2023,
     "questionNumber": 15,
     "subject": "Criminal Law",
-    "question": "For which of the following Section of the Indian Penal Code, 1860 the word benefit does not include pecuniary benefits?",
+    "question": "For which of the following sections of the Bharatiya Nyaya Sanhita (BNS), 2023 does the word 'benefit' not include pecuniary benefits?",
     "options": [
-      "Section 89 89",
-      "Section 155 155",
-      "Section 156 156",
-      "Section 370 370"
+      "Section 27",
+      "Section 193",
+      "Section 194",
+      "Section 143"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q16",
@@ -3340,7 +4863,7 @@
     "year": 2023,
     "questionNumber": 16,
     "subject": "Criminal Law",
-    "question": "X intentionally pulls up a woman's veil without her consent intending to annoy her. As per the Indian Penal Code, 1860 which of the following offence he has committed?",
+    "question": "X intentionally pulls up a woman's veil without her consent intending to annoy her. As per the Bharatiya Nyaya Sanhita (BNS), 2023, which of the following offences has he committed?",
     "options": [
       "Hurt",
       "Criminal force",
@@ -3348,7 +4871,7 @@
       "Grievous hurt"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q17",
@@ -3356,7 +4879,7 @@
     "year": 2023,
     "questionNumber": 17,
     "subject": "Criminal Law",
-    "question": "What punishment is prescribed under the Indian Penal Code, 1860 for a person who maims any minor in order that such minor may be used for the purposes of begging?",
+    "question": "What punishment is prescribed under the Bharatiya Nyaya Sanhita (BNS), 2023 for a person who maims any child in order that such child may be used for the purposes of begging?",
     "options": [
       "Imprisonment for 5 years and fine",
       "Imprisonment for 7 years and fine",
@@ -3364,7 +4887,7 @@
       "Imprisonment for life and fine"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q18",
@@ -3372,15 +4895,15 @@
     "year": 2023,
     "questionNumber": 18,
     "subject": "Criminal Law",
-    "question": "X threatens to publish a defamatory libel concerning Y unless Y gives him money. Which of the following punishment may be given to X for the act committed by him as per the Indian Penal Code, 1860 ?",
+    "question": "X threatens to publish a defamatory libel concerning Y unless Y gives him money. Which of the following punishments may be given to X for the act committed by him as per the Bharatiya Nyaya Sanhita (BNS), 2023?",
     "options": [
       "Imprisonment upto 2 years, or with fine or with both.",
       "Imprisonment upto 3 years, or with fine or with both.",
       "Imprisonment upto 5 years, or with fine or with both.",
       "Imprisonment upto 7 years, or with fine or with both."
     ],
-    "correctAnswer": "A",
-    "isModernized": false
+    "correctAnswer": "D",
+    "isModernized": true
   },
   {
     "id": "aibe18-q19",
@@ -3388,15 +4911,15 @@
     "year": 2023,
     "questionNumber": 19,
     "subject": "Criminal Law",
-    "question": "Which of the following sentence is an Assistant Sessions Judge authorised to pass as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following sentences is a Judicial Magistrate of the First Class authorised to pass as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
-      "Sentence of death.",
-      "Sentence of imprisonment for life.",
-      "Sentence of imprisonment for a term not exceeding ten years.",
-      "Sentence of imprisonment for a term exceeding ten years."
+      "Imprisonment for a term not exceeding three years, or fine not exceeding fifty thousand rupees, or both",
+      "Imprisonment for a term not exceeding seven years",
+      "Imprisonment for life",
+      "Sentence of death"
     ],
-    "correctAnswer": "C",
-    "isModernized": false
+    "correctAnswer": "A",
+    "isModernized": true
   },
   {
     "id": "aibe18-q20",
@@ -3404,15 +4927,15 @@
     "year": 2023,
     "questionNumber": 20,
     "subject": "Criminal Law",
-    "question": "A person arrested by a private person for committing a non - bailable and cognizable offence shall be re - arrested by a police officer if such person comes under which of the following provision of the Code of Criminal Procedure, 1973 ?",
+    "question": "A person arrested by a private person for committing a non-bailable and cognizable offence shall be re-arrested by a police officer if such person comes under the provisions of Section 35 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. Which section of the BNSS deals with arrest by private person and procedure on such arrest?",
     "options": [
-      "Section 41 41",
-      "Section 41A",
-      "Section 42 42",
-      "Section 43 43"
+      "Section 35",
+      "Section 39",
+      "Section 40",
+      "Section 41"
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe18-q21",
@@ -3420,15 +4943,15 @@
     "year": 2023,
     "questionNumber": 21,
     "subject": "Family Law",
-    "question": "Under which of the following situation wife is not entitled for maintenance under Section. 125 of the Code of Criminal Procedure, 1973 ?",
+    "question": "Under which of the following situations is a wife not entitled to maintenance under Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "Husband presumes that wife is living in adultery.",
-      "Voluntarily wife refuses to live with husband.",
+      "Without any sufficient reason, she refuses to live with her husband.",
       "Wife living separately as husband keeps a mistress.",
       "Wife is forcefully removed from the house."
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe18-q22",
@@ -3436,15 +4959,15 @@
     "year": 2023,
     "questionNumber": 22,
     "subject": "Criminal Law",
-    "question": "Which of the following procedure is dealt under Section 164 - A of the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following procedures is dealt with under Section 184 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "Medical examination of the victim of rape.",
       "Attendance of witness by police officer.",
-      "Recording of confession statement. Click Here To Buy Linking Publication",
+      "Recording of confession statement.",
       "Recording of first information report by police officer."
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q23",
@@ -3452,7 +4975,7 @@
     "year": 2023,
     "questionNumber": 23,
     "subject": "Criminal Law",
-    "question": "Which of the following is incorrect with respect to diary of proceedings in investigation as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following is incorrect with respect to the diary of proceedings in investigation as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "The statements of witnesses recorded during investigation shall be inserted in the diary.",
       "The diary shall be duly paginated.",
@@ -3460,7 +4983,7 @@
       "Can be used by the police officers to refresh memory."
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q24",
@@ -3468,7 +4991,7 @@
     "year": 2023,
     "questionNumber": 24,
     "subject": "Criminal Law",
-    "question": "In which of the following cases manner of committing offence is not required to be mentioned in the charge as per the Code of Criminal Procedure, 1973 ?",
+    "question": "In which of the following cases is the manner of committing the offence not required to be mentioned in the charge as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
       "A is accused of the theft of a certain article at a certain time and place.",
       "A is accused of cheating B at a given time and place.",
@@ -3476,7 +4999,7 @@
       "A is accused of giving false evidence at a given time and place."
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q25",
@@ -3484,15 +5007,15 @@
     "year": 2023,
     "questionNumber": 25,
     "subject": "Criminal Law",
-    "question": "Which of the following offences may be tried summarily as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following offences may be tried summarily as per the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
-      "Offence under Section 454 of the IPC.",
-      "Offence under Section 504 of the IPC.",
-      "Offence punishable with imprisonment for a term not exceeding two years.",
-      "Offence punishable with life imprisonment."
+      "Offences punishable with imprisonment for a term exceeding three years.",
+      "Offences punishable with life imprisonment or death.",
+      "Offences punishable with imprisonment for a term not exceeding three years.",
+      "All of the above"
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe18-q26",
@@ -3500,15 +5023,15 @@
     "year": 2023,
     "questionNumber": 26,
     "subject": "Criminal Law",
-    "question": "Which of the following Section of the Code of Criminal Procedure, 1973 provides for reference to High Court?",
+    "question": "Which of the following sections of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 provides for reference to the High Court?",
     "options": [
-      "Section 275 275",
-      "Section 325 325",
-      "Section 383 383",
-      "Section 395 395"
+      "Section 315",
+      "Section 365",
+      "Section 425",
+      "Section 436"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q27",
@@ -3516,15 +5039,15 @@
     "year": 2023,
     "questionNumber": 27,
     "subject": "Criminal Law",
-    "question": "A person accused of the following offence may not be granted bail under Section 438 of the Code of Criminal Procedure, 1973: i. Accused of offence under Section 376AB of the IPC. ii. Accused of offence under Section 376DA of the IPC. iii. Accused of offence under Section 376DB of the IPC.",
+    "question": "A person accused of which of the following offences may not be granted anticipatory bail under Section 482 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?\ni. Accused of offence under Section 65 of the BNS, 2023.\nii. Accused of offence under Section 70 of the BNS, 2023.",
     "options": [
-      "i & ii",
-      "ii & iii",
-      "iii & i",
-      "i, ii & iii"
+      "Only i",
+      "Only ii",
+      "Both i and ii",
+      "Neither i nor ii"
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe18-q28",
@@ -3532,15 +5055,15 @@
     "year": 2023,
     "questionNumber": 28,
     "subject": "Criminal Law",
-    "question": "Which of the following act if done by any Magistrate, even in good faith without being empowered, shall vitiate the proceedings as per the Code of Criminal Procedure, 1973 ?",
+    "question": "Which of the following acts, if done by any Magistrate who is not empowered by law, shall make the proceedings void (vitiate proceedings) under Section 515 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
     "options": [
-      "Tender a pardon under Section 306 of CrPC.",
-      "Recall a case and try it under Section 410 of the CrPC.",
-      "Attaches property under Section 83 of the CrPC.",
-      "Hold an inquest under Section 176 of the CrPC."
+      "Tender a pardon under Section 343 of the BNSS",
+      "Recall a case and try it under Section 451 of the BNSS",
+      "Try an offender under Section 515 of the BNSS",
+      "Hold an inquest under Section 196 of the BNSS"
     ],
-    "correctAnswer": null,
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe18-q29",
@@ -3708,7 +5231,7 @@
     "year": 2023,
     "questionNumber": 39,
     "subject": "Evidence Law",
-    "question": "A is accused of the murder of B by beating him. Which of the following will not be considered as relevant fact forming part of the same transaction as per the Indian Evidence Act, 1872 ?",
+    "question": "A is accused of the murder of B by beating him. Which of the following will not be considered as a relevant fact forming part of the same transaction as per the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Whatever said by A or B at the time of beating.",
       "Whatever done by A or B at the time of beating.",
@@ -3716,7 +5239,7 @@
       "Whatever said by A or B a day before the day of beating."
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q40",
@@ -3724,15 +5247,15 @@
     "year": 2023,
     "questionNumber": 40,
     "subject": "Evidence Law",
-    "question": "Which of the following provisions of the Indian Evidence Act, 1872 says that the confession to police - officer shall not be proved against him?",
+    "question": "Which of the following provisions of the Bharatiya Sakshya Adhiniyam (BSA), 2023 says that a confession made to a police officer shall not be proved against a person accused of any offence?",
     "options": [
-      "Section 24 24",
-      "Section 25 25",
-      "Section 26 26",
-      "Section 27 27"
+      "Section 22",
+      "Section 23",
+      "Section 24",
+      "Section 25"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q41",
@@ -3740,15 +5263,15 @@
     "year": 2023,
     "questionNumber": 41,
     "subject": "Evidence Law",
-    "question": "Under which of the following provision of the Indian Evidence Act, 1872 dying declaration may be admitted as evidence?",
+    "question": "Under which of the following provisions of the Bharatiya Sakshya Adhiniyam (BSA), 2023 may a dying declaration be admitted as evidence?",
     "options": [
-      "Section 25 25",
-      "Section 29 29",
-      "Section 32 32",
-      "Section 37 37"
+      "Section 23",
+      "Section 25",
+      "Section 26",
+      "Section 30"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q42",
@@ -3756,7 +5279,7 @@
     "year": 2023,
     "questionNumber": 42,
     "subject": "Evidence Law",
-    "question": "Which of the following is correct according to the Indian Evidence Act, 1872 pertaining to proof of contents of the documents?",
+    "question": "Which of the following is correct according to the Bharatiya Sakshya Adhiniyam (BSA), 2023 pertaining to proof of contents of documents?",
     "options": [
       "Contents of the documents shall be proved by primary evidence.",
       "Contents of the documents may be proved by secondary evidence.",
@@ -3764,7 +5287,7 @@
       "Contents of documents may be proved either by primary or by secondary evidence."
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q43",
@@ -3772,7 +5295,7 @@
     "year": 2023,
     "questionNumber": 43,
     "subject": "Evidence Law",
-    "question": "Which of the following is a correct statement as per the Indian Evidence Act, 1872 ?",
+    "question": "Which of the following is a correct statement as per the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Leading questions may be asked in examination - in - chief.",
       "Leading questions may be asked in cross - examination.",
@@ -3780,7 +5303,7 @@
       "Leading question cannot be asked in cross - examination."
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q44",
@@ -3804,7 +5327,7 @@
     "year": 2023,
     "questionNumber": 45,
     "subject": "Evidence Law",
-    "question": "Which of the following is incorrect statement in the light of Indian Evidence Act, 1872 ?",
+    "question": "Which of the following is an incorrect statement in the light of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "Confession always go against a person making it.",
       "Admissions are conclusive as to the matters admitted.",
@@ -3812,7 +5335,7 @@
       "Confession is statement written or oral which is direct admission of suit."
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q46",
@@ -3820,15 +5343,15 @@
     "year": 2023,
     "questionNumber": 46,
     "subject": "Evidence Law",
-    "question": "Which of the following Section of the Indian Evidence Act, 1872 is an exception to the hearsay rule?",
+    "question": "Which of the following sections of the Bharatiya Sakshya Adhiniyam (BSA), 2023 is an exception to the hearsay rule?",
     "options": [
-      "Section 32 (1) 32 (1)",
-      "Section 32 (2) 32 (5)",
-      "Section 32 (3) 32 (3)",
-      "Section 32 (5) 32 (5)"
+      "Section 26 (a)",
+      "Section 26 (b)",
+      "Section 26 (c)",
+      "Section 26 (e)"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe18-q47",
@@ -4432,7 +5955,7 @@
       "State Consumer Protection Authority",
       "State Consumer Protection Council"
     ],
-    "correctAnswer": null,
+    "correctAnswer": "B",
     "isModernized": false
   },
   {
@@ -4904,13 +6427,13 @@
     "subject": "Criminal Law",
     "question": "Rajesh, in a heated argument with Sunil, strikes him with a heavy iron rod. The blow fractures Sunil's arm, and he is unable to use it for several weeks. The medical report confirms that the fracture amounts to grievous hurt. Which of the following offenses has Rajesh committed?",
     "options": [
-      "Simple hurt under Section 323 of IPC",
-      "Voluntarily causing grievous hurt under Section 325 of IPC",
-      "Voluntarily causing hurt under Section 324 of IPC",
-      "Attempt to commit culpable homicide under Section 308 of IPC"
+      "Simple hurt under Section 115 of BNS, 2023",
+      "Voluntarily causing grievous hurt under Section 117 of BNS, 2023",
+      "Voluntarily causing hurt by dangerous weapon under Section 117(3) of BNS, 2023",
+      "Attempt to commit culpable homicide under Section 110 of BNS, 2023"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe19-q15",
@@ -4918,15 +6441,15 @@
     "year": 2024,
     "questionNumber": 15,
     "subject": "Criminal Law",
-    "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evide nce of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed?",
+    "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evidence of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed?",
     "options": [
-      "Murder under Section 302 of IPC",
-      "Culpable homicide not amounting to murder under Section 304 of IPC",
-      "Causing death by negligence under Section 304A of IPC",
-      "Voluntarily causing grievous hurt under Section 325 of IPC"
+      "Murder under Section 101 of BNS, 2023",
+      "Culpable homicide not amounting to murder under Section 105 of BNS, 2023",
+      "Causing death by negligence under Section 106 of BNS, 2023",
+      "Voluntarily causing grievous hurt under Section 117 of BNS, 2023"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe19-q16",
@@ -5344,7 +6867,7 @@
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 42,
-    "question": "Where a document is executed in several parts like printing, lithography or photography, video recording, computer resource as a electronic or digital records, the BSA 2023 classifies each part as a ?",
+    "question": "Where a document is executed in several parts like printing, lithography or photography, video recording, computer resource as a electronic or digital records, the BSA 2023 classifies each part as a ? Page -",
     "options": [
       "Primary evidence",
       "Secondary evidence",
@@ -5738,7 +7261,7 @@
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 67,
-    "question": "Advocate Mr. X was representing a client, Mr. Y, in a property dispute case. During the proceedings, Advocate Mr. X accepted a bribe from the opposing party to delay the case, causing significant harm to Mr. Y's interests. Moreover, Mr. X failed to inform his client about critical hearing dates, leading to adverse judgments. On the basis of the above problem, select the correct option.",
+    "question": "Advocate Mr. X was representing a client, Mr. Y, in a property dispute case. During the proceedings, Advocate Mr. X accepted a bribe from the opposing party to delay the case, causing significant harm to Mr. Y's interests. Moreover, Mr. X failed to inform his client about critical hearing dates, leading to adverse judgments. On the basis of the above problem, select the correct option. Page -",
     "options": [
       "It is a violation of Rules made by the Bar Council of India for the professional ethics",
       "It is only an offence under the Prevention of Corruption Act, 2018",
@@ -6127,7 +7650,7 @@
       "It amounts to Conditional Transfer of Property.",
       "It amounts to Conditional Limitations on Transfer of Property.",
       "It amounts to Subsequent Transfer of Property.",
-      "It amounts to conditions precedent in the Tr"
+      "It amounts to conditions precedent in the Transfer of Property. Page -"
     ],
     "correctAnswer": "B",
     "subject": "Property Law"
@@ -6263,7 +7786,7 @@
     "year": 2025,
     "questionNumber": 1,
     "subject": "Criminal Law",
-    "question": "If a bailiff executes an eviction based on a civil court order later declared void for lack of jurisdiction, what protection does Section 78 of the Indian Penal Code provide?",
+    "question": "If a bailiff executes an eviction based on a civil court order later declared void for lack of jurisdiction, what protection does Section 18 of the Bharatiya Nyaya Sanhita (BNS), 2023 provide?",
     "options": [
       "The bailiff is punishable as the order was invalid from the beginning",
       "The bailiff can be punished only with a reduced penalty",
@@ -6271,7 +7794,7 @@
       "The bailiff is required to compensate the evicted person"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q2",
@@ -6327,7 +7850,7 @@
     "year": 2025,
     "questionNumber": 5,
     "subject": "Criminal Law",
-    "question": "Read the following statements and choose the correct option..\nStatement 1: Under the Indian Penal Code, if a person harbours an offender who has escaped custody for an offence punishable with imprisonment up to 3 years, he shall be punished with imprisonment up to 7 years.\nStatement 2: The law provides an exception for harbouring or concealing by the husband or wife of the offender. In the context of the above statements under the Indian Penal Code, which one of the following is correct ?",
+    "question": "Read the following statements and choose the correct option..\nStatement 1: Under the Bharatiya Nyaya Sanhita (BNS), 2023, if a person harbours an offender who has escaped custody for an offence punishable with imprisonment up to 3 years, he shall be punished with imprisonment up to 7 years.\nStatement 2: The law provides an exception for harbouring or concealing by the husband or wife of the offender. In the context of the above statements under the BNS, 2023, which one of the following is correct ?",
     "options": [
       "Both Statements 1 and 2 are false",
       "Only Statement 1 is true",
@@ -6335,7 +7858,7 @@
       "Both the Statements are true"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q6",
@@ -6359,15 +7882,15 @@
     "year": 2025,
     "questionNumber": 7,
     "subject": "Criminal Law",
-    "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Code of Criminal Procedure, 1973, will the case. primarily fall ?",
+    "question": "A juvenile aged 14 years is brought before the court for an offence not punishable with death or imprisonment for life. Under which provision of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, will the case primarily fall?",
     "options": [
-      "Section 27 M 27",
-      "Section 125 125",
-      "Section 302 302",
-      "Section 482 482"
+      "Section 21",
+      "Section 144",
+      "Section 101",
+      "Section 482"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q8",
@@ -6423,7 +7946,7 @@
     "year": 2025,
     "questionNumber": 11,
     "subject": "Evidence Law",
-    "question": "Under the Indian Evidence Act, 1872, when can facts that are otherwise irrelevant be considered relevant?",
+    "question": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023, when can facts that are otherwise irrelevant be considered relevant?",
     "options": [
       "Only when they prove the guilt of the accused directly",
       "Only when they form part of a dying declaration",
@@ -6431,7 +7954,7 @@
       "When they are part of an admission made in writing"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q12",
@@ -6439,7 +7962,7 @@
     "year": 2025,
     "questionNumber": 12,
     "subject": "Evidence Law",
-    "question": "What condition must be satisfied for prior evidence to be relevant under Section 33 of the Indian Evidence Act, 1872?",
+    "question": "What condition must be satisfied for prior evidence to be relevant under Section 27 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
     "options": [
       "The evidence must have been recorded in the presence of a jury.",
       "The proceeding was between the same parties or their representatives in interest.",
@@ -6447,7 +7970,7 @@
       "The evidence must have been corroborated by expert opinion."
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q13",
@@ -6455,7 +7978,7 @@
     "year": 2025,
     "questionNumber": 13,
     "subject": "Evidence Law",
-    "question": "During a court trial, the defence lawyer objects to the admissibility of certain papers produced as evidence. The judge clarifies that only documents categorized as public documents under the Indian Evidence Act, 1872, can be accepted without strict proof . Which category of documents would fall under public documents in this context?",
+    "question": "During a court trial, the defence lawyer objects to the admissibility of certain papers produced as evidence. The judge clarifies that only documents categorized as public documents under the Bharatiya Sakshya Adhiniyam (BSA), 2023, can be accepted without strict proof. Which category of documents would fall under public documents in this context?",
     "options": [
       "Draft agreements between individuals",
       "Personal diaries of government officials",
@@ -6463,7 +7986,7 @@
       "Judicial and executive acts of public officers"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q14",
@@ -6487,7 +8010,7 @@
     "year": 2025,
     "questionNumber": 15,
     "subject": "Criminal Law",
-    "question": "As per Section 30 of Code of Criminal Procedure, 1973, if a Magistrate sentenced a person to two years' imprisonment and a fine, what is the maximum imprisonment he may impose in default of payment of the fine ?",
+    "question": "As per Section 24 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, if a Magistrate sentenced a person to two years' imprisonment and a fine, what is the maximum imprisonment he may impose in default of payment of the fine?",
     "options": [
       "1 year",
       "2 years",
@@ -6495,7 +8018,7 @@
       "3 months"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q16",
@@ -6726,15 +8249,15 @@
     "year": 2025,
     "questionNumber": 30,
     "subject": "Criminal Law",
-    "question": "Under which provision can a citizen file a public case in the Court of Magistrate regarding issues of public interest?",
+    "question": "Under which provision can a citizen file a public case in the Court of Magistrate regarding issues of public interest under the new criminal laws?",
     "options": [
-      "Section 302 of the Indian Penal Code 302",
-      "Section 144 of Code of Criminal Procedure, 1973 144",
-      "Section 133 of Code of Criminal Procedure, 1973 133",
-      "Section 482 of Code of Criminal Procedure, 1973 482"
+      "Section 101 of the Bharatiya Nyaya Sanhita (BNS), 2023",
+      "Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+      "Section 152 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+      "Section 528 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q31",
@@ -6774,7 +8297,7 @@
     "year": 2025,
     "questionNumber": 33,
     "subject": "Criminal Law",
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): Any person having an interest in a newspaper declared forfeited, may apply to the High Court to set aside the declaration within two months of its publication in the Official Gazette.\nReason (R): The Special Bench of the High Court to hear such applications must always consist of exactly three judges, regardless of the strength of that High Court.\n\nIn the context of the above assertion and reason under the Code of Criminal Procedure, 1973, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): Any person having an interest in a newspaper declared forfeited, may apply to the High Court to set aside the declaration within two months of its publication in the Official Gazette.\nReason (R): The Special Bench of the High Court to hear such applications must always consist of exactly three judges, regardless of the strength of that High Court.\n\nIn the context of the above assertion and reason under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
@@ -6782,7 +8305,7 @@
       "(A) is false, but (R) is true."
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q34",
@@ -7729,7 +9252,7 @@
     "year": 2025,
     "questionNumber": 93,
     "subject": "Criminal Law",
-    "question": "If multiple offences carry different punishments but it is unclear which one has been committed, how does Section 72 of the Indian Penal Code ensure proportional justice?",
+    "question": "If multiple offences carry different punishments but it is unclear which one has been committed, how does Section 9 of the Bharatiya Nyaya Sanhita (BNS), 2023 ensure proportional justice?",
     "options": [
       "By imposing punishment for the offence with the lowest prescribed term",
       "By applying punishment equal to the average of all possible offences",
@@ -7737,7 +9260,7 @@
       "By suspending the punishment until further clarification is made"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q94",
@@ -7824,7 +9347,7 @@
     "year": 2025,
     "questionNumber": 99,
     "subject": "Criminal Law",
-    "question": "If a convict sentenced to life imprisonment is being considered for remission fractions under Section 57 of the Indian Penal Code, which equivalent term of years is applied by the court?",
+    "question": "If a convict sentenced to life imprisonment is being considered for remission fractions under Section 6 of the Bharatiya Nyaya Sanhita (BNS), 2023, which equivalent term of years is applied by the court?",
     "options": [
       "Ten years of imprisonment",
       "Twenty years of imprisonment",
@@ -7832,7 +9355,7 @@
       "Fifty years of imprisonment"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true
   },
   {
     "id": "aibe20-q100",
