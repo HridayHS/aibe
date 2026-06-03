@@ -359,7 +359,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe17-q33": {
-    "question": "Mr. Manjot is a trader supplying goods from his M/s Singh Traders. The office of the firm is located in Delhi whereas its godowns are located in the State of Uttar Pradesh, Punjab and Jammu & Kashmir (J&K) respectively. M/s Singh Traders made following intra - state supplies from different States during the current financial year: (i) Delhi - Taxable Supplies: ₹ 21,00,000 : ₹ 21,00,000 (ii) Punjab - Exempted Supplies: ₹ 6,00,000 : ₹ 6,00,000 (iii) Uttar Pradesh - Taxable and Exempted Supplies: ₹ 3,00,000 each respectively. : ₹ 3,00,000 (iv) J&K - Taxable and Exempted Supplies : ₹ 8,00,000 and ₹ 3,00,000 respectively. 3,00,000 Ascertain the States in which Mr. Manjot is required to take registration under GST. ?",
+    "question": "Mr. Manjot is a trader supplying goods from his M/s Singh Traders. The office of the firm is located in Delhi whereas its godowns are located in the State of Uttar Pradesh, Punjab and Jammu & Kashmir (J&K) respectively. M/s Singh Traders made following intra - state supplies from different States during the current financial year:\n(i) Delhi - Taxable Supplies: ₹ 21,00,000 : ₹ 21,00,000\n(ii) Punjab - Exempted Supplies: ₹ 6,00,000 : ₹ 6,00,000\n(iii) Uttar Pradesh - Taxable and Exempted Supplies: ₹ 3,00,000 each respectively. : ₹ 3,00,000\n(iv) J&K - Taxable and Exempted Supplies : ₹ 8,00,000 and ₹ 3,00,000 respectively. 3,00,000 Ascerta\n\nin the States in which Mr. Manjot is required to take registration under GST. ?",
     "options": [
       "Delhi, Punjab, Uttar Pradesh and J&K",
       "Delhi, Uttar Pradesh and J&K",
@@ -392,7 +392,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe17-q43": {
-    "question": "According to Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 appropriate Government can acquire the land for which of the following purposes? 1. for strategic purposes relating to naval, military, air force, and armed forces of the Union 2. project for water harvesting and water conservation structures, sanitation 3. project for project affected families 4. project for sports, health care, tourism, transportation or space programme",
+    "question": "According to Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 appropriate Government can acquire the land for which of the following purposes?:\n\n1. for strategic purposes relating to naval, military, air force, and armed forces of the Union\n2. project for water harvesting and water conservation structures, sanitation\n3. project for project affected families\n4. project for sports, health care, tourism, transportation or space programme",
     "options": [
       "1, 2 and 3",
       "2, 3 and 4",
@@ -535,7 +535,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe17-q74": {
-    "question": "Proclamation for person absconding shall be published as follows:\n(i) It shall be publicly read in some conspicuous place of the town or village in which such person ordinarily resides;\n(ii) It shall be affixed to some conspicuous part of the house or homestead in which such person ordinarily resides or to some conspicuous place of such town or village;\n(iii) A copy thereof shall be affixed to some conspicuous part of the Court-house;\n(iv) The Court may also, if it thinks fit, direct a copy of the proclamation to be published in a daily newspaper circulating in the place in which such person ordinarily resides.",
+    "question": "Proclamation for person absconding shall be published as follows:\n(i) It shall be publicly read in some conspicuous place of the town or village in which such person ordinarily resides;\n(ii) It shall be affixed to some conspicuous part of the house or homestead in which such person ordinarily resides or to some conspicuous place of such town or village;\n(iii) A copy thereof shall be affixed to some conspicuous part of the Court-house;\n(iv) The Court may also, if it thinks fit, direct a copy of the proclamation to be published in a daily newspaper circulating\n\nin the place in which such person ordinarily resides.",
     "options": [
       "Only ii, iii, iv are correct.",
       "Only ii and iii are correct.",
@@ -656,7 +656,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe17-q95": {
-    "question": "Under what circumstances the arbitral proceedings can be terminated?\n1. Final Arbitral award\n2. Interim award\n3. Where the arbitral tribunal issues an order for the termination",
+    "question": "Under what circumstances the arbitral proceedings can be terminated?:\n\n1. Final Arbitral award\n2. Interim award\n3. Where the arbitral tribunal issues an order for the termination",
     "options": [
       "1 and 3",
       "1 and 2",
@@ -1767,7 +1767,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe19-q4": {
-    "question": "Which of the following statement is correct about 106 th Constitutional Amendment Act ? (i) It introduces Article 239A by which seats are reserved for women in legislative assembly of the national capital territory of Delhi. (ii) It introduces Article 338 providing for the reservation of seats for women in the house of people. (iii) It also adds Article 334 A which states in that the said amendment will commence after the first census have been taken after the commencement of the said Act. (iv) The above stated shall cease to have effect on the expiration of a period of 15 years from search commencement.",
+    "question": "Which of the following statement is correct about 106 th Constitutional Amendment Act ?:\n(i) It introduces Article 239A by which seats are reserved for women in legislative assembly of the national capital territory of Delhi.\n(ii) It introduces Article 338 providing for the reservation of seats for women\n\nin the house of people.\n(iii) It also adds Article 334 A which states in that the said amendment will commence after the first census have been taken after the commencement of the said Act.\n(iv) The above stated shall cease to have effect on the expiration of a period of 15 years from such commencement.",
     "options": [
       "(i), (ii) & (iii)",
       "(i), (iii) & (iv)",
@@ -3142,7 +3142,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q74": {
-    "question": "Match List 1 (General Defences in Tort) with List II (Leading Cases) and select the correct answer using the codes given below: List I List II i. Act of God 1. Vaughan v Taff Vale Rail Co. (1860) 5H & N 679/ii. Consent (Folenti non fit injuria) ) 2. Kirky Gregory (1876) 1 Ex, D, 55 . 55 iii. Statutory Authority 3. Nichols v, Marsland (1876) 2 Ex. D. 1 . 1 iv. Necessity 4. Hall v. Brooklands Auto Racing Club (1933) 1 KB 205 205 Codes :",
+    "question": "Match List 1 (General Defences in Tort) with List II (Leading Cases) and select the correct answer using the codes given below: List I List II i. Act of God:\n\n1. Vaughan v Taff Vale Rail Co. (1860) 5H & N 679/ii. Consent (Folenti non fit injuria) )\n2. Kirky Gregory (1876) 1 Ex, D, 55 . 55 iii. Statutory Authority\n3. Nichols v, Marsland (1876) 2 Ex. D. 1 . 1 iv. Necessity\n4. Hall v. Brooklands Auto Racing Club (1933) 1 KB 205 205 Codes :",
     "options": [
       "1 - 1; il - 2; iii - 3; iv - 4",
       "1 - 2:11 - 3: 1 1 - 4; iv 1",
@@ -3274,7 +3274,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q87": {
-    "question": "Match List I with List II and select the correct answer using the codes given below: List I/List II/i. Legitimacy of children of void and voidable marriages 1. Section 10, The Hindu Marriage Act, 1955 , 1955 \\ ii. Punishment of bigamy 2. Section 12, The Hindu Marriage Act, 1955 , 1955 iii. Judicial separation 3. Section 17, The Hindu Marriage Act, 1955 , 1955 iv. Voidable marriages 10 to 04. 4.Section 16, The Hindu Marriage Act, 1955 , 1955 Codes:",
+    "question": "Match List I with List II and select the correct answer using the codes given below: List I/List II/i. Legitimacy of children of void and voidable marriages:\n\n1. Section 10, The Hindu Marriage Act, 1955 , 1955 \\ ii. Punishment of bigamy\n2. Section 12, The Hindu Marriage Act, 1955 , 1955 iii. Judicial separation\n3. Section 17, The Hindu Marriage Act, 1955 , 1955 iv. Voidable marriages 10 to 0\n4. 4.Section 16, The Hindu Marriage Act, 1955 , 1955 Codes:",
     "options": [
       "1 - 3; ii - 4; iii - 1; iv - 2",
       "1 - 4; 1 - 3; iii - 2; iv - 1",
@@ -3912,6 +3912,17 @@ const OVERRIDES = {
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
       "(A) is true, but (R) is false.",
       "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": "A",
+    "isModernized": false
+  },
+  "aibe19-q97": {
+    "question": "According to the Land Acquisition Act (Land Acquisition, Rehabilitation and Resettlement), 2013, governments can acquire land for:\n\n(i) Strategic purpose.\n(ii) Projects for Families Affected by Projects.\n(iii) For public-private partnership projects, where government ownership of land will remain with the government.",
+    "options": [
+      "(i) & (ii)",
+      "(ii) & (iii)",
+      "(i) & (iii)",
+      "(i), (ii) & (iii)"
     ],
     "correctAnswer": "A",
     "isModernized": false

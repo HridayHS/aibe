@@ -165,6 +165,7 @@ export default function MockTest() {
               <div key={i} className={`review-q glass-card ${!userAns ? 'skipped' : isCorrect ? 'was-correct' : 'was-wrong'}`}>
                 <div className="rq-header">
                   <span className="q-number">Q{i + 1}</span>
+                  <span className="tag tag-gold">{q.exam}</span>
                   <span className="tag tag-subject">{q.subject}</span>
                   {q.isModernized && <span className="tag tag-modernized">✨ BNS/BSA Updated</span>}
                   {!userAns && <span className="rq-status skip">Skipped</span>}
@@ -230,6 +231,7 @@ export default function MockTest() {
       <div className="test-question glass-card">
         <div className="tq-header">
           <span className="q-number">Question {currentQ + 1}</span>
+          <span className="tag tag-gold">{q.exam}</span>
           <span className="tag tag-subject">{q.subject}</span>
           {q.isModernized && <span className="tag tag-modernized">✨ BNS/BSA Updated</span>}
         </div>
