@@ -2460,7 +2460,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q4": {
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). des Assertion (A): An employee can be deemed to be in continuous service for one year only if he has worked for 365 days in the preceding twelve months, without any interruption. Reason (R) : Under the Payment of Gratuity Act, 1972, continuous service may also include periods of interruption due to sickness, accident, leave, lay - off, strike, or lock - out not caused by the employee's fault. In the context of the above assertion and reason under the Payment of Gratuity Act, 1972, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): An employee can be deemed to be in continuous service for one year only if he has worked for 365 days in the preceding twelve months, without any interruption.\nReason (R): Under the Payment of Gratuity Act, 1972, continuous service may also include periods of interruption due to sickness, accident, leave, lay - off, strike, or lock - out not caused by the employee's fault.\n\nIn the context of the above assertion and reason under the Payment of Gratuity Act, 1972, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
@@ -2471,7 +2471,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q5": {
-    "question": "Read the following statements and choose the correct option. Statement 1: Under the Indian Penal Code, if a person harbours an offender who has escaped custody for an offence punishable with imprisonment up to 3 years, he shall be punished with imprisonment up to 7 years. Statement 2: The law provides an exception for harbouring or concealing by the husband or wife of the offender. ALL INDIA BAR EXAMINATION - X X (Set Code - A) In the context of the above statements under the Indian Penal Code, which one of the following is correct ?",
+    "question": "Read the following statements and choose the correct option..\nStatement 1: Under the Indian Penal Code, if a person harbours an offender who has escaped custody for an offence punishable with imprisonment up to 3 years, he shall be punished with imprisonment up to 7 years.\nStatement 2: The law provides an exception for harbouring or concealing by the husband or wife of the offender. In the context of the above statements under the Indian Penal Code, which one of the following is correct ?",
     "options": [
       "Both Statements 1 and 2 are false",
       "Only Statement 1 is true",
@@ -2768,7 +2768,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q33": {
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Assertion (A): Any person having an interest in a newspaper declared forfeited, may apply to the High Court to set aside the declaration within two months of its publication in the Official Gazette. Reason (R): The Special Bench of the High Court to hear such applications must always consist of exactly three judges, regardless of the strength of that High Court. In the context of the above assertion and reason under the Code of Criminal Procedure, 1973, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): Any person having an interest in a newspaper declared forfeited, may apply to the High Court to set aside the declaration within two months of its publication in the Official Gazette.\nReason (R): The Special Bench of the High Court to hear such applications must always consist of exactly three judges, regardless of the strength of that High Court.\n\nIn the context of the above assertion and reason under the Code of Criminal Procedure, 1973, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
@@ -2779,7 +2779,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q34": {
-    "question": "Read the following statements and choose the correct option. Statement 1: Under the Bharatiya Sakshya Adhiniyam, 2023, admissions are generally relevant and may be proved against the person making them, but cannot ordinarily be proved by or on behalf of that person. Statement 2: An admission can still be proved on behalf of the person making it if it relates to the existence of a state of mind or body, made at or about the time when such condition existed, and is supported by conduct showing its truthfulness. In the context of the above statements under the Bharatiya Sakshya Adhiniyam, 2023, which one of the following is correct?",
+    "question": "Read the following statements and choose the correct option..\nStatement 1: Under the Bharatiya Sakshya Adhiniyam, 2023, admissions are generally relevant and may be proved against the person making them, but cannot ordinarily be proved by or on behalf of that person.\nStatement 2: An admission can still be proved on behalf of the person making it if it relates to the existence of a state of mind or body, made at or about the time when such condition existed, and is supported by conduct showing its truthfulness. In the context of the above statements under the Bharatiya Sakshya Adhiniyam, 2023, which one of the following is correct?",
     "options": [
       "Both Statements 1 and 2 are false",
       "Only Statement 1 is true",
@@ -2801,7 +2801,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q36": {
-    "question": "Read the given statements and choose the correct option. Statement 1 : Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually recei ved. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct?",
+    "question": "Read the given statements and choose the correct option..\nStatement 1: Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction.\nStatement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually received. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct?",
     "options": [
       "Both Statements 1 and 2 are false",
       "Only Statement 1 is true",
@@ -2911,7 +2911,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q47": {
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Assertion (A) : The Bharatiya Nyaya Sanhita, 2023, prescribes the death penalty for certain forms of gang rape. Reason (R): The purpose of this provision is to make all sexual offences non - bailable. In the context of the above assertion and reason, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The Bharatiya Nyaya Sanhita, 2023, prescribes the death penalty for certain forms of gang rape.\nReason (R): The purpose of this provision is to make all sexual offences non - bailable.\n\nIn the context of the above assertion and reason, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
@@ -2922,7 +2922,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q48": {
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Assertion (A) : Under the Bharatiya Nagarik Suraksha Sanhita, 2023, if the proclaimed person appears within the time specified in the proclamation, the Court shall release the attached property. Reason (R) : The attachment of property under the Bharatiya Nagarik Suraksha Sanhita, 2023 is intended to compel the appearance of the proclaimed person before the Court, not to permanently deprive him of his property. In the context of the above assertion and reason, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): Under the Bharatiya Nagarik Suraksha Sanhita, 2023, if the proclaimed person appears within the time specified in the proclamation, the Court shall release the attached property.\nReason (R): The attachment of property under the Bharatiya Nagarik Suraksha Sanhita, 2023 is intended to compel the appearance of the proclaimed person before the Court, not to permanently deprive him of his property.\n\nIn the context of the above assertion and reason, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
@@ -2933,7 +2933,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q49": {
-    "question": "Read the given Statements and choose the correct option. A dispute arises between two companies regarding the enforcement of their arbitration clause. Examine the following statements: Statement 1: An arbitration agreement must be in writing, and it can be contained in a contract, an exchange of letters, telex, telegrams, or electronic communications. Statement 2 : An arbitration agreement may be implied solely from the conduct of the parties, without any written record.",
+    "question": "Read the given Statements and choose the correct option. A dispute arises between two companies regarding the enforcement of their arbitration clause. Examine the following statements.\nStatement 1: An arbitration agreement must be in writing, and it can be contained in a contract, an exchange of letters, telex, telegrams, or electronic communications.\nStatement 2: An arbitration agreement may be implied solely from the conduct of the parties, without any written record.",
     "options": [
       "Only Statement I is true",
       "Only Statement 2 is true",
@@ -3307,7 +3307,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q90": {
-    "question": "Read the following statements and choose the correct option:\nStatement 1: Under the Administrative Tribunals Act, 1985, a Joint Administrative Tribunal for two or more States exercises the same jurisdiction, powers, and authority as an Administrative Tribunal for those States.\nStatement 2: For the purposes of contempt, a Tribunal exercises powers similar to those of a High Court, and references to \"High Court\" in the Contempt of Courts Act, 1971 are construed to include such Tribunals.\n\nIn the context of the above statements under the Administrative Tribunals Act, 1985, which one of the following is correct?",
+    "question": "Read the following statements and choose the correct option.\nStatement 1: Under the Administrative Tribunals Act, 1985, a Joint Administrative Tribunal for two or more States exercises the same jurisdiction, powers, and authority as an Administrative Tribunal for those States.\nStatement 2: For the purposes of contempt, a Tribunal exercises powers similar to those of a High Court, and references to \"High Court\" in the Contempt of Courts Act, 1971 are construed to include such Tribunals.\n\nIn the context of the above statements under the Administrative Tribunals Act, 1985, which one of the following is correct?",
     "options": [
       "Both Statements 1 and 2 are false",
       "Only Statement 1 is true",
@@ -3318,7 +3318,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q91": {
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Assertion (A) : A Money Bill can be introduced only in the House of the People (Lok Sabha) and not in the Council of States (Rajya Sabha). Reason (R): The Council of States may only make recommendations on a Money Bill within 14 days, but the House of the People may accept or reject them, and in either case, the Bill is deemed to be passed. In the context of the above assertion and reason under Article 109 of the Constitution of India, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): A Money Bill can be introduced only in the House of the People (Lok Sabha) and not in the Council of States (Rajya Sabha).\nReason (R): The Council of States may only make recommendations on a Money Bill within 14 days, but the House of the People may accept or reject them, and in either case, the Bill is deemed to be passed.\n\nIn the context of the above assertion and reason under Article 109 of the Constitution of India, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
@@ -3362,7 +3362,7 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q96": {
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Assertion (A) : The President of India has the power to grant pardons, reprieves, respites, or remissions of punishment, or to suspend, remit, or commute the sentence of any person convicted of an offence in cases where the punishment is by a Court Martial or where the sentence is death. Reason (R): This power under Article 72 overrides and completely nullifies the powers of the Governor to commute or remit a death sentence under State law. In the context of the above assertion and reason under Article 72 of the Constitution of India, which one of the following is correct?",
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The President of India has the power to grant pardons, reprieves, respites, or remissions of punishment, or to suspend, remit, or commute the sentence of any person convicted of an offence in cases where the punishment is by a Court Martial or where the sentence is death.\nReason (R): This power under Article 72 overrides and completely nullifies the powers of the Governor to commute or remit a death sentence under State law.\n\nIn the context of the above assertion and reason under Article 72 of the Constitution of India, which one of the following is correct?",
     "options": [
       "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
       "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
@@ -3849,6 +3849,72 @@ const OVERRIDES = {
       "Article 19(1), Constitution of India and Right to Information Act, 2005, collectively"
     ],
     "correctAnswer": "C"
+  },
+  "aibe19-q61": {
+    "question": "Read the given statements and choose the correct option..\nStatement 1: In PIL cases, the Court plays a passive role similar to traditional cases.\nStatement 2: PIL is primarily focused on individual disputes.",
+    "options": [
+      "Both statements are true.",
+      "Only Statement 1 is true.",
+      "Only Statement 2 is true.",
+      "Both statements are false."
+    ],
+    "correctAnswer": "D",
+    "isModernized": false
+  },
+  "aibe19-q62": {
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The concept of \"locus standi\" is relaxed in PIL cases.\nReason (R): PIL allows any public - spirited person to approach the court on behalf of those who cannot represent themselves.\n\nIn the context of the above two statements, which one of the following is correct ?",
+    "options": [
+      "? (A) Both A and (R) are true, and (R) is the correct explanation of A.",
+      "Both (A) and (R) are true, but (R) is not The correct explanation of A.",
+      "(A) is true, but (R) is false.",
+      "(A) is false, and (R) is true."
+    ],
+    "correctAnswer": "A",
+    "isModernized": false
+  },
+  "aibe19-q87": {
+    "question": "Read the given statements and choose the correct option.\nStatement 1: Agricultural income is exempt from tax under Section 10(1) of Income Tax Act, 1961.\nStatement 2: Tax on Non - Agricultural in case of Non - Agricultural Income exceeds Basic Exemption limit and Agricultural Income exceeds ₹ 5000",
+    "options": [
+      "Both the Statements are incorrect.",
+      "Only Statement 1 is true.",
+      "Only Statement 2 is true.",
+      "Both the Statements are correct."
+    ],
+    "correctAnswer": "D",
+    "isModernized": false
+  },
+  "aibe20-q45": {
+    "question": "Read the following Statements related to the Information Technology Act, 2000 and choose the correct option..\nStatement 1: Under the Information Technology Act, 2000, a Digital Signature Certificate may be suspended by the Certifying Authority on the request of the subscriber, an authorized representative, or if it is considered necessary in the public interest.\nStatement 2: Under the same Act, a Digital Signature Certificate can remain suspended indefinitely without providing the subscriber an opportunity of being heard.",
+    "options": [
+      "Both Statements 1 and 2 are false",
+      "Only Statement 1 is true",
+      "Only Statement 2 is true.",
+      "Both the Statements are true"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false
+  },
+  "aibe20-q51": {
+    "question": "Read the given statements and choose the correct option.\nStatement 1: Under the Income tax Act, 1961, a deduction equal to 30% of the annual value is allowed while computing income from house property.\nStatement 2: Where the property has been acquired or constructed with borrowed capital, the maximum deduction for interest payable on such capital is capped at 2,00,000, subject to conditions.",
+    "options": [
+      "Both Statements 1 and 2 are false",
+      "Only Statement 1 is true",
+      "Only Statement 2 is true",
+      "Both the Statements are true"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false
+  },
+  "aibe20-q52": {
+    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (P). Assertion (A) : Under the Hindu Succession Act, 1956, a daughter in a Joint Hindu Family governed by Mitakshara Law becomes a coparcener by birth in her own right, just like a son. and Reason (R): This provision grants daughters the same rights, liabilities, and disabilities in coparcenary property as those of sons.",
+    "options": [
+      "In the context of the above assertion and reason under the Hindu Succession Act, 1956, which one of the following is correct?/(A) Both (A) and (R) are true, and (R) is the correct explanation of (A), ,",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": "A",
+    "isModernized": false
   }
 };
 
