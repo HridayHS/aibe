@@ -3142,12 +3142,12 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q74": {
-    "question": "Match List 1 (General Defences in Tort) with List II (Leading Cases) and select the correct answer using the codes given below: List I List II i. Act of God:\n\n1. Vaughan v Taff Vale Rail Co. (1860) 5H & N 679/ii. Consent (Folenti non fit injuria) )\n2. Kirky Gregory (1876) 1 Ex, D, 55 . 55 iii. Statutory Authority\n3. Nichols v, Marsland (1876) 2 Ex. D. 1 . 1 iv. Necessity\n4. Hall v. Brooklands Auto Racing Club (1933) 1 KB 205 205 Codes :",
+    "question": "Match List I (General Defences in Tort) with List II (Leading Cases) and select the correct answer using the codes given below:\n\nList I:\ni. Act of God\nii. Consent (Volenti non fit injuria)\niii. Statutory Authority\niv. Necessity\n\nList II:\n1. Vaughan v. Taff Vale Rail Co. (1860) 5 H & N 679\n2. Kirk v. Gregory (1876) 1 Ex. D. 55\n3. Nichols v. Marsland (1876) 2 Ex. D. 1\n4. Hall v. Brooklands Auto Racing Club (1933) 1 KB 205",
     "options": [
-      "1 - 1; il - 2; iii - 3; iv - 4",
-      "1 - 2:11 - 3: 1 1 - 4; iv 1",
-      "1 - 3; i1 - 4; iii - 1; iv - 2",
-      "1 - 4:11 - 1; ill - 3; iv - 2"
+      "i - 1; ii - 2; iii - 3; iv - 4",
+      "i - 2; ii - 3; iii - 4; iv - 1",
+      "i - 3; ii - 4; iii - 1; iv - 2",
+      "i - 4; ii - 1; iii - 3; iv - 2"
     ],
     "correctAnswer": "C",
     "isModernized": false
@@ -3274,12 +3274,12 @@ const OVERRIDES = {
     "isModernized": false
   },
   "aibe20-q87": {
-    "question": "Match List I with List II and select the correct answer using the codes given below: List I/List II/i. Legitimacy of children of void and voidable marriages:\n\n1. Section 10, The Hindu Marriage Act, 1955 , 1955 \\ ii. Punishment of bigamy\n2. Section 12, The Hindu Marriage Act, 1955 , 1955 iii. Judicial separation\n3. Section 17, The Hindu Marriage Act, 1955 , 1955 iv. Voidable marriages 10 to 0\n4. 4.Section 16, The Hindu Marriage Act, 1955 , 1955 Codes:",
+    "question": "Match List I with List II and select the correct answer using the codes given below:\n\nList I:\ni. Legitimacy of children of void and voidable marriages\nii. Punishment of bigamy\niii. Judicial separation\niv. Voidable marriages\n\nList II:\n1. Section 10, The Hindu Marriage Act, 1955\n2. Section 12, The Hindu Marriage Act, 1955\n3. Section 17, The Hindu Marriage Act, 1955\n4. Section 16, The Hindu Marriage Act, 1955",
     "options": [
-      "1 - 3; ii - 4; iii - 1; iv - 2",
-      "1 - 4; 1 - 3; iii - 2; iv - 1",
-      "1 - 4; ii - 3; iii - 1; iv - 2",
-      "- 1; ii - 2; iii - 4; iv - 3"
+      "i - 3; ii - 4; iii - 1; iv - 2",
+      "i - 4; ii - 3; iii - 2; iv - 1",
+      "i - 4; ii - 3; iii - 1; iv - 2",
+      "i - 1; ii - 2; iii - 4; iv - 3"
     ],
     "correctAnswer": "C",
     "isModernized": false
