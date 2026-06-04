@@ -144,12 +144,13 @@ export default function Questions() {
 
                 {/* Quick Tip */}
                 {showAnswer[q.id] && q.quickTip && (
-                  <div className="q-quicktip-box animate-in">
-                    <div className="q-quicktip-header">
+                  <details className="q-quicktip-box animate-in">
+                    <summary className="q-quicktip-header">
                       <span className="q-quicktip-label">Quick Tip</span>
-                    </div>
+                      <span className="q-quicktip-chevron">▸</span>
+                    </summary>
                     <p className="q-quicktip-text">{q.quickTip}</p>
-                  </div>
+                  </details>
                 )}
               </>
             ) : (

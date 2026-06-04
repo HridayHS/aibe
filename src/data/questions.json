@@ -4576,53 +4576,6 @@
     "year": 2023,
     "questionNumber": 1,
     "subject": "Family Law",
-    "question": "Sapinda Relationship means",
-    "options": [
-      "3rd generation (mother), 7th generation (father)",
-      "3rd generation (mother), 5th generation (father)",
-      "3rd generation (mother), 4th generation (father)",
-      "2nd generation (mother), 5th generation (father)"
-    ],
-    "correctAnswer": "B",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q2",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 2,
-    "subject": "Family Law",
-    "question": "Which one of the following is not a ground of divorce under the Hindu Marriage Act?",
-    "options": [
-      "Mental Disorder",
-      "Venereal Disease in communicable form",
-      "Incurable Unsound Mind",
-      "Living separately for less than three months."
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q3",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 3,
-    "subject": "Family Law",
-    "question": "Indian Christians can obtain divorce under which of the following enactments?",
-    "options": [
-      "Special Marriage Act, 1954 , 1954",
-      "Christian Marriage Act, 1872 , 1872",
-      "Indian Divorce Act, 1869 , 1869",
-      "Special Marriage Act, 1872 , 1872"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q4",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 4,
     "question": "The Section 12 of Hindu Maintenance and Adoption Act, 1956 deals with",
     "options": [
       "Rights of adoptive parents to dispose of their properties",
@@ -4631,30 +4584,34 @@
       "Cancellation of adoption"
     ],
     "correctAnswer": "B",
-    "subject": "Family Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 12. Section 12 of the Hindu Maintenance and Adoption Act, 1956 deals with the effects of adoption. It outlines how adoption impacts the legal status of the adopted child, including issues of inheritance and the relationship between the adoptive parents and the adopted child. Step 2: Explanation of Other Options. - (A) Rights of adoptive parents to dispose of their properties are not specifically dealt with under Section 12. - (C) Presumption about the document relating to adoption is related to other provisions in the Act but not to Section 12. - (D) Cancellation of adoption is dealt with under different sections of the Act. Step 3: Conclusion. Section 12 specifically deals with the effects of adoption, hence the correct answer is (B).",
+    "quickTip": "Section 12 of the Hindu Maintenance and Adoption Act, 1956 primarily deals with the legal effects of adoption, including inheritance and other family-related matters."
   },
   {
-    "id": "aibe17-q5",
+    "id": "aibe17-q2",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 5,
-    "subject": "Constitutional Law",
+    "questionNumber": 2,
+    "subject": "Environmental Law",
     "question": "Which of the following categories of cases will not be entertained as Public Interest Litigation (PIL)?",
     "options": [
       "Family Pension",
       "Petitions from riot victims",
       "Neglected Children",
-      "Landlord - Tenant matter"
+      "Landlord-Tenant matter"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding PIL. Public Interest Litigation (PIL) allows individuals to approach the court for the protection of public interest, particularly when it affects the public at large. It is generally used for issues related to the environment, human rights, and social justice. Step 2: Explanation of Other Options. - (A) Family pension cases may involve public interest if it impacts a large number of people. - (B) Petitions from riot victims may be entertained if the case involves public rights and social justice. - (C) Cases of neglected children are a legitimate subject for PIL. - (D) Landlord-Tenant matters are personal disputes and are not typically accepted as PIL since they do not address broader public interest. Step 3: Conclusion. Landlord-Tenant matters are personal disputes and do not qualify as PIL.",
+    "quickTip": "PIL is meant to address matters that impact the public at large, not personal disputes such as landlord-tenant issues."
   },
   {
-    "id": "aibe17-q6",
+    "id": "aibe17-q3",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 6,
-    "subject": "Constitutional Law",
+    "questionNumber": 3,
+    "subject": "Miscellaneous",
     "question": "Who is known as Father of Public Interest Litigation in India?",
     "options": [
       "Justice A. N. Ray",
@@ -4663,45 +4620,51 @@
       "Justice P. N. Bhagwati"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Contribution of Justice P. N. Bhagwati. Justice P. N. Bhagwati is known as the father of Public Interest Litigation (PIL) in India for his landmark judgments in the 1980s that made access to justice easier for the underprivileged and marginalized sections of society. Step 2: Explanation of Other Options. - (A) Justice A. N. Ray was a notable judge but not known for PIL. - (B) Justice Y. V. Chandrachud is an important figure in the judiciary but did not pioneer PIL. - (C) Justice R. S. Pathak was an influential judge but not credited with starting PIL. Step 3: Conclusion. Justice P. N. Bhagwati is the recognized father of PIL in India.",
+    "quickTip": "Justice P. N. Bhagwati’s contributions to Public Interest Litigation have greatly shaped the legal landscape in India, allowing greater access to justice."
   },
   {
-    "id": "aibe17-q7",
+    "id": "aibe17-q4",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 7,
-    "subject": "Family Law",
-    "question": "Muslim woman has option to be governed by the provisions of Sections 144 to 147 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it?",
+    "questionNumber": 4,
+    "subject": "Constitutional Law",
+    "question": "Which of the following is not a real purpose of Public Interest Litigation?",
     "options": [
-      "Section 5",
-      "Section 6",
-      "Section 7",
-      "None of these"
-    ],
-    "correctAnswer": "A",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q8",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 8,
-    "subject": "Family Law",
-    "question": "Which of the following is not a ground of void marriage under Section 11 of the Hindu Marriage Act?",
-    "options": [
-      "Bigamy",
-      "Degrees of Prohibited Relationship",
-      "Sapinda Relationship",
-      "Child marriage"
+      "Vindication of the rule of law",
+      "Facilitate effective access to Justice",
+      "Meaningful realization of Fundamental Rights",
+      "Getting famous and making wealth"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Purpose of PIL. Public Interest Litigation (PIL) is designed to address issues of public concern, including the enforcement of rights, access to justice, and ensuring that fundamental rights are realized. Step 2: Explanation of Other Options. - (A) PIL seeks to vindicate the rule of law by ensuring justice for the public. - (B) PIL facilitates effective access to justice, especially for marginalized groups. - (C) PIL aims at the realization of fundamental rights, particularly for those who cannot access justice otherwise. - (D) PIL is not intended for personal gain or fame, and using it for such purposes is improper. Step 3: Conclusion. The primary objective of PIL is not to make money or gain fame but to protect public rights.",
+    "quickTip": "PIL is aimed at ensuring justice for the public good, not personal gain."
   },
   {
-    "id": "aibe17-q9",
+    "id": "aibe17-q5",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 9,
+    "questionNumber": 5,
+    "subject": "Constitutional Law",
+    "question": "In Hussainara Khatoon Vs. State of Bihar, ........... emerged as a basic fundamental right.",
+    "options": [
+      "Right to Speedy Justice",
+      "Right to Clean Environment",
+      "Right to Free Legal Aid",
+      "None of these"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Hussainara Khatoon Case. In this case, the Supreme Court of India emphasized the right to free legal aid as an essential right under Article 21 of the Constitution, which guarantees the right to life and personal liberty. Step 2: Explanation of Other Options. - (A) Right to Speedy Justice is also fundamental but was not the primary focus in this case. - (B) Right to Clean Environment is a separate issue and was not discussed in this case. - (D) None of these is incorrect because the right to free legal aid emerged as a key issue in this case. Step 3: Conclusion. The correct answer is (C), as the case recognized the right to free legal aid as a fundamental right.",
+    "quickTip": "The case of Hussainara Khatoon Vs. State of Bihar led to the recognition of the right to free legal aid as a fundamental right under Article 21."
+  },
+  {
+    "id": "aibe17-q6",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 6,
     "subject": "Constitutional Law",
     "question": "Which of the following writ can be issued against usurpation of public office?",
     "options": [
@@ -4711,135 +4674,159 @@
       "Writ of Prohibition"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Writ of Quo Warranto. The Writ of Quo Warranto is issued by a court to inquire into the legality of a person holding a public office. It is used to challenge unlawful appointments or usurpation of public office. Step 2: Explanation of Other Options. - (A) Writ of Mandamus is a writ issued to a public authority to perform its duties but not specifically used for usurpation of public office. - (B) Writ of Certiorari is issued to quash an order or judgment but not for usurpation. - (D) Writ of Prohibition is issued to prevent a lower court from exceeding its jurisdiction, not related to usurpation of office. Step 3: Conclusion. The correct answer is (C), Writ of Quo Warranto, which addresses usurpation of public office.",
+    "quickTip": "Writ of Quo Warranto is used to inquire into the legality of a person holding a public office and can be used to challenge unlawful appointments."
+  },
+  {
+    "id": "aibe17-q7",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 7,
+    "subject": "Administrative Law",
+    "question": "Ridge V. Baldwin’s case deals with",
+    "options": [
+      "Corporation",
+      "Natural Justice",
+      "State Liability",
+      "Delegated Legislation"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Ridge v. Baldwin. The case of Ridge v. Baldwin is significant in establishing the principle of natural justice in administrative law. It deals with the duty to act fairly, especially the right to a hearing before adverse decisions are made by public authorities. Step 2: Explanation of Other Options. - (A) Corporation is unrelated to the principle of natural justice discussed in the case. - (C) State Liability is not the central issue in this case. - (D) Delegated Legislation does not pertain to the Ridge v. Baldwin case. Step 3: Conclusion. The case Ridge v. Baldwin deals primarily with natural justice, making (B) the correct answer.",
+    "quickTip": "Ridge v. Baldwin’s case is a landmark case in the context of natural justice, where the court emphasized the importance of a fair hearing."
+  },
+  {
+    "id": "aibe17-q8",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 8,
+    "subject": "Administrative Law",
+    "question": "Meaning of ”Audi alteram partem” is",
+    "options": [
+      "A person cannot be condemned without being heard",
+      "An adjudicating authority must give a speaking order",
+      "No man can be a judge in his own case",
+      "No one should fear the courts"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding ”Audi alteram partem.” ”Audi alteram partem” is a Latin maxim that means ”hear the other side” or ”let the other side be heard as well.” It is a fundamental principle of natural justice that ensures no one is condemned unheard. Step 2: Explanation of Other Options. - (B) A speaking order is an important principle but is not the meaning of ”Audi alteram partem.” - (C) ”No man can be a judge in his own case” refers to the principle of impartiality, which is different. - (D) ”No one should fear the courts” is not the meaning of this maxim. Step 3: Conclusion. The correct answer is (A), as ”Audi alteram partem” means that a person cannot be condemned without being heard.",
+    "quickTip": "The principle of ”Audi alteram partem” ensures fairness in legal proceedings by requiring both sides to be heard."
+  },
+  {
+    "id": "aibe17-q9",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 9,
+    "subject": "Legal Ethics",
+    "question": "Rules made by the Bar Council of India in exercising its rule-making power under ...........",
+    "options": [
+      "The Advocates Act, 1951",
+      "The Advocates Act, 1954",
+      "The Advocates Act, 1961",
+      "The Advocates Act, 1964"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Advocates Act, 1961. The Bar Council of India exercises its rule-making powers under Section 49 of the Advocates Act, 1961. This section grants the Bar Council authority to make rules for the professional conduct of advocates. Step 2: Explanation of Other Options. - (A) The Advocates Act, 1951 is incorrect as the relevant legislation for the Bar Council’s rule-making powers is the 1961 Act. - (B) The Advocates Act, 1954 does not exist. - (D) The Advocates Act, 1964 is also incorrect, as the relevant year is 1961. Step 3: Conclusion. The correct answer is (C), The Advocates Act, 1961.",
+    "quickTip": "The Bar Council of India derives its rule-making powers from Section 49 of the Advocates Act, 1961."
   },
   {
     "id": "aibe17-q10",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 10,
-    "question": "Ridge V. Baldwin's case deals with",
+    "subject": "Family Law",
+    "question": "Which one of the following is not a ground for divorce under the Hindu Marriage Act?",
     "options": [
-      "Corporation All India Bar Examination - XVII (Set Code - C )",
-      "Natural Justice",
-      "State Liability",
-      "Delegated Legislation"
+      "Mental Disorder",
+      "Venereal Disease in communicable form",
+      "Incurable Unsound Mind",
+      "Living separately for less than three months."
     ],
-    "correctAnswer": "B",
-    "subject": "Administrative Law"
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Grounds for Divorce Under Hindu Marriage Act. The Hindu Marriage Act provides specific grounds for divorce, including mental disorder, venereal disease, and incurable unsound mind. These grounds are specified under Section 13 of the Act. Step 2: Explanation of Other Options. - (A) Mental Disorder is a valid ground for divorce under the Hindu Marriage Act. - (B) Venereal Disease in communicable form is a ground under Section 13(1)(v) of the Act. - (C) Incurable Unsound Mind is another valid ground under Section 13(1)(iii). - (D) Living separately for less than three months is not a ground for divorce; it requires a separation period of at least two years. Step 3: Conclusion. The correct answer is (D), as living separately for less than three months is not a valid ground for divorce.",
+    "quickTip": "Under the Hindu Marriage Act, a minimum period of two years of separation is required to file for divorce on that ground."
   },
   {
     "id": "aibe17-q11",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 11,
-    "question": "Meaning of \"Audi alteram partem\":",
+    "subject": "Family Law",
+    "question": "Indian Christians can obtain divorce under which of the following enactments?",
     "options": [
-      "A person cannot be condemned without being heard",
-      "An adjudicating authority must give a speaking order",
-      "No man can be a judge in his own case",
-      "No one should fear the courts."
+      "Special Marriage Act, 1954",
+      "Christian Marriage Act, 1872",
+      "Indian Divorce Act, 1869",
+      "Special Marriage Act, 1872"
     ],
-    "correctAnswer": "A",
-    "subject": "Administrative Law"
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Indian Christian Divorce Laws. The Christian Marriage Act, 1872, provides the legal framework for marriage and divorce among Indian Christians. It governs Christian marriages, including grounds for divorce. Step 2: Explanation of Other Options. - (a) The Special Marriage Act, 1954 applies to marriages between individuals of different religions, not specifically for Christians. - (C) The Indian Divorce Act, 1869 governs the divorce of Christian women, not necessarily all Christians. - (D) The Special Marriage Act, 1872 does not exist. Step 3: Conclusion. The correct answer is (B), The Christian Marriage Act, 1872.",
+    "quickTip": "Indian Christians seeking divorce must refer to the Christian Marriage Act, 1872, which provides grounds and procedures for divorce."
   },
   {
     "id": "aibe17-q12",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 12,
-    "question": "Rules made by Bar Council of India in exercising its rule making power under -------",
+    "subject": "Legal Ethics",
+    "question": "If any advocate is aggrieved by an order of Disciplinary Committee of State Bar Council made under Section 35 of the Advocate Act or Advocate General of the State may prefer an appeal to the Bar Council of India within ........... days of the date of communication of order.",
     "options": [
-      "The Advocates Act, 1951 , 1951",
-      "The Advocates Act, 1954 , 1954",
-      "The Advocates Act, 1961 , 1961",
-      "The Advocates Act, 1964 , 1964"
+      "30",
+      "45",
+      "60",
+      "90"
     ],
     "correctAnswer": "C",
-    "subject": "Legal Ethics"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. According to Section 35 of the Advocate Act, an advocate can appeal within 60 days of the communication of the order if they are aggrieved by the order of the Disciplinary Committee of the State Bar Council. Step 2: Conclusion. Thus, the correct answer is (C) 60 days as per the relevant section of the Advocate Act.",
+    "quickTip": "For disciplinary matters, Section 35 of the Advocate Act specifies a 60-day window for filing an appeal."
   },
   {
     "id": "aibe17-q13",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 13,
-    "question": "An advocate may, while practicing, take up teaching of Law in any educational institution which is affiliated to a University, so long as the hours during which he is so engaged in the teaching of Law do not exceed --------- hours in a day.",
+    "subject": "Corporate Law",
+    "question": "ABC Private Limited Company choose to convert itself into a Public Company. It can do so by altering its Memorandum of Association and Articles of Association and by passing ............",
     "options": [
-      "5",
-      "3",
-      "2",
-      "4"
+      "Ordinary Resolution",
+      "Special Resolution",
+      "Board Resolution",
+      "None of these"
     ],
     "correctAnswer": "B",
-    "subject": "Legal Ethics"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. To convert a private limited company to a public company, the Memorandum of Association and Articles of Association need to be altered. This requires a Special Resolution as per the Companies Act. Step 2: Conclusion. Thus, the correct answer is (B) Special Resolution.",
+    "quickTip": "A Special Resolution is required for altering the Memorandum and Articles of Association in a company."
   },
   {
     "id": "aibe17-q14",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 14,
-    "subject": "Legal Ethics",
-    "question": "In which of the following landmark case the advocate was held guilty of professional misconduct as he had forged the court order?",
+    "subject": "Corporate Law",
+    "question": "”Doctrine of lifting of or piercing the corporate veil” is associated with",
     "options": [
-      "Pratap Narain V. Y. P. Raheja",
-      "Vikramaditya V. Smt. Jamila Khatoon",
-      "Babulal Jain V. Subhash Jain",
-      "Smt. P. Pankajam V. B. H. Chandrashekhar"
+      "Labour Law",
+      "Company Law",
+      "Banking Law",
+      "None of these"
     ],
-    "correctAnswer": "A",
-    "isModernized": false
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The ”Doctrine of lifting or piercing the corporate veil” is a concept in Company Law where the courts may look beyond the company’s separate legal personality to hold its shareholders or directors liable. Step 2: Conclusion. Thus, the correct answer is (B) Company Law.",
+    "quickTip": "The doctrine of piercing the corporate veil allows the court to disregard the company’s separate legal identity in certain circumstances."
   },
   {
     "id": "aibe17-q15",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 15,
-    "subject": "Administrative Law",
-    "question": "Which of the following is not a real purpose of Public Interest Litigation?",
-    "options": [
-      "Vindication of the rule of law",
-      "Facilitate effective access to Justice",
-      "Meaningful realization of Fundamental Rights",
-      "Getting famous and making wealth"
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q16",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 16,
-    "question": "In Hussainara Khatoon V. State of Bihar, ---------- emerged as a basic fundamental right.",
-    "options": [
-      "Right to Speedy Justice",
-      "Right to Clean Environment",
-      "Right to Free Legal Aid",
-      "None of these"
-    ],
-    "correctAnswer": "A",
-    "subject": "Environmental Law"
-  },
-  {
-    "id": "aibe17-q17",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 17,
-    "question": "\"Doctrine of lifting of or piercing the corporate veil\" is associated with",
-    "options": [
-      "Labour Law",
-      "Company Law",
-      "Banking Law",
-      "Service Law"
-    ],
-    "correctAnswer": "B",
-    "subject": "Corporate Law"
-  },
-  {
-    "id": "aibe17-q18",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 18,
     "subject": "Environmental Law",
     "question": "Under which Section of The Environment (Protection) Act, 1986, an appeal to National Green Tribunal (NGT) lies?",
     "options": [
@@ -4848,31 +4835,36 @@
       "Section 6A",
       "Section 7A"
     ],
-    "correctAnswer": "B",
-    "isModernized": false
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The National Green Tribunal (NGT) has jurisdiction over cases involving environmental protection under Section 4A of the Environment Protection Act, 1986. Step 2: Conclusion. Thus, the correct answer is (A) Section 4A.",
+    "quickTip": "Section 4A of the Environment Protection Act, 1986, allows appeals to the National Green Tribunal (NGT)."
   },
   {
-    "id": "aibe17-q19",
+    "id": "aibe17-q16",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 19,
+    "questionNumber": 16,
     "subject": "Environmental Law",
     "question": "Which one of the following Fundamental Duties relates to Environmental Protection?",
     "options": [
-      "Article 51A (b)",
-      "Article 51A (g)",
+      "Article 51A",
+      "(B) Article 51A (g)",
       "Article 51A (j)",
       "Article 51A (k)"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Article 51A (g) of the Indian Constitution outlines the fundamental duty of every citizen to protect and improve the natural environment, including forests, lakes, rivers, and wildlife. Step 2: Conclusion. Thus, the correct answer is (B) Article 51A (g).",
+    "quickTip": "Article 51A (g) emphasizes the duty of citizens to protect and improve the environment."
   },
   {
-    "id": "aibe17-q20",
+    "id": "aibe17-q17",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 20,
-    "question": "Mr. A who was aggrieved by an order made by Controller or an adjudicating officer, made an appeal to Cyber Appellate Tribunal. Later Mr. A aggrieved by an order of Cyber Appellate Tribunal, may prefer an appeal ---------",
+    "questionNumber": 17,
+    "subject": "Constitutional Law",
+    "question": "Mr. A who was aggrieved by an order made by Controller or an adjudicating officer. Made an appeal to Cyber Appellate Tribunal. Later Mr. A aggrieved by an order of Cyber Appellate Tribunal, may prefer an appeal .........",
     "options": [
       "In any District Court",
       "In Higher Tribunal",
@@ -4880,14 +4872,17 @@
       "Only in Supreme Court"
     ],
     "correctAnswer": "C",
-    "subject": "Cyber Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the IT Act, appeals against orders of the Cyber Appellate Tribunal can only be made to the High Court. Step 2: Conclusion. Thus, the correct answer is (C) Only in High Court.",
+    "quickTip": "Appeals against Cyber Appellate Tribunal orders must be filed in the High Court."
   },
   {
-    "id": "aibe17-q21",
+    "id": "aibe17-q18",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 21,
-    "question": "Mr. X, a person who is intended by Mr. Y an originator to receive the electronic record is, under the IT Act, known as --------------",
+    "questionNumber": 18,
+    "subject": "Cyber Law",
+    "question": "Mr. X, a person who is intended by Mr. Y an originator to receive the electronic record is under the IT Act, known as ..............",
     "options": [
       "Intermediary",
       "Originators Agent",
@@ -4895,90 +4890,107 @@
       "Key Holder"
     ],
     "correctAnswer": "C",
-    "subject": "Cyber Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the IT Act, the recipient of an electronic record, as intended by the originator, is referred to as the addressee. Step 2: Conclusion. Thus, the correct answer is (C) Addressee.",
+    "quickTip": "In the context of the IT Act, the person intended to receive the electronic record is called the addressee."
   },
   {
-    "id": "aibe17-q22",
+    "id": "aibe17-q19",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 22,
-    "question": "The minimum number of members required for registration of a trade union is -",
+    "questionNumber": 19,
+    "subject": "Constitutional Law",
+    "question": "The minimum number of members required for registration of a trade union is-",
     "options": [
       "2",
       "3",
       "5",
       "7"
     ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Trade Unions Act, the minimum number of members required for the registration of a trade union is 7, but the question asks for the minimum number for registration. So, we need to select the correct answer based on that. Step 2: Conclusion. Thus, the correct answer is (B) 3, as per the provision in the Trade Unions Act.",
+    "quickTip": "For registering a trade union under the Trade Unions Act, the minimum number of members required is 3."
+  },
+  {
+    "id": "aibe17-q20",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 20,
+    "subject": "Constitutional Law",
+    "question": "The text of the Certified Standing Orders shall be prominently posted by the employer in .......... and in the language understood by the majority of his workmen.",
+    "options": [
+      "Hindi",
+      "English",
+      "Devanagari Script",
+      "Language specified in 8th Schedule of the Constitution"
+    ],
     "correctAnswer": "D",
-    "subject": "Labour Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Industrial Employment (Standing Orders) Act, 1946, it is specified that the Certified Standing Orders should be posted in the language specified in the 8th Schedule of the Indian Constitution. Step 2: Conclusion. Thus, the correct answer is (D) Language specified in 8th Schedule of the Constitution.",
+    "quickTip": "The text of Certified Standing Orders must be posted in the language understood by the majority of workmen, and this often aligns with the 8th Schedule languages."
+  },
+  {
+    "id": "aibe17-q21",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 21,
+    "subject": "Legal Ethics",
+    "question": "An advocate may, while practicing, take up teaching of Law in any educational institution which is affiliated to a University, so long as the hours during which he is so engaged in the teaching of Law do not exceed ........ hours in a day.",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Bar Council of India Rules, an advocate is allowed to take up teaching in a University affiliated institution, but the total hours for teaching Law should not exceed 4 hours a day. Step 2: Conclusion. Thus, the correct answer is (D) 4 hours.",
+    "quickTip": "An advocate can take up teaching law, but the limit is set to 4 hours a day to avoid conflicts with professional practice."
+  },
+  {
+    "id": "aibe17-q22",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 22,
+    "subject": "Legal Ethics",
+    "question": "In which of the following landmark cases the advocate was held guilty of professional misconduct as he had forged the court order?",
+    "options": [
+      "Pratap Narain V. Y. P. Raheja",
+      "Vikramaditya V. Smt. Jamila Khatoon",
+      "Babulal Jain V. Subhash Jain",
+      "Smt. P. Pankajam V. B. H. Chandrashekhar"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. In the case of Pratap Narain V. Y. P. Raheja, the advocate was found guilty of professional misconduct for forging a court order. Step 2: Conclusion. Thus, the correct answer is (A) Pratap Narain V. Y. P. Raheja.",
+    "quickTip": "Forging a court order by an advocate is a serious professional misconduct, as seen in the case of Pratap Narain V. Y. P. Raheja."
   },
   {
     "id": "aibe17-q23",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 23,
-    "question": "If any advocate is aggrieved by an order of Disciplinary Committee of State Bar Council made under Section 35 of the Advocate Act or Advocate General of the State may prefer and appeal to the Bar Council of India within ____________ days of the date of communication of order.",
+    "subject": "Criminal Law",
+    "question": "Suppose road accident occurs, then being an Advocate what is the correct way of approaching the situation?",
     "options": [
-      "30",
-      "45",
-      "60",
-      "90"
+      "FIR ¿ Petition ¿ Summon to Insurance Company",
+      "Petition ¿ FIR ¿ Summon to Insurance Company",
+      "Summon to Insurance Company ¿ Petition ¿ FIR",
+      "FIR ¿ Summon to Insurance Company ¿ Petition"
     ],
-    "correctAnswer": "C",
-    "subject": "Legal Ethics"
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. In case of a road accident, the first step is to file an FIR (First Information Report) with the police, followed by issuing a summon to the insurance company and then filing a petition for further legal action. Step 2: Conclusion. Thus, the correct answer is (D) FIR ¿ Summon to Insurance Company ¿ Petition.",
+    "quickTip": "In case of road accidents, filing an FIR should be the first step, followed by summons to the insurance company, and then filing a petition."
   },
   {
     "id": "aibe17-q24",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 24,
-    "question": "ABC Private Limited Company choose to convert itself into a Public Company. It can do so by altering its Memorandum of Association and Articles of Association and by passing ---------",
-    "options": [
-      "Ordinary Resolution",
-      "Special Resolution",
-      "Board Resolution",
-      "None of these"
-    ],
-    "correctAnswer": "B",
-    "subject": "Corporate Law"
-  },
-  {
-    "id": "aibe17-q25",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 25,
-    "question": "If the factory employs more than 1000 workers, they should appoint qualified ------ to carry out the prescribed duties.",
-    "options": [
-      "Safety officer",
-      "Welfare officer",
-      "Development officer",
-      "None of these"
-    ],
-    "correctAnswer": "A",
-    "subject": "Labour Law"
-  },
-  {
-    "id": "aibe17-q26",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 26,
-    "subject": "Criminal Law",
-    "question": "Suppose road accident occurs, then being an Advocate what is the correct way of approaching the situation?",
-    "options": [
-      "FIR > Petition > Summon to Insurance Company",
-      "Petition > FIR > Summon to Insurance Company",
-      "Summon to Insurance Company > Petition > FIR > FIR",
-      "FIR > Summon to Insurance Company > Petition"
-    ],
-    "correctAnswer": "A",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q27",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 27,
-    "question": "The principle of \"Ubi jus ibi idem remedium\" was recognized in",
+    "subject": "Law of Torts",
+    "question": "The principle of ”Ubi jus ibi idem remedium” was recognized in",
     "options": [
       "Winterbottom V. Wright",
       "Chapman V. Pickersgill",
@@ -4986,13 +4998,15 @@
       "Rylands V. Fletcher"
     ],
     "correctAnswer": "C",
-    "subject": "Law of Torts"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The maxim ”Ubi jus ibi idem remedium” means that where there is a right, there must be a remedy. This principle was recognized in the case of Ashby V. White. Step 2: Analysis of Options. - (A) Winterbottom V. Wright: This case is related to the principle of privity of contract and does not involve the maxim in question. - (B) Chapman V. Pickersgill: This case is not related to the maxim ”Ubi jus ibi idem remedium.” - (C) Ashby V. White: This case is where the principle was recognized. It involved a denial of the right to vote and the court emphasized that there must be a remedy for every legal right. - (D) Rylands V. Fletcher: This case is related to the rule of strict liability in tort law. Step 3: Conclusion. Thus, the correct answer is (C) Ashby V. White, as the maxim was established in this case.",
+    "quickTip": "The maxim ”Ubi jus ibi idem remedium” means there must be a remedy wherever a legal right exists. It was established in Ashby V. White."
   },
   {
-    "id": "aibe17-q28",
+    "id": "aibe17-q25",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 28,
+    "questionNumber": 25,
     "subject": "Law of Torts",
     "question": "Gloucester Grammar School Case is a landmark case based on which of the following maxim?",
     "options": [
@@ -5002,106 +5016,35 @@
       "Audi alteram partem"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The Gloucester Grammar School Case is based on the maxim ”Damnum sine injuria,” which means loss or damage without legal injury. The case involved a situation where one party suffered financial loss but had no legal claim to compensation. Step 2: Analysis of Options. - (A) Damnum sine injuria: This is the correct maxim associated with the Gloucester Grammar School Case. It means that mere damage is not enough; there must also be a legal injury for a claim. - (B) Injuria sine damnum: This maxim refers to injury without any actual damage, which is not applicable in this case. - (C) Volenti non fit injuria: This principle means that a person who voluntarily consents to a risk cannot claim injury. This is not the focus of the Gloucester Grammar School case. - (D) Audi alteram partem: This principle means ”hear the other side” and is unrelated to this case. Step 3: Conclusion. Thus, the correct answer is (A) Damnum sine injuria.",
+    "quickTip": "”Damnum sine injuria” means that damage without legal injury does not give rise to a claim. It was applied in the Gloucester Grammar School Case."
   },
   {
-    "id": "aibe17-q29",
+    "id": "aibe17-q26",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 29,
-    "question": "The National Consumer Disputes Redressal Commission under Consumer Protection Act, 2019 shall have the jurisdiction to complaints where the value of the goods or services paid as consideration exceeds",
+    "questionNumber": 26,
+    "subject": "Consumer Law",
+    "question": "The National Consumer Disputes Redressal Commission under Consumer Protection Act, 2019 shall have the jurisdiction to complaints where the value of the goods or services paid as consideration exceeds Rs. ..........",
     "options": [
       "1 Crore",
       "10 Crores",
       "50 Crores",
       "100 Crores"
     ],
-    "correctAnswer": "B",
-    "subject": "Consumer Law"
-  },
-  {
-    "id": "aibe17-q30",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 30,
-    "question": "The text of the Certified Standing Orders shall be prominently posted by the employer in and in the language understood by the majority of his workmen.",
-    "options": [
-      "Hindi",
-      "English",
-      "Devanagari Script",
-      "Language specified in 8th Schedule of the Constitution"
-    ],
-    "correctAnswer": "B",
-    "subject": "Labour Law"
-  },
-  {
-    "id": "aibe17-q31",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 31,
-    "question": "A person who has ultimate control over the affairs of the factory under Factories Act, 1948 is called as -- ---- . ----------",
-    "options": [
-      "Occupier",
-      "Managing Director",
-      "Chairman",
-      "Manager"
-    ],
-    "correctAnswer": "A",
-    "subject": "Labour Law"
-  },
-  {
-    "id": "aibe17-q32",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 32,
-    "subject": "Tax Law",
-    "question": "Mr. Kapoor purchased a residential house in January, 2021 for 80,00,000. He sold the house in April, 2022 for 94,00,000. In this case the gain of 14,00,000 arising on account of sale of residential house will be charged to tax under which of the following head?",
-    "options": [
-      "Income from capital gains",
-      "Income from house property",
-      "Income from profits and gains from business or profession",
-      "Income from other sources"
-    ],
-    "correctAnswer": "A",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q33",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 33,
-    "subject": "Tax Law",
-    "question": "Mr. Manjot is a trader supplying goods from his M/s Singh Traders. The office of the firm is located in Delhi whereas its godowns are located in the State of Uttar Pradesh, Punjab and Jammu & Kashmir (J&K) respectively. M/s Singh Traders made following intra - state supplies from different States during the current financial year:\n(i) Delhi - Taxable Supplies: ₹ 21,00,000 : ₹ 21,00,000\n(ii) Punjab - Exempted Supplies: ₹ 6,00,000 : ₹ 6,00,000\n(iii) Uttar Pradesh - Taxable and Exempted Supplies: ₹ 3,00,000 each respectively. : ₹ 3,00,000\n(iv) J&K - Taxable and Exempted Supplies : ₹ 8,00,000 and ₹ 3,00,000 respectively. 3,00,000 Ascerta in the States in which Mr. Manjot is required to take registration under GST. ?",
-    "options": [
-      "Delhi, Punjab, Uttar Pradesh and J&K",
-      "Delhi, Uttar Pradesh and J&K",
-      "Delhi and Uttar Pradesh",
-      "Delhi"
-    ],
-    "correctAnswer": "B",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q34",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 34,
-    "question": "The primary GST slabs for any regular taxpayers are presently pegged at",
-    "options": [
-      "0%, 5%, 12%, 18%, 26%",
-      "0%, 6%, 12%, 18%, 28%",
-      "0%, 5%, 12%, 18%, 28%",
-      "0%, 5%, 12%, 16%, 28%"
-    ],
     "correctAnswer": "C",
-    "subject": "Tax Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Consumer Protection Act, 2019, the National Consumer Disputes Redressal Commission (NCDRC) has jurisdiction over complaints where the value of the goods or services paid as consideration exceeds Rs. 50 Crores. Step 2: Analysis of Options. - (A) 1 Crore: This limit applies to the District Consumer Forum, not NCDRC. - (B) 10 Crores: This is the limit for the State Consumer Commission. - (C) 50 Crores: This is the correct jurisdictional limit for NCDRC, as per the Consumer Protection Act, 2019. - (D) 100 Crores: This amount is not applicable under the Act for NCDRC jurisdiction. Step 3: Conclusion. Thus, the correct answer is (C) 50 Crores.",
+    "quickTip": "The National Consumer Disputes Redressal Commission (NCDRC) has jurisdiction over complaints where the value exceeds Rs. 50 Crores."
   },
   {
-    "id": "aibe17-q35",
+    "id": "aibe17-q27",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 35,
-    "question": "Under Section 41 of Consumer Protection Act, 2019 an appeal from the order of District Commission lies to ----- .",
+    "questionNumber": 27,
+    "subject": "Consumer Law",
+    "question": "Under Section 41 of Consumer Protection Act, 2019 an appeal from the order of District Commission lies to ............",
     "options": [
       "State Commission",
       "Consumer Tribunal",
@@ -5109,15 +5052,17 @@
       "High Court"
     ],
     "correctAnswer": "A",
-    "subject": "Consumer Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under Section 41 of the Consumer Protection Act, 2019, an appeal from the order of the District Consumer Commission lies to the State Consumer Commission. Step 2: Analysis of Options. - (A) State Commission: This is the correct answer, as per Section 41 of the Act, appeals from District Commission go to the State Commission. - (B) Consumer Tribunal: This is not the correct forum for an appeal. - (C) National Commission: Appeals from the State Commission go to the National Commission, not from the District Commission. - (D) High Court: Appeals from the State Commission can be made to the High Court, but this is not applicable for District Commission appeals. Step 3: Conclusion. Thus, the correct answer is (A) State Commission.",
+    "quickTip": "Under Section 41 of the Consumer Protection Act, 2019, appeals from the District Commission go to the State Commission."
   },
   {
-    "id": "aibe17-q36",
+    "id": "aibe17-q28",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 36,
+    "questionNumber": 28,
     "subject": "Tax Law",
-    "question": "For an individual to be deemed to be resident in India in any previous year one of the condition is:",
+    "question": "For an individual to be deemed resident in India in any previous year, one of the condition is:",
     "options": [
       "If he is in India for a period of 182 days or more during the previous year.",
       "If he is in India for a period of 180 days or more during the previous year.",
@@ -5125,14 +5070,107 @@
       "If he is in India for a period of 360 days or more during the previous year."
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. According to Section 6(1) of the Income Tax Act, an individual is deemed to be a resident in India for any previous year if they are in India for a minimum of 182 days during that year. Step 2: Conclusion. Thus, the correct answer is (A) If he is in India for a period of 182 days or more during the previous year.",
+    "quickTip": "An individual is considered a resident in India if they stay for at least 182 days in the previous year."
   },
   {
-    "id": "aibe17-q37",
+    "id": "aibe17-q29",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 37,
-    "question": "A ----- injunction can only be granted by the decree made at the hearing and upon the merits of the suit; the defendant is thereby perpetually enjoined from, the assertion of a right, or from the commission of an act, which could be contrary to the rights of the plaintiff.",
+    "questionNumber": 29,
+    "subject": "Tax Law",
+    "question": "Mr. Kapoor purchased a residential house in January, 2021 for Rs. 80,00,000. He sold the house in April, 2022 for Rs. 94,00,000. In this case, the gain of Rs. 14,00,000 arising on account of sale of residential house will be charged to tax under which of the following head?",
+    "options": [
+      "Income from capital gains",
+      "Income from house property",
+      "Income from profits and gains from business or profession",
+      "Income from other sources"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The gain arising from the sale of a residential property is classified as capital gains under the Income Tax Act. The period of holding determines whether it is short-term or long-term capital gain. Since Mr. Kapoor held the property for more than a year, this will be a long-term capital gain. Step 2: Conclusion. Thus, the correct answer is (A) Income from capital gains.",
+    "quickTip": "Gains from the sale of property are charged under the head ’Capital Gains’. If the property is held for more than 1 year, it’s classified as long-term capital gain."
+  },
+  {
+    "id": "aibe17-q30",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 30,
+    "subject": "Labour Law",
+    "question": "A person who has ultimate control over the affairs of the factory under the Factories Act, 1948 is called as ...............",
+    "options": [
+      "Occupier",
+      "Managing Director",
+      "Chairman",
+      "Manager"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Factories Act, 1948, the term ”occupier” refers to the person who has ultimate control over the affairs of the factory. This could be the owner or the person designated to take on that responsibility. Step 2: Analysis of Options. - (A) Occupier: This is the correct term under the Factories Act, 1948, for the person who has ultimate control over factory operations. - (B) Managing Director: Although the managing director may hold significant authority, the term ”occupier” is used in the context of the Factories Act. - (C) Chairman: The chairman’s role is usually related to the corporate governance structure, not to the operational control in the factory context. - (D) Manager: The manager typically handles day-to-day operations but may not have ultimate control over the factory under the Act. Step 3: Conclusion. Thus, the correct answer is (A) Occupier.",
+    "quickTip": "Under the Factories Act, 1948, the term ”occupier” refers to the person who has ultimate control over the factory’s affairs."
+  },
+  {
+    "id": "aibe17-q31",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 31,
+    "subject": "Labour Law",
+    "question": "If the factory employs more than 1000 workers, they should appoint qualified ........ to carry out the prescribed duties.",
+    "options": [
+      "Safety officer",
+      "Welfare officer",
+      "Development officer",
+      "None of these"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Factories Act, 1948, if a factory employs more than 1000 workers, it is mandatory to appoint a qualified Safety Officer to ensure the health and safety of the workers in the workplace. This is done to prevent accidents and to comply with safety regulations. Step 2: Analysis of Options. - (A) Safety officer: This is the correct option, as per the requirements of the Factories Act. A safety officer must be appointed in factories with more than 1000 workers. - (B) Welfare officer: Welfare officers are typically appointed for the welfare of workers, but the specific requirement for factories with more than 1000 workers is for a Safety Officer. - (C) Development officer: There is no such specific requirement under the Factories Act related to the appointment of a Development Officer in the context of worker safety. - (D) None of these: This option is incorrect, as the correct answer is the Safety Officer. Step 3: Conclusion. Thus, the correct answer is (A) Safety officer.",
+    "quickTip": "Factories with more than 1000 workers must appoint a qualified Safety Officer to ensure compliance with safety regulations under the Factories Act."
+  },
+  {
+    "id": "aibe17-q32",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 32,
+    "subject": "Contract Law",
+    "question": "B, the proprietor of a newspaper, publishes at A’s request, a libel upon C in the paper, and A agrees to indemnify B against the consequences of the publication, and all costs and damages of any action in respect thereof. B is sued by C and has to pay damages, and also incurs expenses. Decide in the light of Section 224 of the Indian Contract Act, 1872.",
+    "options": [
+      "A is not liable to B upon indemnity.",
+      "A is liable to B upon indemnity.",
+      "A is not liable to C upon indemnity.",
+      "None of these"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. According to Section 224 of the Indian Contract Act, 1872, an indemnity agreement allows the indemnified party (B) to seek compensation from the indemnifying party (A) for losses incurred due to certain actions (in this case, the publication). Since A agreed to indemnify B, A is responsible for reimbursing B for the damages and expenses incurred in the lawsuit filed by C. Step 2: Analysis of Options. - (A) A is not liable to B upon indemnity: This is incorrect. A is liable to indemnify B since A agreed to do so. - (B) A is liable to B upon indemnity: This is the correct option, as A specifically agreed to indemnify B against the consequences of the publication. - (C) A is not liable to C upon indemnity: The indemnity is between A and B, so A is not liable to C. The agreement concerns indemnifying B. - (D) None of these: This is incorrect because (B) is the correct answer. Step 3: Conclusion. Thus, the correct answer is (B) A is liable to B upon indemnity.",
+    "quickTip": "Under Section 224 of the Indian Contract Act, the indemnifier (A) is liable to indemnify the indemnified party (B) for the consequences and costs of any legal action, as agreed."
+  },
+  {
+    "id": "aibe17-q33",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 33,
+    "subject": "Contract Law",
+    "question": "A person whom the agent names to act for the principal in the business of agency, under the express or implied authority to name, is called ...........",
+    "options": [
+      "Sub-agent",
+      "Substituted Agent",
+      "Agent",
+      "Procured Agent"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. In agency law, a Sub-agent is a person whom the agent appoints to carry out the agent’s duties for the principal. The Sub-agent acts under the agent’s authority but still represents the principal. Step 2: Analysis of Options. - (A) Sub-agent: This is the correct answer. A Sub-agent is appointed by the agent to carry out the principal’s business. - (B) Substituted Agent: This term refers to an agent appointed to replace the original agent, not a person named by the agent under implied authority. - (C) Agent: The agent is the original person authorized to act for the principal, not the person named by the agent. - (D) Procured Agent: This term is not commonly used in the context of agency law. Step 3: Conclusion. Thus, the correct answer is (A) Sub-agent.",
+    "quickTip": "In agency law, a Sub-agent is appointed by the agent to carry out tasks on behalf of the principal."
+  },
+  {
+    "id": "aibe17-q34",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 34,
+    "subject": "Civil Procedure",
+    "question": "A .......... injunction can only be granted by the decree made at the hearing and upon the merits of the suit; the defendant is thereby perpetually enjoined from the assertion of a right or from the commission of an act, which could be contrary to the rights of the plaintiff.",
     "options": [
       "Temporary",
       "Perpetual",
@@ -5140,29 +5178,35 @@
       "None of these"
     ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. An injunction is a court order that prevents someone from doing something. A perpetual injunction is granted after the final hearing, and it prevents the defendant from asserting a right or performing an act that harms the plaintiff. Step 2: Analysis of Options. - (A) Temporary: A temporary injunction is granted before the final hearing, usually to maintain the status quo. - (B) Perpetual: This is the correct answer. A perpetual injunction is granted after the hearing and continues indefinitely. - (C) Both Temporary and Perpetual: This is incorrect because the question specifies a decree made after the hearing, which refers to a perpetual injunction. - (D) None of these: This is incorrect since the correct answer is (B) Perpetual. Step 3: Conclusion. Thus, the correct answer is (B) Perpetual.",
+    "quickTip": "A perpetual injunction is granted after the merits of the case are heard and is intended to prevent future violations of the plaintiff’s rights."
   },
   {
-    "id": "aibe17-q38",
+    "id": "aibe17-q35",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 38,
-    "question": "According to Section 5 of Specific Relief Act, 1963 a person entitled to the possession of specific immovable property may recover it in the manner provided in -----",
+    "questionNumber": 35,
+    "subject": "Criminal Law",
+    "question": "According to Section 5 of the Specific Relief Act, 1963, a person entitled to the possession of specific immovable property may recover it in the manner provided in .........",
     "options": [
-      "The Specific Relief Act, 1963 , 1963",
-      "The Code of Civil Procedure, 1908 , 1908",
-      "The Code of Criminal Procedure, 1973 , 1973",
-      "The Transfer of Property Act, 1882 , 1882"
+      "The Specific Relief Act, 1963",
+      "The Code of Civil Procedure, 1908",
+      "The Code of Criminal Procedure, 1973",
+      "The Transfer of Property Act, 1882"
     ],
-    "correctAnswer": "B",
-    "subject": "Contract Law"
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 5 of the Specific Relief Act, 1963 provides that a person who is entitled to the possession of specific immovable property may recover it in the manner outlined in the Specific Relief Act. This Act specifically deals with the recovery of possession of immovable property. Step 2: Analysis of Options. - (A) The Specific Relief Act, 1963: This is the correct answer. Section 5 of the Specific Relief Act lays down the procedure for the recovery of possession of specific immovable property. - (B) The Code of Civil Procedure, 1908: While the CPC contains provisions for civil suits, the Specific Relief Act specifically deals with the recovery of immovable property. - (C) The Code of Criminal Procedure, 1973: This is incorrect, as the CrPC is concerned with criminal procedures, not civil matters like possession of property. - (D) The Transfer of Property Act, 1882: This Act deals with the transfer of property, not the recovery of possession. Step 3: Conclusion. Thus, the correct answer is (A) The Specific Relief Act, 1963.",
+    "quickTip": "Section 5 of the Specific Relief Act, 1963 provides the remedy for the recovery of possession of specific immovable property."
   },
   {
-    "id": "aibe17-q39",
+    "id": "aibe17-q36",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 39,
-    "question": "Where the mortgagor delivers possession of the mortgaged property to the mortgagee, and authorises him to retain such possession until payment of the mortgage - money, and to receive the rents and profits accruing from the property in lieu of interest, or in payment of the mortgage - money, the transaction is called an ------ mortgage.",
+    "questionNumber": 36,
+    "subject": "Property Law",
+    "question": "Where the mortgagor delivers possession of the mortgaged property to the mortgagee, and authorises him to retain such possession until payment of the mortgage-money, and to receive the rents and profits accruing from the property in lieu of interest, or in payment of the mortgage-money, the transaction is called an ....... mortgage.",
     "options": [
       "Conditional",
       "English",
@@ -5170,139 +5214,52 @@
       "Usufructuary"
     ],
     "correctAnswer": "D",
-    "subject": "Property Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. A usufructuary mortgage occurs when the mortgagor transfers possession of the property to the mortgagee but allows the mortgagee to retain possession until the mortgage is paid off. The mortgagee may use the property and receive profits in lieu of interest. Step 2: Analysis of Options. - (A) Conditional: A conditional mortgage involves specific terms regarding the repayment or redemption conditions, but it is not the same as a usufructuary mortgage. - (B) English: This refers to a type of mortgage where the mortgagor remains in possession of the property but transfers ownership in case of default. - (C) Simple: A simple mortgage is one where the mortgagor retains possession but agrees to sell the property if the debt is not repaid. - (D) Usufructuary: This is the correct term, as the mortgagee retains possession of the property and enjoys the profits until the mortgage is paid. Step 3: Conclusion. Thus, the correct answer is (D) Usufructuary.",
+    "quickTip": "In a usufructuary mortgage, the mortgagee has the right to enjoy the property’s profits instead of receiving interest until the mortgage is repaid."
   },
   {
-    "id": "aibe17-q40",
+    "id": "aibe17-q37",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 40,
-    "subject": "Contract Law",
-    "question": "In which of the following cases it was decided that a contract with minor is void?",
+    "questionNumber": 37,
+    "subject": "Tax Law",
+    "question": "Mr. Manjot is a trader supplying goods from his M/s Singh Traders. The office of the firm is located in Delhi whereas its godowns are located in the State of Uttar Pradesh, Punjab and Jammu Kashmir (JK) respectively. M/s Singh Traders made the following intra-state supplies from different States during the current financial year:",
     "options": [
-      "Carlill V. Carbolic Smokes Ball Co .",
-      "Chinnaih V. Ramaiah",
-      "Mohori Bibee V. Dharmodas Ghose",
-      "Harvey V. Facey"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q41",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 41,
-    "question": "B, the proprietor of a newspaper, publishes at A's request, a libel upon C in the paper, and A agrees to indemnify B against the consequences of the publication, and all costs and damages of any action in respect thereof. B is sued by C and has to pay damages, and also incurs expenses. Decide in the light of the Section 224 of the Indian Contract Act, 1872.",
-    "options": [
-      "A is not liable to B upon indemnity.",
-      "A is liable to B upon indemnity.",
-      "A is not liable to C upon indemnity.",
-      "None of these"
-    ],
-    "correctAnswer": "A",
-    "subject": "Contract Law"
-  },
-  {
-    "id": "aibe17-q42",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 42,
-    "question": "A person whom the agent names to act for the principal in the business of agency, under the express or implied authority to name, is called |",
-    "options": [
-      "Sub - agent",
-      "Substituted Agent",
-      "Agent",
-      "Procured Agent"
+      "Delhi, Punjab, Uttar Pradesh and JK",
+      "Delhi, Uttar Pradesh and JK",
+      "Delhi and Uttar Pradesh",
+      "Delhi"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the GST law, registration is required for intra-state supplies. Since Mr. Manjot has made intra-state supplies within Delhi, Uttar Pradesh, and JK, he is required to take registration in these states. The GST law mandates that if a person makes taxable supplies exceeding the threshold limit in any state, they must obtain registration in that state. Step 2: Analysis of Options. - (A) Delhi, Punjab, Uttar Pradesh, and JK: This option is incorrect because Punjab’s supplies are exempt and don’t require registration. - (B) Delhi, Uttar Pradesh, and JK: This is the correct option. Mr. Manjot will need to register in these states where taxable supplies are made. - (C) Delhi and Uttar Pradesh: This is incorrect as JK also needs to be included in the registration. - (D) Delhi: This is incorrect as the other states where supplies are made also require registration. Step 3: Conclusion. Thus, the correct answer is (B) Delhi, Uttar Pradesh, and JK.",
+    "quickTip": "For GST registration, businesses must register in states where they make taxable intrastate supplies exceeding the threshold limit."
   },
   {
-    "id": "aibe17-q43",
+    "id": "aibe17-q38",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 43,
-    "subject": "Property Law",
-    "question": "According to Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 appropriate Government can acquire the land for which of the following purposes?: 1. for strategic purposes relating to naval, military, air force, and armed forces of the Union\n2. project for water harvesting and water conservation structures, sanitation\n3. project for project affected families\n4. project for sports, health care, tourism, transportation or space programme",
+    "questionNumber": 38,
+    "subject": "Tax Law",
+    "question": "The primary GST slabs for any regular taxpayers are presently pegged at",
     "options": [
-      "1, 2 and 3",
-      "2, 3 and 4",
-      "1, 2 and 4",
-      "1, 2, 3 and 4"
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q44",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 44,
-    "question": "'Specified person' under Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 means any person other than ------- .",
-    "options": [
-      "appropriate Government",
-      "Government company",
-      "association of persons or trust or society wholly or partially aided by the appropriate Government or controlled by the appropriate Government",
-      "All of these"
-    ],
-    "correctAnswer": "D",
-    "subject": "Property Law"
-  },
-  {
-    "id": "aibe17-q45",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 45,
-    "subject": "Intellectual Property",
-    "question": "Who shall be the Registrar of Trade Marks for the purposes of Trade Marks Act, 1999?",
-    "options": [
-      "Controller - General of Patents, Designs and Trade Marks.",
-      "Controller - General of Copyright, Designs and Trade Marks",
-      "Director - General of Patents, Designs and Trade Marks",
-      "Director - General of Copyright, Designs and Trade Marks"
+      "0%, 5%, 12%, 18%, 26% (A) 0%, 5%, 12%, 18%, 26%",
+      "0%, 6%, 12%, 18%, 28%",
+      "0%, 5%, 12%, 18%, 28%",
+      "0%, 5%, 12%, 16%, 28%"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The Goods and Services Tax (GST) in India has a range of tax slabs applicable to different goods and services. The standard GST slabs for regular taxpayers include 0%, 5%, 12%, 18%, and 26%. Step 2: Analysis of Options. - (A) 0%, 5%, 12%, 18%, 26%: This is the correct GST slab structure as defined for regular taxpayers. - (B) 0%, 6%, 12%, 18%, 28%: This option is incorrect, as the GST slab of 6% does not exist. - (C) 0%, 5%, 12%, 18%, 28%: This option is also incorrect because the highest slab is 26%, not 28%. - (D) 0%, 5%, 12%, 16%, 28%: This option is incorrect, as the 16% slab does not exist. Step 3: Conclusion. Thus, the correct answer is (A) 0%, 5%, 12%, 18%, 26%.",
+    "quickTip": "The primary GST slabs for regular taxpayers in India are 0%, 5%, 12%, 18%, and 26%."
   },
   {
-    "id": "aibe17-q46",
+    "id": "aibe17-q39",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 46,
-    "subject": "Intellectual Property",
-    "question": "Which one of the following is not a type/s of IPR ?",
-    "options": [
-      "Copyright",
-      "Patents",
-      "Designs",
-      "Historical Indications"
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q47",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 47,
-    "subject": "Contract Law",
-    "question": "Which of the following is/are CORRECT with respect to \"Declaratory Decrees\" under The Specific Relief Act, 1963?",
-    "options": [
-      "Section 34 of the said Act deals with it.",
-      "It is discretionary in nature.",
-      "Both, (Section 34 of the said Act deals with it) and (It is discretionary in nature) )",
-      "None of these"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q48",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 48,
-    "subject": "Contract Law",
+    "questionNumber": 39,
+    "subject": "Property Law",
     "question": "Which of the following is not a Negotiable Instrument as defined under The Negotiable Instrument Act, 1881?",
     "options": [
       "Promissory Note",
@@ -5311,15 +5268,125 @@
       "Billing Receipt"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under The Negotiable Instruments Act, 1881, negotiable instruments include promissory notes, bills of exchange, and cheques. These instruments can be transferred from one person to another, and the holder has the right to enforce them. A billing receipt does not fall under the category of negotiable instruments. Step 2: Analysis of Options. - (A) Promissory Note: This is a negotiable instrument as defined under the Act. - (B) Bill of Exchange: This is also a negotiable instrument as per the Act. - (C) Cheque: A cheque is a type of negotiable instrument under the Act. - (D) Billing Receipt: This is not a negotiable instrument, as it is simply a receipt for goods or services. Step 3: Conclusion. Thus, the correct answer is (D) Billing Receipt.",
+    "quickTip": "A Billing Receipt is not a negotiable instrument under The Negotiable Instruments Act, 1881."
   },
   {
-    "id": "aibe17-q49",
+    "id": "aibe17-q40",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 49,
+    "questionNumber": 40,
     "subject": "Constitutional Law",
-    "question": "By which of the following Amendment Act of 1985, Anti Defection Law was added in the Constitution of India ?",
+    "question": "According to Right to Fair Compensation and Transparency in Land Acquisition Rehabilitation and Resettlement Act, 2013 appropriate Government can acquire the land for which of the following purposes? 1. For strategic purposes relating to naval, military, air force, and armed forces of the Union 2. Project for water harvesting and water conservation structures, sanitation 3. Project for project affected families 4. Project for sports, health care, tourism, transportation or space programme",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation, and Resettlement Act, 2013 allows the government to acquire land for various purposes. These include strategic needs, water conservation, rehabilitation of affected families, and public welfare projects like sports, health care, tourism, transportation, and space programs. Step 2: Analysis of Options. - (A) 1, 2 and 3: This option is incorrect because it excludes the acquisition for sports and related purposes, which are valid under the Act. - (B) 2, 3 and 4: This is incorrect as it excludes the strategic purposes related to defense. - (C) 1, 2 and 4: This option is incorrect as it misses the rehabilitation of project-affected families. - (D) 1, 2, 3 and 4: This is the correct option as all four purposes listed in the question are included in the Act for land acquisition. Step 3: Conclusion. Thus, the correct answer is (D) 1, 2, 3 and 4.",
+    "quickTip": "The Right to Fair Compensation and Transparency in Land Acquisition Act, 2013 allows land acquisition for strategic purposes, water conservation, rehabilitation, and public welfare projects."
+  },
+  {
+    "id": "aibe17-q41",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 41,
+    "subject": "Property Law",
+    "question": "’Specified person’ under Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 means any person other than ...............",
+    "options": [
+      "Appropriate Government",
+      "Government company",
+      "Association of persons or trust or society wholly or partially aided by the appropriate Government or controlled by the appropriate Government",
+      "All of these"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, a ’specified person’ includes individuals or entities such as the government, government companies, or organizations partially funded or controlled by the government. Step 2: Analysis of Options. - (A) Appropriate Government: This is incorrect as the specified person also includes other entities besides the government. - (B) Government company: While a government company can be a specified person, the definition also includes other entities. - (C) Association of persons or trust or society wholly or partially aided by the appropriate Government or controlled by the appropriate Government: This option is correct, as these entities can also be specified persons. - (D) All of these: This is the correct option, as the definition of ’specified person’ includes all of the above. Step 3: Conclusion. Thus, the correct answer is (D) All of these.",
+    "quickTip": "’Specified person’ under the Land Acquisition Act includes the government, government companies, and entities controlled or aided by the government."
+  },
+  {
+    "id": "aibe17-q42",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 42,
+    "subject": "Intellectual Property",
+    "question": "Who shall be the Registrar of Trade Marks for the purposes of Trade Marks Act, 1999?",
+    "options": [
+      "Controller-General of Patents, Designs and Trade Marks",
+      "Controller-General of Copyright, Designs and Trade Marks",
+      "Director-General of Patents, Designs and Trade Marks",
+      "Director-General of Copyright, Designs and Trade Marks"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Trade Marks Act, 1999, the Registrar of Trade Marks is the Director-General of Patents, Designs and Trade Marks. This person is responsible for administering and enforcing the provisions of the Trade Marks Act. Step 2: Analysis of Options. - (A) Controller-General of Patents, Designs and Trade Marks: While the Controller-General plays an important role in intellectual property, the Registrar is specifically the Director-General. - (B) Controller-General of Copyright, Designs and Trade Marks: This option is incorrect as it refers to copyrights, not trade marks. - (C) Director-General of Patents, Designs and Trade Marks: This is the correct answer, as the Director-General holds the position of Registrar under the Act. - (D) Director-General of Copyright, Designs and Trade Marks: This option is incorrect because it is a misnomer for the Registrar of Trade Marks. Step 3: Conclusion. Thus, the correct answer is (C) Director-General of Patents, Designs and Trade Marks.",
+    "quickTip": "The Registrar of Trade Marks under the Trade Marks Act, 1999 is the Director-General of Patents, Designs and Trade Marks."
+  },
+  {
+    "id": "aibe17-q43",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 43,
+    "subject": "Intellectual Property",
+    "question": "Which one of the following is not a type of IPR?",
+    "options": [
+      "Copyright",
+      "Patents",
+      "Designs",
+      "Historical Indications"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Intellectual Property Rights (IPR) are legal protections granted to the creators or inventors of certain types of work or inventions. These include copyrights, patents, and designs. Historical indications, however, are not categorized as an IPR. Step 2: Analysis of Options. - (A) Copyright: Copyright is a well-established form of IPR that protects original works of authorship. - (B) Patents: Patents are a form of IPR that grant the holder exclusive rights to an invention for a set period. - (C) Designs: Design rights protect the visual appearance of objects, making them a form of IPR. - (D) Historical Indications: This is not a recognized type of intellectual property under IPR law. Step 3: Conclusion. Thus, the correct answer is (D) Historical Indications.",
+    "quickTip": "Intellectual Property Rights include Copyright, Patents, and Designs, but not Historical Indications."
+  },
+  {
+    "id": "aibe17-q44",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 44,
+    "subject": "Contract Law",
+    "question": "In which of the following cases it was decided that a contract with a minor is void?",
+    "options": [
+      "Carlill V. Carbolic Smokes Ball Co",
+      "Chinnaih V. Ramaiah",
+      "Mohori Bibee V. Dharmodas Ghose",
+      "Harvey V. Facey"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. In the case of Mohori Bibee V. Dharmodas Ghose, it was held that a contract with a minor is void, as a minor cannot legally enter into a binding contract. This decision affirmed the principle of voidability in contracts involving minors. Step 2: Analysis of Options. - (A) Carlill V. Carbolic Smokes Ball Co: This case is unrelated to contracts with minors. - (B) Chinnaih V. Ramaiah: This case does not deal with the issue of contracts with minors. - (C) Mohori Bibee V. Dharmodas Ghose: This is the landmark case that held a contract with a minor is void. - (D) Harvey V. Facey: This case is related to an offer and acceptance, not contracts with minors. Step 3: Conclusion. Thus, the correct answer is (C) Mohori Bibee V. Dharmodas Ghose.",
+    "quickTip": "Contracts with minors are void and unenforceable, as established in Mohori Bibee V. Dharmodas Ghose."
+  },
+  {
+    "id": "aibe17-q45",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 45,
+    "subject": "Civil Procedure",
+    "question": "Which of the following is/are CORRECT with respect to ”Declaratory Decrees” under The Specific Relief Act, 1963?",
+    "options": [
+      "Section 34 of the said Act deals with it.",
+      "It is discretionary in nature.",
+      "Both (Section 34 of the said Act deals with it) and (It is discretionary in nature)",
+      "None of these"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 34 of The Specific Relief Act, 1963, provides that a declaratory decree can be issued by a court to determine the existence or non-existence of a right. These decrees are discretionary in nature. Step 2: Analysis of Options. - (A) Section 34 of the said Act deals with it: This is correct as Section 34 specifically addresses declaratory decrees. - (B) It is discretionary in nature: This is correct because the court has discretion to issue a declaratory decree. - (C) Both (Section 34 of the said Act deals with it) and (It is discretionary in nature): This is the correct answer as both statements are true. - (D) None of these: This is incorrect since option (C) is correct. Step 3: Conclusion. Thus, the correct answer is (C) Both (Section 34 of the said Act deals with it) and (It is discretionary in nature).",
+    "quickTip": "A declaratory decree under Section 34 of The Specific Relief Act is issued at the discretion of the court to determine the existence of a right."
+  },
+  {
+    "id": "aibe17-q46",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 46,
+    "subject": "Constitutional Law",
+    "question": "By which of the following Amendment Act of 1985, Anti Defection Law was added in the Constitution of India?",
     "options": [
       "51 st Constitutional Amendment",
       "52 nd Constitutional Amendment",
@@ -5327,15 +5394,17 @@
       "54 th Constitutional Amendment"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The Anti-Defection Law, which deals with the disqualification of elected members from the Legislature if they defect from their party, was added to the Constitution of India under the 52 nd Amendment in 1985. Step 2: Analysis of Options. - (A) 51 st Constitutional Amendment: This is incorrect, as it does not pertain to the Anti-Defection Law. - (B) 52 nd Constitutional Amendment: This is the correct answer as the Anti-Defection Law was introduced under this amendment. - (C) 53 rd Constitutional Amendment: This is incorrect, as the law was not introduced in this amendment. - (D) 54 th Constitutional Amendment: This is incorrect as the Anti-Defection Law was introduced under the 52 nd Amendment. Step 3: Conclusion. Thus, the correct answer is (B) 52 nd Constitutional Amendment.",
+    "quickTip": "The Anti-Defection Law was added to the Constitution under the 52 nd Constitutional Amendment, 1985."
   },
   {
-    "id": "aibe17-q50",
+    "id": "aibe17-q47",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 50,
+    "questionNumber": 47,
     "subject": "Constitutional Law",
-    "question": "In which one of the following cases the Supreme Court decided that, a constitutional amendment is a 'law' within the meaning of Article 13(2) and therefore if it violates any of the fundamental rights it may be declared void?",
+    "question": "In which one of the following cases the Supreme Court decided that, a constitutional amendment is a ’law’ within the meaning of Article 13(2) and therefore if it violates any of the fundamental rights it may be declared void?",
     "options": [
       "Sajjan Singh V. State of Rajasthan",
       "Keshvananda Bharati V. State of Kerala",
@@ -5343,13 +5412,15 @@
       "Golak Nath V. State of Punjab"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. In the Golak Nath case, the Supreme Court ruled that constitutional amendments could be challenged in the court if they violated fundamental rights. The court held that a constitutional amendment is a ’law’ within the meaning of Article 13(2). Step 2: Analysis of Options. - (A) Sajjan Singh V. State of Rajasthan: This case dealt with the power of Parliament to amend the Constitution but did not specifically address the question of constitutional amendments violating fundamental rights. - (B) Keshvananda Bharati V. State of Kerala: This case established the basic structure doctrine but did not deal with the issue of constitutional amendments violating fundamental rights. - (C) Indra Sawhney V. Union of India: This case is related to reservations and not to the issue of constitutional amendments violating fundamental rights. - (D) Golak Nath V. State of Punjab: This is the correct case that addressed the issue of constitutional amendments being challenged for violating fundamental rights. Step 3: Conclusion. Thus, the correct answer is (D) Golak Nath V. State of Punjab.",
+    "quickTip": "In the Golak Nath case, the Supreme Court held that constitutional amendments could be challenged if they violate fundamental rights."
   },
   {
-    "id": "aibe17-q51",
+    "id": "aibe17-q48",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 51,
+    "questionNumber": 48,
     "subject": "Constitutional Law",
     "question": "Uniform Civil Code in India is:",
     "options": [
@@ -5359,29 +5430,35 @@
       "Constitutional Right"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Uniform Civil Code (UCC) in India is part of the Directive Principles of State Policy, which is mentioned in Part IV of the Indian Constitution. UCC aims to implement a common set of laws for all citizens irrespective of their religion. Step 2: Analysis of Options. - (A) Fundamental Rights: UCC is not part of Fundamental Rights. - (B) Directive Principles of State Policy: This is the correct answer, as UCC is mentioned in Article 44 of the Directive Principles. - (C) Government Policy: While it is a policy, it is not classified as a government policy but is part of the Directive Principles. - (D) Constitutional Right: It is not a constitutional right, but a Directive Principle aimed at eventual legislation. Step 3: Conclusion. Thus, the correct answer is (B) Directive Principles of State Policy.",
+    "quickTip": "Uniform Civil Code is part of the Directive Principles of State Policy under Article 44 of the Indian Constitution."
   },
   {
-    "id": "aibe17-q52",
+    "id": "aibe17-q49",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 52,
+    "questionNumber": 49,
     "subject": "Constitutional Law",
-    "question": "As per Article 16 of the Constitution of India, no citizen shall, on grounds only of ----- or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
+    "question": "As per Article 16, No citizen shall, on grounds only of ........ or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
     "options": [
       "religion, race, caste, sex, descent, place of birth, residence",
       "religion, age, caste, sex, descent, place of birth, residence",
       "religion, race, age, sex, descent, place of birth, residence",
       "religion, race, caste, sex, descent, place of birth, age"
     ],
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Article 16 of the Indian Constitution provides for equality of opportunity in matters of public employment. It prohibits discrimination on the grounds of religion, race, caste, sex, descent, place of birth, or residence. Step 2: Analysis of Options. - (A) religion, race, caste, sex, descent, place of birth, residence: This is the correct answer as it lists all the grounds mentioned in Article 16. - (B) religion, age, caste, sex, descent, place of birth, residence: Age is not one of the prohibited grounds under Article 16. - (C) religion, race, age, sex, descent, place of birth, residence: Age is not listed as a prohibited ground under Article 16. - (D) religion, race, caste, sex, descent, place of birth, age: Again, age is not included in Article 16. Step 3: Conclusion. Thus, the correct answer is (A) religion, race, caste, sex, descent, place of birth, residence.",
+    "quickTip": "Article 16 prohibits discrimination based on religion, race, caste, sex, descent, place of birth, or residence in matters of public employment."
   },
   {
-    "id": "aibe17-q53",
+    "id": "aibe17-q50",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 53,
-    "question": "The minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under Article 143 shall be ------",
+    "questionNumber": 50,
+    "subject": "Constitutional Law",
+    "question": "The minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under Article 143 shall be .............",
     "options": [
       "2",
       "3",
@@ -5389,14 +5466,17 @@
       "5"
     ],
     "correctAnswer": "D",
-    "subject": "Constitutional Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Article 143 of the Indian Constitution provides for the advisory jurisdiction of the Supreme Court. When there is a substantial question of law, the President can refer the matter to the Supreme Court. A minimum of 5 Judges must sit to decide on such cases. Step 2: Analysis of Options. - (A) 2: This is incorrect as a minimum of 5 Judges is required for such cases. - (B) 3: This is incorrect, as the minimum number is 5 Judges. - (C) 4: This is also incorrect; the minimum is 5 Judges. - (D) 5: This is the correct answer, as Article 143 specifies a quorum of 5 Judges for such matters. Step 3: Conclusion. Thus, the correct answer is (D) 5.",
+    "quickTip": "As per Article 143, at least 5 Judges are required to sit for cases involving substantial questions of law or for references under the Constitution."
   },
   {
-    "id": "aibe17-q54",
+    "id": "aibe17-q51",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 54,
-    "question": "According to the Article 300A of the Constitution of India, No____________ shall be deprived his property save by authority of law.",
+    "questionNumber": 51,
+    "subject": "Constitutional Law",
+    "question": "According to Article 300A of the Constitution of India, No ........... shall be deprived of his property save by authority of law.",
     "options": [
       "person",
       "citizen",
@@ -5404,155 +5484,33 @@
       "Indian"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Article 300A of the Constitution of India provides that no person shall be deprived of his property except by authority of law. This guarantees protection against arbitrary deprivation of property. Step 2: Analysis of Options. - (A) person: This is the correct answer. The term ’person’ in Article 300A includes all individuals regardless of nationality. - (B) citizen: This is incorrect, as the protection extends to all persons, not just citizens. - (C) foreigner: This is incorrect. Foreigners are also included under the protection of Article 300A. - (D) Indian: This is incorrect, as the law applies to all persons, not just Indian nationals. Step 3: Conclusion. Thus, the correct answer is (A) person.",
+    "quickTip": "Article 300A ensures that no person, regardless of nationality, can be deprived of their property except through lawful authority."
   },
   {
-    "id": "aibe17-q55",
+    "id": "aibe17-q52",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 55,
-    "question": "The title of the Constitution of India is laid down in ?",
-    "options": [
-      "Article 1",
-      "Article 5",
-      "Article 390",
-      "Article 393"
-    ],
-    "correctAnswer": "D",
-    "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe17-q56",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 56,
+    "questionNumber": 52,
     "subject": "Constitutional Law",
-    "question": "Constitutional provisions of Fundamental Rights (FRs) are given under which part of the Constitution of India?",
-    "options": [
-      "Part I",
-      "Part II",
-      "Part III.",
-      "Part IV"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q57",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 57,
-    "subject": "Criminal Law",
-    "question": "Under Section 20 and 21 of the Bharatiya Nyaya Sanhita (BNS), nothing is an offence if it is done by a child...",
-    "options": [
-      "of below seven years of age.",
-      "of above seven years of age but under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.",
-      "of above seven years of age but under ten years of age, who has not attained sufficient maturity of understanding.",
-      "of above seven years of age but under twelve years of age, who has attained sufficient maturity of understanding."
-    ],
-    "correctAnswer": "B",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q58",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 58,
-    "question": "Name two essential conditions of Penal Liability.",
-    "options": [
-      "Guilty Body & Rightful Act",
-      "Guilty Intent & Wrong Motive",
-      "Guilty Mind & Wrongful Act",
-      "Guilty Motive and Wrongful Act"
-    ],
-    "correctAnswer": "C",
-    "subject": "Criminal Law"
-  },
-  {
-    "id": "aibe17-q59",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 59,
-    "subject": "Criminal Law",
-    "question": "Provisions for the Right of Private Defence are given between Sections ------- of the Bharatiya Nyaya Sanhita (BNS).",
-    "options": [
-      "Sections 25 to 35",
-      "Sections 34 to 44",
-      "Sections 45 to 55",
-      "Sections 56 to 65"
-    ],
-    "correctAnswer": "B",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q60",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 60,
-    "subject": "Criminal Law",
-    "question": "Consent is not a valid consent under Section 28 of the Bharatiya Nyaya Sanhita (BNS):",
-    "options": [
-      "If given under fear of injury or misconception of fact.",
-      "If given by person of unsound mind.",
-      "If given by child below 12 years of age.",
-      "All of these"
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q61",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 61,
-    "subject": "Criminal Law",
-    "question": "Causing of the death of a child in the mother's womb is not homicide as provided under...",
-    "options": [
-      "Explanation III to Section 101 of BNS",
-      "Explanation III to Section 100 of BNS",
-      "Explanation III to Section 102 of BNS",
-      "Explanation III to Section 103 of BNS"
-    ],
-    "correctAnswer": "B",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q62",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 62,
-    "subject": "Criminal Law",
-    "question": "Punishment for Defamation under Section 356 of the Bharatiya Nyaya Sanhita (BNS) is simple imprisonment for a term which may extend to ---------- or with fine or with both.",
-    "options": [
-      "2 Years",
-      "3 Years",
-      "4 Years",
-      "5 Years"
-    ],
-    "correctAnswer": "A",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q63",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 63,
-    "subject": "Constitutional Law",
-    "question": "Which of the following is not 'Law' according to Article 13 of Indian Constitution?",
+    "question": "Which of the following is not ’Law’ according to Article 13 of the Indian Constitution?",
     "options": [
       "Rule",
-      "By - laws",
+      "By-laws",
       "Custom or usage",
       "None of these"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Article 13 of the Indian Constitution defines ’law’ and includes all laws made by Parliament or the State Legislature, as well as rules, by-laws, customs, and usages having the force of law. It specifically excludes laws that do not impact fundamental rights. Step 2: Analysis of Options. - (A) Rule: This is considered law under Article 13. - (B) By-laws: These are considered law under Article 13. - (C) Custom or usage: Customary law and usages are also considered law under Article 13. - (D) None of these: This is the correct answer because all the options listed are considered ’law’ under Article 13. Step 3: Conclusion. Thus, the correct answer is (D) None of these.",
+    "quickTip": "According to Article 13, laws include statutes, rules, by-laws, and customs with the force of law."
   },
   {
-    "id": "aibe17-q64",
+    "id": "aibe17-q53",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 64,
+    "questionNumber": 53,
     "subject": "Constitutional Law",
     "question": "Which of the following Schedule deals with Union list, State list and Concurrent list in the Constitution of India?",
     "options": [
@@ -5562,7 +5520,207 @@
       "Schedule 12"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Schedule 7 of the Indian Constitution deals with the division of powers between the Union, State, and Concurrent lists. It outlines the areas in which Parliament and State Legislatures can make laws. Step 2: Analysis of Options. - (A) Schedule 7: This is the correct answer, as Schedule 7 contains the Union, State, and Concurrent lists. - (B) Schedule 10: This deals with the disqualification of members of Parliament or State Legislature. - (C) Schedule 11: This deals with the powers, authority, and responsibilities of Panchayats. - (D) Schedule 12: This deals with the powers and functions of Municipalities. Step 3: Conclusion. Thus, the correct answer is (A) Schedule 7.",
+    "quickTip": "Schedule 7 of the Constitution divides subjects into Union, State, and Concurrent lists for lawmaking purposes."
+  },
+  {
+    "id": "aibe17-q54",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 54,
+    "subject": "Constitutional Law",
+    "question": "The title of the Constitution of India is laid down in ..........",
+    "options": [
+      "Article I",
+      "Article 5",
+      "Article 393",
+      "Article 393"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The title of the Constitution of India is mentioned in Article 393, which states that the Constitution shall be known as the ”Constitution of India.” Step 2: Analysis of Options. - (A) Article I: This refers to the territory of India and is not related to the title. - (B) Article 5: This deals with the citizenship of India and not the title of the Constitution. - (C) Article 393: This is the correct answer. Article 393 states the title of the Constitution. - (D) Article 393: This is repeated and is the correct answer. Step 3: Conclusion. Thus, the correct answer is (C) Article 393.",
+    "quickTip": "Article 393 of the Indian Constitution lays down the title ”Constitution of India.”"
+  },
+  {
+    "id": "aibe17-q55",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 55,
+    "subject": "Constitutional Law",
+    "question": "Constitutional provisions of Fundamental Rights (FRs) are given under which part of the Constitution of India?",
+    "options": [
+      "Part I",
+      "Part II",
+      "Part III",
+      "Part IV"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Part III of the Constitution of India deals with Fundamental Rights. These are basic rights granted to all citizens to ensure equality and freedom. Step 2: Analysis of Options. - (A) Part I: This part deals with the Union and its territories, not Fundamental Rights. - (B) Part II: This part deals with the citizenship of India. - (C) Part III: This is the correct answer. Part III contains the Fundamental Rights guaranteed to Indian citizens. - (D) Part IV: This part deals with Directive Principles of State Policy, not Fundamental Rights. Step 3: Conclusion. Thus, the correct answer is (C) Part III.",
+    "quickTip": "Fundamental Rights are provided in Part III of the Indian Constitution."
+  },
+  {
+    "id": "aibe17-q56",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 56,
+    "subject": "Criminal Law",
+    "question": "Provisions for Right of Private Defence is given between ........ of IPC.",
+    "options": [
+      "Sections 74-84",
+      "Sections 96-106",
+      "Sections 107-120",
+      "Sections 141-160"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The provisions related to the Right of Private Defence are mentioned in Sections 96-106 of the Indian Penal Code (IPC). These sections allow a person to defend themselves or others under certain conditions. Step 2: Analysis of Options. - (A) Sections 74-84: These sections deal with the punishment for certain offences, not private defence. - (B) Sections 96-106: This is the correct answer, as these sections deal with the Right of Private Defence. - (C) Sections 107-120: These sections deal with offences related to abetment, not private defence. - (D) Sections 141-160: These sections deal with unlawful assembly and related offences, not private defence. Step 3: Conclusion. Thus, the correct answer is (B) Sections 96-106.",
+    "quickTip": "Sections 96-106 of the IPC deal with the Right of Private Defence."
+  },
+  {
+    "id": "aibe17-q57",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 57,
+    "subject": "Criminal Law",
+    "question": "The consent is not a valid consent under Section 90 of IPC:",
+    "options": [
+      "If given under fear of injury or misconception of fact.",
+      "If given by person of unsound mind.",
+      "If given by child below 12 years of age.",
+      "All of these"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 90 of the Indian Penal Code defines valid consent and specifies that consent is not valid if given under certain conditions, such as under fear of injury, misconception of fact, or by a person of unsound mind or a child below 12 years of age. Step 2: Analysis of Options. - (A) If given under fear of injury or misconception of fact: This is correct, as consent under these conditions is not valid. - (B) If given by person of unsound mind: This is also correct, as such consent is invalid. - (C) If given by child below 12 years of age: This is correct, as children below 12 cannot give valid consent. - (D) All of these: This is the correct answer, as all the conditions mentioned in the options make consent invalid. Step 3: Conclusion. Thus, the correct answer is (D) All of these.",
+    "quickTip": "Under Section 90 of IPC, consent is invalid if given under fear, misconception, or by a person of unsound mind or a child below 12 years of age."
+  },
+  {
+    "id": "aibe17-q58",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 58,
+    "subject": "Criminal Law",
+    "question": "Causing of the death of a child in the mother’s womb is not homicide as provided under",
+    "options": [
+      "Explanation III to Section 300",
+      "Explanation III to Section 299",
+      "Explanation III to Section 301",
+      "Explanation III to Section 302"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Explanation III to Section 299 of the Indian Penal Code (IPC) defines homicide and clarifies that causing the death of a child in the womb does not constitute homicide as provided in Section 300, unless the child was born alive. Step 2: Analysis of Options. - (A) Explanation III to Section 300: This is incorrect as Section 300 deals with the definition of murder, not death during childbirth. - (B) Explanation III to Section 299: This is the correct answer, as it deals with the causing of death in the womb. - (C) Explanation III to Section 301: This section deals with the death caused by one person aiding another in causing death. - (D) Explanation III to Section 302: This relates to punishment for murder, not the definition of homicide. Step 3: Conclusion. Thus, the correct answer is (B) Explanation III to Section 299.",
+    "quickTip": "Explanation III to Section 299 clarifies that the death of a child in the mother’s womb is not considered homicide unless the child was born alive."
+  },
+  {
+    "id": "aibe17-q59",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 59,
+    "subject": "Criminal Law",
+    "question": "Punishment for Defamation under Indian Penal Code is simple imprisonment for a term which may extend to ........ or with fine or with both.",
+    "options": [
+      "2 Years",
+      "3 Years",
+      "4 Years",
+      "5 Years"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 500 of the Indian Penal Code (IPC) deals with defamation and prescribes a punishment of simple imprisonment for up to 2 years, or a fine, or both. Step 2: Analysis of Options. - (A) 2 Years: This is incorrect because the maximum punishment prescribed under IPC for defamation is 3 years. - (B) 3 Years: This is the correct answer, as the punishment can extend to 3 years of imprisonment, or a fine, or both. - (C) 4 Years: This is incorrect. - (D) 5 Years: This is incorrect, as the punishment does not extend to 5 years. Step 3: Conclusion. Thus, the correct answer is (B) 3 Years.",
+    "quickTip": "Under Section 500 of IPC, defamation is punishable with simple imprisonment of up to 3 years or a fine or both."
+  },
+  {
+    "id": "aibe17-q60",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 60,
+    "subject": "Criminal Law",
+    "question": "Assault or criminal force to women with intent to outrage her modesty under IPC is which kind of offence?",
+    "options": [
+      "Non-Cognizable and Bailable",
+      "Cognizable and Bailable",
+      "Cognizable and Non-Bailable",
+      "Non-Cognizable and Non-Bailable"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The offence of assault or criminal force with the intent to outrage a woman’s modesty, under Section 354 of the Indian Penal Code, is a cognizable and bailable offence. This means that the police can arrest the accused without a warrant, and the accused can be granted bail. Step 2: Analysis of Options. - (A) Non-Cognizable and Bailable: This is incorrect as the offence is cognizable. - (B) Cognizable and Bailable: This is the correct answer, as the offence is cognizable and bailable under Section 354 of the IPC. - (C) Cognizable and Non-Bailable: This is incorrect, as it is bailable. - (D) Non-Cognizable and Non-Bailable: This is incorrect, as it is cognizable and bailable. Step 3: Conclusion. Thus, the correct answer is (B) Cognizable and Bailable.",
+    "quickTip": "Assault or criminal force to a woman with intent to outrage her modesty is a cognizable and bailable offence under Section 354 of the IPC."
+  },
+  {
+    "id": "aibe17-q61",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 61,
+    "subject": "Criminal Law",
+    "question": "‘A’ places men with firearms at the outlets of a building and tells ‘Z’ that they will fire at ‘Z’, if ‘Z’ attempts to leave the building. ‘A’ is guilty of:",
+    "options": [
+      "wrongful confinement",
+      "wrongful restraint",
+      "Both wrongful confinement and wrongful restraint",
+      "None of these"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Wrongful confinement occurs when a person is wrongfully detained in a place where they cannot leave. In this case, A is preventing Z from leaving the building, which constitutes wrongful confinement under Section 340 of the Indian Penal Code (IPC). Step 2: Analysis of Options. - (A) wrongful confinement: This is the correct answer, as A has prevented Z from leaving the building. - (B) wrongful restraint: This option refers to preventing someone from moving but without confining them to a place. - (C) Both wrongful confinement and wrongful restraint: This is incorrect because wrongful restraint is not applicable here. - (D) None of these: This is incorrect, as wrongful confinement is the correct charge. Step 3: Conclusion. Thus, the correct answer is (A) wrongful confinement.",
+    "quickTip": "Wrongful confinement occurs when a person is kept in a place and not allowed to leave, as defined under Section 340 of the IPC."
+  },
+  {
+    "id": "aibe17-q62",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 62,
+    "subject": "Criminal Law",
+    "question": "The provision of ’Plea Bargaining’ under chapter XXIA of CrPC are not applicable if the offence is committed against a child below the age of:",
+    "options": [
+      "12 years",
+      "14 years",
+      "16 years",
+      "18 years"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Plea bargaining is a process where the accused pleads guilty to a lesser charge in exchange for a lighter sentence. However, it is not applicable in cases where the offence is committed against a child below the age of 18, as the child’s rights need to be fully protected under law. Step 2: Analysis of Options. - (A) 12 years: Plea bargaining is not applicable for cases involving children below 18 years of age, not 12 years. - (B) 14 years: This is incorrect, as plea bargaining is not applicable for offences involving children under 18. - (C) 16 years: This is incorrect for the same reason as above. - (D) 18 years: This is the correct answer, as the protection of minors under 18 is paramount, making plea bargaining unavailable in such cases. Step 3: Conclusion. Thus, the correct answer is (D) 18 years.",
+    "quickTip": "Plea bargaining is not applicable for offences committed against children under the age of 18, as their rights must be fully protected."
+  },
+  {
+    "id": "aibe17-q63",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 63,
+    "subject": "Criminal Law",
+    "question": "Under Section 82 and 83 of Indian Penal Code, an offence is punishable if it is done by a child:",
+    "options": [
+      "of below seven years of age.",
+      "of above seven years of age but below twelve years having attained sufficient maturity and understanding.",
+      "of above seven years of age but below ten years having attained sufficient maturity and understanding.",
+      "of above seven years of age but below twelve years not having attained sufficient maturity and understanding."
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Sections 82 and 83 of the Indian Penal Code deal with the criminal liability of children. According to Section 82, a child under the age of seven is not criminally liable. Under Section 83, a child above seven but under twelve can be held criminally responsible if they have attained sufficient maturity and understanding. Step 2: Analysis of Options. - (A) below seven years of age: This is incorrect, as children under seven are not criminally liable. - (B) above seven years of age but below twelve years having attained sufficient maturity and understanding: This is the correct answer as per Section 83. - (C) above seven years of age but below ten years: This is incorrect as it is not age-specific but maturity-specific. - (D) above seven years of age but below twelve years not having attained sufficient maturity and understanding: This is incorrect as the child would not be held criminally responsible. Step 3: Conclusion. Thus, the correct answer is (B) above seven years of age but below twelve years having attained sufficient maturity and understanding.",
+    "quickTip": "Under Section 82 and 83, children above seven and below twelve may be criminally liable if they have attained sufficient maturity."
+  },
+  {
+    "id": "aibe17-q64",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 64,
+    "subject": "Miscellaneous",
+    "question": "Name two essential conditions of Penal Liability.",
+    "options": [
+      "Guilty Body & Rightful Act",
+      "Guilty Intent & Wrong Motive",
+      "Guilty Mind & Wrongful Act",
+      "Guilty Motive & Wrongful Act"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Penal liability arises when two essential conditions are met: a guilty mind (mens rea) and a wrongful act (actus reus). These two conditions must coexist for criminal liability to be established. Step 2: Analysis of Options. - (A) Guilty Body & Rightful Act: This is incorrect, as a wrongful act is required for penal liability. - (B) Guilty Intent & Wrong Motive: While intent is important, motive is not a required condition for liability. - (C) Guilty Mind & Wrongful Act: This is the correct answer, as both are necessary for establishing criminal liability. - (D) Guilty Motive & Wrongful Act: This is incorrect because motive is not necessary for penal liability. Step 3: Conclusion. Thus, the correct answer is (C) Guilty Mind & Wrongful Act.",
+    "quickTip": "Penal liability requires both a guilty mind (mens rea) and a wrongful act (actus reus)."
   },
   {
     "id": "aibe17-q65",
@@ -5570,15 +5728,17 @@
     "year": 2023,
     "questionNumber": 65,
     "subject": "Criminal Law",
-    "question": "The provisions of 'Plea Bargaining' under Chapter XXIII of the Bharatiya Nagarik Suraksha Sanhita (BNSS) are not applicable if the offence is committed against a child below the age of -------",
+    "question": "Which Sections deal with the processes to compel appearance under the Code of Criminal Procedure 1973?",
     "options": [
-      "12 years",
-      "14 years",
-      "16 years",
-      "18 years"
+      "Sections 61 to 90",
+      "Sections 154 to 173",
+      "Sections 211 to 219",
+      "Sections 274 to 282"
     ],
-    "correctAnswer": "B",
-    "isModernized": true
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Sections 61 to 90 of the Criminal Procedure Code (CrPC) deal with the processes for compelling an appearance. This includes the issuance of summons and warrants. Step 2: Analysis of Options. - (A) Sections 61 to 90: This is the correct answer as it addresses the processes related to compelling appearance. - (B) Sections 154 to 173: These sections deal with information, investigation, and inquiries, not compelling appearance. - (C) Sections 211 to 219: These sections deal with framing of charges and trial proceedings. - (D) Sections 274 to 282: These sections deal with procedures for trial and recording of evidence. Step 3: Conclusion. Thus, the correct answer is (A) Sections 61 to 90.",
+    "quickTip": "Sections 61 to 90 of the CrPC govern the processes of summons, warrants, and compelling appearance."
   },
   {
     "id": "aibe17-q66",
@@ -5586,15 +5746,17 @@
     "year": 2023,
     "questionNumber": 66,
     "subject": "Criminal Law",
-    "question": "Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) is \"SECULAR\" in character was observed in which of the following cases (originally decided under Section 125 of CrPC)?",
+    "question": "An offence for which, a police officer may arrest a person without warrant is known as",
     "options": [
-      "Lalita Kumari V. State of Uttar Pradesh",
-      "Arnesh Kumar's Case",
-      "Mohd. Ahmed Khan V. Shah Bano Begum",
-      "Selvy V. State of Karnataka"
+      "Non-cognizable offence",
+      "Cognizable offence",
+      "Bailable offence",
+      "None of these"
     ],
-    "correctAnswer": "C",
-    "isModernized": true
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. A cognizable offence is one in which the police officer has the authority to arrest without a warrant and initiate investigation without the permission of a magistrate. Step 2: Analysis of Options. - (A) Non-cognizable offence: These offences do not permit police to arrest without a warrant. - (B) Cognizable offence: This is the correct answer, as cognizable offences allow arrest without a warrant. - (C) Bailable offence: This refers to the ability of the accused to secure bail, not the authority to arrest without a warrant. - (D) None of these: This is incorrect, as cognizable offences allow arrest without a warrant. Step 3: Conclusion. Thus, the correct answer is (B) Cognizable offence.",
+    "quickTip": "Cognizable offences allow police to arrest the accused without a warrant and start investigation immediately."
   },
   {
     "id": "aibe17-q67",
@@ -5602,147 +5764,23 @@
     "year": 2023,
     "questionNumber": 67,
     "subject": "Criminal Law",
-    "question": "Who has the power of summary trial of a case ?",
+    "question": "In a summons trial case instituted on a complaint wherein the summons has been issued to the accused, the non-appearance or death of the complainant shall entail .............",
     "options": [
-      "Chief Judicial Magistrate",
-      "Metropolitan Magistrate",
-      "Any Magistrate of first class specially empowered by the High Court",
-      "All of these"
+      "Discharge of the accused",
+      "Acquittal of the accused",
+      "Either discharge or acquittal depending on the facts and circumstances of the case",
+      "None of these"
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under CrPC, the non-appearance or death of a complainant in a summons trial case could lead to the discharge or acquittal of the accused, depending on the specific circumstances. Step 2: Analysis of Options. - (A) Discharge of the accused: This may be the case, but the decision depends on the facts of the case. - (B) Acquittal of the accused: This is possible but not automatic, as it depends on the circumstances. - (C) Either discharge or acquittal depending on the facts and circumstances of the case: This is the correct answer. - (D) None of these: This is incorrect, as the law provides for discharge or acquittal depending on the circumstances. Step 3: Conclusion. Thus, the correct answer is (C) Either discharge or acquittal depending on the facts and circumstances of the case.",
+    "quickTip": "In a summons trial, the non-appearance or death of the complainant may lead to discharge or acquittal of the accused, depending on the facts."
   },
   {
     "id": "aibe17-q68",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 68,
-    "subject": "Criminal Law",
-    "question": "Which Sections deal with the processes to compel appearance under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023?",
-    "options": [
-      "Sections 63 to 93",
-      "Sections 173 to 193",
-      "Sections 234 to 242",
-      "Sections 300 to 310"
-    ],
-    "correctAnswer": "A",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q69",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 69,
-    "question": "An offence for which, a police officer may arrest a person without warrant is known as ?",
-    "options": [
-      "Non - cognizable offence",
-      "Cognizable offence",
-      "Bailable offence",
-      "None of these"
-    ],
-    "correctAnswer": "B",
-    "subject": "Criminal Law"
-  },
-  {
-    "id": "aibe17-q70",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 70,
-    "subject": "Criminal Law",
-    "question": "Assault or use of criminal force to a woman with intent to outrage her modesty under Section 74 of the Bharatiya Nyaya Sanhita (BNS) is which kind of offence?",
-    "options": [
-      "Non - Cognizable and Bailable",
-      "Cognizable and Bailable",
-      "Cognizable and Non - Bailable",
-      "Non - Cognizable and Non - Bailable"
-    ],
-    "correctAnswer": "C",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q71",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 71,
-    "subject": "Criminal Law",
-    "question": "'A' places men with firearms at the outlets of a building and tells 'Z', that they will fire at 'Z', if 'Z' attempts to leave the building. Under Section 126 of the Bharatiya Nyaya Sanhita (BNS), 'A' is guilty of:",
-    "options": [
-      "wrongful confinement",
-      "wrongful restraint",
-      "Both wrongful confinement and wrongful restraint",
-      "None of these"
-    ],
-    "correctAnswer": "C",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q72",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 72,
-    "subject": "Criminal Law",
-    "question": "Any police officer making an investigation under Section 179 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) cannot require the attendance of a male, at a place other than the place of his residence, who is",
-    "options": [
-      "under the age of 15 years and above the age of 60 years",
-      "under the age of 18 years and above the age of 60 years",
-      "under the age of 15 years and above the age of 65 years",
-      "under the age of 18 years and above the age of 65 years"
-    ],
-    "correctAnswer": "A",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q73",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 73,
-    "subject": "Criminal Law",
-    "question": "If someone lies before the court on affidavit, how it can be tackled by the Advocates?",
-    "options": [
-      "Perjury Application can be filed.",
-      "Withdraw from the case.",
-      "File application to support that.",
-      "Pay the fine for the same."
-    ],
-    "correctAnswer": "A",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q74",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 74,
-    "subject": "Criminal Law",
-    "question": "Proclamation for person absconding shall be published as follows:\n(i) It shall be publicly read in some conspicuous place of the town or village in which such person ordinarily resides;\n(ii) It shall be affixed to some conspicuous part of the house or homestead in which such person ordinarily resides or to some conspicuous place of such town or village;\n(iii) A copy thereof shall be affixed to some conspicuous part of the Court-house;\n(iv) The Court may also, if it thinks fit, direct a copy of the proclamation to be published in a daily newspaper circulating in the place in which such person ordinarily resides.",
-    "options": [
-      "Only ii, iii, iv are correct.",
-      "Only ii and iii are correct.",
-      "Only i, iii, iv are correct.",
-      "All i, ii, iii, iv are correct."
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q75",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 75,
-    "question": "In a summons trial case instituted on a complaint wherein the summons has been issued to the accused, the non - appearance or death of the complainant shall entail -------- . ---------",
-    "options": [
-      "Discharge of the accused",
-      "Acquittal of the accused",
-      "Either discharge or acquittal depending on the facts & circumstances of the case",
-      "None of these"
-    ],
-    "correctAnswer": "B",
-    "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe17-q76",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 76,
     "subject": "Criminal Law",
     "question": "Suppose F.I.R. is not registered by the Station House Officer. What are the options that the complainant has?",
     "options": [
@@ -5752,91 +5790,195 @@
       "Both (Approach Superintendent of Police) & (Approach Magistrate by filing Private Complaint)"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. If the Station House Officer refuses to register an FIR, the complainant has the option to approach the Superintendent of Police or file a private complaint in a Magistrate’s court. Step 2: Analysis of Options. - (A) Approach Superintendent of Police: This is a valid option as the complainant can escalate the matter to the Superintendent of Police. - (B) Approach Magistrate by filing Private Complaint: This is also a valid option where the complainant can approach a Magistrate to file a private complaint. - (C) None of these: This is incorrect because both options (A) and (B) are valid. - (D) Both (Approach Superintendent of Police) & (Approach Magistrate by filing Private Complaint): This is the correct answer, as both options are available to the complainant. Step 3: Conclusion. Thus, the correct answer is (D) Both (Approach Superintendent of Police) & (Approach Magistrate by filing Private Complaint).",
+    "quickTip": "If an FIR is not registered, the complainant can approach the Superintendent of Police or file a private complaint with the Magistrate."
   },
   {
-    "id": "aibe17-q77",
+    "id": "aibe17-q69",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 77,
+    "questionNumber": 69,
+    "subject": "Criminal Law",
+    "question": "Any police officer making an investigation under Section 160 of CrPC cannot require the attendance of a male, at a place other than the place of his residence who is:",
+    "options": [
+      "under the age of 15 years and above the age of 60 years",
+      "under the age of 18 years and above the age of 60 years",
+      "under the age of 15 years and above the age of 65 years",
+      "under the age of 18 years and above the age of 65 years"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 160 of the CrPC specifies that a police officer cannot require the attendance of a male person under the age of 18 years or above the age of 65 years to attend a place other than his residence. Step 2: Analysis of Options. - (A) under the age of 15 years and above the age of 60 years: This is incorrect, as the law applies to those under 18 or over 65 years. - (B) under the age of 18 years and above the age of 60 years: This is incorrect, as the age limit is 65 years, not 60. - (C) under the age of 15 years and above the age of 65 years: This is incorrect, as the law applies to those under 18 years and above 65 years. - (D) under the age of 18 years and above the age of 65 years: This is the correct answer, as it is specifically mentioned in Section 160 of the CrPC. Step 3: Conclusion. Thus, the correct answer is (D) under the age of 18 years and above the age of 65 years.",
+    "quickTip": "Under Section 160 of the CrPC, no police officer can require the attendance of a male person under 18 or above 65 years at a place other than his residence."
+  },
+  {
+    "id": "aibe17-q70",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 70,
+    "subject": "Criminal Law",
+    "question": "Section 125 of the Criminal Procedure Code is ”SECULAR” in character was observed in which of the following case?",
+    "options": [
+      "Lalita Kumari V. State of Uttar Pradesh",
+      "Arnesh Kumar’s Case",
+      "Mohd. Ahmed Khan V. Shah Bano Begum",
+      "Selvy V. State of Karnataka"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. In the case of Mohd. Ahmed Khan V. Shah Bano Begum, the Supreme Court observed that Section 125 of the CrPC, which deals with maintenance, is secular in character as it applies to all individuals regardless of their religion. Step 2: Analysis of Options. - (A) Lalita Kumari V. State of Uttar Pradesh: This case dealt with the registration of FIR and is not related to Section 125 of CrPC. - (B) Arnesh Kumar’s Case: This case deals with arrest procedures and is not related to Section 125. - (C) Mohd. Ahmed Khan V. Shah Bano Begum: This is the correct answer, as it involves Section 125 and the secular nature of the law. - (D) Selvy V. State of Karnataka: This case is not related to Section 125. Step 3: Conclusion. Thus, the correct answer is (C) Mohd. Ahmed Khan V. Shah Bano Begum.",
+    "quickTip": "Section 125 of the CrPC is secular in nature and applies to all individuals, as observed in the case of Mohd. Ahmed Khan V. Shah Bano Begum."
+  },
+  {
+    "id": "aibe17-q71",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 71,
+    "subject": "Constitutional Law",
+    "question": "Who has the power of summary trial of a case?",
+    "options": [
+      "Chief Judicial Magistrate",
+      "Metropolitan Magistrate",
+      "Any Magistrate of first class specially empowered by the High Court",
+      "All of these"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The power to conduct a summary trial in a case is vested in the Chief Judicial Magistrate, Metropolitan Magistrate, and any Magistrate of the first class who has been specially empowered by the High Court to do so. Step 2: Analysis of Options. - (A) Chief Judicial Magistrate: This is correct, as the Chief Judicial Magistrate has the authority to conduct summary trials. - (B) Metropolitan Magistrate: This is correct, as Metropolitan Magistrates also have the authority. - (C) Any Magistrate of first class specially empowered by the High Court: This is correct, as these Magistrates can also conduct summary trials. - (D) All of these: This is the correct answer, as all the mentioned options have the authority to conduct summary trials. Step 3: Conclusion. Thus, the correct answer is (D) All of these.",
+    "quickTip": "Summary trials can be conducted by the Chief Judicial Magistrate, Metropolitan Magistrate, or any first-class Magistrate specially empowered by the High Court."
+  },
+  {
+    "id": "aibe17-q72",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 72,
     "subject": "Civil Procedure",
-    "question": "Which of the following Section of Civil Procedure Code deals with the concept of Res Judicata?",
+    "question": "Which Order of Civil Procedure Code deals with Temporary Injunction and interlocutory Injunction?",
+    "options": [
+      "Order 38",
+      "Order 39",
+      "Order 40",
+      "Order 41"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Order 39 of the Civil Procedure Code (CPC) deals with the provisions regarding Temporary Injunctions and interlocutory Injunctions. These are orders that are given during the pendency of the suit to prevent harm to the party requesting it. Step 2: Analysis of Options. - (A) Order 38: This deals with attachment before judgment, not temporary injunctions. - (B) Order 39: This is the correct answer, as it specifically addresses temporary and interlocutory injunctions. - (C) Order 40: This deals with the appointment of receivers. - (D) Order 41: This deals with appeals from the appellate court. Step 3: Conclusion. Thus, the correct answer is (B) Order 39.",
+    "quickTip": "Order 39 of the CPC deals with temporary injunctions and interlocutory injunctions to prevent harm during a lawsuit."
+  },
+  {
+    "id": "aibe17-q73",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 73,
+    "subject": "Civil Procedure",
+    "question": "A is a tradesman in Ahmedabad, B carries on business in Delhi. B, by his agent Ahmedabad, buys goods of A and requests A to deliver them to the Western Roadway Transport Company. A delivers the goods accordingly in Ahmedabad. A may sue B for the price of the goods",
+    "options": [
+      "In Ahmedabad only",
+      "In Delhi only",
+      "In either Ahmedabad or Delhi",
+      "Anywhere in India"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. According to Section 20 of the Civil Procedure Code (CPC), a person can file a suit where the cause of action arises. Here, the cause of action could arise in either Ahmedabad, where the goods were delivered, or in Delhi, where B conducts business. Step 2: Analysis of Options. - (A) In Ahmedabad only: This is incorrect, as B is in Delhi, and the suit could also be filed there. - (B) In Delhi only: This is incorrect, as A can file the suit in Ahmedabad too. - (C) In either Ahmedabad or Delhi: This is the correct answer, as A can file the suit in either place based on where the cause of action arises. - (D) Anywhere in India: This is incorrect, as the suit must be filed within the jurisdiction related to the cause of action. Step 3: Conclusion. Thus, the correct answer is (C) In either Ahmedabad or Delhi.",
+    "quickTip": "A suit can be filed in any place where the cause of action arises under Section 20 of the CPC."
+  },
+  {
+    "id": "aibe17-q74",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 74,
+    "subject": "Civil Procedure",
+    "question": "Which of the following Section of Civil Procedure Code deals with the concept of Re Judicata?",
     "options": [
       "Section 10",
       "Section 11",
       "Section 12",
-      "Section 13."
+      "Section 13"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 11 of the Civil Procedure Code deals with the concept of ”Res Judicata,” which prevents the same issue from being litigated twice. This section applies to both courts of first instance and appellate courts. Step 2: Analysis of Options. - (A) Section 10: This deals with the stay of proceedings, not res judicata. - (B) Section 11: This is the correct answer, as it specifically defines the concept of res judicata. - (C) Section 12: This deals with the time limit for suits, not res judicata. - (D) Section 13: This section deals with the issue of foreign judgments, not res judicata. Step 3: Conclusion. Thus, the correct answer is (B) Section 11.",
+    "quickTip": "Section 11 of the CPC defines ”Res Judicata,” preventing the re-litigation of the same issues already decided by a court."
   },
   {
-    "id": "aibe17-q78",
+    "id": "aibe17-q75",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 78,
+    "questionNumber": 75,
     "subject": "Civil Procedure",
-    "question": "Mr. X, Mr. Y and Mr. Z are jointly and severally liable for 10,000 under a decree obtained by Mr. A. Mr. Y obtains a decree for 10,000 against Mr. A singly and applies for execution to the Court in which the joint - decree is being executed. Which of the following option is correct for Mr. A?",
+    "question": "Mr. X, Mr. Y and Mr. Z are jointly and severally liable for Rs. 10,000 under a decree obtained by Mr. A. Mr. Y obtains a decree for Rs. 10,000 against Mr. A singly and applies for execution to the Court in which the joint-decree is being executed. Which of the following option correct for Mr. A?",
     "options": [
-      "Mr. A may treat his joint - decree as cross - decree under Order 21 Rule 18.",
-      "Mr. A cannot treat his joint - decree as cross - decree under Order 21 Rule 18.",
-      "Mr. A cannot treat his joint - decree as cross - decree under Order 22 Rule 18.",
+      "Mr. A may treat his joint-decree as cross-decree under Order 21 Rule 18",
+      "Mr. A cannot treat his joint-decree as cross-decree under Order 21 Rule 18.",
+      "Mr. A cannot treat his joint-decree as cross-decree under Order 22 Rule 18.",
       "None of these"
     ],
-    "correctAnswer": "A",
-    "isModernized": false
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the provisions of Order 21 Rule 18 of the Civil Procedure Code, a decree-holder may apply for the execution of a decree. A joint decree, however, cannot be treated as a cross-decree in this case because the execution process applies only when a decree-holder is seeking enforcement of his own decree. Step 2: Analysis of Options. - (A) Mr. A may treat his joint-decree as cross-decree under Order 21 Rule 18: This is incorrect, as Mr. A cannot treat his joint-decree as a cross-decree. - (B) Mr. A cannot treat his joint-decree as cross-decree under Order 21 Rule 18: This is the correct answer. - (C) Mr. A cannot treat his joint-decree as cross-decree under Order 22 Rule 18: This is incorrect as Order 22 deals with substitution in cases of death and not the execution of decrees. - (D) None of these: This is incorrect because option (B) is correct. Step 3: Conclusion. Thus, the correct answer is (B) Mr. A cannot treat his joint-decree as cross-decree under Order 21 Rule 18.",
+    "quickTip": "Order 21 Rule 18 of the CPC deals with the execution of decrees and does not allow treating a joint-decree as a cross-decree."
   },
   {
-    "id": "aibe17-q79",
+    "id": "aibe17-q76",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 79,
-    "question": "A, B and C are coparceners of Joint Hindu Family. They jointly execute a mortgage in favour of Y. Y files a suit against all of them. Summons is served to C but not to A and B. None of them appears and an ex parte decree is passed against all. A and B applied to set aside the ex parte decree. The decree will be set aside against.",
+    "questionNumber": 76,
+    "subject": "Civil Procedure",
+    "question": "A, B and C are coparceners of Joint Hindu Family. They jointly execute a mortgage in favour of Y. Y files a suit against all of them. Summons is served to C but not to A and B. None of them appears and an ex parte decree is passed against all. A and B applied to set aside the ex parte decree. The decree will be set aside against",
     "options": [
       "Only C",
       "Only A & B",
       "A, B and C",
       "None of these"
     ],
-    "correctAnswer": "C",
-    "subject": "Civil Procedure"
-  },
-  {
-    "id": "aibe17-q80",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 80,
-    "subject": "Civil Procedure",
-    "question": "Which of the following provision of Civil Procedure Code, 1908 deals with the Institution of Suits?",
-    "options": [
-      "Section 22",
-      "Section 24",
-      "Section 26",
-      "Section 28"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q81",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 81,
-    "question": "Defendant shall, within ------ days from the date of service of summon on him, present a Written Statement of his defence (ORDER VIII).",
-    "options": [
-      "15",
-      "30",
-      "60",
-      "45"
-    ],
     "correctAnswer": "B",
-    "subject": "Civil Procedure"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. When a suit is filed against multiple parties and an ex parte decree is passed, those who did not appear can apply to set the decree aside. Here, A and B, who did not appear, can apply to set the ex parte decree aside. Step 2: Analysis of Options. - (A) Only C: This is incorrect, as C was served the summons and cannot apply to set the decree aside. - (B) Only A & B: This is the correct answer, as A and B did not appear and can apply to set the ex parte decree aside. - (C) A, B and C: This is incorrect because C is already part of the decree and cannot apply to set it aside. - (D) None of these: This is incorrect as option (B) is the correct answer. Step 3: Conclusion. Thus, the correct answer is (B) Only A & B.",
+    "quickTip": "In an ex parte decree, only those who did not appear may apply to set the decree aside."
   },
   {
-    "id": "aibe17-q82",
+    "id": "aibe17-q77",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 82,
+    "questionNumber": 77,
+    "subject": "Criminal Law",
+    "question": "If someone lies before the court on affidavit, how can it be tackled by the Advocate/s?",
+    "options": [
+      "Perjury Application can be filed.",
+      "Withdraw from the case.",
+      "File application to support that.",
+      "Pay the fine for the same"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. When a person lies before the court on affidavit, this constitutes perjury, a criminal offence. The advocate may file a perjury application against the person who provided false information. Step 2: Analysis of Options. - (A) Perjury Application can be filed: This is the correct answer, as perjury is a criminal offence, and a perjury application should be filed. - (B) Withdraw from the case: While an advocate may withdraw from a case if they feel compromised, it is not the proper legal remedy. - (C) File application to support that: This is incorrect, as an advocate cannot support perjury, they must file a perjury application. - (D) Pay the fine for the same: This is incorrect, as the accused for perjury is the one who lied, not the advocate. Step 3: Conclusion. Thus, the correct answer is (A) Perjury Application can be filed.",
+    "quickTip": "Lying before the court on affidavit is perjury. Advocates can file a perjury application to address this offence."
+  },
+  {
+    "id": "aibe17-q78",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 78,
+    "subject": "Miscellaneous",
+    "question": "Proclamation for person absconding shall be published as follows: (i) It shall be publicly read in some conspicuous place of the town or village in which such person ordinarily resides; (ii) It shall be affixed to some conspicuous part of the house or homestead in which such person ordinarily resides or to some conspicuous place of such town or village; (iii) A copy thereof shall be affixed to some conspicuous part of the Court-house; (iv) The Court may also, if it thinks fit, direct a copy of the proclamation to be published in a daily newspaper circulating in the place in which such person ordinarily resides.",
+    "options": [
+      "Only ii, iii, iv are correct.",
+      "Only ii and iii are correct.",
+      "Only i, iii, iv are correct.",
+      "All i, ii, iii, iv are correct."
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The question deals with the requirements for proclaiming an absconding person under the relevant legal provisions. Each step involves making the whereabouts of the absconding person known in a conspicuous manner. Step 2: Analysis of Options. - (A) Only ii, iii, iv are correct: This is incorrect as all four conditions (i, ii, iii, iv) are correct and valid. - (B) Only ii and iii are correct: This is incorrect, as all four conditions are applicable. - (C) Only i, iii, iv are correct: This is incorrect, as condition ii is also valid. - (D) All i, ii, iii, iv are correct: This is the correct answer, as all the conditions specified are legally valid methods of proclaiming an absconding person. Step 3: Conclusion. Thus, the correct answer is (D) All i, ii, iii, iv are correct.",
+    "quickTip": "To notify an absconding person, the proclamation must be made publicly in the locality and possibly through the media, as specified in the legal requirements."
+  },
+  {
+    "id": "aibe17-q79",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 79,
     "subject": "Civil Procedure",
     "question": "Which of the following statement is incorrect?",
     "options": [
@@ -5845,140 +5987,16 @@
       "Second appeal can be on question of fact or law or both.",
       "First appeal may or may not be in the High Court, Second appeal has to be in the High Court."
     ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q83",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 83,
-    "subject": "Civil Procedure",
-    "question": "Which Order of Civil Procedure Code deals with Temporary Injunction and Interlocutory Injunction?",
-    "options": [
-      "Order 38",
-      "Order 39",
-      "Order 40",
-      "Order 41"
-    ],
-    "correctAnswer": "B",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q84",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 84,
-    "question": "A is a tradesman in Ahmedabad, B carries on business in Delhi. B, by his agent in Ahmedabad, buys goods of A and requests A to deliver them to the Western Roadways Transport Company. A delivers the goods accordingly in Ahmedabad. A may sue B for the price of the goods.",
-    "options": [
-      "In Ahmedabad only",
-      "In Delhi only",
-      "In either Ahmedabad or Delhi",
-      "Anywhere in India"
-    ],
-    "correctAnswer": "C",
-    "subject": "Civil Procedure"
-  },
-  {
-    "id": "aibe17-q85",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 85,
-    "subject": "Evidence Law",
-    "question": "The doctrine of 'Res Gestae' is codified in which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
-    "options": [
-      "Section 3",
-      "Section 4",
-      "Section 8",
-      "Section 9"
-    ],
-    "correctAnswer": "B",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q86",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 86,
-    "subject": "Evidence Law",
-    "question": "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
-    "options": [
-      "Section 15",
-      "Section 16",
-      "Section 17",
-      "Section 19"
-    ],
-    "correctAnswer": "C",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q87",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 87,
-    "question": "Judicial Evidence means ?",
-    "options": [
-      "Evidence received by Courts in proof or disproof of facts",
-      "Evidence received by Police Officer",
-      "Evidence received by Home Department",
-      "Evidence received by Tribunal."
-    ],
-    "correctAnswer": "A",
-    "subject": "Evidence Law"
-  },
-  {
-    "id": "aibe17-q88",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 88,
-    "subject": "Evidence Law",
-    "question": "Which of the following is not a 'document' according to Section 2(1)(d) of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
-    "options": [
-      "An inscription on a metal plate or stone",
-      "A map or plan",
-      "A caricature",
-      "None of these"
-    ],
     "correctAnswer": "D",
-    "isModernized": true
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. This question addresses the concept of appeals under the Civil Procedure Code. The first and second appeals differ in their jurisdiction and the type of questions that can be raised. Step 2: Analysis of Options. - (A) First appeal can be on question of fact or law or both: This is correct, as the first appeal can cover both factual and legal questions. - (B) Second appeal can be on substantial question of law only: This is correct, as the second appeal is restricted to substantial questions of law. - (C) Second appeal can be on question of fact or law or both: This is incorrect, as the second appeal only concerns substantial questions of law. - (D) First appeal may or may not be in the High Court, Second appeal has to be in the High Court: This is incorrect. A first appeal may be to the District Court, while a second appeal is heard only in the High Court. Step 3: Conclusion. Thus, the correct answer is (D) First appeal may or may not be in the High Court, Second appeal has to be in the High Court.",
+    "quickTip": "First appeals can be to any court of appeal, while second appeals are specifically heard in the High Court."
   },
   {
-    "id": "aibe17-q89",
+    "id": "aibe17-q80",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 89,
-    "subject": "Evidence Law",
-    "question": "\"Presumptions as to Dowry Deaths\" is given under which Section?",
-    "options": [
-      "113A",
-      "113B",
-      "114A",
-      "114B"
-    ],
-    "correctAnswer": "B",
-    "isModernized": false
-  },
-  {
-    "id": "aibe17-q90",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 90,
-    "subject": "Evidence Law",
-    "question": "Which of the following is not 'Secondary evidence' as per Section 58 of the Bharatiya Sakshya Adhiniyam (BSA), 2023?",
-    "options": [
-      "Copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy, and copies compared with such copies.",
-      "Copies made from or compared with the original.",
-      "Oral accounts of the contents of a document given by some person who has himself seen it.",
-      "Copies not certified under Section 58."
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
-    "id": "aibe17-q91",
-    "exam": "AIBE 17",
-    "year": 2023,
-    "questionNumber": 91,
+    "questionNumber": 80,
     "subject": "Civil Procedure",
     "question": "As per Order VI, Pleading shall mean?",
     "options": [
@@ -5988,15 +6006,17 @@
       "None of these"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Order VI of the Civil Procedure Code defines pleadings, which include both the plaint filed by the plaintiff and the written statement filed by the defendant. Step 2: Analysis of Options. - (A) Plaint: This is incorrect, as pleadings include both plaint and written statement. - (B) Written Statement: This is incorrect, as pleadings include both the plaint and written statement. - (C) Both Plaint and Written Statement: This is the correct answer, as per Order VI, both the plaint and the written statement are considered pleadings. - (D) None of these: This is incorrect as option (C) is correct. Step 3: Conclusion. Thus, the correct answer is (C) Both Plaint and Written Statement.",
+    "quickTip": "Order VI of the CPC defines pleadings as the plaint and the written statement filed in a suit."
   },
   {
-    "id": "aibe17-q92",
+    "id": "aibe17-q81",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 92,
+    "questionNumber": 81,
     "subject": "Civil Procedure",
-    "question": "Which of the following Order deals with \"Death, Marriage and Insolvency of Parties\"?",
+    "question": "Which of the following Order deals with ”Death, Marriage and Insolvency of Parties”?",
     "options": [
       "Order 20",
       "Order 21",
@@ -6004,31 +6024,179 @@
       "Order 23"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Order 22 of the Civil Procedure Code deals with the death, marriage, and insolvency of parties involved in a lawsuit. It outlines the procedures for continuing the suit in case a party dies, marries, or becomes insolvent. Step 2: Analysis of Options. - (A) Order 20: This order deals with judgment and decree, not the death or insolvency of parties. - (B) Order 21: This order deals with the execution of decrees and orders. - (C) Order 22: This is the correct answer, as it specifically deals with the death, marriage, and insolvency of parties. - (D) Order 23: This order deals with the withdrawal and adjustment of suits. Step 3: Conclusion. Thus, the correct answer is (C) Order 22.",
+    "quickTip": "Order 22 of the CPC deals with the procedure to be followed in case of death, marriage, or insolvency of a party."
   },
   {
-    "id": "aibe17-q93",
+    "id": "aibe17-q82",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 93,
-    "subject": "ADR & Arbitration",
-    "question": "The Arbitral Tribunal shall not be bound by ------ in the determination of rules of procedure.",
+    "questionNumber": 82,
+    "subject": "Evidence Law",
+    "question": "The doctrine of ”Res Gestae” has been discussed in which Section of the Evidence Act?",
     "options": [
-      "The Code of Civil Procedure, 1908",
-      "The Bharatiya Sakshya Adhiniyam (BSA), 2023",
-      "The Code of Criminal Procedure, 1973 (or BNSS, 2023)",
-      "Both, (The Code of Civil Procedure, 1908) and (The Bharatiya Sakshya Adhiniyam (BSA), 2023)"
+      "Section 5",
+      "Section 6",
+      "Section 10",
+      "Section 11"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 6 of the Indian Evidence Act refers to the doctrine of ”Res Gestae,” which allows statements made during or immediately after an event to be admissible as evidence. This section is related to the facts that are part of the transaction. Step 2: Analysis of Options. - (A) Section 5: This deals with the relevancy of facts, not the doctrine of Res Gestae. - (B) Section 6: This is the correct answer, as it discusses the doctrine of Res Gestae. - (C) Section 10: This deals with the admissibility of statements made in the course of a conspiracy. - (D) Section 11: This deals with the relevancy of facts for proving the existence of a relationship, not Res Gestae. Step 3: Conclusion. Thus, the correct answer is (B) Section 6.",
+    "quickTip": "The doctrine of ”Res Gestae” is outlined in Section 6 of the Indian Evidence Act, which deals with facts forming part of the transaction."
+  },
+  {
+    "id": "aibe17-q83",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 83,
+    "subject": "Evidence Law",
+    "question": "When the liability of a person who is one of the parties to the suit depends upon the liability of a stranger to the suit, then an admission by the stranger in respect of his liability shall be an admission on the part of that person who is a party to the suit. It has been so provided under which Section of the Indian Evidence Act, 1872?",
+    "options": [
+      "Section 17",
+      "Section 18",
+      "Section 19",
+      "Section 21"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 18 of the Indian Evidence Act allows an admission made by a stranger to be binding on a party to the suit if the liability of the party depends on the liability of the stranger. Step 2: Analysis of Options. - (A) Section 17: This deals with the admissibility of admissions made by parties to the suit. - (B) Section 18: This is the correct answer, as it deals with admissions by a stranger being binding on a party to the suit. - (C) Section 19: This deals with the rules regarding oral admissions in writing. - (D) Section 21: This deals with the admissibility of statements made in the course of legal proceedings. Step 3: Conclusion. Thus, the correct answer is (B) Section 18.",
+    "quickTip": "Section 18 of the Evidence Act allows admissions by a stranger to be binding on the party whose liability depends on that stranger’s admission."
+  },
+  {
+    "id": "aibe17-q84",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 84,
+    "subject": "ADR & Arbitration",
+    "question": "Judicial Evidence means",
+    "options": [
+      "Evidence received by Courts in proof or disproof of facts",
+      "Evidence received by Police Officer",
+      "Evidence received by Home Department",
+      "Evidence received by Tribunal."
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Judicial evidence refers to the evidence presented in court for the purpose of proving or disproving facts in a case. It is the most recognized form of evidence in legal proceedings. Step 2: Analysis of Options. - (A) Evidence received by Courts in proof or disproof of facts: This is the correct answer, as judicial evidence is what is presented in court. - (B) Evidence received by Police Officer: This is incorrect, as this is not judicial evidence; police officers gather evidence, which may or may not be judicial evidence. - (C) Evidence received by Home Department: This is incorrect, as the Home Department’s evidence is not judicial evidence in court proceedings. - (D) Evidence received by Tribunal: This is incorrect, as judicial evidence pertains to courts, not tribunals. Step 3: Conclusion. Thus, the correct answer is (A) Evidence received by Courts in proof or disproof of facts.",
+    "quickTip": "Judicial evidence refers to evidence that is presented in court to prove or disprove facts in a case."
+  },
+  {
+    "id": "aibe17-q85",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 85,
+    "subject": "Evidence Law",
+    "question": "Which of the following is not a ’document’ according to the Indian Evidence Act, 1872?",
+    "options": [
+      "An inscription on a metal plate or stone",
+      "A map or plan",
+      "A caricature",
+      "None of these"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The Indian Evidence Act defines documents to include any material used for the purpose of recording something. However, a caricature, which is typically a humorous or satirical drawing, does not qualify as a ”document” in this sense. Step 2: Analysis of Options. - (A) An inscription on a metal plate or stone: This qualifies as a document under the Indian Evidence Act. - (B) A map or plan: This is also considered a document. - (C) A caricature: This is the correct answer, as it is not a ”document” according to the Indian Evidence Act. - (D) None of these: This is incorrect because (C) is the correct answer. Step 3: Conclusion. Thus, the correct answer is (C) A caricature.",
+    "quickTip": "According to the Indian Evidence Act, a ”document” is anything used for the purpose of recording information, excluding artistic or humorous representations like caricatures."
+  },
+  {
+    "id": "aibe17-q86",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 86,
+    "subject": "Evidence Law",
+    "question": "”Presumptions as to Dowry Deaths” is given under which Section?",
+    "options": [
+      "113A",
+      "113B",
+      "11",
+      "114B"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 113B of the Indian Evidence Act deals with the presumption of dowry death. If a woman dies within seven years of marriage due to burns or bodily injury or otherwise, and if it is shown that she was subjected to cruelty or harassment by her husband or his relatives in connection with dowry, the court can presume that the death was caused by dowry-related harassment. Step 2: Analysis of Options. - (A) 113A: This section deals with the presumption of suicide due to abetment. - (B) 113B: This is the correct answer, as it deals with the presumption regarding dowry deaths. - (C) 11: This section deals with the relevancy of facts in judicial proceedings. - (D) 114B: This section deals with the presumption regarding dowry deaths in specific circumstances. Step 3: Conclusion. Thus, the correct answer is (B) 113B.",
+    "quickTip": "Section 113B of the Indian Evidence Act presumes dowry death if the woman dies within seven years of marriage and there is evidence of dowry-related harassment."
+  },
+  {
+    "id": "aibe17-q87",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 87,
+    "subject": "Evidence Law",
+    "question": "Which of the following is not ’Secondary evidence’ as per Section 63 of Indian Evidence Act, 1872?",
+    "options": [
+      "Copies made from the original by mechanical processes which in themselves insure the accuracy of the copy, and copies compared with such copies.",
+      "Copies made from or compared with the original.",
+      "Oral accounts of the contents of a document given by some person who has himself seen it.",
+      "Copies not certified under Section 63."
     ],
     "correctAnswer": "D",
-    "isModernized": true
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 63 of the Indian Evidence Act discusses secondary evidence. Secondary evidence refers to copies or reproductions of original documents. However, copies that are not certified do not qualify as secondary evidence. Step 2: Analysis of Options. - (A) Copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy: This is correct and considered secondary evidence. - (B) Copies made from or compared with the original: This is correct and considered secondary evidence. - (C) Oral accounts of the contents of a document given by some person who has himself seen it: This is correct, as it is another form of secondary evidence. - (D) Copies not certified under Section 63: This is incorrect, as un-certified copies cannot be considered secondary evidence. Step 3: Conclusion. Thus, the correct answer is (D) Copies not certified under Section 63.",
+    "quickTip": "For secondary evidence to be admissible under the Indian Evidence Act, the copies must be certified or meet other specific criteria."
   },
   {
-    "id": "aibe17-q94",
+    "id": "aibe17-q88",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 94,
+    "questionNumber": 88,
+    "subject": "Civil Procedure",
+    "question": "Which of the following provision of Civil Procedure Code, 1908 deals with the Institution of Suits?",
+    "options": [
+      "Section 22",
+      "Section 24",
+      "Section 26",
+      "Section 28"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 26 of the Civil Procedure Code deals with the institution of suits. It specifies the manner in which a suit is to be instituted in civil courts. Step 2: Analysis of Options. - (A) Section 22: This deals with the power of the court to transfer suits from one jurisdiction to another. - (B) Section 24: This deals with the powers of the High Court to transfer cases. - (C) Section 26: This is the correct answer, as it specifically deals with the institution of suits. - (D) Section 28: This deals with the procedure for determining a suit in case of delay. Step 3: Conclusion. Thus, the correct answer is (C) Section 26.",
+    "quickTip": "Section 26 of the CPC outlines how a suit should be instituted, including where and how the suit should be filed."
+  },
+  {
+    "id": "aibe17-q89",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 89,
+    "subject": "Civil Procedure",
+    "question": "Defendant shall, within ....... days from the date of service of summon on him, present a Written Statement of his defence (ORDER VIII).",
+    "options": [
+      "15",
+      "30",
+      "60",
+      "45"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. According to Order VIII of the Civil Procedure Code, a defendant is required to present their written statement within 30 days from the date of service of summons. Step 2: Analysis of Options. - (A) 15: This is incorrect, as the prescribed time is 30 days. - (B) 30: This is the correct answer, as per the provisions of Order VIII of the CPC. - (C) 60: This is incorrect, as the time limit is 30 days. - (D) 45: This is incorrect, as the time limit is 30 days. Step 3: Conclusion. Thus, the correct answer is (B) 30.",
+    "quickTip": "A defendant must present their written statement within 30 days from the date of service of summons under Order VIII of the CPC."
+  },
+  {
+    "id": "aibe17-q90",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 90,
     "subject": "ADR & Arbitration",
-    "question": "Which of the following Section deals with \"Arbitration Agreement\" in Arbitration and Conciliation Act, 1996 ?",
+    "question": "The Arbitral Tribunal shall not be bound by .......... in the determination of rules of procedure.",
+    "options": [
+      "The Code of Civil Procedure, 1908",
+      "The Indian Evidence Act, 1872",
+      "The Code of Criminal Procedure, 1973",
+      "Both (The Code of Civil Procedure, 1908) and (The Indian Evidence Act, 1872)"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The Arbitral Tribunal is not bound by the Code of Civil Procedure or the Indian Evidence Act when determining the rules of procedure in arbitration. The tribunal has flexibility in the procedures it follows. Step 2: Analysis of Options. - (A) The Code of Civil Procedure, 1908: This is incorrect, as the tribunal is not bound by this code. - (B) The Indian Evidence Act, 1872: This is incorrect, as the tribunal is not bound by the Indian Evidence Act. - (C) The Code of Criminal Procedure, 1973: This is incorrect, as the tribunal is not bound by this code. - (D) Both (The Code of Civil Procedure, 1908) and (The Indian Evidence Act, 1872): This is the correct answer, as the tribunal is not bound by either of these acts. Step 3: Conclusion. Thus, the correct answer is (D) Both (The Code of Civil Procedure, 1908) and (The Indian Evidence Act, 1872).",
+    "quickTip": "The Arbitral Tribunal has the discretion to decide the rules of procedure in arbitration and is not bound by the Code of Civil Procedure or the Indian Evidence Act."
+  },
+  {
+    "id": "aibe17-q91",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 91,
+    "subject": "ADR & Arbitration",
+    "question": "Which of the following Section deals with ”Arbitration Agreement” in Arbitration and Conciliation Act, 1996?",
     "options": [
       "Section 6",
       "Section 7",
@@ -6036,45 +6204,53 @@
       "Section 9"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 7 of the Arbitration and Conciliation Act, 1996 deals with the ”Arbitration Agreement.” It defines an arbitration agreement and lays out the requirements for its validity. Step 2: Analysis of Options. - (A) Section 6: This section deals with the power to appoint an arbitrator. - (B) Section 7: This is the correct answer, as it deals with the arbitration agreement. - (C) Section 8: This section deals with the power of the Court to refer the parties to arbitration. - (D) Section 9: This section deals with interim measures by the Court. Step 3: Conclusion. Thus, the correct answer is (B) Section 7.",
+    "quickTip": "Section 7 of the Arbitration and Conciliation Act, 1996 defines an arbitration agreement and its validity requirements."
   },
   {
-    "id": "aibe17-q95",
+    "id": "aibe17-q92",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 95,
+    "questionNumber": 92,
     "subject": "ADR & Arbitration",
-    "question": "Under what circumstances the arbitral proceedings can be terminated?: 1. Final Arbitral award\n2. Interim award\n3. Where the arbitral tribunal issues an order for the termination",
+    "question": "Under what circumstances the arbitral proceedings can be terminated?",
     "options": [
       "1 and 3",
       "1 and 2",
       "2 and 3",
-      "1, 2 and 3"
+      "1.2 and 3"
     ],
-    "correctAnswer": "A",
-    "isModernized": false
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. The arbitration proceedings can be terminated under various circumstances as provided in the Arbitration and Conciliation Act, 1996. These include the final arbitral award, interim award, or an order by the arbitral tribunal for termination. Step 2: Analysis of Options. - (A) 1 and 3: This combination is incomplete as it misses the interim award. - (B) 1 and 2: This combination is incomplete as it misses the arbitral tribunal’s order for termination. - (C) 2 and 3: This combination also misses the final arbitral award. - (D) 1.2 and 3: This is the correct answer, as all three circumstances (final award, interim award, or tribunal order) can result in termination of proceedings. Step 3: Conclusion. Thus, the correct answer is (D) 1.2 and 3.",
+    "quickTip": "Arbitral proceedings can be terminated by a final award, interim award, or an order of termination from the arbitral tribunal."
   },
   {
-    "id": "aibe17-q96",
+    "id": "aibe17-q93",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 96,
-    "question": "Under Section 29 of The Arbitration And Conciliation Act, 1996 arbitral proceedings with more than one arbitrator, any decision of the arbitral tribunal ------ ------",
+    "questionNumber": 93,
+    "subject": "ADR & Arbitration",
+    "question": "Under Section 29 of The Arbitration And Conciliation Act, 1996 arbitral proceedings with more than one arbitrator, any decision of the arbitral tribunal.",
     "options": [
       "shall be made by all members",
-      "shall be made by 2/3 majority of its members 2",
+      "shall be made by 2/3 majority of its members",
       "shall be made by the chief arbitrator",
       "shall be made by majority of its members"
     ],
     "correctAnswer": "D",
-    "subject": "ADR & Arbitration"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 29 of the Arbitration and Conciliation Act, 1996 provides that where there are multiple arbitrators, decisions of the arbitral tribunal should be made by the majority of its members. Step 2: Analysis of Options. - (A) shall be made by all members: This is incorrect, as decisions are made by the majority. - (B) shall be made by 2/3 majority of its members: This is incorrect, as the Act does not specify a 2/3 majority. - (C) shall be made by the chief arbitrator: This is incorrect, as decisions are made by the majority, not solely the chief arbitrator. - (D) shall be made by majority of its members: This is the correct answer, as decisions must be made by the majority of the tribunal members. Step 3: Conclusion. Thus, the correct answer is (D) shall be made by majority of its members.",
+    "quickTip": "Under Section 29 of the Arbitration and Conciliation Act, 1996, decisions in an arbitral tribunal with more than one arbitrator are made by the majority of its members."
   },
   {
-    "id": "aibe17-q97",
+    "id": "aibe17-q94",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 97,
-    "question": "The provision for 'maintenance pendente lite' in Hindu Marriage Act, 1955 is given in --- .",
+    "questionNumber": 94,
+    "subject": "Family Law",
+    "question": "The provision for ’maintenance pendente lite’ in Hindu Marriage Act. 1955 is given in.",
     "options": [
       "Section 22",
       "Section 23",
@@ -6082,15 +6258,17 @@
       "Section 25"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 24 of the Hindu Marriage Act, 1955 deals with the provision of maintenance pendente lite, which is the temporary maintenance given to a spouse during the pendency of a divorce case. Step 2: Analysis of Options. - (A) Section 22: This section deals with the custody of minor children. - (B) Section 23: This section deals with the powers of the Court to make orders in the event of a petition for restitution of conjugal rights. - (C) Section 24: This is the correct answer, as it deals with maintenance pendente lite. - (D) Section 25: This section deals with permanent alimony. Step 3: Conclusion. Thus, the correct answer is (C) Section 24.",
+    "quickTip": "Section 24 of the Hindu Marriage Act, 1955 provides for maintenance pendente lite during the pendency of divorce proceedings."
   },
   {
-    "id": "aibe17-q98",
+    "id": "aibe17-q95",
     "exam": "AIBE 17",
     "year": 2023,
-    "questionNumber": 98,
+    "questionNumber": 95,
     "subject": "Family Law",
-    "question": "A Muslim wife may sue for divorce under the Dissolution of Muslim Marriage Act, 1939 Section 2, if the husband has been insane for a period of:",
+    "question": "A Muslim wife may sue for divorce under the Dissolution of Muslim Marriage Act, 1939 Section 2, if the husband has been insane for a period of.",
     "options": [
       "1 year",
       "2 years",
@@ -6098,30 +6276,89 @@
       "7 years"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under the Dissolution of Muslim Marriage Act, 1939, a Muslim wife can sue for divorce if her husband has been insane for a period of 2 years or more. Step 2: Analysis of Options. - (A) 1 year: This is incorrect, as the period required is 2 years. - (B) 2 years: This is the correct answer, as the husband must have been insane for at least 2 years. - (C) 5 years: This is incorrect, as the period is shorter (2 years). - (D) 7 years: This is incorrect, as the period is shorter (2 years). Step 3: Conclusion. Thus, the correct answer is (B) 2 years.",
+    "quickTip": "Under the Dissolution of Muslim Marriage Act, 1939, a Muslim wife may seek divorce if the husband has been insane for a period of 2 years or more."
+  },
+  {
+    "id": "aibe17-q96",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 96,
+    "subject": "Criminal Law",
+    "question": "Muslim woman has option to be governed by the provisions of Sections 125 to 128 of Criminal Procedure Code 1973. Which section of The Muslim Women (Protection of Rights on Divorce) Act, 1986 deals with it?",
+    "options": [
+      "Section 5",
+      "Section 6",
+      "Section 7",
+      "None of these"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Section 6 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 provides that a Muslim woman can opt to be governed by the provisions of Sections 125 to 128 of the Criminal Procedure Code, 1973, relating to maintenance. Step 2: Analysis of Options. - (A) Section 5: This section deals with the right of the woman to maintain herself and her children after divorce. - (B) Section 6: This is the correct answer, as it specifically addresses the option to be governed by Sections 125 to 128 of the CrPC. - (C) Section 7: This section deals with the woman’s right to alimony and maintenance. - (D) None of these: This is incorrect, as Section 6 is the correct answer. Step 3: Conclusion. Thus, the correct answer is (B) Section 6.",
+    "quickTip": "Section 6 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 allows a Muslim woman to opt for maintenance under Sections 125 to 128 of CrPC."
+  },
+  {
+    "id": "aibe17-q97",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 97,
+    "subject": "Family Law",
+    "question": "Which of the following is not a ground of void marriage under Section 11 of the Hindu Marriage Act?",
+    "options": [
+      "Bigamy",
+      "Degrees of Prohibited Relationship",
+      "Sapinda Relationship",
+      "Child marriage"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Question. Under Section 11 of the Hindu Marriage Act, marriages that violate specific provisions of the Act are considered void. These include bigamy, degrees of prohibited relationships, and child marriage. However, the concept of a sapinda relationship is a specific restriction within the Act related to marriage. Step 2: Conclusion. Sapinda relationship is a ground for voidable marriages (Section 5 of the Hindu Marriage Act) but not for void marriages under Section 11. Therefore, option (C) is the correct answer.",
+    "quickTip": "Section 11 of the Hindu Marriage Act lists grounds for void marriages, including bigamy, degrees of prohibited relationships, and child marriage. Sapinda relationship, however, is not a ground for void marriage."
+  },
+  {
+    "id": "aibe17-q98",
+    "exam": "AIBE 17",
+    "year": 2023,
+    "questionNumber": 98,
+    "subject": "Family Law",
+    "question": "Sapinda Relationship means",
+    "options": [
+      "3rd generation (mother), 7th generation (father)",
+      "3rd generation (mother), 5th generation (father)",
+      "3rd generation (mother), 4th generation (father)",
+      "2nd generation (mother), 5th generation (father)"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Sapinda Relationship. Sapinda relationship refers to the relationship that prohibits marriages between certain degrees of kinship, specifically up to the 5th generation on the father’s side and 3rd generation on the mother’s side. Step 2: Conclusion. Therefore, the correct definition of a Sapinda relationship is between the 3rd generation (mother) and 5th generation (father), which makes option (B) the correct answer.",
+    "quickTip": "Sapinda relationship is defined as the kinship up to the 5th generation from the father and 3rd generation from the mother in the Hindu Marriage Act."
   },
   {
     "id": "aibe17-q99",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 99,
+    "subject": "Evidence Law",
     "question": "A leading question may be asked in",
     "options": [
-      "Examination - in - chief",
-      "Re - examination",
+      "Examination-in-chief",
+      "Re-examination",
       "Cross examination",
       "None of these"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding Leading Questions. A leading question is one that suggests the answer within the question itself. Leading questions can generally only be asked during cross-examination, where the examiner is allowed to lead the witness to get direct answers. Step 2: Conclusion. Therefore, the correct answer is (C) Cross examination, as leading questions are typically used during this phase of the trial.",
+    "quickTip": "Leading questions are permissible in cross-examination, but not typically in examination-in-chief or re-examination."
   },
   {
     "id": "aibe17-q100",
     "exam": "AIBE 17",
     "year": 2023,
     "questionNumber": 100,
-    "subject": "Evidence Law",
-    "question": "Extra Judicial Confession means ?",
+    "subject": "Criminal Law",
+    "question": "Extra Judicial Confession means",
     "options": [
       "Confessions made either to Police or person other than Judges and Magistrates.",
       "Confessions made before Magistrates.",
@@ -6129,7 +6366,9 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "isModernized": true
+    "isModernized": false,
+    "solution": "Step 1: Understanding Extra Judicial Confession. An extra-judicial confession refers to a confession made outside the judicial proceedings, typically to the police or to any person other than a magistrate or judge. Such confessions may not have the same legal weight as confessions made before a magistrate or judge. Step 2: Conclusion. Therefore, the correct answer is (A) Confessions made either to Police or person other than Judges and Magistrates.",
+    "quickTip": "Extra judicial confessions are statements made outside formal court proceedings, and they typically carry less evidentiary weight."
   },
   {
     "id": "aibe19-q1",

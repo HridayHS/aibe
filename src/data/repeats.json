@@ -36,14 +36,16 @@
           "exam": "AIBE 17",
           "year": 2023,
           "questionNumber": 77,
-          "question": "Which of the following Section of Civil Procedure Code deals with the concept of Res Judicata?",
+          "question": "If someone lies before the court on affidavit, how can it be tackled by the Advocate/s?",
           "options": [
-            "Section 10",
-            "Section 11",
-            "Section 12",
-            "Section 13."
+            "Perjury Application can be filed.",
+            "Withdraw from the case.",
+            "File application to support that.",
+            "Pay the fine for the same"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "A",
+          "solution": "Step 1: Understanding the Question. When a person lies before the court on affidavit, this constitutes perjury, a criminal offence. The advocate may file a perjury application against the person who provided false information. Step 2: Analysis of Options. - (A) Perjury Application can be filed: This is the correct answer, as perjury is a criminal offence, and a perjury application should be filed. - (B) Withdraw from the case: While an advocate may withdraw from a case if they feel compromised, it is not the proper legal remedy. - (C) File application to support that: This is incorrect, as an advocate cannot support perjury, they must file a perjury application. - (D) Pay the fine for the same: This is incorrect, as the accused for perjury is the one who lied, not the advocate. Step 3: Conclusion. Thus, the correct answer is (A) Perjury Application can be filed.",
+          "quickTip": "Lying before the court on affidavit is perjury. Advocates can file a perjury application to address this offence."
         },
         {
           "id": "aibe18-q31",
@@ -119,14 +121,16 @@
           "exam": "AIBE 17",
           "year": 2023,
           "questionNumber": 23,
-          "question": "If any advocate is aggrieved by an order of Disciplinary Committee of State Bar Council made under Section 35 of the Advocate Act or Advocate General of the State may prefer and appeal to the Bar Council of India within ____________ days of the date of communication of order.",
+          "question": "Suppose road accident occurs, then being an Advocate what is the correct way of approaching the situation?",
           "options": [
-            "30",
-            "45",
-            "60",
-            "90"
+            "FIR ¿ Petition ¿ Summon to Insurance Company",
+            "Petition ¿ FIR ¿ Summon to Insurance Company",
+            "Summon to Insurance Company ¿ Petition ¿ FIR",
+            "FIR ¿ Summon to Insurance Company ¿ Petition"
           ],
-          "correctAnswer": "C"
+          "correctAnswer": "D",
+          "solution": "Step 1: Understanding the Question. In case of a road accident, the first step is to file an FIR (First Information Report) with the police, followed by issuing a summon to the insurance company and then filing a petition for further legal action. Step 2: Conclusion. Thus, the correct answer is (D) FIR ¿ Summon to Insurance Company ¿ Petition.",
+          "quickTip": "In case of road accidents, filing an FIR should be the first step, followed by summons to the insurance company, and then filing a petition."
         },
         {
           "id": "aibe18-q69",
@@ -181,14 +185,16 @@
           "exam": "AIBE 17",
           "year": 2023,
           "questionNumber": 98,
-          "question": "A Muslim wife may sue for divorce under the Dissolution of Muslim Marriage Act, 1939 Section 2, if the husband has been insane for a period of:",
+          "question": "Sapinda Relationship means",
           "options": [
-            "1 year",
-            "2 years",
-            "5 years",
-            "7 years"
+            "3rd generation (mother), 7th generation (father)",
+            "3rd generation (mother), 5th generation (father)",
+            "3rd generation (mother), 4th generation (father)",
+            "2nd generation (mother), 5th generation (father)"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Step 1: Understanding Sapinda Relationship. Sapinda relationship refers to the relationship that prohibits marriages between certain degrees of kinship, specifically up to the 5th generation on the father’s side and 3rd generation on the mother’s side. Step 2: Conclusion. Therefore, the correct definition of a Sapinda relationship is between the 3rd generation (mother) and 5th generation (father), which makes option (B) the correct answer.",
+          "quickTip": "Sapinda relationship is defined as the kinship up to the 5th generation from the father and 3rd generation from the mother in the Hindu Marriage Act."
         },
         {
           "id": "aibe20-q69",

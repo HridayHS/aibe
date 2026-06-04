@@ -192,11 +192,12 @@ export default function MockTest() {
                   })}
                 </div>
                 {q.solution && (
-                  <div className="q-solution-box" style={{ marginTop: '0.75rem' }}>
-                    <div className="q-solution-header">
+                  <details className="q-solution-box" style={{ marginTop: '0.75rem' }}>
+                    <summary className="q-solution-header">
                       <span className="q-solution-icon">📖</span>
                       <span className="q-solution-title">Solution</span>
-                    </div>
+                      <span className="q-solution-chevron">▸</span>
+                    </summary>
                     <div className="q-solution-steps">
                       {parseSolution(q.solution).map((step, idx) => (
                         <div key={idx} className="q-step">
@@ -210,15 +211,16 @@ export default function MockTest() {
                         </div>
                       ))}
                     </div>
-                  </div>
+                  </details>
                 )}
                 {q.quickTip && (
-                  <div className="q-quicktip-box" style={{ marginTop: '0.5rem' }}>
-                    <div className="q-quicktip-header">
+                  <details className="q-quicktip-box" style={{ marginTop: '0.5rem' }}>
+                    <summary className="q-quicktip-header">
                       <span className="q-quicktip-label">Quick Tip</span>
-                    </div>
+                      <span className="q-quicktip-chevron">▸</span>
+                    </summary>
                     <p className="q-quicktip-text">{q.quickTip}</p>
-                  </div>
+                  </details>
                 )}
               </div>
             )

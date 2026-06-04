@@ -292,6 +292,15 @@ details.q-solution-box[open] > .q-solution-header .q-solution-chevron {
 .q-quicktip-header {
   background: linear-gradient(135deg, #2a5f8f, #1e4d7a);
   padding: 0.5rem 1rem;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  user-select: none;
+}
+
+.q-quicktip-header::-webkit-details-marker {
+  display: none;
 }
 
 .q-quicktip-label {
@@ -300,6 +309,17 @@ details.q-solution-box[open] > .q-solution-header .q-solution-chevron {
   font-weight: 600;
   color: #e2edf7;
   letter-spacing: 0.02em;
+}
+
+.q-quicktip-chevron {
+  margin-left: auto;
+  font-size: 0.9rem;
+  color: #a4c5e0;
+  transition: transform var(--transition-fast);
+}
+
+details.q-quicktip-box[open] > .q-quicktip-header .q-quicktip-chevron {
+  transform: rotate(90deg);
 }
 
 .q-quicktip-text {
