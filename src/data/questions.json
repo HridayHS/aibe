@@ -1528,21 +1528,6 @@
     "subject": "Cyber Law"
   },
   {
-    "id": "aibe16-q1",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 1,
-    "question": "The Hindu Marriage Act, 1955 petition in which a decree of restitution of conjugal rights has been passed to apply to the court for a decree for divorce by showing that there has been no restitution of conjugal rights as between parties of marriage for a period of one year or upwards after passing of the decree",
-    "options": [
-      "Does not permit any party to that",
-      "Does not permit the party against whom the",
-      "Does permit any party to that",
-      "Does permit any person related to either party to that"
-    ],
-    "correctAnswer": "C",
-    "subject": "Family Law"
-  },
-  {
     "id": "aibe15-q2",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1556,21 +1541,6 @@
     ],
     "correctAnswer": "C",
     "subject": "Labour Law"
-  },
-  {
-    "id": "aibe16-q2",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 2,
-    "question": "The commission of offences under the Prohibition of Child Marriage Act, 2006 are",
-    "options": [
-      "Cognizable and bailable",
-      "Non cognizable and non - bailable",
-      "Cognizable and non - bailable",
-      "Non cognizable and bailable"
-    ],
-    "correctAnswer": "C",
-    "subject": "Family Law"
   },
   {
     "id": "aibe15-q3",
@@ -1588,21 +1558,6 @@
     "subject": "Labour Law"
   },
   {
-    "id": "aibe16-q3",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 3,
-    "question": "An arbitration proceeding is a",
-    "options": [
-      "Judicial proceeding",
-      "Quasi - judicial proceeding",
-      "Administrative proceeding",
-      "None of the above"
-    ],
-    "correctAnswer": "B",
-    "subject": "ADR & Arbitration"
-  },
-  {
     "id": "aibe15-q4",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1615,21 +1570,6 @@
       "Union of India Vs Indian Change Chrome Ltd"
     ],
     "correctAnswer": "A",
-    "subject": "ADR & Arbitration"
-  },
-  {
-    "id": "aibe16-q4",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 4,
-    "question": "What is ad hoc arbitration?",
-    "options": [
-      "It is a proceeding administered by the parties themselves, with rules created solely, for that specific case",
-      "Parties make their own arrangement with respect to all aspects of the arbitration, including the laws and rules",
-      "The seal of arbitration, the language, and the scope and issues to be resolved by means of arbitration.",
-      "(a) (b) (c)"
-    ],
-    "correctAnswer": "D",
     "subject": "ADR & Arbitration"
   },
   {
@@ -1648,21 +1588,6 @@
     "subject": "ADR & Arbitration"
   },
   {
-    "id": "aibe16-q5",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 5,
-    "question": "Which of the following Sections of the Civil Procedure Code define the 'Mesne Profit?",
-    "options": [
-      "Section 2 (4)",
-      "Section 2 (14)",
-      "Section 2 (6)",
-      "Section 2 (12)"
-    ],
-    "correctAnswer": "D",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q6",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1676,21 +1601,6 @@
     ],
     "correctAnswer": "B",
     "subject": "ADR & Arbitration"
-  },
-  {
-    "id": "aibe16-q6",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 6,
-    "question": "How many kinds of presumptions are there as classified by the Supreme Court?",
-    "options": [
-      "Permissive presumptions or presumptions of facts",
-      "Compelling presumptions or presumptions of law (rebuttable presumptions)",
-      "Irrebuttable presumptions of law or conclusive presumptions.",
-      "All of them"
-    ],
-    "correctAnswer": "D",
-    "subject": "Evidence Law"
   },
   {
     "id": "aibe15-q7",
@@ -1709,21 +1619,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q7",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 7,
-    "question": "What is the leading decision in the case of Menaka Gandhi Vs Union of India?",
-    "options": [
-      "Right of hearing",
-      "Separation of powers",
-      "Delegated legislation",
-      "Rule of evidence"
-    ],
-    "correctAnswer": "A",
-    "subject": "Administrative Law"
-  },
-  {
     "id": "aibe15-q8",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1737,21 +1632,6 @@
     ],
     "correctAnswer": "D",
     "subject": "ADR & Arbitration"
-  },
-  {
-    "id": "aibe16-q8",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 8,
-    "question": "Advocate's Act 1961 came into force on:",
-    "options": [
-      "19th May, 1961",
-      "19th April, 1961",
-      "1st May, 1961",
-      "19th January, 1961"
-    ],
-    "correctAnswer": "A",
-    "subject": "Legal Ethics"
   },
   {
     "id": "aibe15-q9",
@@ -1770,21 +1650,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q9",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 9,
-    "question": "A Railway servant was killed in a bus accident during the course of employment. His family members may claim compensation under",
-    "options": [
-      "The Motor Vehicle Act",
-      "The Employees Compensation Act, 1923",
-      "Both (a) and (b)",
-      "Either under (a) OR under (b)"
-    ],
-    "correctAnswer": "D",
-    "subject": "Motor Vehicle Law"
-  },
-  {
     "id": "aibe15-q10",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1799,21 +1664,6 @@
     ],
     "correctAnswer": "B",
     "isModernized": true
-  },
-  {
-    "id": "aibe16-q10",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 10,
-    "question": "\"Casting Couch\" in Bollywood, the Indian film industry, is an example of",
-    "options": [
-      "sexual assault",
-      "sexual harassment",
-      "both (a) and (b)",
-      "None of the above"
-    ],
-    "correctAnswer": "B",
-    "subject": "Criminal Law"
   },
   {
     "id": "aibe15-q11",
@@ -1831,21 +1681,6 @@
     "subject": "Contract Law"
   },
   {
-    "id": "aibe16-q11",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 11,
-    "question": "According to section 2 of motor vehicles Act, 1988 the term motor cab means any motor vehicle constructed or adapted to carry not more than",
-    "options": [
-      "5 passengers including the driver",
-      "6 passengers including the driver",
-      "5 passengers excluding the driver",
-      "6 passengers excluding the driver"
-    ],
-    "correctAnswer": "D",
-    "subject": "Motor Vehicle Law"
-  },
-  {
     "id": "aibe15-q12",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1859,21 +1694,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Contract Law"
-  },
-  {
-    "id": "aibe16-q12",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 12,
-    "question": "The National Commission of Consumer Protection is composed of",
-    "options": [
-      "7 members:",
-      "5 members;",
-      "8 members;",
-      "6 members:"
-    ],
-    "correctAnswer": "B",
-    "subject": "Consumer Law"
   },
   {
     "id": "aibe15-q13",
@@ -1891,22 +1711,6 @@
     "subject": "Contract Law"
   },
   {
-    "id": "aibe16-q13",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 13,
-    "subject": "Family Law",
-    "question": "Which of the following sections of the Hindu Adoption and Maintenance Act, 1956 deals with \"amount of maintenance\"?",
-    "options": [
-      "Section 21",
-      "Section 22",
-      "Section 23",
-      "Section 24"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
     "id": "aibe15-q14",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1920,22 +1724,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Administrative Law"
-  },
-  {
-    "id": "aibe16-q14",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 14,
-    "subject": "Constitutional Law",
-    "question": "In which of the following case the Supreme Court first of all made an attempt to look into the question regarding the extension of the right to life to the right to Health and other Hygienic conditions",
-    "options": [
-      "The Rural Litigation and Entitlement Kendra Vs State of Uttar Pradesh.",
-      "M.C Mehta Vs Union of India",
-      "V. Lakshmipathy Vs State of Karnataka",
-      "F.K. Hussain Vs Union of India."
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
   },
   {
     "id": "aibe15-q15",
@@ -1953,22 +1741,6 @@
     "subject": "Legal Ethics"
   },
   {
-    "id": "aibe16-q15",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 15,
-    "subject": "Environmental Law",
-    "question": "Basel Convention is associated with one of the following -",
-    "options": [
-      "International Trade in Endangered species of wild Fauna & flora",
-      "Climate change",
-      "Protection of Ozone layer",
-      "The control of transboundary movement of hazardous wastes and their disposal"
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
     "id": "aibe15-q16",
     "exam": "AIBE 15",
     "year": 2021,
@@ -1982,21 +1754,6 @@
     ],
     "correctAnswer": "D",
     "subject": "Legal Ethics"
-  },
-  {
-    "id": "aibe16-q16",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 16,
-    "question": "The nature of Cyber crime is",
-    "options": [
-      "Tangible",
-      "Intangible",
-      "Of mental Violence",
-      "None of the above"
-    ],
-    "correctAnswer": "B",
-    "subject": "Cyber Law"
   },
   {
     "id": "aibe15-q17",
@@ -2015,21 +1772,6 @@
     "isModernized": false
   },
   {
-    "id": "aibe16-q17",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 17,
-    "question": "Under Civil Procedure Code, 1908 \"Foreign Court\" means",
-    "options": [
-      "A court situated outside India",
-      "A court situated outside India and not established under the authority of Government of India",
-      "A court situated in India, applying foreign law",
-      "All of the above"
-    ],
-    "correctAnswer": "B",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q18",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2043,21 +1785,6 @@
     ],
     "correctAnswer": "D",
     "subject": "Family Law"
-  },
-  {
-    "id": "aibe16-q18",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 18,
-    "question": "Misuse of mechanism of PIL means",
-    "options": [
-      "filing PIL for protection of private interest",
-      "filing PIL for oblique motive",
-      "filing PIL only for publicity",
-      "All of the above"
-    ],
-    "correctAnswer": "D",
-    "subject": "Constitutional Law"
   },
   {
     "id": "aibe15-q19",
@@ -2075,21 +1802,6 @@
     "subject": "Family Law"
   },
   {
-    "id": "aibe16-q19",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 19,
-    "question": "What is meant by procedural ultra - vires?",
-    "options": [
-      "It is the non - observance of the procedural norms by the rule making authority",
-      "It may make the rule ultra vires due to non - observance of rule - making authority and hence become void",
-      "It means the lacuna in the procedure of law",
-      "(a) and (b)"
-    ],
-    "correctAnswer": "D",
-    "subject": "Administrative Law"
-  },
-  {
     "id": "aibe15-q20",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2103,21 +1815,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Family Law"
-  },
-  {
-    "id": "aibe16-q20",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 20,
-    "question": "The ground of \" error of law apparent on the face of the record\" is connected with which of the writ?",
-    "options": [
-      "Quo - warranto",
-      "Mandamus",
-      "Habeas Corpus",
-      "Certiorari"
-    ],
-    "correctAnswer": "D",
-    "subject": "Constitutional Law"
   },
   {
     "id": "aibe15-q21",
@@ -2135,21 +1832,6 @@
     "subject": "Family Law"
   },
   {
-    "id": "aibe16-q21",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 21,
-    "question": "Under Civil Procedure Code find the incorrect match:",
-    "options": [
-      "Section 5... Revenue Court",
-      "Section 7............ Provincial Small Causes Court",
-      "Section 9............ Pecuniary Jurisdiction of Courts",
-      "Section 8............ Presidency Small Cause Courts"
-    ],
-    "correctAnswer": "C",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q22",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2163,22 +1845,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Civil Procedure"
-  },
-  {
-    "id": "aibe16-q22",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 22,
-    "subject": "Limitation Law",
-    "question": "What is the Period of Limitation for expeditious disposal of Suit under Specific Relief Act, 1963:",
-    "options": [
-      "6 months",
-      "10 months",
-      "12 months",
-      "18 months"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
   },
   {
     "id": "aibe15-q23",
@@ -2196,22 +1862,6 @@
     "subject": "Civil Procedure"
   },
   {
-    "id": "aibe16-q23",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 23,
-    "subject": "Criminal Law",
-    "question": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, a Chief Judicial Magistrate may pass a sentence of imprisonment:",
-    "options": [
-      "Not exceeding seven years",
-      "Exceeding seven years",
-      "For life",
-      "None of the above"
-    ],
-    "correctAnswer": "A",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q24",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2225,22 +1875,6 @@
       "All of the above"
     ],
     "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
-    "id": "aibe16-q24",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 24,
-    "subject": "Criminal Law",
-    "question": "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, if the offence be capital is dealt under:",
-    "options": [
-      "Section 252 of the Bharatiya Nyaya Sanhita (BNS), 2023",
-      "Section 253 of the Bharatiya Nyaya Sanhita (BNS), 2023",
-      "Section 254 of the Bharatiya Nyaya Sanhita (BNS), 2023",
-      "Section 255 of the Bharatiya Nyaya Sanhita (BNS), 2023"
-    ],
-    "correctAnswer": "B",
     "isModernized": true
   },
   {
@@ -2260,22 +1894,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q25",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 25,
-    "subject": "Criminal Law",
-    "question": "The maxim 'actus not facit reum nisi mens sit red' means",
-    "options": [
-      "There can be no crime without a guilty mind",
-      "Crime has to be coupled with guilty mind",
-      "Crime is the result of guilty mind",
-      "In crime intention is relevant, motive is irrelevant"
-    ],
-    "correctAnswer": "A",
-    "isModernized": false
-  },
-  {
     "id": "aibe15-q26",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2290,22 +1908,6 @@
     ],
     "correctAnswer": "B",
     "isModernized": true
-  },
-  {
-    "id": "aibe16-q26",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 26,
-    "subject": "Contract Law",
-    "question": "Law laid down under section - 73 of Indian Contract Act 1872 is related to which of the following cases:",
-    "options": [
-      "Hochster v. De la Tour",
-      "Robinson v. Davison",
-      "Hadley v. Baxendale",
-      "Dickinson v. Dodds"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
   },
   {
     "id": "aibe15-q27",
@@ -2323,21 +1925,6 @@
     "subject": "Environmental Law"
   },
   {
-    "id": "aibe16-q27",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 27,
-    "question": "Recovery of Specific Immovable Property may be obtained by C.P.C within what period",
-    "options": [
-      "Within 7 months",
-      "Within 6 months",
-      "Within 8 months",
-      "Within 10 months"
-    ],
-    "correctAnswer": "B",
-    "subject": "Contract Law"
-  },
-  {
     "id": "aibe15-q28",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2353,21 +1940,6 @@
     "subject": "Environmental Law"
   },
   {
-    "id": "aibe16-q28",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 28,
-    "question": "Who appoints the Commissioner for rehabilitation and resettlement under the LARR Act?",
-    "options": [
-      "LARR Authority",
-      "Minister of Environment and Forests",
-      "Central Government",
-      "State Government"
-    ],
-    "correctAnswer": "D",
-    "subject": "Property Law"
-  },
-  {
     "id": "aibe15-q29",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2381,22 +1953,6 @@
     ],
     "correctAnswer": "C",
     "subject": "Cyber Law"
-  },
-  {
-    "id": "aibe16-q29",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 29,
-    "subject": "Criminal Law",
-    "question": "The bond under Section 128 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (formerly Section 109 CrPC) as security for good behaviour from suspected persons can be executed for a period not exceeding:",
-    "options": [
-      "Six months",
-      "Two years",
-      "One year",
-      "Three months"
-    ],
-    "correctAnswer": "C",
-    "isModernized": true
   },
   {
     "id": "aibe15-q30",
@@ -2415,22 +1971,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q30",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 30,
-    "subject": "Family Law",
-    "question": "The maximum limit of Rs. 500 that could be paid to the wife as maintenance under Section 125 of the Cr.P.C 1973 (now corresponding to Section 144 of the BNSS, 2023) was removed in:",
-    "options": [
-      "1973",
-      "1989",
-      "2001",
-      "2007"
-    ],
-    "correctAnswer": "C",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q31",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2444,21 +1984,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Criminal Law"
-  },
-  {
-    "id": "aibe16-q31",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 31,
-    "question": "The term \"WIPO\" stands for:",
-    "options": [
-      "World Investment policy organization",
-      "World intellectual property organization",
-      "Wildlife Investigation and Policing organization",
-      "World institute for Prevention of organized crime"
-    ],
-    "correctAnswer": "B",
-    "subject": "Environmental Law"
   },
   {
     "id": "aibe15-q32",
@@ -2476,21 +2001,6 @@
     "subject": "Contract Law"
   },
   {
-    "id": "aibe16-q32",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 32,
-    "question": "Health and education cess is applicable to -",
-    "options": [
-      "All assesses",
-      "All assesses except company",
-      "Individual/HUF",
-      "Company only"
-    ],
-    "correctAnswer": "A",
-    "subject": "Tax Law"
-  },
-  {
     "id": "aibe15-q33",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2501,21 +2011,6 @@
       "Fraud",
       "Mistake of fact",
       "Mistake of law"
-    ],
-    "correctAnswer": "B",
-    "subject": "Contract Law"
-  },
-  {
-    "id": "aibe16-q33",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 33,
-    "question": "Contractual Liability arises, where:",
-    "options": [
-      "There is offer and acceptance only.",
-      "There is intention to create legal relation.",
-      "There is loss to one party",
-      "The loss of one party is the gain of other party"
     ],
     "correctAnswer": "B",
     "subject": "Contract Law"
@@ -2537,21 +2032,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q34",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 34,
-    "question": "Provisions of Section 10 of CPC are:",
-    "options": [
-      "Directory",
-      "Mandatory",
-      "None Mandatory",
-      "Discretionary"
-    ],
-    "correctAnswer": "A",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q35",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2566,21 +2046,6 @@
     ],
     "correctAnswer": "A",
     "isModernized": true
-  },
-  {
-    "id": "aibe16-q35",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 35,
-    "question": "Constructive res - judicata is contained in which of the following?",
-    "options": [
-      "Explanation III to Section 11",
-      "Explanation IV to Section 11",
-      "Explanation VI to Section 11",
-      "Explanation VIII to Section 11"
-    ],
-    "correctAnswer": "B",
-    "subject": "Civil Procedure"
   },
   {
     "id": "aibe15-q36",
@@ -2599,22 +2064,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q36",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 36,
-    "subject": "Constitutional Law",
-    "question": "The famous pronouncement of Delhi High Court regarding the constitutional validity of Section 377 of the Indian Penal Code (dealing with unnatural offences, which has been omitted in the BNS, 2023) was reversed by the Supreme Court in:",
-    "options": [
-      "NALSA Vs Union of India",
-      "Naz Foundation Vs Government of NCT of Delhi",
-      "Shabnam Hasmi Vs Union of India",
-      "Suresh Kaushal Vs Naz Foundation"
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q37",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2628,21 +2077,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe16-q37",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 37,
-    "question": "Reference to the Arbitration is provided in which section of the Arbitration and Conciliation Act, 1996",
-    "options": [
-      "Section 7",
-      "Section 8",
-      "Section 9",
-      "Section 10"
-    ],
-    "correctAnswer": "B",
-    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe15-q38",
@@ -2661,21 +2095,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q38",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 38,
-    "question": "Under the head subsequent conduct, which of the following type of conduct would be material?",
-    "options": [
-      "Change of life",
-      "Evasion of justice",
-      "Fear, trembling",
-      "All of them"
-    ],
-    "correctAnswer": "D",
-    "subject": "Evidence Law"
-  },
-  {
     "id": "aibe15-q39",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2690,21 +2109,6 @@
     ],
     "correctAnswer": "A",
     "isModernized": true
-  },
-  {
-    "id": "aibe16-q39",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 39,
-    "question": "Freedom of Residence under Article 19 of the Indian Constitution is available in which of the following clauses?",
-    "options": [
-      "Clause (1) (E)",
-      "Clause (1) (D)",
-      "Clause (1) (B)",
-      "Clause (1) (C)"
-    ],
-    "correctAnswer": "A",
-    "subject": "Constitutional Law"
   },
   {
     "id": "aibe15-q40",
@@ -2722,22 +2126,6 @@
     "subject": "Criminal Law"
   },
   {
-    "id": "aibe16-q40",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 40,
-    "subject": "Evidence Law",
-    "question": "Under which Section of the Bharatiya Sakshya Adhiniyam (BSA), 2023, admissions are defined?",
-    "options": [
-      "Section 15",
-      "Section 16",
-      "Section 17",
-      "Section 18"
-    ],
-    "correctAnswer": "A",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q41",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2751,21 +2139,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Civil Procedure"
-  },
-  {
-    "id": "aibe16-q41",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 41,
-    "question": "In which of the following cases the Supreme Court has held that the investigating officer should be allowed to refer to the records of investigation",
-    "options": [
-      "State of Karnataka Vs Yarappa Reddi",
-      "Mohammed Khalid Vs State of West Bengal",
-      "Baburam Vs State of U. P.",
-      "State of Rajasthan Vs Om prakash"
-    ],
-    "correctAnswer": "A",
-    "subject": "Evidence Law"
   },
   {
     "id": "aibe15-q42",
@@ -2783,21 +2156,6 @@
     "subject": "Intellectual Property"
   },
   {
-    "id": "aibe16-q42",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 42,
-    "question": "If a party who obtained an order for leave to amend pleading does not amend the same within how many days, he shall not be permitted to do that without the leave of the Court",
-    "options": [
-      "Fifteen days",
-      "Fourteen days",
-      "Twenty days",
-      "Thirty days"
-    ],
-    "correctAnswer": "B",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q43",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2811,21 +2169,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Intellectual Property"
-  },
-  {
-    "id": "aibe16-q43",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 43,
-    "question": "Punishment of advocates for misconduct has been given under section of the Advocate's Act – 1961",
-    "options": [
-      "30",
-      "32",
-      "35",
-      "None"
-    ],
-    "correctAnswer": "C",
-    "subject": "Criminal Law"
   },
   {
     "id": "aibe15-q44",
@@ -2843,22 +2186,6 @@
     "subject": "Constitutional Law"
   },
   {
-    "id": "aibe16-q44",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 44,
-    "subject": "Criminal Law",
-    "question": "Under which Section of the Bharatiya Nyaya Sanhita (BNS), 2023, Professional Negligence is specifically invoked against medical professionals in cases alleging professional negligence?",
-    "options": [
-      "Section 105",
-      "Section 106",
-      "Section 100",
-      "Section 107"
-    ],
-    "correctAnswer": "B",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q45",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2872,22 +2199,6 @@
     ],
     "correctAnswer": "D",
     "subject": "Cyber Law"
-  },
-  {
-    "id": "aibe16-q45",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 45,
-    "subject": "Criminal Law",
-    "question": "A offers to bribe B, a public servant, as a reward for showing A some favour in the exercise of B's official functions. B accepts the bribe. A has committed the offence of bribing a public servant under which Section of the Prevention of Corruption Act, 1988?",
-    "options": [
-      "Section 7",
-      "Section 8",
-      "Section 9",
-      "Section 10"
-    ],
-    "correctAnswer": "B",
-    "isModernized": true
   },
   {
     "id": "aibe15-q46",
@@ -2905,21 +2216,6 @@
     "subject": "Constitutional Law"
   },
   {
-    "id": "aibe16-q46",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 46,
-    "question": "When Perpetual Injunction may be granted -",
-    "options": [
-      "Where the defendant is trustee of the Property for the plaintiff",
-      "Where there is no standard for ascertaining the actual damage.",
-      "Compensation in money would not afford adequate relief.",
-      "All of the above"
-    ],
-    "correctAnswer": "D",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q47",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2933,21 +2229,6 @@
     ],
     "correctAnswer": "D",
     "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe16-q47",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 47,
-    "question": "An advocate is under an obligation to uphold the rule of law and ensure that the public justice system is enabled to function at its full potential. Any violation of the principle of professional ethic by an advocate is unfortunate and unacceptable. Ig noring even a minor violation/misconduct militates against the fundamental foundation of the public justice system. It was said in",
-    "options": [
-      "Hikmant ali khan Vs Ishwar Prasad Arya, (1997) 3 SCC 131",
-      "O. P. Sharma Vs high court of Punjab & Haryana, (2011) 6 SCC 86",
-      "L.D. Jaikwal Vs state of Uttar Pradesh, (1984) 3 SCC 405",
-      "Shamsher singh Bedi Vs High court of Punjab & Haryana, (1996) 7 SCC 99."
-    ],
-    "correctAnswer": "B",
-    "subject": "Administrative Law"
   },
   {
     "id": "aibe15-q48",
@@ -2965,21 +2246,6 @@
     "subject": "Constitutional Law"
   },
   {
-    "id": "aibe16-q48",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 48,
-    "question": "Section 8 of the Companies Act, 2013 contains provision relating to",
-    "options": [
-      "incorporation of company",
-      "formation of companies with charitable objects, etc",
-      "effect of registration",
-      "Effect of memorandum and articles."
-    ],
-    "correctAnswer": "B",
-    "subject": "Corporate Law"
-  },
-  {
     "id": "aibe15-q49",
     "exam": "AIBE 15",
     "year": 2021,
@@ -2993,21 +2259,6 @@
     ],
     "correctAnswer": "C",
     "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe16-q49",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 49,
-    "question": "The verification of the registered office shall be furnished to the registrar within a period of incorporation",
-    "options": [
-      "30 days",
-      "60 days",
-      "90 days",
-      "120 days"
-    ],
-    "correctAnswer": "A",
-    "subject": "Corporate Law"
   },
   {
     "id": "aibe15-q50",
@@ -3025,21 +2276,6 @@
     "subject": "Tax Law"
   },
   {
-    "id": "aibe16-q50",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 50,
-    "question": "Cyber law deals with",
-    "options": [
-      "All activities concerning the internet",
-      "IPR",
-      "E - commerce",
-      "All of the above"
-    ],
-    "correctAnswer": "D",
-    "subject": "Cyber Law"
-  },
-  {
     "id": "aibe15-q51",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3055,21 +2291,6 @@
     "subject": "Tax Law"
   },
   {
-    "id": "aibe16-q51",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 51,
-    "question": "The payment of compensation to railway employees by the railway administration for injury by accident is governed by:",
-    "options": [
-      "The Employees Compensation Act, 1923",
-      "The payment of Wages Act, 1936",
-      "Rights of Persons with Disabilities Act, 2016",
-      "The Workmen Compensation Act, 1986"
-    ],
-    "correctAnswer": "A",
-    "subject": "Labour Law"
-  },
-  {
     "id": "aibe15-q52",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3083,21 +2304,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Contract Law"
-  },
-  {
-    "id": "aibe16-q52",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 52,
-    "question": "The minimum amount of compensation payable under Employees Compensation Act, 1923 in case of total permanent disablement of a railway servant due to accident is Rs____.",
-    "options": [
-      "Rs 80,000/-",
-      "Rs 90,000/-",
-      "Rs 1,40,000",
-      "Rs 1,20,000/-"
-    ],
-    "correctAnswer": "C",
-    "subject": "Labour Law"
   },
   {
     "id": "aibe15-q53",
@@ -3116,21 +2322,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q53",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 53,
-    "question": "A company wishes to ensure that no one else can use their logo.",
-    "options": [
-      "Copy rights",
-      "Trade mark",
-      "Patent",
-      "Industrial designs"
-    ],
-    "correctAnswer": "B",
-    "subject": "Intellectual Property"
-  },
-  {
     "id": "aibe15-q54",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3144,21 +2335,6 @@
     ],
     "correctAnswer": "C",
     "subject": "Criminal Law"
-  },
-  {
-    "id": "aibe16-q54",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 54,
-    "question": "The Section of the Arbitration and Conciliation Act, dealing with the time of commencement of arbitral proceeding is",
-    "options": [
-      "Section 20",
-      "Section 21",
-      "Section 22",
-      "None of the above"
-    ],
-    "correctAnswer": "B",
-    "subject": "ADR & Arbitration"
   },
   {
     "id": "aibe15-q55",
@@ -3177,22 +2353,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q55",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 55,
-    "subject": "Criminal Law",
-    "question": "Under Section 173 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, who shall record the information of rape being given by a rape victim?",
-    "options": [
-      "Officer in charge of the police station",
-      "Deputy Superintendent of police",
-      "Officer not below the rank of Sub Inspector",
-      "Woman police officer or any Woman officer"
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q56",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3206,22 +2366,6 @@
     ],
     "correctAnswer": "C",
     "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe16-q56",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 56,
-    "subject": "Criminal Law",
-    "question": "Under the provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, which of the following is true regarding summons?",
-    "options": [
-      "Summons can be oral",
-      "Summons cannot be served on corporate entities",
-      "Summons are either for appearance or for producing a document/thing",
-      "Summons can be served to servants in case the person on whose name summons are made cannot be found"
-    ],
-    "correctAnswer": "C",
-    "isModernized": true
   },
   {
     "id": "aibe15-q57",
@@ -3239,21 +2383,6 @@
     "subject": "Law of Torts"
   },
   {
-    "id": "aibe16-q57",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 57,
-    "question": "Every person who is a member of a defence service or hold a any civil post under the Union, holds office during the pleasure of the",
-    "options": [
-      "Prime Minister",
-      "President",
-      "Council of Minister",
-      "Both (A) and (B)"
-    ],
-    "correctAnswer": "B",
-    "subject": "Constitutional Law"
-  },
-  {
     "id": "aibe15-q58",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3267,22 +2396,6 @@
     ],
     "correctAnswer": "C",
     "subject": "Contract Law"
-  },
-  {
-    "id": "aibe16-q58",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 58,
-    "subject": "Family Law",
-    "question": "Which of the following statement/statements is/are false for the purpose of the Hindu Marriage Act, 1955?\nI. It is assumed that a person who is not Muslim, Santhal, Christian, Jew or Parsi by religion is Hindu.\nII. A person who belongs to Lingayat sub sect is assumed to be Hindu.\nIII. A person who converted to another religion needs to follow local ritual/custom for converting back to Hinduism.",
-    "options": [
-      "I only",
-      "I and II",
-      "III only",
-      "I and III"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
   },
   {
     "id": "aibe15-q59",
@@ -3300,21 +2413,6 @@
     "subject": "Contract Law"
   },
   {
-    "id": "aibe16-q59",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 59,
-    "question": "Provision for settlement of dispute outside court has been provided under Section.......... of Civil Procedure Code",
-    "options": [
-      "91",
-      "89",
-      "51",
-      "151"
-    ],
-    "correctAnswer": "B",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q60",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3328,22 +2426,6 @@
     ],
     "correctAnswer": "D",
     "subject": "Property Law"
-  },
-  {
-    "id": "aibe16-q60",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 60,
-    "subject": "Evidence Law",
-    "question": "The Bharatiya Sakshya Adhiniyam (BSA), 2023 came into force on:",
-    "options": [
-      "1st June, 2024",
-      "26th January, 2024",
-      "15th August, 2024",
-      "1st July, 2024"
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
   },
   {
     "id": "aibe15-q61",
@@ -3361,22 +2443,6 @@
     "subject": "Property Law"
   },
   {
-    "id": "aibe16-q61",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 61,
-    "subject": "Constitutional Law",
-    "question": "According to the provisions of Article 315 of the Indian Constitution:\nI. There shall be a public service commission for the Union and a Public Service commission for each state.\nII. The public service commission for the Union, if requested to do by the governor of a state may, with the approval of the president, agree to serve all or any of the needs of the state. Which of the above statements is/are correct?",
-    "options": [
-      "Only I",
-      "Only II",
-      "I and II",
-      "None of them"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
-  },
-  {
     "id": "aibe15-q62",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3390,22 +2456,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Civil Procedure"
-  },
-  {
-    "id": "aibe16-q62",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 62,
-    "subject": "Criminal Law",
-    "question": "Under Section 40 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, any private person may arrest any person who:",
-    "options": [
-      "Commits non - bailable offence in his presence",
-      "Commits non - bailable offence and cognizable offence in his presence",
-      "Commits compoundable offence in his presence",
-      "Commits non - bailable and cognizable offence in his presence, or is a proclaimed offender"
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
   },
   {
     "id": "aibe15-q63",
@@ -3424,22 +2474,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q63",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 63,
-    "subject": "Criminal Law",
-    "question": "Under Section 72 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, how long a warrant of arrest shall remain in force?",
-    "options": [
-      "6 years",
-      "10 years",
-      "12 years",
-      "Until executed or cancelled"
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q64",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3453,21 +2487,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Legal Ethics"
-  },
-  {
-    "id": "aibe16-q64",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 64,
-    "question": "Rate of additional Depreciation will be ----- under section 32 Indian Income Tax Act",
-    "options": [
-      "10%",
-      "20%",
-      "15%",
-      "30%"
-    ],
-    "correctAnswer": "B",
-    "subject": "Tax Law"
   },
   {
     "id": "aibe15-q65",
@@ -3485,21 +2504,6 @@
     "subject": "Legal Ethics"
   },
   {
-    "id": "aibe16-q65",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 65,
-    "question": "Amount of deduction under section 24 of The Income Tax Act from annual value is –",
-    "options": [
-      "1/2 of Annual Value",
-      "1/3 of Annual Value",
-      "3/10 of Annual Value",
-      "17/10 of Annual Value"
-    ],
-    "correctAnswer": "C",
-    "subject": "Tax Law"
-  },
-  {
     "id": "aibe15-q66",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3513,21 +2517,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Corporate Law"
-  },
-  {
-    "id": "aibe16-q66",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 66,
-    "question": "The test of reasonableness is not wholly ......... test and its contours are Fairley indicated by constitution.",
-    "options": [
-      "Subjective",
-      "Objective",
-      "Descriptive",
-      "Summative"
-    ],
-    "correctAnswer": "A",
-    "subject": "Constitutional Law"
   },
   {
     "id": "aibe15-q67",
@@ -3545,21 +2534,6 @@
     "subject": "Corporate Law"
   },
   {
-    "id": "aibe16-q67",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 67,
-    "question": "The power to enact a law relating to the citizenship of India is left to ......... under the provisions of Article 11 of the Indian Constitution.",
-    "options": [
-      "President",
-      "Council of ministers",
-      "House of people",
-      "Parliament"
-    ],
-    "correctAnswer": "D",
-    "subject": "Constitutional Law"
-  },
-  {
     "id": "aibe15-q68",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3573,21 +2547,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe16-q68",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 68,
-    "question": "Promissory estoppel against Government agencies is decided in:",
-    "options": [
-      "Tweedle Vs Atkinson",
-      "Dutton Vs Poole",
-      "Pournami all Mills Vs State of Kerala",
-      "Kedar Nath Vs Gauri Mohamad"
-    ],
-    "correctAnswer": "C",
-    "subject": "Evidence Law"
   },
   {
     "id": "aibe15-q69",
@@ -3605,21 +2564,6 @@
     "subject": "Administrative Law"
   },
   {
-    "id": "aibe16-q69",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 69,
-    "question": "Frustration of contract is provided by which section of the India contract Act?",
-    "options": [
-      "Sec. 73",
-      "Sec. 70",
-      "Sec. 2 (d)",
-      "Sec. 56"
-    ],
-    "correctAnswer": "D",
-    "subject": "Contract Law"
-  },
-  {
     "id": "aibe15-q70",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3633,22 +2577,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Constitutional Law"
-  },
-  {
-    "id": "aibe16-q70",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 70,
-    "subject": "Labour Law",
-    "question": "Schedule II of the Employees Compensation Act 1923 deals with",
-    "options": [
-      "Age factor for calculating the amount of compensation",
-      "List of persons who are included in the definition of 'Employee'",
-      "List of occupational diseases",
-      "List of injuries Deemed to Result in Permanent Total Disablement"
-    ],
-    "correctAnswer": "B",
-    "isModernized": false
   },
   {
     "id": "aibe15-q71",
@@ -3666,21 +2594,6 @@
     "subject": "Constitutional Law"
   },
   {
-    "id": "aibe16-q71",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 71,
-    "question": "Admission can be broadly categorised into :",
-    "options": [
-      "Judicial",
-      "Extra - judicial",
-      "Either A and B",
-      "Both A and B"
-    ],
-    "correctAnswer": "D",
-    "subject": "Evidence Law"
-  },
-  {
     "id": "aibe15-q72",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3696,22 +2609,6 @@
     "subject": "Tax Law"
   },
   {
-    "id": "aibe16-q72",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 72,
-    "subject": "Evidence Law",
-    "question": "Section 64 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 lays down:",
-    "options": [
-      "A notice must be given before secondary evidence can be received under Section 60(a) of the BSA, 2023",
-      "Notice to produce a document must be in writing",
-      "Order XI, Rule 15 of the Civil Procedure Code, 1908 prescribes the kind of notice to produce a document",
-      "All of them"
-    ],
-    "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q73",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3725,21 +2622,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Tax Law"
-  },
-  {
-    "id": "aibe16-q73",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 73,
-    "question": "Maxim \"Res Ipsa Loquitur\" means: -",
-    "options": [
-      "The thing speaks for itself",
-      "Where there is right there is remedy",
-      "Where there is remedy there is right",
-      "Where there is no fault there is no remedy"
-    ],
-    "correctAnswer": "A",
-    "subject": "Law of Torts"
   },
   {
     "id": "aibe15-q74",
@@ -3758,21 +2640,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q74",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 74,
-    "question": "The Committee which led to the passing of the Criminal Law (Amendment) Act, 2013 was headed by",
-    "options": [
-      "Justice Dalveer Bhandari",
-      "Justice Altamas Kabir",
-      "Justice J.S Verma",
-      "Justice A.S. Anand"
-    ],
-    "correctAnswer": "C",
-    "subject": "Criminal Law"
-  },
-  {
     "id": "aibe15-q75",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3786,22 +2653,6 @@
       "Proof of guilt."
     ],
     "correctAnswer": "C",
-    "isModernized": true
-  },
-  {
-    "id": "aibe16-q75",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 75,
-    "subject": "Criminal Law",
-    "question": "Under the scheme of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, non-cognizable offences are:",
-    "options": [
-      "Public wrongs",
-      "Private wrongs",
-      "Both public and private wrongs",
-      "None of the above"
-    ],
-    "correctAnswer": "B",
     "isModernized": true
   },
   {
@@ -3821,21 +2672,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q76",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 76,
-    "question": "A discrimination against a man or a woman, only on grounds of ............ would be violative of Article 15 (1)",
-    "options": [
-      "Sex",
-      "Remuneration",
-      "Place of birth",
-      "Religion"
-    ],
-    "correctAnswer": "A",
-    "subject": "Constitutional Law"
-  },
-  {
     "id": "aibe15-q77",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3849,21 +2685,6 @@
     ],
     "correctAnswer": "D",
     "subject": "Criminal Law"
-  },
-  {
-    "id": "aibe16-q77",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 77,
-    "question": "The \"Objective Resolution\" adopted by the constituent assembly on January 22, 1947 was drafted by whom",
-    "options": [
-      "Jawaharlal Nehru",
-      "Dr. BR Ambedkar",
-      "Dr. Rajendra Prasad",
-      "B.N. Rao"
-    ],
-    "correctAnswer": "A",
-    "subject": "Constitutional Law"
   },
   {
     "id": "aibe15-q78",
@@ -3882,21 +2703,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q78",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 78,
-    "question": "Right to the property was eliminated from the list of Fundamental Rights during the tenure of",
-    "options": [
-      "Indira Gandhi",
-      "Charan Singh",
-      "Rajiv Gandhi",
-      "Morarji Desai"
-    ],
-    "correctAnswer": "D",
-    "subject": "Constitutional Law"
-  },
-  {
     "id": "aibe15-q79",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3910,22 +2716,6 @@
       "All of the above"
     ],
     "correctAnswer": "D",
-    "isModernized": true
-  },
-  {
-    "id": "aibe16-q79",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 79,
-    "subject": "Evidence Law",
-    "question": "When the accused states, \"I will produce the share which I received in such and such robbery\", which of the following are not admissible with regard to Section 23 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 (excluding its proviso)?\nI. An admission that there was a robbery\nII. An admission that the accused took part in it\nIII. An admission that he got part of the property\nIV. A statement as to where the property is",
-    "options": [
-      "I, II and III",
-      "III and IV",
-      "II, III and IV",
-      "All of above"
-    ],
-    "correctAnswer": "A",
     "isModernized": true
   },
   {
@@ -3944,21 +2734,6 @@
     "subject": "Civil Procedure"
   },
   {
-    "id": "aibe16-q80",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 80,
-    "question": "The rule of Strict Liability is based on the decision in:",
-    "options": [
-      "Donoghue Vs Stevenson",
-      "Homes Vs Ashford",
-      "Rylands Vs Fletcher",
-      "None of the above"
-    ],
-    "correctAnswer": "C",
-    "subject": "Law of Torts"
-  },
-  {
     "id": "aibe15-q81",
     "exam": "AIBE 15",
     "year": 2021,
@@ -3972,21 +2747,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Civil Procedure"
-  },
-  {
-    "id": "aibe16-q81",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 81,
-    "question": "The Rule of Last opportunity was Laid down in: -",
-    "options": [
-      "Davies Vs Manh",
-      "State of A.P. Vs Ranganna",
-      "Nugent vs Smith.",
-      "Kalawati Vs state of HP"
-    ],
-    "correctAnswer": "A",
-    "subject": "Law of Torts"
   },
   {
     "id": "aibe15-q82",
@@ -4004,21 +2764,6 @@
     "subject": "Civil Procedure"
   },
   {
-    "id": "aibe16-q82",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 82,
-    "question": "In which of the following case was it held that \"the rights conferred under section 25 of the Hindu Adoption and Maintenance Act, 1956 supersedes any contract to the contrary. The fact that the date of decree makes no difference\"?",
-    "options": [
-      "Surenderabal vs Suppiah",
-      "Mukesh teli Vs Bharti Teli",
-      "Sesi Ammal vs Thaiyu Ammal",
-      "Laxmi Vs Krishna"
-    ],
-    "correctAnswer": "C",
-    "subject": "Family Law"
-  },
-  {
     "id": "aibe15-q83",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4032,21 +2777,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Law of Torts"
-  },
-  {
-    "id": "aibe16-q83",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 83,
-    "question": "A plaint has to be presented to the Court under Order IV, Rule 1 in",
-    "options": [
-      "Single copy",
-      "Duplicate",
-      "Triplicate",
-      "No fixed rule"
-    ],
-    "correctAnswer": "B",
-    "subject": "Civil Procedure"
   },
   {
     "id": "aibe15-q84",
@@ -4064,21 +2794,6 @@
     "subject": "Law of Torts"
   },
   {
-    "id": "aibe16-q84",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 84,
-    "question": "Omission to give notice under Order XXI. Rule 22 will",
-    "options": [
-      "Render the execution null and void",
-      "Render the execution irregular",
-      "Render the execution voidable",
-      "Not affect the execution"
-    ],
-    "correctAnswer": "A",
-    "subject": "Civil Procedure"
-  },
-  {
     "id": "aibe15-q85",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4092,21 +2807,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Law of Torts"
-  },
-  {
-    "id": "aibe16-q85",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 85,
-    "question": "Where a decree is passed against the Union of India or State for the Act done in the official capacity of the person concerned, under section. 82 CPC, execution, shall not be issued on any such decree unless the decree remains unsatisfied for a period of",
-    "options": [
-      "3 months from the date of decree",
-      "6 months from the date of the decree",
-      "1 year from the date of the decree",
-      "2 years from the date of decree"
-    ],
-    "correctAnswer": "A",
-    "subject": "Civil Procedure"
   },
   {
     "id": "aibe15-q86",
@@ -4124,21 +2824,6 @@
     "subject": "Environmental Law"
   },
   {
-    "id": "aibe16-q86",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 86,
-    "question": "On which of the following dates did Hindu Marriage Act, 1955 come into operation?",
-    "options": [
-      "18th May, 1955",
-      "17th June, 1955",
-      "22nd May, 1955",
-      "18th June, 1955"
-    ],
-    "correctAnswer": "A",
-    "subject": "Family Law"
-  },
-  {
     "id": "aibe15-q87",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4154,22 +2839,6 @@
     "subject": "Administrative Law"
   },
   {
-    "id": "aibe16-q87",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 87,
-    "subject": "Family Law",
-    "question": "Which of the following properties will section 30 of the Hindu Succession Act, 1956, govern?\nI. Tarwad\nII. Tavazhi\nIII. Kutumba\nIV. Kavaru\nV. Illom",
-    "options": [
-      "I, III, and V",
-      "II, IV and V",
-      "I and II",
-      "All of the above"
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
     "id": "aibe15-q88",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4183,21 +2852,6 @@
     ],
     "correctAnswer": "D",
     "subject": "Administrative Law"
-  },
-  {
-    "id": "aibe16-q88",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 88,
-    "question": "The maximum limit of the members of the state bar council:",
-    "options": [
-      "15",
-      "20",
-      "25",
-      "None"
-    ],
-    "correctAnswer": "C",
-    "subject": "Legal Ethics"
   },
   {
     "id": "aibe15-q89",
@@ -4216,22 +2870,6 @@
     "isModernized": false
   },
   {
-    "id": "aibe16-q89",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 89,
-    "subject": "Contract Law",
-    "question": "Specific Relief Act, 1963 contains:",
-    "options": [
-      "6 chapters and 40 Sections",
-      "7 chapters and 42 Sections",
-      "8 chapters and 43 Sections",
-      "8 chapters and 44 Sections"
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
     "id": "aibe15-q90",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4245,22 +2883,6 @@
     ],
     "correctAnswer": "B",
     "subject": "Civil Procedure"
-  },
-  {
-    "id": "aibe16-q90",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 90,
-    "subject": "Constitutional Law",
-    "question": "The phrase \"file a PIL, ostensibly in public interest but, in fact, to serve personal or private interests\" means:",
-    "options": [
-      "filing PIL for protection of only public interest",
-      "filing PIL for protection of both public and private interest",
-      "filing PIL for protection of only private interest",
-      "filing PIL alleging it to be in public interest but actually seeking protection of private interest"
-    ],
-    "correctAnswer": "C",
-    "isModernized": false
   },
   {
     "id": "aibe15-q91",
@@ -4278,22 +2900,6 @@
     "subject": "Civil Procedure"
   },
   {
-    "id": "aibe16-q91",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 91,
-    "subject": "Constitutional Law",
-    "question": "Filing of frivolous PILs results in:",
-    "options": [
-      "increasing backlog of cases",
-      "wastage of resources",
-      "lesser availability of time for hearing other genuine cases",
-      "All of the above"
-    ],
-    "correctAnswer": "D",
-    "isModernized": false
-  },
-  {
     "id": "aibe15-q92",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4307,22 +2913,6 @@
     ],
     "correctAnswer": "C",
     "subject": "Labour Law"
-  },
-  {
-    "id": "aibe16-q92",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 92,
-    "subject": "Criminal Law",
-    "question": "Z, under the influence of madness, attempts to kill X. Is Z guilty of an offence? Has X the same right of private defence which he would have if Z were sane?",
-    "options": [
-      "Z has not committed any offence as per Section 36 of BNS, and X has the same right of private defence",
-      "As per Section 36 of BNS, X has committed an offence and has no right of private defence",
-      "Z has committed an offence for not using his mind",
-      "None of the above"
-    ],
-    "correctAnswer": "A",
-    "isModernized": true
   },
   {
     "id": "aibe15-q93",
@@ -4340,21 +2930,6 @@
     "subject": "Labour Law"
   },
   {
-    "id": "aibe16-q93",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 93,
-    "question": "Protection against arrest and detention in certain cases is mentioned in which of the following Articles of Indian Constitution?",
-    "options": [
-      "Article 21",
-      "Article 21A",
-      "Article 22",
-      "Article 22A"
-    ],
-    "correctAnswer": "C",
-    "subject": "Constitutional Law"
-  },
-  {
     "id": "aibe15-q94",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4368,21 +2943,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Consumer Law"
-  },
-  {
-    "id": "aibe16-q94",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 94,
-    "question": "Article 300A of Indian Constitution i.e. Right to property has been inserted in the Constitution by .......",
-    "options": [
-      "44th Amendment Act",
-      "42nd Amendment Act",
-      "40th Amendment Act",
-      "51st Amendment Act"
-    ],
-    "correctAnswer": "A",
-    "subject": "Constitutional Law"
   },
   {
     "id": "aibe15-q95",
@@ -4401,21 +2961,6 @@
     "isModernized": true
   },
   {
-    "id": "aibe16-q95",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 95,
-    "question": "Which of the following sections of the Muslim Personal Law (Shariat ) Application Act, 1937 have been repealed/amended by section 6 of the Dissolution of Muslim Marriage Act, 1939?",
-    "options": [
-      "Section 4",
-      "Section 5",
-      "Section 6",
-      "Section 7"
-    ],
-    "correctAnswer": "B",
-    "subject": "Family Law"
-  },
-  {
     "id": "aibe15-q96",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4429,22 +2974,6 @@
       "21 years"
     ],
     "correctAnswer": "B",
-    "isModernized": true
-  },
-  {
-    "id": "aibe16-q96",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 96,
-    "subject": "Criminal Law",
-    "question": "As per Section 2(14) of the Bharatiya Nyaya Sanhita (BNS), 2023, the word \"injury\" denotes any harm whatever illegally caused to any person's:",
-    "options": [
-      "Body",
-      "Mind",
-      "Reputation",
-      "All above"
-    ],
-    "correctAnswer": "D",
     "isModernized": true
   },
   {
@@ -4463,22 +2992,6 @@
     "subject": "Criminal Law"
   },
   {
-    "id": "aibe16-q97",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 97,
-    "subject": "Criminal Law",
-    "question": "Which of the following cases can be cured under Section 511 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (formerly Section 465 of CrPC)?",
-    "options": [
-      "Entertaining of complaint without complying with Section 215 and 379 of the BNSS (formerly Sections 195 and 340 of the Cr.P.C)",
-      "The reading and recording of the evidence taken in one case into another companion case",
-      "The examination of witness in absence of the accused",
-      "Non-compliance with Section 258(2) of the BNSS (formerly Section 235(2) of the Cr.P.C)"
-    ],
-    "correctAnswer": "B",
-    "isModernized": true
-  },
-  {
     "id": "aibe15-q98",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4492,22 +3005,6 @@
     ],
     "correctAnswer": "A",
     "subject": "Family Law"
-  },
-  {
-    "id": "aibe16-q98",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 98,
-    "subject": "Criminal Law",
-    "question": "Which of the following statements hold true for de novo trials?",
-    "options": [
-      "Omission or illegality in the procedure even if it does not affect the core of the case can become a ground for calling de novo trials",
-      "A de novo trial should be the last resort",
-      "the court originally trying the case can order de novo trial",
-      "None of these"
-    ],
-    "correctAnswer": "B",
-    "isModernized": false
   },
   {
     "id": "aibe15-q99",
@@ -4525,21 +3022,6 @@
     "subject": "Family Law"
   },
   {
-    "id": "aibe16-q99",
-    "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 99,
-    "question": "In case of land acquisition by the Central Government for public - private partnership projects, consent of how many affected families is mandated by the LARR Act?",
-    "options": [
-      "60%",
-      "70%",
-      "80%",
-      "90%"
-    ],
-    "correctAnswer": "B",
-    "subject": "Property Law"
-  },
-  {
     "id": "aibe15-q100",
     "exam": "AIBE 15",
     "year": 2021,
@@ -4555,10 +3037,172 @@
     "subject": "Family Law"
   },
   {
-    "id": "aibe16-q100",
+    "id": "aibe16-q1",
     "exam": "AIBE 16",
-    "year": 2021,
-    "questionNumber": 100,
+    "year": 2022,
+    "questionNumber": 1,
+    "subject": "Constitutional Law",
+    "question": "How many kinds of presumptions are there as classified by the Supreme Court?",
+    "options": [
+      "Permissive presumptions or presumptions of facts",
+      "Compelling presumptions or presumptions of law (rebuttable presumptions)",
+      "Irrebuttable presumptions of law or conclusive presumptions",
+      "All of them"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Presumptions. Presumptions are legal inferences that the law mandates or permits a court to draw from particular facts. The Supreme Court classifies presumptions into three main types based on their nature and effect in law. Step 2: Classification. (1) Permissive presumptions (of fact): These are inferences that the court may or may not draw based on circumstances. (2) Rebuttable presumptions (of law): These are presumptions that the law requires to be drawn unless rebutted by contrary evidence. (3) Irrebuttable presumptions (conclusive presumptions): These are fixed rules of law that cannot be contradicted by any evidence. Step 3: Conclusion. Since all the above types are recognized by the Supreme Court, the correct answer is (D) All of them.",
+    "quickTip": "Presumptions are key aids in judicial reasoning — some can be challenged (rebuttable), while others are absolute (conclusive)."
+  },
+  {
+    "id": "aibe16-q2",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 2,
+    "subject": "Constitutional Law",
+    "question": "What is the leading decision in the case of Menaka Gandhi Vs Union of India?",
+    "options": [
+      "Right of hearing",
+      "Separation of powers",
+      "Delegated legislation",
+      "Rule of evidence"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Background of the Case. The Menaka Gandhi vs Union of India (1978) case is one of the most landmark constitutional cases in Indian jurisprudence. It expanded the interpretation of Article 21 of the Constitution. Step 2: Key Legal Principle. The Supreme Court held that the ‘right to life and personal liberty’ under Article 21 cannot be deprived except according to a procedure that is ‘just, fair, and reasonable’. This also implies the right to be heard before any decision affecting personal liberty. Step 3: Conclusion. Thus, the case established the importance of the right of hearing as an essential element of natural justice.",
+    "quickTip": "Remember: Menaka Gandhi’s case transformed Article 21 into a broad guarantee of fair procedure and due process of law."
+  },
+  {
+    "id": "aibe16-q3",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 3,
+    "subject": "Constitutional Law",
+    "question": "Advocate’s Act 1961 came into force on:",
+    "options": [
+      "19th May, 1961",
+      "19th April, 1961",
+      "1st May, 1961",
+      "19th January, 1961"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: About the Advocate’s Act, 1961. The Advocates Act, 1961 was enacted to consolidate the law relating to legal practitioners and to provide for the constitution of Bar Councils and an All India Bar. Step 2: Enforcement. The Act was passed by Parliament and received the President’s assent on 19th May 1961, which is the date on which it came into force. Step 3: Conclusion. Hence, the correct answer is (A) 19th May, 1961 .",
+    "quickTip": "Always remember – 19th May 1961 marks the birth of the unified legal profession under the Advocates Act in India."
+  },
+  {
+    "id": "aibe16-q4",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 4,
+    "subject": "Criminal Law",
+    "question": "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, if the offence be capital, is dealt under:",
+    "options": [
+      "Section 215 of IPC",
+      "Section 216 of IPC",
+      "Section 217 of IPC",
+      "Section 218 of IPC"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the provision. Section 216 of the Indian Penal Code (IPC) deals with the offence of harbouring an offender. It applies when someone intentionally assists an offender to evade arrest or punishment. Step 2: Capital offence clause. If the offence committed by the person harboured is punishable with death (a capital offence), the punishment for the harbourer is more severe under Section 216 IPC. Step 3: Conclusion. Therefore, harbouring an offender in such a case falls under Section 216 of IPC .",
+    "quickTip": "Remember: Section 216 IPC deals with harbouring an offender, and punishment depends on the nature of the main offence."
+  },
+  {
+    "id": "aibe16-q5",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 5,
+    "subject": "Miscellaneous",
+    "question": "The maxim ‘actus non facit reum nisi mens sit rea’ means:",
+    "options": [
+      "There can be no crime without a guilty mind",
+      "Crime has to be coupled with guilty mind",
+      "Crime is the result of guilty mind",
+      "In crime intention is relevant, motive is irrelevant"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Maxim. The Latin maxim ‘actus non facit reum nisi mens sit rea’ translates to “an act does not make a person guilty unless the mind is also guilty.” Step 2: Legal Implication. It means that to constitute a crime, both the physical act (actus reus) and the guilty mind (mens rea) must coexist. Without a culpable mental state, no person can be held criminally liable. Step 3: Conclusion. Hence, the correct meaning is (A) There can be no crime without a guilty mind.",
+    "quickTip": "Always remember: Actus reus + Mens rea = Crime. Both intent and act are essential for criminal liability."
+  },
+  {
+    "id": "aibe16-q6",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 6,
+    "subject": "Contract Law",
+    "question": "Law laid down under Section 73 of the Indian Contract Act, 1872 is related to which of the following cases?",
+    "options": [
+      "Hothester Vs De-la-tur",
+      "Rabinson Vs Devison",
+      "Hedley Vs Baxendal",
+      "Dikinson Vs Dads"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 73 of the Indian Contract Act, 1872. Section 73 deals with compensation for loss or damage caused by breach of contract . It provides that when a contract is broken, the party who suffers such breach is entitled to receive compensation for any loss or damage which naturally arose in the usual course of things, or which the parties knew to be likely at the time of the contract. Step 2: Connecting with Case Law. The principle of Section 73 is based on the English case Hadley Vs Baxendale (1854) . In this case, the Court established that compensation for breach of contract should be limited to losses that are reasonably foreseeable. Step 3: Conclusion. Thus, the law under Section 73 corresponds to the principle laid down in Hadley Vs Baxendale , making option (C) correct.",
+    "quickTip": "Section 73 emphasizes foreseeability of damages — only losses that naturally arise or are contemplated at the time of the contract are compensable."
+  },
+  {
+    "id": "aibe16-q7",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 7,
+    "subject": "Family Law",
+    "question": "The Hindu Marriage Act, 1955 ........... petition in which a decree of restitution of conjugal rights has been passed to apply to the court for a decree for divorce by showing that there has been no restitution of conjugal rights as between parties of marriage for a period of one year or upwards after passing of the decree.",
+    "options": [
+      "Does not permit any party to that",
+      "Does not permit the party against whom the",
+      "Does permit any party to that",
+      "Does permit any person related to either party to that"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Provision. Under Section 13(1A) of the Hindu Marriage Act, 1955, if a decree for restitution of conjugal rights has been passed, and there has been no resumption of cohabitation between the parties for at least one year after the passing of the decree, either party can file for divorce. Step 2: Legal Interpretation. The provision clearly allows any party to the marriage —whether the decree was passed in their favour or against them—to seek divorce if conjugal rights have not been restored within one year. Step 3: Conclusion. Therefore, the correct answer is (C) Does permit any party to that , as the law grants equal rights to both spouses to file for divorce under such circumstances.",
+    "quickTip": "Section 13(1A) gives both parties equal rights to seek divorce if restitution of conjugal rights is not fulfilled within one year of the decree."
+  },
+  {
+    "id": "aibe16-q8",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 8,
+    "subject": "Criminal Law",
+    "question": "The offences under the Prohibition of Child Marriage Act, 2006 are:",
+    "options": [
+      "Cognizable and bailable",
+      "Non-cognizable and non-bailable",
+      "Cognizable and non-bailable",
+      "Non-cognizable and bailable"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the law. The Prohibition of Child Marriage Act, 2006 was enacted to prevent child marriages and protect the rights of minors. The Act treats the solemnization of child marriage as a serious offence. Step 2: Classification of offences. Under Section 15 of the Act, offences are made cognizable and non-bailable . This means police can arrest without a warrant, and bail is not a matter of right. Step 3: Conclusion. Hence, offences under this Act are cognizable and non-bailable , making option (C) correct.",
+    "quickTip": "Remember: Cognizable offences allow police to arrest without warrant; non-bailable means bail is discretionary."
+  },
+  {
+    "id": "aibe16-q9",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 9,
+    "subject": "Contract Law",
+    "question": "In case of land acquisition by the Central Government for public-private partnership projects, consent of how many affected families is mandated by the LARR Act?",
+    "options": [
+      "60%",
+      "70%",
+      "80%",
+      "90%"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the LARR Act. The Land Acquisition, Rehabilitation, and Resettlement (LARR) Act, 2013 ensures fair compensation and consent in land acquisition for developmental projects. Step 2: Consent requirement for PPP projects. Under Section 2(2)(b) of the Act, for public-private partnership (PPP) projects, consent of at least 70% of affected families is required before acquisition can proceed. Step 3: Conclusion. Thus, the correct answer is (B) 70% .",
+    "quickTip": "Remember: 70% consent for PPP projects and 80% for private projects under the LARR Act."
+  },
+  {
+    "id": "aibe16-q10",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 10,
     "subject": "Tax Law",
     "question": "A company which is not a domestic company will pay income tax at the rate of:",
     "options": [
@@ -4568,7 +3212,1629 @@
       "20%"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding taxation of foreign companies. Under the Income Tax Act, 1961, companies are categorized as domestic and non-domestic (foreign). The tax rates vary for each category. Step 2: Applicable rate. For a non-domestic company, the income tax rate is 40% on income earned in India, excluding surcharge and cess. Step 3: Conclusion. Thus, the correct answer is (C) 40% .",
+    "quickTip": "Domestic companies are taxed at lower rates, while foreign companies are subject to a 40% base tax under Indian law."
+  },
+  {
+    "id": "aibe16-q11",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 11,
+    "subject": "Criminal Law",
+    "question": "As per Section 53 of IPC, the word “injury” denotes any harm whatever illegally caused to any person’s:",
+    "options": [
+      "Body",
+      "Mind",
+      "Reputation",
+      "All above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding “injury” under IPC. Section 44 of the Indian Penal Code defines “injury” as any harm caused illegally to any person’s body, mind, reputation, or property. Step 2: Explanation. Thus, “injury” covers all forms of harm — physical, mental, and reputational — provided they are caused unlawfully. Step 3: Conclusion. Hence, the correct answer is (D) All above .",
+    "quickTip": "“Injury” under IPC is a broad term covering harm to body, mind, and reputation."
+  },
+  {
+    "id": "aibe16-q12",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 12,
+    "subject": "Criminal Law",
+    "question": "Which of the following cases can be cured under Section 465 of the Code of Criminal Procedure, 1973?",
+    "options": [
+      "Entertaining of complaint without complying with Section 195 and 340 of the Cr.P.C.",
+      "The reading and recording of the evidence taken in one case into another companion case",
+      "The examination of witness in absence of the accused",
+      "Non-compliance with 235(2)"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 465 Cr.P.C. Section 465 Cr.P.C. states that no finding, sentence, or order shall be reversed or altered by an appellate or revisional court on account of any error, omission, or irregularity unless a failure of justice has occurred. Step 2: Case context. Minor procedural irregularities, such as the reading or recording of evidence from one companion case into another, are curable defects under this section. Step 3: Conclusion. Hence, the correct answer is (B) .",
+    "quickTip": "Section 465 Cr.P.C. cures procedural defects that do not cause a miscarriage of justice."
+  },
+  {
+    "id": "aibe16-q13",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 13,
+    "subject": "Civil Procedure",
+    "question": "Which of the following statements hold true for de novo trials?",
+    "options": [
+      "Omission or illegality in the procedure even if it does not affect the core of the case can become a ground for calling de novo trials",
+      "A de novo trial should be the last resort",
+      "The court originally trying the case can order de novo trial",
+      "None of these"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept of de novo trial. A de novo trial means a “fresh trial.” It is ordered when the previous proceedings are found to be fundamentally defective and cannot ensure justice. Step 2: Legal interpretation. The judiciary has held that ordering a de novo trial should be done cautiously and only as a last resort , because it causes delay and restarts the entire process. Minor procedural irregularities do not justify a de novo trial. Step 3: Conclusion. Therefore, the correct statement is (B) A de novo trial should be the last resort .",
+    "quickTip": "A de novo trial is ordered only when there is a serious miscarriage of justice in the original trial."
+  },
+  {
+    "id": "aibe16-q14",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 14,
+    "subject": "Constitutional Law",
+    "question": "Protection against arrest and detention in certain cases is mentioned in which of the following Articles of Indian Constitution?",
+    "options": [
+      "Article 21",
+      "Article 21A",
+      "Article 22",
+      "Article 22A"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Article 22. Article 22 of the Indian Constitution provides specific rights related to protection against arrest and detention. It covers both preventive and punitive detention. Step 2: Key provisions. - Article 22(1) and (2) deal with the rights of individuals who are arrested under ordinary law (such as the right to be informed of grounds of arrest and the right to legal counsel). - Article 22(3)–(7) deal with preventive detention and the safeguards available to detainees. Step 3: Conclusion. Hence, the correct answer is (C) Article 22 .",
+    "quickTip": "Remember: Article 22 = Protection against arrest and preventive detention; Article 21 = Protection of life and liberty."
+  },
+  {
+    "id": "aibe16-q15",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 15,
+    "subject": "Constitutional Law",
+    "question": "Article 300A of the Indian Constitution, i.e., Right to Property, has been inserted in the Constitution by:",
+    "options": [
+      "44th Amendment Act",
+      "42nd Amendment Act",
+      "40th Amendment Act",
+      "51st Amendment Act"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Historical background. Initially, the Right to Property was a Fundamental Right under Article 19(1)(f) and Article 31 of the Constitution. However, due to conflicts between individual rights and the State’s power to acquire property, it was removed from Part III. Step 2: Constitutional change. The 44th Constitutional Amendment Act, 1978, deleted Articles 19(1)(f) and 31, and inserted Article 300A under Part XII, making the Right to Property a legal right instead of a Fundamental Right. Step 3: Conclusion. Therefore, Article 300A was introduced by the 44th Amendment Act .",
+    "quickTip": "Remember: The 44th Amendment Act converted the Right to Property from a Fundamental Right to a Constitutional Right under Article 300A."
+  },
+  {
+    "id": "aibe16-q16",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 16,
+    "subject": "Constitutional Law",
+    "question": "Which of the following sections of the Muslim Personal Law (Shariat) Application Act, 1937 have been repealed/amended by Section 6 of the Dissolution of Muslim Marriage Act, 1939?",
+    "options": [
+      "Section 4",
+      "Section 5",
+      "Section 6",
+      "Section 7"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Acts. The Muslim Personal Law (Shariat) Application Act, 1937 aimed to make Muslim personal law applicable in matters such as marriage, dissolution, and inheritance. However, certain procedural aspects were modified later by the Dissolution of Muslim Marriage Act, 1939. Step 2: Repeal/Amendment under Section 6. Section 6 of the Dissolution of Muslim Marriage Act, 1939 repealed Section 5 of the 1937 Act. This amendment ensured that Muslim women could seek judicial separation based on grounds recognized under Islamic law. Step 3: Conclusion. Hence, Section 5 of the Muslim Personal Law (Shariat) Application Act, 1937 was repealed by Section 6 of the Dissolution of Muslim Marriage Act, 1939.",
+    "quickTip": "Remember: Section 6 of the 1939 Act specifically repealed Section 5 of the 1937 Act, simplifying the application of Muslim personal law regarding marriage dissolution."
+  },
+  {
+    "id": "aibe16-q17",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 17,
+    "subject": "Labour Law",
+    "question": "A Railway servant was killed in a bus accident during the course of employment. His family members may claim compensation under:",
+    "options": [
+      "The Motor Vehicle Act",
+      "The Employees Compensation Act, 1923",
+      "Both (A) and (B)",
+      "Either under (A) OR under (B)"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the context. When an employee dies due to an accident occurring in the course of employment, compensation may be claimed under relevant statutes depending on the nature of the accident. Step 2: Legal interpretation. The family of the deceased may either claim compensation under the Motor Vehicles Act, 1988 (if the accident involved a motor vehicle), or under the Employees Compensation Act, 1923 (if the accident occurred during the course of employment). However, double compensation is not allowed. Step 3: Conclusion. Thus, compensation can be claimed either under (A) or under (B) , making option (D) correct.",
+    "quickTip": "In cases of employment-related motor accidents, the claimant must choose between the Motor Vehicles Act and the Employees Compensation Act — not both."
+  },
+  {
+    "id": "aibe16-q18",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 18,
+    "subject": "Criminal Law",
+    "question": "“Casting Couch” in Bollywood, the Indian film industry, is an example of:",
+    "options": [
+      "Sexual assault",
+      "Sexual harassment",
+      "Both (A) and (B)",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the term. The term “casting couch” refers to the demand for sexual favors by persons in authority (such as film producers or directors) from aspiring actors in exchange for roles or opportunities. Step 2: Legal context. Under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, such acts fall under the definition of sexual harassment . Step 3: Conclusion. Thus, “casting couch” in Bollywood is an example of sexual harassment , not sexual assault, since it typically involves coercion or quid pro quo situations rather than physical force.",
+    "quickTip": "Sexual harassment includes unwelcome advances or demands for sexual favors in professional or workplace contexts."
+  },
+  {
+    "id": "aibe16-q19",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 19,
+    "subject": "Tax Law",
+    "question": "Promissory estoppel against Government agencies is decided in:",
+    "options": [
+      "Tweedle Vs Atkinson",
+      "Dutton Vs Poole",
+      "Pournami Oil Mills Vs State of Kerala",
+      "Kedar Nath Vs Gauri Mohamad"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept of promissory estoppel. Promissory estoppel is a principle that prevents a party from going back on a promise when the other party has acted upon that promise to their detriment. Step 2: Case background. In Pournami Oil Mills Vs State of Kerala (1986) , the court held that the Government is bound by its promise of granting tax exemptions to new industries and cannot withdraw it arbitrarily after industries have acted based on that assurance. Step 3: Conclusion. Thus, the principle of promissory estoppel against Government agencies was established in Pournami Oil Mills Vs State of Kerala .",
+    "quickTip": "Promissory estoppel binds even the Government when citizens have relied on its promise and suffered detriment due to its withdrawal."
+  },
+  {
+    "id": "aibe16-q20",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 20,
+    "subject": "Contract Law",
+    "question": "Frustration of contract is provided by which section of the Indian Contract Act?",
+    "options": [
+      "Section 73",
+      "Section 70",
+      "Section 2",
+      "(D) Section 56"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept. Frustration of contract occurs when performance of the contract becomes impossible due to unforeseen events beyond the control of parties, making the purpose of the contract void. Step 2: Legal provision. Section 56 of the Indian Contract Act, 1872, deals with agreements to do an impossible act and provides that such contracts become void when the act becomes impossible or unlawful after the contract is made. Step 3: Conclusion. Thus, frustration of contract is governed by Section 56 .",
+    "quickTip": "Section 56 = “Doctrine of Frustration.” Contracts become void when performance is impossible due to events beyond control."
+  },
+  {
+    "id": "aibe16-q21",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 21,
+    "subject": "Labour Law",
+    "question": "Schedule II of the Employees’ Compensation Act, 1923 deals with:",
+    "options": [
+      "Age factor for calculating the amount of compensation",
+      "List of persons who are included in the definition of ‘Employee’",
+      "List of occupational diseases",
+      "List of injuries deemed to result in Permanent Total Disablement"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Schedule II. The Employees’ Compensation Act, 1923 contains various schedules specifying factors relevant to compensation. Schedule II specifies who is covered under the term ‘employee’ . Step 2: Purpose of Schedule II. This Schedule includes workers such as railway servants, factory workers, drivers, and others engaged in hazardous occupations. Step 3: Conclusion. Hence, Schedule II deals with the list of persons included in the definition of ‘employee’ .",
+    "quickTip": "Remember: Schedule II = list of employees, Schedule III = occupational diseases, Schedule IV = compensation calculation factors."
+  },
+  {
+    "id": "aibe16-q22",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 22,
+    "subject": "ADR & Arbitration",
+    "question": "Reference to the Arbitration is provided in which section of the Arbitration and Conciliation Act, 1996?",
+    "options": [
+      "Section 7",
+      "Section 8",
+      "Section 9",
+      "Section 10"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Arbitration reference. The Arbitration and Conciliation Act, 1996 governs the process of arbitration in India. The reference to arbitration occurs when parties agree to submit disputes to an arbitral tribunal. Step 2: Relevant Section. Section 7 defines an “arbitration agreement” , which forms the basis for referring disputes to arbitration. It specifies that such an agreement must be in writing and reflect the consent of both parties. Step 3: Conclusion. Hence, the reference to arbitration is provided under Section 7 .",
+    "quickTip": "Section 7 = Arbitration Agreement; Section 8 = Power of Court to refer parties to arbitration."
+  },
+  {
+    "id": "aibe16-q23",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 23,
+    "subject": "Criminal Law",
+    "question": "Under the head “subsequent conduct,” which of the following types of conduct would be material?",
+    "options": [
+      "Change of life",
+      "Evasion of justice",
+      "Fear, trembling",
+      "All of them"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Meaning of subsequent conduct. Subsequent conduct refers to the behavior of a person after the occurrence of an event or commission of an offence, which may indicate guilt or innocence. Step 2: Examples of material conduct. Changes in life pattern, fear, trembling, or attempts to evade justice can be used as circumstantial evidence to establish mental state or involvement. Step 3: Conclusion. All these behaviors are relevant as subsequent conduct under the Indian Evidence Act, hence (D) All of them is correct.",
+    "quickTip": "Subsequent conduct helps in determining the mental state or consciousness of guilt of the accused."
+  },
+  {
+    "id": "aibe16-q24",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 24,
+    "subject": "Civil Procedure",
+    "question": "A plaint has to be presented to the Court under Order IV, Rule 1 in:",
+    "options": [
+      "Single copy",
+      "Duplicate",
+      "Triplicate",
+      "No fixed rule"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding plaint submission. Order IV, Rule 1 of the Civil Procedure Code (CPC) governs the filing of a plaint, which marks the commencement of a civil suit. Step 2: Requirement. As per Rule 1(3) of Order IV, the plaint must be filed in duplicate . One copy is retained by the court, and the other is served to the defendant. Step 3: Conclusion. Hence, the correct answer is (B) Duplicate .",
+    "quickTip": "Always file a plaint in duplicate — one for the court, one for service to the opposite party."
+  },
+  {
+    "id": "aibe16-q25",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 25,
+    "subject": "Civil Procedure",
+    "question": "Omission to give notice under Order XXI, Rule 22 will:",
+    "options": [
+      "Render the execution null and void",
+      "Render the execution irregular",
+      "Render the execution voidable",
+      "Not affect the execution"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Order XXI, Rule 22. Order XXI of the Code of Civil Procedure (CPC) deals with the execution of decrees and orders. Rule 22 specifically requires that when execution of a decree is applied for after two years from the date of decree, notice must be given to the judgment-debtor. Step 2: Consequence of omission. If the court fails to issue such notice, the execution is not rendered null or void but is treated as an irregularity . Such irregularity can be cured and does not make the entire execution proceeding invalid. Step 3: Conclusion. Hence, omission to give notice under Order XXI, Rule 22 renders the execution irregular , not void or voidable.",
+    "quickTip": "Procedural omissions like failure to issue notice under Rule 22 make execution irregular but not void — they can be rectified by due process."
+  },
+  {
+    "id": "aibe16-q26",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 26,
+    "subject": "Civil Procedure",
+    "question": "Where a decree is passed against the Union of India or State for the act done in the official capacity of the person concerned, under Section 82 CPC, execution shall not be issued on any such decree unless the decree remains unsatisfied for a period of:",
+    "options": [
+      "3 months from the date of decree",
+      "6 months from the date of decree",
+      "1 year from the date of decree",
+      "2 years from the date of decree"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 82 CPC. Section 82 of the Code of Civil Procedure provides special protection to the Government in execution proceedings. It applies when a decree is passed against the Union of India or a State in respect of an act done by a public servant in his official capacity. Step 2: Time limitation. According to Section 82(1), no execution shall be issued on such a decree unless it remains unsatisfied for a period of three months from the date of the decree. This allows the Government time to comply voluntarily. Step 3: Conclusion. Hence, the correct period is 3 months from the date of decree .",
+    "quickTip": "Section 82 CPC protects the Government by allowing a 3-month grace period before execution of a decree can be issued."
+  },
+  {
+    "id": "aibe16-q27",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 27,
+    "subject": "Constitutional Law",
+    "question": "Freedom of Residence under Article 19 of the Indian Constitution is available in which of the following clauses?",
+    "options": [
+      "Clause (1)(E)",
+      "Clause (1)(D)",
+      "Clause (1)(B)",
+      "Clause (1)(C)"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Article 19. Article 19 of the Indian Constitution guarantees six fundamental freedoms to all citizens, including freedom of speech, movement, and residence. Step 2: Relevant clause. Clause (1)(E) of Article 19 provides the freedom to reside and settle in any part of the territory of India . Step 3: Conclusion. Hence, freedom of residence is covered under Article 19(1)(E) .",
+    "quickTip": "Article 19(1)(D) - Freedom of movement; Article 19(1)(E) - Freedom of residence and settlement."
+  },
+  {
+    "id": "aibe16-q28",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 28,
+    "subject": "Evidence Law",
+    "question": "Under which section of the Evidence Act are admissions defined?",
+    "options": [
+      "Section 17",
+      "Section 16",
+      "Section 15",
+      "Section 18"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the term ’admission’. Under the Indian Evidence Act, 1872, an admission refers to a statement, oral or documentary, which suggests any inference as to a fact in issue or relevant fact. Step 2: Legal provision. Section 17 defines ’admission’ and explains that such a statement can be made by a party to the proceeding, an agent, or any person from whom the parties derive their interest. Step 3: Conclusion. Hence, admissions are defined under Section 17 of the Indian Evidence Act .",
+    "quickTip": "Admissions are voluntary statements used as evidence against the person making them — defined under Section 17 of the Evidence Act."
+  },
+  {
+    "id": "aibe16-q29",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 29,
+    "subject": "Constitutional Law",
+    "question": "In which of the following cases has the Supreme Court held that the investigating officer should be allowed to refer to the records of investigation?",
+    "options": [
+      "State of Karnataka Vs Yarappa Reddi",
+      "Mohammed Khalid Vs State of West Bengal",
+      "Baburam Vs State of U.P.",
+      "State of Rajasthan Vs Om Prakash"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Case background. In the case of State of Karnataka Vs Yarappa Reddi , the Supreme Court dealt with the question of whether an investigating officer could refer to the investigation records while giving testimony in court. Step 2: Judicial observation. The Court held that the investigating officer may refer to the records of investigation to refresh memory, provided it does not amount to introducing new evidence beyond what is permissible under law. Step 3: Conclusion. Therefore, the correct case is State of Karnataka Vs Yarappa Reddi .",
+    "quickTip": "Investigating officers can consult case records while testifying, but cannot rely on them to alter factual evidence."
+  },
+  {
+    "id": "aibe16-q30",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 30,
+    "subject": "Civil Procedure",
+    "question": "Recovery of specific immovable property may be obtained by C.P.C. within what period?",
+    "options": [
+      "Within 7 months",
+      "Within 6 months",
+      "Within 8 months",
+      "Within 10 months"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. Under Order XXI, Rule 35 of the Code of Civil Procedure (CPC), recovery of possession of immovable property must be executed promptly by the decree-holder. Step 2: Time frame. As per the limitation prescribed, execution of decree for possession of immovable property is to be initiated within 6 months to ensure proper enforcement. Step 3: Conclusion. Hence, recovery of specific immovable property may be obtained within 6 months .",
+    "quickTip": "Timely execution ensures the decree remains valid; undue delay may result in complications in possession recovery."
+  },
+  {
+    "id": "aibe16-q31",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 31,
+    "subject": "Environmental Law",
+    "question": "Who appoints the Commissioner for rehabilitation and resettlement under the LARR Act?",
+    "options": [
+      "LARR Authority",
+      "Minister of Environment and Forests",
+      "Central Government",
+      "State Government"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the role. The LARR (Land Acquisition, Rehabilitation and Resettlement) Act, 2013 mandates the appointment of a Commissioner to oversee the process of rehabilitation and resettlement of affected families. Step 2: Legal provision. According to Section 44 of the Act, the State Government appoints the Commissioner for Rehabilitation and Resettlement, responsible for ensuring compliance with all rehabilitation provisions. Step 3: Conclusion. Hence, the Commissioner for Rehabilitation and Resettlement is appointed by the State Government .",
+    "quickTip": "Under the LARR Act, 2013, State Governments are primarily responsible for implementing rehabilitation and resettlement at the ground level."
+  },
+  {
+    "id": "aibe16-q32",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 32,
+    "subject": "Civil Procedure",
+    "question": "If a party who obtained an order for leave to amend pleading does not amend the same within how many days, he shall not be permitted to do that without the leave of the Court?",
+    "options": [
+      "Fifteen days",
+      "Fourteen days",
+      "Twenty days",
+      "Thirty days"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. Under Order VI, Rule 18 of the Code of Civil Procedure (CPC), when the court grants leave to amend pleadings, the party must carry out the amendment within a specified period. Step 2: Time limit. If the court has not specified a time, the party must make the amendment within 14 days from the date of the order. If the party fails to do so, they must seek permission (leave) from the court to carry out the amendment later. Step 3: Conclusion. Hence, the correct answer is (B) Fourteen days .",
+    "quickTip": "Order VI, Rule 18 CPC: Amendments to pleadings must be done within 14 days unless the court allows otherwise."
+  },
+  {
+    "id": "aibe16-q33",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 33,
+    "subject": "Legal Ethics",
+    "question": "Punishment of advocates for misconduct has been given under which section of the Advocates Act, 1961?",
+    "options": [
+      "Section 30",
+      "Section 32",
+      "Section 35",
+      "None"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the provision. The Advocates Act, 1961 governs the legal profession and provides mechanisms for disciplining advocates who engage in professional misconduct. Step 2: Relevant section. Section 35 of the Act empowers the State Bar Council to take action against an advocate if a complaint of misconduct is received. The Bar Council may refer the case to its Disciplinary Committee. Step 3: Punishment under Section 35. The Disciplinary Committee may: 1. Dismiss the complaint, or 2. Reprimand the advocate, or 3. Suspend the advocate from practice, or 4. Remove the advocate’s name from the roll of advocates. Step 4: Conclusion. Hence, the punishment for misconduct of advocates is provided under Section 35 of the Advocates Act, 1961.",
+    "quickTip": "Section 35 empowers State Bar Councils to discipline advocates found guilty of professional misconduct through suspension or removal."
+  },
+  {
+    "id": "aibe16-q34",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 34,
+    "subject": "Criminal Law",
+    "question": "Under which Section of IPC is Professional Negligence often invoked against medical professionals in cases alleging professional negligence?",
+    "options": [
+      "Section 303A",
+      "Section 304A",
+      "Section 302",
+      "Section 305"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the provision. Section 304A of the Indian Penal Code (IPC) deals with causing death by negligence . It applies when death is caused by a rash or negligent act not amounting to culpable homicide. Step 2: Application to medical professionals. Medical professionals are often charged under this section when their negligent act results in the death of a patient. However, the negligence must be of a gross or reckless nature to attract criminal liability. Step 3: Conclusion. Hence, in cases of medical negligence, Section 304A of IPC is most commonly invoked.",
+    "quickTip": "Section 304A IPC = Death by negligence. Commonly used for cases involving road accidents and medical negligence."
+  },
+  {
+    "id": "aibe16-q35",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 35,
+    "subject": "Criminal Law",
+    "question": "A offers a bribe to B, a public servant, as a reward for showing A some favour in the exercise of B’s official functions. B accepts the bribe.",
+    "options": [
+      "A has abetted the offence defined in Section 160, IPC",
+      "A has abetted the offence defined in Section 161, IPC",
+      "A has abetted the offence defined in Section 162, IPC",
+      "A has abetted the offence defined in Section 163, IPC"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Relevant section. Section 161 of the Indian Penal Code (prior to being replaced by provisions under the Prevention of Corruption Act, 1988) dealt with public servants taking gratification other than legal remuneration in respect of official acts. Step 2: Explanation. In this case, A, by offering a bribe to B (a public servant), has abetted the offence defined under Section 161 IPC since it involves giving gratification as a reward for official favor. Step 3: Conclusion. Thus, A has abetted the offence defined in Section 161, IPC .",
+    "quickTip": "Offering or accepting gratification in exchange for an official favor constitutes an offence under anti-corruption laws derived from Section 161 IPC."
+  },
+  {
+    "id": "aibe16-q36",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 36,
+    "subject": "Civil Procedure",
+    "question": "When may Perpetual Injunction be granted?",
+    "options": [
+      "Where the defendant is trustee of the property for the plaintiff",
+      "Where there is no standard for ascertaining the actual damage",
+      "Compensation in money would not afford adequate relief",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding perpetual injunction. A perpetual injunction is a judicial order permanently restraining a person from doing certain acts that would infringe the rights of another. It is granted under Section 38 of the Specific Relief Act, 1963 . Step 2: Grounds for granting perpetual injunction. Perpetual injunction may be granted: 1. When the defendant is a trustee of the property for the plaintiff. 2. When there is no standard for determining actual damages. 3. When monetary compensation cannot adequately protect the plaintiff’s rights. Step 3: Conclusion. Hence, the correct answer is (D) All of the above .",
+    "quickTip": "Perpetual injunction = permanent protection of rights; Temporary injunction = interim relief before trial."
+  },
+  {
+    "id": "aibe16-q37",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 37,
+    "subject": "Intellectual Property",
+    "question": "A company wishes to ensure that no one else can use their logo.",
+    "options": [
+      "Copyright",
+      "Trade mark",
+      "Patent",
+      "Industrial designs"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept. A logo represents the brand identity of a company and helps distinguish its goods or services from others. Protection of logos is ensured under the Trade Marks Act, 1999 . Step 2: Legal basis. Registering a trademark gives the company exclusive rights to use the logo and to prevent others from using an identical or deceptively similar mark. Step 3: Conclusion. Hence, a company must register its logo as a trademark to ensure exclusive ownership and protection.",
+    "quickTip": "Trademark = logo, name, or symbol; Patent = invention; Copyright = creative work; Design = aesthetic form."
+  },
+  {
+    "id": "aibe16-q38",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 38,
+    "subject": "ADR & Arbitration",
+    "question": "The section of the Arbitration and Conciliation Act, dealing with the time of commencement of arbitral proceedings is:",
+    "options": [
+      "Section 20",
+      "Section 21",
+      "Section 22",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding arbitral commencement. The Arbitration and Conciliation Act, 1996 governs arbitration procedures in India, including when arbitration proceedings are considered to have commenced. Step 2: Relevant provision. According to Section 21 , arbitral proceedings commence on the date on which a request for referring the dispute to arbitration is received by the respondent. Step 3: Conclusion. Hence, the correct answer is (B) Section 21 .",
+    "quickTip": "Section 21 = Commencement of arbitration; Section 20 = Place of arbitration; Section 22 = Language of arbitration."
+  },
+  {
+    "id": "aibe16-q39",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 39,
+    "subject": "Tax Law",
+    "question": "Amount of deduction under Section 24 of the Income Tax Act from annual value is:",
+    "options": [
+      "½ of Annual Value",
+      "1/3 of Annual Value",
+      "3/10 of Annual Value",
+      "17/10 of Annual Value"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 24. Section 24 of the Income Tax Act, 1961, provides for deductions from the “Annual Value” of house property in calculating taxable income under the head ‘Income from House Property’. Step 2: Standard deduction. The standard deduction under Section 24(a) is 30% of the annual value , earlier referred to as one-third (1/3) of the annual value before revision. This deduction covers repairs, maintenance, etc., regardless of actual expenditure. Step 3: Conclusion. Hence, the deduction allowed is 1/3 (or 30%) of the annual value .",
+    "quickTip": "Section 24 provides a flat 30% standard deduction on annual value — no proof of expenditure required."
+  },
+  {
+    "id": "aibe16-q40",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 40,
+    "subject": "Constitutional Law",
+    "question": "The test of reasonableness is not wholly ............ test and its contours are fairly indicated by the Constitution.",
+    "options": [
+      "Subjective",
+      "Objective",
+      "Descriptive",
+      "Summative"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept of reasonableness. The ‘test of reasonableness’ is applied by courts to determine whether a law or restriction on Fundamental Rights under Article 19 of the Constitution is justifiable. Step 2: Nature of the test. The test of reasonableness is not wholly subjective ; it must align with the principles and objectives laid out by the Constitution. The courts interpret reasonableness based on objective constitutional standards rather than personal or arbitrary views. Step 3: Conclusion. Hence, the correct answer is (A) Subjective , as the test is guided by objective constitutional parameters.",
+    "quickTip": "Reasonableness is tested objectively — restrictions on Fundamental Rights must be fair, just, and in line with constitutional principles."
+  },
+  {
+    "id": "aibe16-q41",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 41,
+    "subject": "Constitutional Law",
+    "question": "The power to enact a law relating to the citizenship of India is left to .............. under the provisions of Article 11 of the Indian Constitution.",
+    "options": [
+      "President",
+      "Council of Ministers",
+      "House of People",
+      "Parliament"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Article 11. Article 11 of the Constitution empowers the Parliament to make laws regarding the acquisition and termination of citizenship and all other related matters. Step 2: Explanation. While Articles 5 to 10 of the Constitution define citizenship at the commencement of the Constitution, Article 11 gives the Parliament the power to regulate citizenship thereafter. Step 3: Conclusion. Hence, under Article 11, the power to make laws relating to citizenship is vested in the Parliament .",
+    "quickTip": "Articles 5–10 = Citizenship at commencement; Article 11 = Parliament’s power to regulate citizenship by law."
+  },
+  {
+    "id": "aibe16-q42",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 42,
+    "subject": "Labour Law",
+    "question": "The payment of compensation to railway employees by the railway administration for injury by accident is governed by:",
+    "options": [
+      "The Employees Compensation Act, 1923",
+      "The Payment of Wages Act, 1936",
+      "Rights of Persons with Disabilities Act, 2016",
+      "The Workmen Compensation Act, 1986"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Background. The Employees Compensation Act, 1923 (formerly the Workmen’s Compensation Act) provides for payment of compensation to employees who suffer injury or death during the course of employment. Step 2: Railway employees. Railway servants fall under the definition of ”employee” as per Schedule II of the Act. Therefore, their compensation claims are governed under this Act. Step 3: Conclusion. Hence, compensation to railway employees is governed by the Employees Compensation Act, 1923 .",
+    "quickTip": "Schedule II of the Employees Compensation Act includes railway servants as eligible employees for compensation."
+  },
+  {
+    "id": "aibe16-q43",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 43,
+    "subject": "Labour Law",
+    "question": "The minimum amount of compensation payable under Employees Compensation Act, 1923 in case of total permanent disablement of a railway servant due to accident is Rs .........",
+    "options": [
+      "Rs 80,000/-",
+      "Rs 90,000/-",
+      "Rs 1,40,000/-",
+      "Rs 1,20,000/-"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. As per the Employees Compensation (Amendment) Act, the minimum compensation in case of total permanent disablement has been fixed at Rs 1,40,000 . Step 2: Explanation. This amount ensures adequate financial protection to the employee or their dependents in case of complete loss of earning capacity due to accident at work. Step 3: Conclusion. Hence, the minimum compensation for total permanent disablement is Rs 1,40,000 .",
+    "quickTip": "Always check the latest amendments — the compensation amount has been revised from Rs 90,000 to Rs 1,40,000."
+  },
+  {
+    "id": "aibe16-q44",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 44,
+    "subject": "Criminal Law",
+    "question": "The bond under Section 109 Cr.P.C. as security for good behaviour from a suspected person can be executed for a period not exceeding:",
+    "options": [
+      "Six months",
+      "Two years",
+      "One year",
+      "Three months"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 109 Cr.P.C. Section 109 of the Code of Criminal Procedure, 1973 empowers a Magistrate to require security for good behaviour from persons suspected of being habitual offenders. Step 2: Duration. The period for which such a bond may be executed shall not exceed two years . This acts as a preventive measure against potential offences. Step 3: Conclusion. Hence, under Section 109 Cr.P.C., the maximum period for such a bond is two years .",
+    "quickTip": "Security bonds under preventive sections of Cr.P.C. (like 107–110) are preventive in nature and cannot exceed two years."
+  },
+  {
+    "id": "aibe16-q45",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 45,
+    "subject": "Constitutional Law",
+    "question": "The maximum limit of Rs. 500 that could be paid to the wife as maintenance under Section 125 of the Cr.P.C. 1973 was removed in:",
+    "options": [
+      "1973",
+      "1989",
+      "2001",
+      "2007"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 125 Cr.P.C. Section 125 of the Criminal Procedure Code, 1973 provides for maintenance to wives, children, and parents who are unable to maintain themselves. Step 2: Amendment. Originally, the ceiling for maintenance was Rs. 500 per month. However, this limit was removed by the Criminal Procedure Code (Amendment) Act, 1989 , allowing courts to determine the amount based on circumstances. Step 3: Conclusion. Hence, the upper limit of Rs. 500 was abolished in the year 1989 .",
+    "quickTip": "Post-1989, courts have full discretion to fix a reasonable maintenance amount under Section 125 Cr.P.C. based on income and needs."
+  },
+  {
+    "id": "aibe16-q46",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 46,
+    "subject": "Intellectual Property",
+    "question": "The term ‘WIPO’ stands for:",
+    "options": [
+      "World Investment Policy Organization",
+      "World Intellectual Property Organization",
+      "Wildlife Investigation and Policing Organization",
+      "World Institute for Prevention of Organized Crime"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding WIPO. WIPO stands for World Intellectual Property Organization , which is a specialized agency of the United Nations established to promote the protection of intellectual property across the world. Step 2: Functions of WIPO. It administers international treaties relating to patents, copyrights, trademarks, and other forms of intellectual property. Its mission is to encourage creative activity and promote innovation through IP protection. Step 3: Conclusion. Thus, the correct answer is (B) World Intellectual Property Organization .",
+    "quickTip": "WIPO is headquartered in Geneva, Switzerland, and was established in 1967 to harmonize IP laws globally."
+  },
+  {
+    "id": "aibe16-q47",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 47,
+    "subject": "Civil Procedure",
+    "question": "Provisions of Section 10 of CPC are:",
+    "options": [
+      "Directory",
+      "Mandatory",
+      "None - Mandatory",
+      "Discretionary"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 10 CPC. Section 10 of the Civil Procedure Code (CPC) deals with the stay of suits — it prevents courts from proceeding with a trial when the same matter is already directly and substantially in issue in a previously instituted suit between the same parties. Step 2: Nature of provision. The provision of Section 10 is mandatory , meaning once the court finds that the conditions are satisfied, it must stay the subsequent proceedings to prevent conflicting judgments. Step 3: Conclusion. Hence, the correct answer is (B) Mandatory .",
+    "quickTip": "Section 10 CPC ensures judicial consistency by staying duplicate suits involving identical issues and parties."
+  },
+  {
+    "id": "aibe16-q48",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 48,
+    "subject": "Civil Procedure",
+    "question": "Constructive res judicata is contained in which of the following?",
+    "options": [
+      "Explanation III to Section 11",
+      "Explanation IV to Section 11",
+      "Explanation VI to Section 11",
+      "Explanation VIII to Section 11"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the doctrine. The doctrine of res judicata means that a matter once finally decided by a competent court cannot be reopened or re-litigated between the same parties. Step 2: Constructive res judicata. Constructive res judicata, as stated in Explanation IV to Section 11 of CPC , covers situations where a party could have raised a matter in the earlier proceedings but failed to do so. It assumes that such matter has been already decided. Step 3: Conclusion. Therefore, constructive res judicata is contained in Explanation IV to Section 11 of CPC .",
+    "quickTip": "Constructive res judicata prevents repetitive litigation by treating omitted issues as already adjudicated."
+  },
+  {
+    "id": "aibe16-q49",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 49,
+    "subject": "Constitutional Law",
+    "question": "The famous pronouncement of Delhi High Court regarding constitutional validity of Section 377 IPC, later reversed by the Supreme Court, was in:",
+    "options": [
+      "NALSA Vs Union of India",
+      "Naz Foundation Vs Government of NCT of Delhi",
+      "Shabnam Hashmi Vs Union of India",
+      "Suresh Kaushal Vs Naz Foundation"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Background. In Naz Foundation Vs Government of NCT of Delhi (2009) , the Delhi High Court decriminalized consensual homosexual acts between adults by reading down Section 377 of the Indian Penal Code, declaring it unconstitutional as it violated Articles 14, 15, and 21. Step 2: Later developments. This judgment was later overturned by the Supreme Court in Suresh Kaushal Vs Naz Foundation (2013) , which reinstated Section 377. However, in 2018, the Supreme Court finally decriminalized consensual homosexual acts in Navtej Singh Johar Vs Union of India . Step 3: Conclusion. Thus, the landmark judgment by Delhi High Court was Naz Foundation Vs Government of NCT of Delhi .",
+    "quickTip": "Naz Foundation (2009) = Delhi HC decriminalized homosexuality; Suresh Kaushal (2013) = SC reversed it; Navtej Johar (2018) = SC decriminalized again."
+  },
+  {
+    "id": "aibe16-q50",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 50,
+    "subject": "Criminal Law",
+    "question": "Under the Criminal Procedure Code, 1973, who shall record the information of rape being given by a rape victim?",
+    "options": [
+      "Officer in-charge of the police station",
+      "Deputy Superintendent of Police",
+      "Officer not below the rank of Sub-Inspector",
+      "Woman police officer or any woman officer"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. Under Section 154(1) of the Criminal Procedure Code (Cr.P.C.), if the information is related to an offence of rape, it must be recorded by a woman police officer or any woman officer . Step 2: Purpose. This provision ensures sensitivity, comfort, and dignity to the victim while recording the statement, avoiding intimidation or trauma. Step 3: Conclusion. Hence, the correct answer is (D) Woman police officer or any woman officer .",
+    "quickTip": "Section 154(1) Cr.P.C. ensures that rape victims’ statements are recorded by women officers to maintain sensitivity and trust."
+  },
+  {
+    "id": "aibe16-q51",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 51,
+    "subject": "Criminal Law",
+    "question": "Under the provision of the Code of Criminal Procedure, 1973:",
+    "options": [
+      "Summons can be oral",
+      "Summons cannot be served on corporate entities",
+      "Summons are either for appearance or for producing a document/thing",
+      "Summons can be served to servants in case the person on whose name summons are made cannot be found"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. Under Section 61–69 of the Criminal Procedure Code (Cr.P.C.), the process of issuing and serving summons is detailed. A summons must be in writing, signed by the presiding officer, and bear the seal of the court. Step 2: Purpose of summons. As per Section 61 and 91 Cr.P.C. , summons can be issued to compel a person to appear before a court or to produce a document or other thing required for judicial proceedings. Step 3: Conclusion. Therefore, the correct answer is (C) — Summons are either for appearance or for producing a document or thing.",
+    "quickTip": "A summons is a written legal order, unlike a warrant, which involves physical compulsion."
+  },
+  {
+    "id": "aibe16-q52",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 52,
+    "subject": "Constitutional Law",
+    "question": "Every person who is a member of a defence service or holds a civil post under the Union, holds office during the pleasure of the:",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Council of Ministers",
+      "Both (A) and (B)"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Constitutional basis. Article 310 of the Indian Constitution states that every person who is a member of the defence service or holds a civil post under the Union or a State holds office during the pleasure of the President (for Union services) or the Governor (for State services). Step 2: Doctrine of Pleasure. This doctrine allows the executive head (President or Governor) to remove such officers unless their tenure is protected by constitutional provisions (like judges or CAG). Step 3: Conclusion. Hence, the correct answer is (B) President .",
+    "quickTip": "Article 310 = Doctrine of Pleasure; Article 311 = Safeguards to civil servants against arbitrary dismissal."
+  },
+  {
+    "id": "aibe16-q53",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 53,
+    "subject": "ADR & Arbitration",
+    "question": "An arbitration proceeding is a:",
+    "options": [
+      "Judicial proceeding",
+      "Quasi-judicial proceeding",
+      "Administrative proceeding",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding arbitration. Arbitration is an alternative dispute resolution mechanism where disputes are settled outside the court by an impartial arbitrator chosen by the parties. Step 2: Nature of arbitration. Arbitration is considered a quasi-judicial proceeding because, although arbitrators function similarly to judges by hearing both parties and delivering decisions (awards), they are not part of the judiciary. Their authority arises from the consent of the parties. Step 3: Conclusion. Hence, arbitration proceedings are quasi-judicial in nature.",
+    "quickTip": "Arbitration = Quasi-judicial: conducted by private arbitrators but follows judicial principles of fairness and natural justice."
+  },
+  {
+    "id": "aibe16-q54",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 54,
+    "subject": "ADR & Arbitration",
+    "question": "What is ad hoc arbitration?",
+    "options": [
+      "It is a proceeding administered by the parties themselves, with rules created solely for that specific case",
+      "Parties make their own arrangement with respect to all aspects of the arbitration, including the laws and rules",
+      "The seal of arbitration, the language, and the scope and issues to be resolved by means of arbitration",
+      "(A) (B) (C)"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Definition of ad hoc arbitration. Ad hoc arbitration refers to a type of arbitration where the parties involved agree to the arbitration process, set the rules, and make their own arrangements to govern the proceedings, instead of using a pre-established set of rules or institutional framework. Step 2: Key features. In ad hoc arbitration: - The parties design the rules of the arbitration. - They make decisions on procedural matters such as language, location, and issues to be resolved. - There is no reliance on an institutional body for administering the arbitration. Step 3: Conclusion. Therefore, ad hoc arbitration involves (A), (B), and (C) — the parties are in charge of creating the rules, arrangements, and managing the arbitration process.",
+    "quickTip": "Ad hoc arbitration allows flexibility in the arbitration process but can require more administrative effort from the parties involved."
+  },
+  {
+    "id": "aibe16-q55",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 55,
+    "subject": "Civil Procedure",
+    "question": "Which of the following Sections of the Civil Procedure Code define the ‘Mesne Profit’?",
+    "options": [
+      "Section 2(4)",
+      "Section 2(14)",
+      "Section 2(6)",
+      "Section 2(12)"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Definition of Mesne Profits. Mesne profits refer to the profits derived from the property by the person in wrongful possession during the time they have occupied it. It includes the income or benefit derived from the property, which they should not have received. Step 2: Relevant section. Section 2(14) of the Civil Procedure Code (CPC) defines mesne profits as the profits that the person who is in wrongful possession of the property has gained. Step 3: Conclusion. Hence, the definition of mesne profits is provided in Section 2(14) of the CPC.",
+    "quickTip": "Mesne profits are not the same as rent, but they reflect the wrongful gains from property that was unlawfully possessed."
+  },
+  {
+    "id": "aibe16-q56",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 56,
+    "subject": "Family Law",
+    "question": "On which of the following dates did the Hindu Marriage Act, 1955 come into operation?",
+    "options": [
+      "18th May, 1955",
+      "17th June, 1955",
+      "22nd May, 1955",
+      "18th June, 1955"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Overview of the Hindu Marriage Act, 1955. The Hindu Marriage Act, 1955, was enacted to govern the marriages of Hindus and regulate issues such as marriage registration, divorce, and restitution of conjugal rights. Step 2: Date of enforcement. The Act came into operation on 18th May, 1955 . This date marked the commencement of the law that revolutionized marriage-related matters within Hindu communities in India. Step 3: Conclusion. Thus, the correct answer is (A) 18th May, 1955 .",
+    "quickTip": "The Hindu Marriage Act, 1955, was a landmark legislation that modernized marriage laws for Hindus."
+  },
+  {
+    "id": "aibe16-q57",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 57,
+    "subject": "Family Law",
+    "question": "Which of the following properties will section 30 of the Hindu Succession Act, 1956, govern? (1) Tarwad (2) Tavazhi (3) Kutumba (4) Kavaru (5) Illom",
+    "options": [
+      "I, III, and V",
+      "II, IV, and V",
+      "I and II",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 30 of the Hindu Succession Act, 1956. Section 30 of the Hindu Succession Act, 1956, deals with the property rights of male Hindus who die intestate, particularly concerning various family systems. It specifies how properties in different family structures such as Tarwad, Tavazhi, Kutumba, Kavaru, and Illom should be distributed. Step 2: Analyzing the options. - Tarwad and Tavazhi refer to traditional family property systems in Kerala. - Kutumba refers to a family system in the South. - Illom refers to a particular type of family system where property is passed through the female line. - Kavaru is a system in some regions where property is managed collectively. Step 3: Conclusion. Section 30 governs all these systems. Hence, the correct answer is (D) All of the above .",
+    "quickTip": "Section 30 of the Hindu Succession Act ensures property rights are considered for various traditional family systems."
+  },
+  {
+    "id": "aibe16-q58",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 58,
+    "subject": "Constitutional Law",
+    "question": "An advocate is under an obligation to uphold the rule of law and ensure that the public justice system is enabled to function at its full potential. Any violation of the principle of professional ethics by an advocate is unfortunate and unacceptable. Ignoring even a minor violation/misconduct militates against the fundamental foundation of the public justice system. It was said in-",
+    "options": [
+      "Hikmat Ali Khan Vs Ishwar Prasad Arya, 1997 3 SCC 131",
+      "O.P. Sharma Vs High Court of Punjab & Haryana, (2011) 6 SCC 86",
+      "L.D. Jaikwal Vs State of Uttar Pradesh, (1984) 3 SCC 405",
+      "Shamsher Singh Bedi Vs High Court of Punjab & Haryana, (1996) 7 SCC 99"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the case. In the case Hikmat Ali Khan Vs Ishwar Prasad Arya (1997 3 SCC 131) , the Supreme Court emphasized that advocates must maintain professional ethics and uphold the rule of law. Any minor violation is detrimental to the public justice system and compromises its integrity. Step 2: Importance of professional ethics. The court observed that the integrity of the justice system is the foundation of democracy, and an advocate’s duty is to ensure the system operates without misconduct. Step 3: Conclusion. Thus, the correct answer is (A) Hikmat Ali Khan Vs Ishwar Prasad Arya, 1997 3 SCC 131 .",
+    "quickTip": "Professional ethics in law uphold the integrity of the justice system, as emphasized by the Supreme Court in several cases."
+  },
+  {
+    "id": "aibe16-q59",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 59,
+    "subject": "Corporate Law",
+    "question": "Section 8 of the Companies Act, 2013 contains provision relating to",
+    "options": [
+      "Incorporation of company",
+      "Formation of companies with charitable objects, etc",
+      "Effect of registration",
+      "Effect of memorandum and articles"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 8. Section 8 of the Companies Act, 2013 deals with the formation of companies that are established for promoting commerce, art, science, religion, charity, or any other useful object. Such companies are formed without the intention of profit distribution. Step 2: Purpose. Section 8 allows the formation of non-profit organizations (such as charitable organizations) with the provisions for the use of profits solely for the promotion of its objectives. Step 3: Conclusion. Hence, the correct answer is (B) Formation of companies with charitable objects, etc .",
+    "quickTip": "Section 8 companies are formed for social purposes, and their profits must be used solely for these purposes."
+  },
+  {
+    "id": "aibe16-q60",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 60,
+    "subject": "Corporate Law",
+    "question": "The verification of the registered office shall be furnished to the registrar within a period of ........... from the date of incorporation",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. As per Section 12(2) of the Companies Act, 2013 , the verification of the registered office of a company must be submitted to the registrar within 60 days from the date of incorporation . This ensures that the company complies with the legal requirement of maintaining a registered office. Step 2: Explanation. This verification includes confirming the location of the registered office and updating the registrar about its address. If the company fails to comply, the registrar may impose penalties. Step 3: Conclusion. Hence, the correct answer is (B) 60 days .",
+    "quickTip": "Ensure to verify the registered office within 60 days of incorporation to comply with the Companies Act."
+  },
+  {
+    "id": "aibe16-q61",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 61,
+    "subject": "Cyber Law",
+    "question": "Cyber law deals with",
+    "options": [
+      "All activities concerning the internet",
+      "IPR",
+      "E-commerce",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Cyber Law. Cyber law refers to the body of law that deals with activities in cyberspace. It covers areas such as intellectual property rights (IPR), e-commerce regulations, and issues surrounding the use of the internet. Step 2: Analyzing the options. - (A) All activities concerning the internet: Cyber law indeed addresses activities on the internet. - (B) IPR: Intellectual Property Rights are an integral part of cyber law, covering issues like digital copyrights, patents, and trademarks. - (C) E-commerce: Cyber law regulates online transactions, digital contracts, and e-commerce activities. Step 3: Conclusion. Thus, the correct answer is (D) All of the above .",
+    "quickTip": "Cyber law covers a wide range of issues including IPR, e-commerce, and online privacy."
+  },
+  {
+    "id": "aibe16-q62",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 62,
+    "subject": "Motor Vehicle Law",
+    "question": "According to section 2 of the Motor Vehicles Act, 1988 the term motor cab means any motor vehicle constructed or adapted to carry not more than",
+    "options": [
+      "5 passengers or including the driver",
+      "6 passengers or including the driver",
+      "5 passengers or excluding the driver",
+      "6 passengers or excluding the driver"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. According to Section 2(35) of the Motor Vehicles Act, 1988, a ”motor cab” is defined as any motor vehicle constructed or adapted to carry no more than six passengers , including the driver. However, for the purposes of certain regulations, the term may refer to five passengers excluding the driver. Step 2: Analyzing the options. - (A) 5 passengers or including the driver: Incorrect, as it exceeds the limit set by the Act. - (B) 6 passengers or including the driver: Correct definition, as the Act allows up to 6 passengers, including the driver. - (C) 5 passengers or excluding the driver: This is the most accurate interpretation as per the common regulatory use of the term motor cab. Step 3: Conclusion. Thus, the correct answer is (C) 5 passengers or excluding the driver .",
+    "quickTip": "Motor cabs are commonly limited to 5 passengers excluding the driver for regulatory purposes."
+  },
+  {
+    "id": "aibe16-q63",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 63,
+    "subject": "Consumer Law",
+    "question": "The National Commission of Consumer Protection is composed of-",
+    "options": [
+      "7 members",
+      "5 members",
+      "8 members",
+      "6 members"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the composition of the National Commission. The National Commission for Consumer Protection, as established under the Consumer Protection Act, 2019, is composed of five members . Step 2: Analyzing the options. The correct composition, as laid out by the Act, includes: - A chairperson - Four other members, including experts in consumer affairs, law, economics, etc. Step 3: Conclusion. Thus, the correct answer is (B) 5 members .",
+    "quickTip": "The National Commission for Consumer Protection plays a key role in protecting consumer rights and resolving disputes."
+  },
+  {
+    "id": "aibe16-q64",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 64,
+    "subject": "Family Law",
+    "question": "Which of the following statement/ statements is/are false for the purpose of the Hindu Marriage Act, 1955?",
+    "options": [
+      "I only",
+      "I and II",
+      "III only",
+      "I and III I. It is assumed that a person who is not Muslim, Santhal, Christian, Jew or Parsi by religion is Hindu. II. A person who belongs to Lingayat sub-sect is assumed to be Hindu. III. A person converted who converted to another religion needs to follow local ritual/ custom for converting back to Hinduism."
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the statements. - Statement I : The assumption that a person who is not Muslim, Christian, etc., is Hindu does not hold. The Hindu Marriage Act does not operate on such assumptions. - Statement II : A person belonging to the Lingayat sect is indeed considered Hindu under the Act. - Statement III : A person who converts to another religion can return to Hinduism by undergoing the prescribed rituals, according to the Act. Step 2: Analysis. - I and II are incorrect assumptions as the Act recognizes Hindu identity through formal processes, not assumptions based on exclusion. - III is correct, as the law provides for the reversion to Hinduism through specific rituals. Step 3: Conclusion. Thus, the correct answer is (B) I and II .",
+    "quickTip": "The Hindu Marriage Act, 1955 recognizes Hinduism based on formal processes rather than assumptions."
+  },
+  {
+    "id": "aibe16-q65",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 65,
+    "subject": "ADR & Arbitration",
+    "question": "Provision for settlement of dispute outside court has been provided under Section .............. of Civil Procedure Code.",
+    "options": [
+      "91",
+      "89",
+      "51",
+      "151"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Relevant provision. Section 89 of the Civil Procedure Code (CPC) provides for the settlement of disputes outside of court, encouraging the use of alternative dispute resolution mechanisms such as mediation, conciliation, and arbitration. Step 2: Explanation. The section mandates the court to refer disputes for settlement through these alternative means before proceeding with a formal trial. Step 3: Conclusion. Hence, the correct answer is (B) 89 .",
+    "quickTip": "Section 89 promotes alternate dispute resolution methods to reduce the burden on courts and encourage quicker resolutions."
+  },
+  {
+    "id": "aibe16-q66",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 66,
+    "subject": "Evidence Law",
+    "question": "The Indian Evidence Act came into force on",
+    "options": [
+      "6th October, 1860",
+      "1st March, 1974",
+      "15th March, 1872",
+      "1st September, 1872"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Overview of the Indian Evidence Act. The Indian Evidence Act, 1872, is a key statute governing the law of evidence in India. It deals with the admissibility, relevance, and weight of evidence presented in court. Step 2: Date of enforcement. The Indian Evidence Act came into force on 15th March, 1872 , marking the beginning of codified rules of evidence in India. Step 3: Conclusion. Thus, the correct answer is (C) 15th March, 1872 .",
+    "quickTip": "The Indian Evidence Act, 1872, remains a cornerstone of the legal system in India, governing all matters related to evidence."
+  },
+  {
+    "id": "aibe16-q67",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 67,
+    "subject": "Constitutional Law",
+    "question": "According to the provisions of Article 315 of the Indian Constitution: I. There shall be a public service commission for the Union and a Public Service commission for each state. II. The public service commission for the Union, if requested to do so by the governor of a state may, with the approval of the president, agree to serve all or any of the needs of the state.",
+    "options": [
+      "Only I",
+      "Only II",
+      "I and II",
+      "None of them"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Article 315. Article 315 of the Indian Constitution provides for the establishment of a Public Service Commission (PSC) for both the Union and individual states. The PSC helps in selecting individuals for government jobs. Step 2: Analyzing the statements. - I is correct: The Union and State commissions are to be established under Article 315. - II is also correct: The Union PSC can serve the state if requested and approved by the president. Step 3: Conclusion. Hence, the correct answer is (C) I and II .",
+    "quickTip": "Article 315 ensures the establishment of Public Service Commissions to maintain fairness in recruitment and governance."
+  },
+  {
+    "id": "aibe16-q68",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 68,
+    "subject": "Family Law",
+    "question": "Which of the following sections of the Hindu Adoption and Maintenance Act, 1956 deals with “amount of maintenance”?",
+    "options": [
+      "Section 21",
+      "Section 22",
+      "Section 23",
+      "Section 24"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Overview of the Hindu Adoption and Maintenance Act, 1956. The Hindu Adoption and Maintenance Act, 1956, governs the laws of adoption and maintenance for Hindus. It lays down the rights and duties related to maintenance within the family. Step 2: Relevant section. Section 23 of the Act specifically deals with the amount of maintenance to be provided to a wife, children, and aged parents, including the standards for determining maintenance. Step 3: Conclusion. Thus, the correct answer is (C) Section 23 .",
+    "quickTip": "Section 23 sets the guidelines for determining the amount of maintenance in Hindu families."
+  },
+  {
+    "id": "aibe16-q69",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 69,
+    "subject": "Constitutional Law",
+    "question": "In which of the following case the Supreme Court First of all made an attempt to look into the question regarding the extension of the right to life to the right to Health and other Hygienic conditions —",
+    "options": [
+      "The Rural Litigation and Entitlement Kendra Vs State of Uttar Pradesh",
+      "M.C. Mehta Vs Union of India",
+      "V. Lakshmipathy Vs State of Karnataka",
+      "F.K. Hussain Vs Union of India"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the case. The Rural Litigation and Entitlement Kendra Vs State of Uttar Pradesh case is known for its landmark ruling on environmental protection and the extension of the right to life to include the right to a clean environment and health. It was the first case where the Supreme Court connected health and hygienic conditions with the fundamental right to life under Article 21 of the Indian Constitution. Step 2: Analysis of options. - (A) is correct — The case highlighted the need to improve the right to health and hygiene in rural areas. - The other options (B), (C), and (D) do not directly deal with this issue. Step 3: Conclusion. Thus, the correct answer is (A) The Rural Litigation and Entitlement Kendra Vs State of Uttar Pradesh .",
+    "quickTip": "The extension of the right to life includes the right to health, hygiene, and clean living conditions, as seen in the Rural Litigation case."
+  },
+  {
+    "id": "aibe16-q70",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 70,
+    "subject": "International Law",
+    "question": "Basel Convention is associated with one of the following —",
+    "options": [
+      "International Trade in Endangered species of wild Fauna Flora",
+      "Climate change",
+      "Protection of Ozone layer",
+      "The control of transboundary movement of Hazardous waste and their disposal"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Basel Convention. The Basel Convention is a global treaty designed to reduce the movement of hazardous waste between countries, particularly from developed to less developed countries. It controls the transboundary movement and disposal of hazardous waste. Step 2: Analyzing the options. - (A) is incorrect — The Basel Convention does not deal with the trade in endangered species. - (B) is incorrect — Climate change is addressed by other global agreements like the Paris Agreement. - (C) is incorrect — The protection of the ozone layer is covered under the Montreal Protocol. - (D) is correct — The Basel Convention specifically addresses hazardous waste. Step 3: Conclusion. Hence, the correct answer is (D) The control of transboundary movement of Hazardous waste and their disposal .",
+    "quickTip": "The Basel Convention plays a key role in preventing the illegal and unsafe disposal of hazardous waste globally."
+  },
+  {
+    "id": "aibe16-q71",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 71,
+    "subject": "Cyber Law",
+    "question": "Cyber crime is .......... in nature",
+    "options": [
+      "Tangible",
+      "Intangible",
+      "Of mental Violence",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding cyber crime. Cyber crime typically involves illegal activities that are carried out using computers or the internet, such as hacking, identity theft, cyberbullying, or online fraud. These crimes are typically intangible, meaning they do not involve physical objects. Step 2: Analysis of options. - (A) Tangible is incorrect, as cyber crimes do not involve physical actions or property. - (B) Intangible is correct, as cyber crimes are based in the digital or virtual world. - (C) Of mental Violence is not correct, as cyber crime typically involves actions or harms that are not limited to mental violence. - (D) None of the above is incorrect because (B) is the right answer. Step 3: Conclusion. Thus, the correct answer is (B) Intangible .",
+    "quickTip": "Cyber crimes are often intangible, affecting digital systems and data rather than physical objects."
+  },
+  {
+    "id": "aibe16-q72",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 72,
+    "subject": "Tax Law",
+    "question": "Health and education cess is applicable to —",
+    "options": [
+      "All assesses",
+      "All assesses except company",
+      "Individual / HUF",
+      "Company only"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the cess. Health and education cess is an additional levy on the income tax liability of taxpayers, applied to individuals, Hindu Undivided Families (HUFs), and companies. It is levied on all assesses. Step 2: Conclusion. Thus, the correct answer is (A) All assesses .",
+    "quickTip": "Health and education cess is applied to the total tax liability and is applicable to all taxpayers."
+  },
+  {
+    "id": "aibe16-q73",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 73,
+    "subject": "Contract Law",
+    "question": "Contractual Liability arises , where:",
+    "options": [
+      "There is offer and acceptance only.",
+      "There is intention to create legal relation.",
+      "There is loss to one party",
+      "The loss of one party is the gain of the other party."
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Contractual Liability. Contractual liability arises when two parties agree to an enforceable contract that involves rights and duties. For a contract to be legally binding, there must be an intention to create legal relations, in addition to offer and acceptance. Step 2: Conclusion. Thus, the correct answer is (B) There is intention to create legal relation.",
+    "quickTip": "The key to contractual liability is the intention to create a legally binding relationship."
+  },
+  {
+    "id": "aibe16-q74",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 74,
+    "subject": "Law of Torts",
+    "question": "The rule of Strict Liability is based on the decision in :-",
+    "options": [
+      "Donoghue Vs Stevenson",
+      "Homes Vs Ashford",
+      "Rylands Vs Fletcher",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Strict Liability. Strict Liability is a legal doctrine that holds a party liable for their actions regardless of fault or intent. The rule of Strict Liability was established in the case of Rylands Vs Fletcher (1868), where the court held that a person who brings something onto their land that is not naturally there and causes harm is strictly liable. Step 2: Conclusion. Thus, the correct answer is (C) Rylands Vs Fletcher .",
+    "quickTip": "Strict Liability applies where a party brings something dangerous onto their land, and it causes harm."
+  },
+  {
+    "id": "aibe16-q75",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 75,
+    "subject": "Motor Vehicle Law",
+    "question": "The Rule of Last opportunity was laid down in :-",
+    "options": [
+      "Davies Vs Manh",
+      "State of A.P. Vs Ranganna",
+      "Nugent Vs Smith.",
+      "Kalawati Vs State of HP"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Rule of Last Opportunity. The Rule of Last Opportunity is a legal principle applied in cases of contributory negligence, where the person who had the last opportunity to prevent an accident is deemed responsible for it. It was first established in the case of Davies Vs Manh (1947). Step 2: Conclusion. Thus, the correct answer is (A) Davies Vs Manh .",
+    "quickTip": "The Rule of Last Opportunity applies when one party has the last chance to avoid harm, and fails to do so."
+  },
+  {
+    "id": "aibe16-q76",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 76,
+    "subject": "Family Law",
+    "question": "In which of the following cases was it held that “the rights conferred under section 25 of the Hindu Adoption and Maintenance Act, 1956 supersedes any contract to the contrary. The fact that the date of decree makes no difference”?",
+    "options": [
+      "Surenderabal Vs Suppiah",
+      "Mukesh Teli Vs Bharti Teli",
+      "Sesi Armali Vs Thaiyu Armal",
+      "Laxmi Vs Krishna"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the case. In the case of Surenderabal Vs Suppiah , the court held that rights conferred under section 25 of the Hindu Adoption and Maintenance Act, 1956, supersede any contract to the contrary. It emphasized that the date of decree does not affect the applicability of the law regarding maintenance. Step 2: Conclusion. Thus, the correct answer is (A) Surenderabal Vs Suppiah .",
+    "quickTip": "Section 25 of the Hindu Adoption and Maintenance Act, 1956 protects the rights of maintenance irrespective of other contracts."
+  },
+  {
+    "id": "aibe16-q77",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 77,
+    "subject": "Miscellaneous",
+    "question": "The phrase “file a PIL, ostensibly in public interest but, in fact, to serve personal or private interests” means",
+    "options": [
+      "filing PIL for protection of only public interest",
+      "filing PIL for protection of both public and private interest",
+      "filing PIL for protection of only private interest",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept of PIL. A Public Interest Litigation (PIL) is meant to protect the public at large or public rights. However, when it is filed to serve private or personal interests while disguising it as a public interest issue, it misuses the PIL framework. This is generally referred to as filing PIL for the protection of only private interests. Step 2: Conclusion. Thus, the correct answer is (C) filing PIL for protection of only private interest .",
+    "quickTip": "PIL is meant for matters of public interest and should not be used to advance personal interests."
+  },
+  {
+    "id": "aibe16-q78",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 78,
+    "subject": "Miscellaneous",
+    "question": "Filing of frivolous PILs results in-",
+    "options": [
+      "increasing backlog of cases",
+      "wastage of resources",
+      "lesser availability of time for hearing other genuine cases",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the impact of frivolous PILs. Frivolous PILs, or those filed without genuine public interest, lead to unnecessary burden on the judicial system. They increase the backlog of cases, waste resources, and divert attention from genuine matters that require judicial intervention. Step 2: Conclusion. Thus, the correct answer is (D) All of the above .",
+    "quickTip": "Frivolous PILs harm the judicial system by consuming valuable time and resources."
+  },
+  {
+    "id": "aibe16-q79",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 79,
+    "subject": "Criminal Law",
+    "question": "Z, under the influence of madness, attempts to kill X. Is Z guilty of an offence. Has X the same right of private defence which he would have if Z were sane?",
+    "options": [
+      "Z has not committed any offence as per section 98 of IPC and same right of private defence to X if Z is mad",
+      "As per Section 98 of IPC, X has committed an offence and no right of private defence to X",
+      "Z has committed an offence for not using his mind",
+      "None above"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Section 98 of IPC. Section 98 of the Indian Penal Code (IPC) provides that a person who is under the influence of madness is not considered criminally responsible. Therefore, Z’s actions, under the influence of madness, do not constitute an offence, and X is still entitled to the right of private defence. Step 2: Conclusion. Thus, the correct answer is (A) Z has not committed any offence as per section 98 of IPC and same right of private defence to X if Z is mad .",
+    "quickTip": "Section 98 of IPC grants rights to self-defence even when the aggressor is not criminally responsible due to mental illness."
+  },
+  {
+    "id": "aibe16-q80",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 80,
+    "subject": "Evidence Law",
+    "question": "Admission can be broadly categorised into:",
+    "options": [
+      "Judicial",
+      "Extra-judicial",
+      "Either A and B",
+      "Both A and B"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept of admission. In law, an admission is a statement made by a party in a case acknowledging the truth of certain facts. Admissions can be judicial (made in court or before a judge) or extra-judicial (made outside of court, not under oath). Both types of admissions are recognized under Indian law. Step 2: Conclusion. Thus, the correct answer is (D) Both A and B .",
+    "quickTip": "Admissions can be judicial (in court) or extra-judicial (outside of court). Both are admissible in evidence under certain conditions."
+  },
+  {
+    "id": "aibe16-q81",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 81,
+    "subject": "Civil Procedure",
+    "question": "Section 66, Indian Evidence Act lays down:",
+    "options": [
+      "A notice must be given before secondary evidence can be received under section 65 (a), Indian Evidence Act",
+      "Notice to produce a document must be in writing",
+      "Order XI, Rules 15, of Civil Procedure Code, prescribes the kind of notice to produce a document",
+      "All of them"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 66 of the Indian Evidence Act. Section 66 of the Indian Evidence Act specifies that a notice must be given for the production of secondary evidence and for the production of documents in writing. It also cross-references Order XI, Rule 15, of the Civil Procedure Code, which outlines the procedure for giving notice to produce documents. Step 2: Conclusion. Thus, the correct answer is (D) All of them .",
+    "quickTip": "Section 66 and related rules ensure proper procedure for requesting the production of documents in legal proceedings."
+  },
+  {
+    "id": "aibe16-q82",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 82,
+    "subject": "Law of Torts",
+    "question": "Maxim ”Res Ipsa Loquitur” means :-",
+    "options": [
+      "The thing speaks for itself",
+      "Where there is right there is remedy",
+      "Where there is remedy there is right",
+      "Where there is no fault there is no remedy"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Meaning of the Maxim. The maxim ”Res Ipsa Loquitur” is a Latin phrase that means ”the thing speaks for itself.” It is used in tort law to imply that the occurrence of an accident is sufficient proof of negligence when the defendant had control over the situation, and the accident would not have happened if the defendant had exercised proper care. Step 2: Conclusion. Thus, the correct answer is (A) The thing speaks for itself .",
+    "quickTip": "”Res Ipsa Loquitur” is a common legal doctrine in negligence cases where direct evidence of the defendant’s fault is not available."
+  },
+  {
+    "id": "aibe16-q83",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 83,
+    "subject": "Criminal Law",
+    "question": "Any private person may arrest any person who:",
+    "options": [
+      "Commits non-bailable offence in his presence",
+      "Commits non-bailable offence and cognizable offence in his presence",
+      "Commits compoundable offence in his presence",
+      "Commits offence in his presence or is a proclaimed offender"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the powers of private persons in arrest. Under Indian law, a private person has the authority to arrest anyone who has committed a non-bailable and cognizable offence in their presence, as outlined in the Code of Criminal Procedure (CrPC). Step 2: Conclusion. Thus, the correct answer is (B) Commits non-bailable offence and cognizable offence in his presence .",
+    "quickTip": "A private person has limited powers to arrest in case of cognizable and non-bailable offences, as per the CrPC."
+  },
+  {
+    "id": "aibe16-q84",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 84,
+    "subject": "Criminal Law",
+    "question": "How long a warrant of arrest shall remain in force?",
+    "options": [
+      "6 years",
+      "10 years",
+      "12 years",
+      "Until executed or cancelled"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the warrant of arrest. As per the CrPC, a warrant of arrest remains in force until it is either executed or cancelled by the court. There is no set time limit; it remains active until the person is arrested or the warrant is otherwise voided. Step 2: Conclusion. Thus, the correct answer is (D) Until executed or cancelled .",
+    "quickTip": "A warrant of arrest remains valid until it is executed or formally cancelled by the court."
+  },
+  {
+    "id": "aibe16-q85",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 85,
+    "subject": "Tax Law",
+    "question": "Rate of additional Depreciation will be —- under section 32Indian Income Tax Act",
+    "options": [
+      "10 %",
+      "20 %",
+      "15 %",
+      "30 %"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the provisions of Section 32. Under section 32 of the Income Tax Act, the rate of additional depreciation allowed on certain assets used for business purposes is 20% . This applies to new machinery, plant, or assets, as per the rules under the Income Tax Act. Step 2: Conclusion. Thus, the correct answer is (B) 20 % .",
+    "quickTip": "Section 32 allows additional depreciation at a rate of 20% for certain newly acquired assets used for business."
+  },
+  {
+    "id": "aibe16-q86",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 86,
+    "subject": "Constitutional Law",
+    "question": "The Committee which led to the passing of the Criminal Law (Amendment) Act, 2013 was headed by",
+    "options": [
+      "Justice Dalveer Bhandari",
+      "Justice Altmas Kabir",
+      "Justice J.S. Verma",
+      "Justice A.S. Anand"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Committee. The Committee that led to the passing of the Criminal Law (Amendment) Act, 2013 was headed by Justice J.S. Verma . This Committee was formed in response to the brutal gang rape case in December 2012 to suggest amendments to the criminal law to address crimes against women. Step 2: Conclusion. Thus, the correct answer is (C) Justice J.S. Verma .",
+    "quickTip": "The Justice J.S. Verma Committee played a key role in reforming the laws related to sexual crimes in India."
+  },
+  {
+    "id": "aibe16-q87",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 87,
+    "subject": "Criminal Law",
+    "question": "Under the scheme of Criminal Procedure Code, non-cognizable offences are:",
+    "options": [
+      "Public wrongs",
+      "Private wrongs",
+      "Both public and private wrongs",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding non-cognizable offences. Non-cognizable offences, as per the Criminal Procedure Code, are offences where the police cannot arrest without a warrant or start an investigation without the permission of a magistrate. These offences are typically private wrongs, such as minor assaults, defamation, etc. Step 2: Conclusion. Thus, the correct answer is (B) Private wrongs .",
+    "quickTip": "Non-cognizable offences typically involve private matters and do not require immediate police intervention."
+  },
+  {
+    "id": "aibe16-q88",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 88,
+    "subject": "Constitutional Law",
+    "question": "A discrimination against a man or a woman, only on grounds of .......... would be violative of Article 15(1)",
+    "options": [
+      "Sex",
+      "Remuneration",
+      "Place of birth",
+      "Religion"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Article 15(1). Article 15(1) of the Indian Constitution prohibits discrimination on the grounds of sex, religion, race, caste, or place of birth. Discrimination based solely on sex (gender) is specifically prohibited. Step 2: Conclusion. Thus, the correct answer is (A) Sex .",
+    "quickTip": "Article 15(1) is a key provision in ensuring equality and non-discrimination in India, particularly focusing on preventing gender-based discrimination."
+  },
+  {
+    "id": "aibe16-q89",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 89,
+    "subject": "Constitutional Law",
+    "question": "The “Objective Resolution” adopted by the constituent assembly on January 22, 1947 was drafted by",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Dr. Rajendra Prashad",
+      "B.N. Rao"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Objective Resolution. The Objective Resolution, which laid down the ideals for India’s Constitution, was introduced by Jawaharlal Nehru in the Constituent Assembly. It set the vision for the constitution and emphasized the principles of democracy, justice, and equality. Step 2: Conclusion. Thus, the correct answer is (A) Jawaharlal Nehru .",
+    "quickTip": "The Objective Resolution is a foundational document for India’s Constitution, outlining the goals for the nation’s governance and principles."
+  },
+  {
+    "id": "aibe16-q90",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 90,
+    "subject": "Constitutional Law",
+    "question": "Right to the property was eliminated from the list of Fundamental Rights during the tenure of",
+    "options": [
+      "Indira Gandhi",
+      "Charan Singh",
+      "Rajiv Gandhi",
+      "Morarji Desai"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the change. The right to property was removed from the list of Fundamental Rights during the tenure of Indira Gandhi through the 44th Amendment Act, 1978. The right to property was made a legal right instead. Step 2: Conclusion. Thus, the correct answer is (A) Indira Gandhi .",
+    "quickTip": "The 44th Amendment, 1978, made the right to property a legal right, limiting its protection under the Constitution as a Fundamental Right."
+  },
+  {
+    "id": "aibe16-q91",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 91,
+    "subject": "Evidence Law",
+    "question": "When the accused states, ”I will produce the share which I gave received in such and such robbery” which of the following are not admissible with regard to Section 25, Indian Evidence Act? (I) An admission that there was a robbery (II) An admission that the accused took part in it (III) An admission that he got part of the property (IV) A statement as to where the property is",
+    "options": [
+      "I, II and III",
+      "II and IV",
+      "II, III and IV",
+      "All of them"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Section 25 of the Indian Evidence Act. Section 25 of the Indian Evidence Act provides that confessions made to a police officer are not admissible in court. However, statements made by the accused about the facts of the case (such as admitting participation in a robbery or knowledge of the property) can be admissible, but a statement regarding the location of the property is considered hearsay and is not admissible as evidence. Step 2: Conclusion. Thus, the correct answer is (D) All of them .",
+    "quickTip": "Under Section 25 of the Indian Evidence Act, confessions made to police officers are inadmissible, but factual statements by the accused may be considered."
+  },
+  {
+    "id": "aibe16-q92",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 92,
+    "subject": "Legal Ethics",
+    "question": "The maximum limit of the members of the state bar council:",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "None."
+    ],
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the State Bar Council. The State Bar Council consists of members elected from the advocates enrolled with the respective State Bar Council. According to the provisions of the Advocates Act, the maximum limit of members of a State Bar Council is 20. Step 2: Conclusion. Thus, the correct answer is (B) 20 .",
+    "quickTip": "The State Bar Council has a maximum limit of 20 members according to the Advocates Act."
+  },
+  {
+    "id": "aibe16-q93",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 93,
+    "subject": "Contract Law",
+    "question": "Specific Relief Act 1963 contains-",
+    "options": [
+      "6 chapters and 40 Sections",
+      "7 chapters and 42 Sections",
+      "8 chapters and 43 Sections",
+      "8 chapters and 44 Sections"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Specific Relief Act, 1963. The Specific Relief Act, 1963, is a law relating to the enforcement of civil rights, dealing with specific performance of contracts, injunctions, and other remedies for breach of obligations. It contains 8 chapters and 44 sections. Step 2: Conclusion. Thus, the correct answer is (D) 8 chapters and 44 Sections .",
+    "quickTip": "The Specific Relief Act, 1963 provides remedies for civil rights violations and breach of contract, including specific performance and injunctions."
+  },
+  {
+    "id": "aibe16-q94",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 94,
+    "subject": "Civil Procedure",
+    "question": "What is the Period of Limitation for expeditious disposal of Suit under Specific Relief Act 1963:",
+    "options": [
+      "6 month",
+      "10 month",
+      "12 month",
+      "18 month"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the period of limitation. As per the Specific Relief Act, the period of limitation for filing a suit for specific relief or for expeditious disposal is 12 months from the date when the cause of action arises. This is mentioned under Section 20 of the Specific Relief Act, 1963. Step 2: Conclusion. Thus, the correct answer is (C) 12 month .",
+    "quickTip": "For specific relief, always keep track of the 12-month period from when the cause of action arises."
+  },
+  {
+    "id": "aibe16-q95",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 95,
+    "subject": "Criminal Law",
+    "question": "A Chief Judicial Magistrate may pass a sentence of imprisonment",
+    "options": [
+      "Not exceeding seven years",
+      "Exceeding seven years",
+      "For life",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Step 1: Powers of Chief Judicial Magistrate. A Chief Judicial Magistrate has the power to pass sentences of imprisonment that do not exceed seven years. This is as per Section 29 of the Criminal Procedure Code (CrPC), which defines the maximum sentencing power of the Chief Judicial Magistrate. Step 2: Conclusion. Thus, the correct answer is (A) Not exceeding seven years .",
+    "quickTip": "Chief Judicial Magistrates can only pass sentences of imprisonment that do not exceed seven years, as per the CrPC."
+  },
+  {
+    "id": "aibe16-q96",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 96,
+    "subject": "Civil Procedure",
+    "question": "Under Civil Procedure Code, 1908 “Foreign Court” means",
+    "options": [
+      "A court situated outside India",
+      "A court situated outside India and not established under the authority of Government of India",
+      "A court situated in India, applying foreign law",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Foreign Court. Under the Civil Procedure Code, 1908, the term ”Foreign Court” is defined broadly. It refers to any court located outside India, which may or may not be established under the authority of the Government of India. It also includes courts situated in India that apply foreign laws. Step 2: Conclusion. Thus, the correct answer is (D) All of the above .",
+    "quickTip": "A foreign court can be any court outside India or one that applies foreign law even within India."
+  },
+  {
+    "id": "aibe16-q97",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 97,
+    "subject": "Miscellaneous",
+    "question": "Misuse of mechanism of PILs means:-",
+    "options": [
+      "filing PILs for protection of private interest",
+      "filing PILs for oblique motive",
+      "filing PILs only for publicity",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding PIL misuse. Public Interest Litigation (PIL) is a powerful tool meant for public good. However, when PILs are filed for private interests, oblique motives, or merely for publicity, they are considered to be misuse of this legal mechanism. Step 2: Conclusion. Thus, the correct answer is (D) All of the above .",
+    "quickTip": "Misuse of PILs can undermine the justice system and waste judicial time. They should be filed only for genuine public interest."
+  },
+  {
+    "id": "aibe16-q98",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 98,
+    "subject": "Administrative Law",
+    "question": "What is meant by procedural ultra-vires?",
+    "options": [
+      "It is the non-observance of the procedural norms by the rule-making authority",
+      "It may make the rule ultra vires due to non-observance of rule-making authority and hence become void",
+      "It means the lacuna in the procedure of law",
+      "(a) and (b)"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding ultra vires. The term ”ultra vires” means beyond the powers or authority. In the context of procedural law, if a rule or action is beyond the legal authority of the rule-making body or violates procedural norms, it becomes ultra vires. This can happen when a rule is made by an authority that does not have the power to make it, or the procedure it establishes is not in accordance with the prescribed norms. Step 2: Conclusion. Thus, the correct answer is (D) (a) and (b) .",
+    "quickTip": "Always check whether the rule-making authority has the necessary legal power and follows due process to avoid procedural ultra vires."
+  },
+  {
+    "id": "aibe16-q99",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 99,
+    "subject": "Constitutional Law",
+    "question": "The ground of ”error of law apparent on the face of the record” is connected with which of the writ?",
+    "options": [
+      "Quo-warranto",
+      "Mandamus",
+      "Habeas Corpus",
+      "Certiorari"
+    ],
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the writs. Certiorari is a writ issued by a superior court to quash the order of a lower court or tribunal. The ”error of law apparent on the face of the record” is a common ground for issuing a certiorari writ, as it involves correcting legal errors made by a lower court or tribunal in its judgment. Step 2: Conclusion. Thus, the correct answer is (D) Certiorari .",
+    "quickTip": "Certiorari is used to correct clear legal errors made by inferior courts or authorities."
+  },
+  {
+    "id": "aibe16-q100",
+    "exam": "AIBE 16",
+    "year": 2022,
+    "questionNumber": 100,
+    "subject": "Civil Procedure",
+    "question": "Under Civil Procedure Code find the incorrect match:",
+    "options": [
+      "Section 5........... Revenue Court",
+      "Section 7........... Provincial Small Causes Court",
+      "Section 9........... Pecuniary Jurisdiction of Courts",
+      "Section 8........... Presidency Small Cause Courts"
+    ],
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Understanding the Sections of CPC. - Section 5 of the CPC relates to Revenue Courts. - Section 7 pertains to the Provincial Small Causes Court. - Section 9 relates to the jurisdiction of civil courts in general, not pecuniary jurisdiction. Pecuniary jurisdiction is addressed by Section 6 of the CPC. - Section 8 deals with the Presidency Small Cause Courts. Step 2: Conclusion. Thus, the incorrect match is (C) Section 9........... Pecuniary Jurisdiction of Courts .",
+    "quickTip": "Section 6 of the CPC specifically addresses pecuniary jurisdiction, not Section 9."
   },
   {
     "id": "aibe17-q1",

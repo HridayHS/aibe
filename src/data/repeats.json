@@ -20,16 +20,18 @@
         {
           "id": "aibe16-q35",
           "exam": "AIBE 16",
-          "year": 2021,
+          "year": 2022,
           "questionNumber": 35,
-          "question": "Constructive res - judicata is contained in which of the following?",
+          "question": "A offers a bribe to B, a public servant, as a reward for showing A some favour in the exercise of B’s official functions. B accepts the bribe.",
           "options": [
-            "Explanation III to Section 11",
-            "Explanation IV to Section 11",
-            "Explanation VI to Section 11",
-            "Explanation VIII to Section 11"
+            "A has abetted the offence defined in Section 160, IPC",
+            "A has abetted the offence defined in Section 161, IPC",
+            "A has abetted the offence defined in Section 162, IPC",
+            "A has abetted the offence defined in Section 163, IPC"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Step 1: Relevant section. Section 161 of the Indian Penal Code (prior to being replaced by provisions under the Prevention of Corruption Act, 1988) dealt with public servants taking gratification other than legal remuneration in respect of official acts. Step 2: Explanation. In this case, A, by offering a bribe to B (a public servant), has abetted the offence defined under Section 161 IPC since it involves giving gratification as a reward for official favor. Step 3: Conclusion. Thus, A has abetted the offence defined in Section 161, IPC .",
+          "quickTip": "Offering or accepting gratification in exchange for an official favor constitutes an offence under anti-corruption laws derived from Section 161 IPC."
         },
         {
           "id": "aibe17-q77",
@@ -280,16 +282,18 @@
         {
           "id": "aibe16-q54",
           "exam": "AIBE 16",
-          "year": 2021,
+          "year": 2022,
           "questionNumber": 54,
-          "question": "The Section of the Arbitration and Conciliation Act, dealing with the time of commencement of arbitral proceeding is",
+          "question": "What is ad hoc arbitration?",
           "options": [
-            "Section 20",
-            "Section 21",
-            "Section 22",
-            "None of the above"
+            "It is a proceeding administered by the parties themselves, with rules created solely for that specific case",
+            "Parties make their own arrangement with respect to all aspects of the arbitration, including the laws and rules",
+            "The seal of arbitration, the language, and the scope and issues to be resolved by means of arbitration",
+            "(A) (B) (C)"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "D",
+          "solution": "Step 1: Definition of ad hoc arbitration. Ad hoc arbitration refers to a type of arbitration where the parties involved agree to the arbitration process, set the rules, and make their own arrangements to govern the proceedings, instead of using a pre-established set of rules or institutional framework. Step 2: Key features. In ad hoc arbitration: - The parties design the rules of the arbitration. - They make decisions on procedural matters such as language, location, and issues to be resolved. - There is no reliance on an institutional body for administering the arbitration. Step 3: Conclusion. Therefore, ad hoc arbitration involves (A), (B), and (C) — the parties are in charge of creating the rules, arrangements, and managing the arbitration process.",
+          "quickTip": "Ad hoc arbitration allows flexibility in the arbitration process but can require more administrative effort from the parties involved."
         },
         {
           "id": "aibe20-q57",
@@ -425,16 +429,18 @@
         {
           "id": "aibe16-q65",
           "exam": "AIBE 16",
-          "year": 2021,
+          "year": 2022,
           "questionNumber": 65,
-          "question": "Amount of deduction under section 24 of The Income Tax Act from annual value is –",
+          "question": "Provision for settlement of dispute outside court has been provided under Section .............. of Civil Procedure Code.",
           "options": [
-            "1/2 of Annual Value",
-            "1/3 of Annual Value",
-            "3/10 of Annual Value",
-            "17/10 of Annual Value"
+            "91",
+            "89",
+            "51",
+            "151"
           ],
-          "correctAnswer": "C"
+          "correctAnswer": "B",
+          "solution": "Step 1: Relevant provision. Section 89 of the Civil Procedure Code (CPC) provides for the settlement of disputes outside of court, encouraging the use of alternative dispute resolution mechanisms such as mediation, conciliation, and arbitration. Step 2: Explanation. The section mandates the court to refer disputes for settlement through these alternative means before proceeding with a formal trial. Step 3: Conclusion. Hence, the correct answer is (B) 89 .",
+          "quickTip": "Section 89 promotes alternate dispute resolution methods to reduce the burden on courts and encourage quicker resolutions."
         },
         {
           "id": "aibe20-q38",
@@ -519,16 +525,18 @@
         {
           "id": "aibe16-q21",
           "exam": "AIBE 16",
-          "year": 2021,
+          "year": 2022,
           "questionNumber": 21,
-          "question": "Under Civil Procedure Code find the incorrect match:",
+          "question": "Schedule II of the Employees’ Compensation Act, 1923 deals with:",
           "options": [
-            "Section 5... Revenue Court",
-            "Section 7............ Provincial Small Causes Court",
-            "Section 9............ Pecuniary Jurisdiction of Courts",
-            "Section 8............ Presidency Small Cause Courts"
+            "Age factor for calculating the amount of compensation",
+            "List of persons who are included in the definition of ‘Employee’",
+            "List of occupational diseases",
+            "List of injuries deemed to result in Permanent Total Disablement"
           ],
-          "correctAnswer": "C"
+          "correctAnswer": "B",
+          "solution": "Step 1: Understanding Schedule II. The Employees’ Compensation Act, 1923 contains various schedules specifying factors relevant to compensation. Schedule II specifies who is covered under the term ‘employee’ . Step 2: Purpose of Schedule II. This Schedule includes workers such as railway servants, factory workers, drivers, and others engaged in hazardous occupations. Step 3: Conclusion. Hence, Schedule II deals with the list of persons included in the definition of ‘employee’ .",
+          "quickTip": "Remember: Schedule II = list of employees, Schedule III = occupational diseases, Schedule IV = compensation calculation factors."
         },
         {
           "id": "aibe18-q30",
