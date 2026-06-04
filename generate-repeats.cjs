@@ -112,7 +112,9 @@ WHITELISTED_CLUSTERS.forEach((cluster, idx) => {
         questionNumber: q.questionNumber,
         question: q.question,
         options: q.options,
-        correctAnswer: q.correctAnswer
+        correctAnswer: q.correctAnswer,
+        solution: q.solution,
+        quickTip: q.quickTip
       }))
     });
   }

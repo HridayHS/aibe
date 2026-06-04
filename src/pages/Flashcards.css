@@ -29,12 +29,21 @@
   padding: 2rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  overflow-y: auto;
+}
+
+.fc-front {
+  justify-content: center;
   text-align: center;
 }
 
-.fc-back { transform: rotateY(180deg); }
+.fc-back {
+  transform: rotateY(180deg);
+  justify-content: flex-start;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
 
 .fc-tags { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; }
 .tag-subject { color: var(--text-secondary); border-color: var(--border-default); background: var(--bg-tertiary); }
@@ -73,3 +82,68 @@
   justify-content: center;
   gap: 1rem;
 }
+
+/* Custom Scrollbar for Flashcards scrollable face */
+.fc-face::-webkit-scrollbar {
+  width: 4px;
+}
+.fc-face::-webkit-scrollbar-track {
+  background: transparent;
+}
+.fc-face::-webkit-scrollbar-thumb {
+  background: var(--gold-700);
+  border-radius: var(--radius-full);
+}
+
+.fc-solution-container {
+  margin-top: 1.25rem;
+  width: 100%;
+  max-width: 550px;
+  background: rgba(201, 168, 76, 0.03);
+  border: 1px solid rgba(201, 168, 76, 0.1);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  text-align: left;
+}
+
+.fc-solution-title {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gold-300);
+  margin-bottom: 0.35rem;
+}
+
+.fc-solution-body {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  white-space: pre-line;
+}
+
+.fc-quicktip-container {
+  margin-top: 0.75rem;
+  width: 100%;
+  max-width: 550px;
+  background: rgba(52, 211, 153, 0.03);
+  border: 1px dashed rgba(52, 211, 153, 0.15);
+  border-radius: var(--radius-sm);
+  padding: 0.65rem 0.85rem;
+  display: flex;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--text-primary);
+  text-align: left;
+}
+
+.fc-quicktip-icon {
+  font-size: 1rem;
+  color: var(--accent-300);
+  flex-shrink: 0;
+}
+
+.fc-quicktip-text {
+  font-weight: 500;
+}
+

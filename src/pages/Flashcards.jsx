@@ -17,6 +17,8 @@ questions.forEach(q => {
     front: q.question,
     back: q.options[ansIdx] || q.options[0],
     exam: q.exam,
+    solution: q.solution,
+    quickTip: q.quickTip,
   })
 })
 
@@ -72,6 +74,20 @@ export default function Flashcards() {
           <div className="fc-face fc-back">
             <div className="fc-answer-label">✅ Answer</div>
             <div className="fc-answer">{card.back}</div>
+            
+            {card.solution && (
+              <div className="fc-solution-container animate-in">
+                <div className="fc-solution-title">💡 Explanation</div>
+                <div className="fc-solution-body">{card.solution}</div>
+              </div>
+            )}
+            {card.quickTip && (
+              <div className="fc-quicktip-container animate-in">
+                <span className="fc-quicktip-icon">✨</span>
+                <span className="fc-quicktip-text">{card.quickTip}</span>
+              </div>
+            )}
+            
             <div className="fc-hint">Click to see question</div>
           </div>
         </div>

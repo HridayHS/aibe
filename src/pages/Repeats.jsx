@@ -88,9 +88,21 @@ export default function Repeats() {
                             <span className="opt-letter">{letter}</span> {opt}
                           </div>
                         )
-                      })}
-                    </div>
+                    })}
                   </div>
+                  {q.solution && (
+                    <div className="q-solution-box" style={{ marginTop: '0.75rem', marginBottom: '0.5rem' }}>
+                      <div className="q-solution-title">💡 Explanation</div>
+                      <div className="q-solution-text">{q.solution}</div>
+                    </div>
+                  )}
+                  {q.quickTip && (
+                    <div className="q-quicktip-box" style={{ marginTop: '0.5rem', marginBottom: '0.5rem' }}>
+                      <span className="q-quicktip-icon">✨</span>
+                      <span className="q-quicktip-text">{q.quickTip}</span>
+                    </div>
+                  )}
+                </div>
                 ))}
               </div>
             </div>

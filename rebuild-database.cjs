@@ -3200,11 +3200,11 @@ const OVERRIDES = {
     "question": "The Indian Contract Act, 1872, provides for specific situations where an agreement without consideration is not void. Which of the following agreements is valid despite the lack of fresh consideration?",
     "options": [
       "An oral promise by 'A' to pay 'B' ₹5000 for a service 'B' voluntarily rendered to 'A' last month.",
-      "A written and registered promise by a husband, out of natural love and affection, to transfer a",
+      "A written and registered promise by a husband, out of natural love and affection, to transfer property to his wife.",
       "A promise to subscribe ₹ 1 lakh to a public charitable fund.",
       "A promise made by a minor upon attaining majority to pay a debt incurred during his minority."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "isModernized": false
   },
   "aibe20-q55": {
@@ -4495,7 +4495,7 @@ function parseSequential(text, examName, year, isNonSequential) {
         exam: examName,
         year: year,
         questionNumber: qnum,
-        subject: 'Constitutional Law',
+        subject: 'Miscellaneous',
         ...OVERRIDES[qid]
       });
       continue;
@@ -4583,7 +4583,7 @@ function parseSequential(text, examName, year, isNonSequential) {
           question: questionText,
           options: [optA, optB, optC, optD],
           correctAnswer: answer,
-          subject: 'Constitutional Law'
+          subject: 'Miscellaneous'
         });
       }
     }

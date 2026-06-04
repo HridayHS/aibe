@@ -104,9 +104,23 @@ export default function Questions() {
               })}
             </div>
             {q.correctAnswer ? (
-              <button className="btn btn-ghost show-answer-btn" onClick={() => toggleAnswer(q.id)}>
-                {showAnswer[q.id] ? 'Hide Answer' : 'Show Answer'}
-              </button>
+              <>
+                <button className="btn btn-ghost show-answer-btn" onClick={() => toggleAnswer(q.id)}>
+                  {showAnswer[q.id] ? 'Hide Answer' : 'Show Answer'}
+                </button>
+                {showAnswer[q.id] && q.solution && (
+                  <div className="q-solution-box animate-in">
+                    <div className="q-solution-title">💡 Explanation</div>
+                    <div className="q-solution-text">{q.solution}</div>
+                  </div>
+                )}
+                {showAnswer[q.id] && q.quickTip && (
+                  <div className="q-quicktip-box animate-in">
+                    <span className="q-quicktip-icon">✨</span>
+                    <span className="q-quicktip-text">{q.quickTip}</span>
+                  </div>
+                )}
+              </>
             ) : (
               <div className="withdrawn-note">
                 <span>⚠️</span>

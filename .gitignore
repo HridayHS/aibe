@@ -19,3 +19,8 @@ new question paper pdfs/
 # Extraction scripts (dev only)
 extract-*.cjs
 check-*.cjs
+
+# Local scratch and source directories
+scratch/
+collegedunia.com/
+

@@ -78,14 +78,16 @@
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 61,
-          "question": "As per Section 11 of the Code of Civil Procedure, 1908 for Res Judicata to be applicable on a subsequent suit, the former suit I. has been finally decided. II. can only be instituted prior to the subsequent suit. III. relates to the same matter directly and substantially in issue in the subsequent suit. IV. is between the same parties, or between parties under whom they or any of them claim. Select the correct answer.",
+          "question": "As per Section 11 of the Code of Civil Procedure, 1908 for   Res Judicata   to be applicable on a subsequent suit, the former suit must satisfy the following conditions:  I. has been finally decided. II. can only be instituted prior to the subsequent suit. III. relates to the same matter directly and substantially in issue in the subsequent suit. IV. is between the same parties, or between parties under whom they or any of them claim.  Select the correct answer.",
           "options": [
             "I, II and III",
             "II, III and IV",
             "I, III and IV",
             "I, II, III and IV"
           ],
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "solution": "Step 1: Apply essentials of Res Judicata (Section 11 CPC).  A matter is barred when: it was finally decided, it concerns the same issue, and parties are the same or claiming under same title.  Step 2: Analyse each statement.  I – Correct: A former suit must be finally decided. II – Incorrect: Law does NOT say the former suit “can only be instituted prior”; it only must be decided earlier. III – Correct: Matter must be directly and substantially the same. IV – Correct: Parties must be same or claiming under them.  Step 3: Conclusion.  Thus the correct combination is I, III and IV.",
+          "quickTip": "Res Judicata = Same matter + Same parties + Former suit finally decided."
         }
       ]
     },
@@ -141,14 +143,16 @@
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 73,
-          "question": "Which Section of the Advocates Act, 1961 provides for the disciplinary powers of the Bar Council of India ?",
+          "question": "Which Section of the Advocates Act, 1961 provides for the disciplinary powers of the Bar Council of India?",
           "options": [
-            "Section 35 35",
-            "Section 36 36",
-            "Section 37 37",
-            "Section 380 38"
+            "Section 35",
+            "Section 36",
+            "Section 37",
+            "Section 38"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Step 1: Understanding powers.  Section 35   →   State Bar Council. Section 36   →   Bar Council of India (BCI).  Step 2: Application.  BCI can withdraw cases from State Bar Councils and decide them itself under Section 36.  Step 3: Conclusion.  Therefore, Section 36 is the correct section.",
+          "quickTip": "Discipline: State Bar Council = Section 35; BCI = Section 36."
         }
       ]
     },
@@ -185,14 +189,16 @@
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 69,
-          "question": "The grounds for decree for dissolution of marriage under Section 2 of the Dissolution of Muslim Marriages Act, 1939 are that the: I. whereabouts of the husband have not been known for a period of two years. II. husband has been sentenced to imprisonment for a period of five years. III. husband has failed to perform, without reasonable cause, his marital obligations for a period of two years. IV. husband has neglected or has failed to provide for maintenance of his wife for a period of one year. Select the correct answer.",
+          "question": "The grounds for decree for dissolution of marriage under Section 2 of the Dissolution of Muslim Marriages Act, 1939 are:  I. whereabouts of the husband have not been known for two years. II. husband has been sentenced to imprisonment for a period of five years. III. husband has failed to perform marital obligations for two years without reasonable cause. IV. husband has neglected or failed to maintain his wife for one year.  Select the correct answer.",
           "options": [
             "III and IV",
             "I and II",
             "I, II, III and IV",
             "None of these"
           ],
-          "correctAnswer": "D"
+          "correctAnswer": "C",
+          "solution": "Step 1: Section 2 grounds.  All four given grounds appear exactly in clauses (i), (iii), (ii), and (iv) of Section 2 of the Act.  Step 2: Application.  Each of the grounds—absence, imprisonment, failure of obligations, and failure to maintain—is sufficient for decree.  Step 3: Conclusion.  Thus, all I, II, III and IV are correct.",
+          "quickTip": "Muslim Marriages Act Section 2   →   multiple independent grounds; wife-friendly legislation."
         }
       ]
     },
@@ -274,14 +280,16 @@
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 57,
-          "question": "In the absence of an agreement between the parties, the arbitration proceedings are said to have commenced under Section 21 of The Arbitration and Conciliation Act, 1996:",
+          "question": "In the absence of an agreement between the parties, the arbitration proceedings are said to have commenced under Section 21 of the Arbitration and Conciliation Act, 1996:",
           "options": [
-            "on the date of appointment of arbitrator.",
-            "on the date the arbitration agreement is signed.",
-            "on the date the request for reference is received by the respondent.",
-            "on the date the arbitral tribunal issues notice."
+            "on the date of appointment of arbitrator",
+            "on the date the arbitration agreement is signed",
+            "on the date the request for reference is received by the respondent",
+            "on the date the arbitral tribunal issues notice"
           ],
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "solution": "Step 1: Understanding Section 21.  Arbitration commences when the respondent receives the request to refer disputes to arbitration—unless parties agreed otherwise.  Step 2: Importance.  This date determines limitation and procedural timelines.  Step 3: Conclusion.  Thus proceedings commence when the respondent receives the request.",
+          "quickTip": "Section 21   →   Commencement = date of receipt of arbitration request by respondent."
         }
       ]
     },
@@ -364,14 +372,16 @@
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 36,
-          "question": "Read the given statements and choose the correct option..\nStatement 1: Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction.\nStatement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually received. In the context of the above statements under the Negotiable Instruments Act, 1881, which one of the following is correct?",
+          "question": "Read the given statements and choose the correct option. Statement 1: Under the Negotiable Instruments Act, 1881, a negotiable instrument made, drawn, accepted, or transferred without consideration creates no obligation of payment between the parties to the transaction. Statement 2: According to the same Act, if the consideration for which a negotiable instrument was issued fails in part, the holder in immediate relation is entitled to recover only the proportionate amount corresponding to the consideration actually received.",
           "options": [
             "Both Statements 1 and 2 are false",
             "Only Statement 1 is true",
             "Only Statement 2 is true",
             "Both the Statements are true"
           ],
-          "correctAnswer": "D"
+          "correctAnswer": "D",
+          "solution": "Step 1: Verifying Statement 1.  Section 43 NI Act states that an instrument without consideration creates no payment obligation between the involved parties. Hence, Statement 1 is correct.  Step 2: Verifying Statement 2.  If consideration partially fails, the holder in immediate relation may recover only the proportionate amount (Section 44). Hence, Statement 2 is also correct.  Step 3: Conclusion.  Both statements correctly reflect Sections 43 and 44 of the NI Act.",
+          "quickTip": "Section 43   →   No consideration = no liability; Section 44   →   Partial failure = proportionate recovery."
         }
       ]
     },
@@ -409,14 +419,16 @@
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 38,
-          "question": "Under Section 24(a) of the Income - tax Act, 1961, what percentage of the annual value of an income from house property is allowed as a standard deduction?",
+          "question": "Under Section 24(a) of the Income-tax Act, 1961, what percentage of the annual value of an income from house property is allowed as a standard deduction?",
           "options": [
             "20",
             "40",
             "30",
             "50"
           ],
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "solution": "Step 1: Understanding Section 24(a).  Section 24(a) provides a flat 30  Step 2: Purpose.  This accounts for repairs, maintenance, and other related costs without the need for proof.  Step 3: Conclusion.  Standard deduction = 30",
+          "quickTip": "House property income = Annual Value – 30"
         }
       ]
     },
