@@ -64,14 +64,16 @@
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 36,
-          "question": "Which section of the CPC deals with the principle of \"res judicata\"?",
+          "question": "Which section of the CPC deals with the principle of “res judicata”?",
           "options": [
-            "Section 11 11",
-            "Section 10 10",
-            "Section 12 12",
-            "Section 9 9"
+            "Section 11",
+            "Section 10",
+            "Section 12",
+            "Section 9"
           ],
-          "correctAnswer": "A"
+          "correctAnswer": "A",
+          "solution": "Step 1: Meaning.  Res judicata means “a matter once judicially decided is finally decided.” It prevents the same parties from re-litigating the same issue.  Step 2: Section 11 CPC.  This section bars courts from trying suits or issues already adjudicated between the same parties by a competent court.  Step 3: Conclusion.  Thus, Section 11 = Doctrine of res judicata.",
+          "quickTip": "Res judicata ensures finality of judgments   →   prevents multiplicity of litigation."
         },
         {
           "id": "aibe20-q61",
@@ -236,14 +238,16 @@
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 53,
-          "question": "Aarti and Rajesh have been married for five years. Over time, Aarti has been subjected to continuous cruelty by Rajesh, which has led to emotional and mental distress. Aarti decides to file for divorce on the grounds of cruelty under Section 13(1)(ia) of t he Hindu Marriage Act, 1955. Which of the following statements is true regarding the grounds for divorce under the Hindu Marriage Act ?",
+          "question": "Aarti seeks divorce on cruelty grounds under Section 13",
           "options": [
-            "Aarti can only seek divorce on the grounds of adultery.",
-            "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental or physical cruelty.",
-            "Aarti cannot seek divorce on the grounds of cruelty as it is not recognized under the Hindu Marriage Act.",
-            "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition."
+            "(ia) HMA. Which is true? (1) Only adultery allows divorce",
+            "Cruelty includes mental and emotional cruelty, not just physical",
+            "Divorce not available on cruelty grounds",
+            "Must prove cruelty was intentional"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Step 1: Provision.  Section 13(1)(ia) recognizes cruelty as a valid ground for divorce.  Step 2: Judicial interpretation.  Courts have clarified that cruelty includes mental harassment, emotional torture, and not only physical violence. Intention is not necessary.  Step 3: Conclusion.  Hence, Aarti can seek divorce based on continuous mental cruelty.",
+          "quickTip": "Cruelty under HMA includes mental, emotional, and physical cruelty."
         }
       ]
     },
@@ -327,14 +331,16 @@
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 33,
-          "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court ?",
+          "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court?",
           "options": [
-            "Section 132 132",
-            "Section 133 133",
-            "Section 128 128",
-            "Section 130 130"
+            "Section 132",
+            "Section 133",
+            "Section 128",
+            "Section 130"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Step 1: Rationale for exemption.  Certain high dignitaries of the State should not be burdened with personal appearances in court due to their constitutional responsibilities.  Step 2: Relevant provision.  Section 133 CPC exempts the President of India and the Governors of states from appearing personally in court. Instead, they can be represented through officers.  Step 3: Conclusion.  So, the correct answer is Section 133.",
+          "quickTip": "Section 132   →   Women exemption. Section 133   →   President and Governors exemption."
         }
       ]
     },
@@ -465,14 +471,16 @@
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 85,
-          "question": "The term \"Income\" is described in the Income Tax Act, 1961 under -------------- .",
+          "question": "The term “Income” is described in the Income Tax Act, 1961 under   .",
           "options": [
-            "Section 2 (24) 2 (24)",
-            "Section 2 (40) 2(40)",
-            "Section 3 3",
-            "Section 10 E 10 E"
+            "Section 2(24)",
+            "Section 2(20)",
+            "Section 3",
+            "Section 10E"
           ],
-          "correctAnswer": "A"
+          "correctAnswer": "A",
+          "solution": "Section 2(24) of the Income Tax Act defines “Income” inclusively, covering profits, dividends, capital gains, winnings from lotteries, etc.",
+          "quickTip": "Section 2(24) is a wide definition, not exhaustive."
         }
       ]
     },

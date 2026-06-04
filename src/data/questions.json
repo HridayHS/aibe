@@ -7733,7 +7733,7 @@
     "year": 2024,
     "questionNumber": 1,
     "subject": "Constitutional Law",
-    "question": "In which case was a registered society held to be an \"authority\" for the purpose of Article 12 ?",
+    "question": "In which case was a registered society held to be an “authority” for the purpose of Article 12?",
     "options": [
       "Som Prakash vs. Union of India",
       "Ajay Hasia vs. Khalid Mujib",
@@ -7741,7 +7741,9 @@
       "R.D. Shetty vs. International Airport Authority"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding Article 12.  Article 12 of the Indian Constitution defines “State” to include the Government, Parliament, Legislature, local authorities, and other authorities. The question revolves around whether a registered society qualifies as an “authority.”  Step 2: Landmark case.  In   Ajay Hasia vs.   Khalid Mujib (1981) , the Supreme Court held that even a registered society, if it performs public functions and is substantially financed/controlled by the Government, will fall under the definition of “State” under Article 12.  Step 3: Conclusion.  Therefore, the correct case is   Ajay Hasia vs. Khalid Mujib .",
+    "quickTip": "Remember: Any body that is substantially controlled, financed, or performing a public function can be treated as “State” under Article 12."
   },
   {
     "id": "aibe19-q2",
@@ -7749,7 +7751,7 @@
     "year": 2024,
     "questionNumber": 2,
     "subject": "Constitutional Law",
-    "question": "In which case did the Supreme Court of India held that fundamental rights cannot be waived?",
+    "question": "In which case did the Supreme Court hold that fundamental rights cannot be waived?",
     "options": [
       "Gopala vs. State of Madras",
       "Kameshwar Singh vs. State of Bihar",
@@ -7757,7 +7759,9 @@
       "Basheshar Nath vs. I.T. Commissioner"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Context.  The waiver of fundamental rights means voluntarily giving up such rights by an individual. The question is whether this is constitutionally permissible.  Step 2: Supreme Court ruling.  In   Basheshar Nath vs. I.T. Commissioner (1959) , the Supreme Court categorically held that   fundamental rights cannot be waived , as they are guaranteed by the Constitution and are essential to the basic structure of democracy.  Step 3: Conclusion.  Therefore, fundamental rights are inalienable and cannot be waived by an individual.",
+    "quickTip": "Fundamental rights are guaranteed protections and cannot be waived or surrendered voluntarily."
   },
   {
     "id": "aibe19-q3",
@@ -7765,7 +7769,7 @@
     "year": 2024,
     "questionNumber": 3,
     "subject": "Constitutional Law",
-    "question": "By which Constitutional Amendment was clause (4B) inserted into Article 16 ?",
+    "question": "By which Constitutional Amendment was clause (4B) inserted into Article 16?",
     "options": [
       "81",
       "91",
@@ -7773,7 +7777,9 @@
       "85"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding Article 16.  Article 16 deals with equality of opportunity in matters of public employment.   To balance equality with reservation, amendments have been introduced over time.  Step 2: Clause (4B).  The   81st Constitutional Amendment Act, 2000   inserted   clause (4B)   into Article 16. It allowed the Government to treat unfilled reserved vacancies as a separate class, to be filled in subsequent years, thus protecting the “carry-forward rule.”  Step 3: Conclusion.  Hence, the correct answer is the 81st Amendment.",
+    "quickTip": "The 81st Amendment Act, 2000 introduced Article 16(4B) to support reservation policies by allowing the carry forward of backlog vacancies."
   },
   {
     "id": "aibe19-q4",
@@ -7781,7 +7787,7 @@
     "year": 2024,
     "questionNumber": 4,
     "subject": "Constitutional Law",
-    "question": "Which of the following statement is correct about 106 th Constitutional Amendment Act ?:\n(i) It introduces Article 239A by which seats are reserved for women in legislative assembly of the national capital territory of Delhi.\n(ii) It introduces Article 338 providing for the reservation of seats for women\n\nin the house of people.\n(iii) It also adds Article 334 A which states in that the said amendment will commence after the first census have been taken after the commencement of the said Act.\n(iv) The above stated shall cease to have effect on the expiration of a period of 15 years from such commencement.",
+    "question": "Which of the following statements is correct about the 106th Constitutional Amendment Act? (i) It introduces Article 239A by which seats are reserved for women in the legislative assembly of the National Capital Territory of Delhi. (ii) It introduces Article 330A providing for the reservation of seats for women in the House of People. (iii) It also adds Article 334A which states that the said amendment will commence after the first census has been taken after the commencement of the said Act. (iv) The above stated shall cease to have effect on the expiration of a period of 15 years from such commencement.",
     "options": [
       "(i), (ii) & (iii)",
       "(i), (iii) & (iv)",
@@ -7789,7 +7795,9 @@
       "All of these"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Context.  The 106th Constitutional Amendment Act deals with   reservation of seats for women .  Step 2: Specific provisions.  - Article 330A: Reservation of seats for women in the House of People. - Article 334A: Implementation after the first census post-commencement, with a validity of 15 years. - Note: Article 239A is unrelated to this Amendment.  Step 3: Conclusion.  Thus, statements (ii), (iii), and (iv) are correct.",
+    "quickTip": "The 106th Amendment introduced women’s reservation in the Lok Sabha and State Assemblies, with implementation linked to census data."
   },
   {
     "id": "aibe19-q5",
@@ -7797,22 +7805,25 @@
     "year": 2024,
     "questionNumber": 5,
     "subject": "Constitutional Law",
-    "question": "The Parliament enacts the \"Fair Housing Act, 2024\", which includes the following provisions : (1) Section 3 : Prohibits discrimination in renting or selling houses based on religion, caste, or gender. (2) Section 6 : Imposes a penalty of ₹ 10,000 for discrimination. (3) Section 10 : Makes it mandatory for landlords to disclose the religious background of all tenants in the previous 10 years. A citizen challenges Section 10, arguing that it violates the right to privacy under Article 21 of the Indian Constitution. The Supreme Court declares Section 10 unconstitutional but upholds the other provisions of the law. What principle did the court apply in this decision ?",
+    "question": "The Parliament enacts the “Fair Housing Act, 2024,” which includes the following provisions:",
     "options": [
-      "Doctrine of Eclipse",
-      "Doctrine of Severability",
-      "Doctrine of Basic Structure ALL INDIA BAR EXAMINATION - XIX (Set Code - A)",
-      "Doctrine of Colour able Legislation"
+      "Section 3:   Prohibits discrimination in renting or selling houses based on religion, caste, or gender.",
+      "Section 6: Imposes a penalty of 10,000 for discrimination.",
+      "Section 10: Makes it mandatory for landlords to disclose the religious background of all tenants in the previous 10 years. A citizen challenges Section 10, arguing that it violates the right to privacy under Article 21 of the Indian Constitution. The Supreme Court declares Section 10 unconstitutional but upholds the other provisions of the law. What principle did the court apply in this decision? (1) Doctrine of Eclipse (2) Doctrine of Severability (3) Doctrine of Basic Structure",
+      "Doctrine of Colourable Legislation"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the principle.  The doctrine of severability allows the Court to strike down unconstitutional portions of a law while keeping the valid parts operative.  Step 2: Application here.  In this case, Section 10 of the Fair Housing Act was struck down as unconstitutional for violating Article 21 (right to privacy), but Sections 3 and 6 were upheld as valid.  Step 3: Conclusion.  This clearly demonstrates the application of the Doctrine of Severability.",
+    "quickTip": "The Doctrine of Severability ensures that only the unconstitutional part of a law is invalidated, not the entire law."
   },
   {
     "id": "aibe19-q6",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 6,
-    "question": "The reports of the Comptroller and Auditor General of India relating to the accounts of a State shall be submitted to the -------- ?",
+    "subject": "Constitutional Law",
+    "question": "The reports of the Comptroller and Auditor General of India relating to the accounts of a State shall be submitted to the",
     "options": [
       "Governor",
       "Committee on Public Undertakings",
@@ -7820,7 +7831,9 @@
       "Public Accounts Committee"
     ],
     "correctAnswer": "A",
-    "subject": "Constitutional Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding the role of the CAG.  The Comptroller and Auditor General (CAG) prepares reports relating to the accounts of the Union and the States.  Step 2: Submission procedure.  For Union accounts, CAG submits reports to the President.   For State accounts, the reports are submitted to the   Governor   of the State, who then places them before the State Legislature.  Step 3: Conclusion.  Therefore, in case of State accounts, the CAG report is submitted to the Governor.",
+    "quickTip": "Remember: CAG   →   President (Union) and Governor (State)."
   },
   {
     "id": "aibe19-q7",
@@ -7830,13 +7843,15 @@
     "subject": "Constitutional Law",
     "question": "Which of the following Article of the Constitution of India declares that the Supreme Court shall be a court of record?",
     "options": [
-      "Article 119 119",
-      "Article 111 111",
-      "Article 129 129",
-      "Article 135 135"
+      "Article 119",
+      "Article 111",
+      "Article 129",
+      "Article 135"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Meaning of Court of Record.  A court of record is one whose acts and proceedings are recorded for perpetual memory and testimony. It also has the power to punish for contempt of court.  Step 2: Constitutional Provision.  Article 129 of the Indian Constitution declares that the   Supreme Court shall be a Court of Record   and shall have all powers of such a court, including punishment for contempt.  Step 3: Conclusion.  Therefore, Article 129 is the correct answer.",
+    "quickTip": "Both Supreme Court (Article 129) and High Courts (Article 215) are Courts of Record."
   },
   {
     "id": "aibe19-q8",
@@ -7844,7 +7859,7 @@
     "year": 2024,
     "questionNumber": 8,
     "subject": "Constitutional Law",
-    "question": "Which article deals with the powers. privileges, and immunities of Parliament and its members ?",
+    "question": "Which article deals with the powers, privileges, and immunities of Parliament and its members?",
     "options": [
       "107",
       "105",
@@ -7852,15 +7867,17 @@
       "102"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the article.  The powers, privileges, and immunities of Parliament and its members ensure free and independent functioning of the legislative process.  Step 2: Constitutional reference.  Article 105 specifically deals with such privileges and immunities of Members of Parliament.  Step 3: Conclusion.  Hence, the correct answer is Article 105.",
+    "quickTip": "Article 105: Privileges of Parliament. Article 194: Privileges of State Legislatures."
   },
   {
     "id": "aibe19-q9",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 9,
-    "subject": "Tax Law",
-    "question": "Which Constitutional Amendment Act inserted provisions related to GST ?",
+    "subject": "Constitutional Law",
+    "question": "Which Constitutional Amendment Act inserted provisions related to GST?",
     "options": [
       "99",
       "100",
@@ -7868,7 +7885,9 @@
       "102"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: GST introduction.  Goods and Services Tax (GST) was introduced to create a uniform indirect tax regime across India.  Step 2: Amendment.  The   101st Constitutional Amendment Act, 2016   inserted provisions for GST in the Constitution. It empowered both the Union and State governments to levy GST.  Step 3: Conclusion.  Therefore, GST was introduced by the 101st Amendment.",
+    "quickTip": "GST was introduced by the 101st Amendment in 2016 and came into effect on 1st July 2017."
   },
   {
     "id": "aibe19-q10",
@@ -7884,22 +7903,27 @@
       "Rajya Sabha"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Constitutional provision.  Article 61 provides the procedure for impeachment of the President.  Step 2: Initiation.  Impeachment can be initiated by   either House of Parliament . The charges must be framed and passed by a two-thirds majority of the total membership.  Step 3: Conclusion.  Therefore, impeachment proceedings can be initiated in either the Lok Sabha or the Rajya Sabha.",
+    "quickTip": "Impeachment of the President involves both Houses: initiated in one, investigated and passed by both."
   },
   {
     "id": "aibe19-q11",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 11,
-    "question": "Bhartiya Nyaya Sanhita, 2023 considers force to be \"Criminal Force\" : ?",
+    "subject": "Miscellaneous",
+    "question": "Bhartiya Nyaya Sanhita, 2023 considers force to be “Criminal Force”:",
     "options": [
       "When it is used unintentionally.",
       "When intentionally uses force only.",
       "When it is used intentionally without consent, causing injury, fear or annoyance.",
-      "When it is used in self - defence."
+      "When it is used in self-defence."
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law"
+    "isModernized": false,
+    "solution": "The Bhartiya Nyaya Sanhita defines criminal force as the   intentional use of force without consent , with the outcome of causing injury, fear, or annoyance. Unintentional use of force, self-defence, or mere application of force does not fall under this definition.",
+    "quickTip": "Remember: “Criminal Force” requires both intention and lack of consent."
   },
   {
     "id": "aibe19-q12",
@@ -7907,15 +7931,17 @@
     "year": 2024,
     "questionNumber": 12,
     "subject": "Criminal Law",
-    "question": "According to Bhartiya Nyaya Sanhita, 2023, what is the maximum fine for making or using a document that resembles a currency note or a bank note under Section 182(1)?",
+    "question": "According to Bhartiya Nyaya Sanhita, 2023, what is the maximum fine for making or using a document that resembles a currency note or a bank note under Section 182",
     "options": [
-      "One hundred rupees",
+      "? (1) One hundred rupees",
       "Five hundred rupees",
       "Three hundred rupees",
       "One thousand rupees"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Under Section 182(1) of the Bhartiya Nyaya Sanhita, 2023, the maximum fine for making or using a document resembling a currency or bank note is prescribed as   300 . This aims to prevent counterfeiting and circulation of false instruments.",
+    "quickTip": "Counterfeiting-related provisions often prescribe both imprisonment and fine; here, a fine limit is specifically defined."
   },
   {
     "id": "aibe19-q13",
@@ -7923,15 +7949,17 @@
     "year": 2024,
     "questionNumber": 13,
     "subject": "Criminal Law",
-    "question": "According to the provisions of the Bhartiya Nyaya Sanhita, 2023, the right of private defence of property extends to the voluntary causing of death or of any other harm to the wrong - doer in which of the offences committed or attempting to be committed? (1) Robbery (2) House - breaking after sunset (3) Theft, mischief or house trespass",
+    "question": "According to the provisions of the Bhartiya Nyaya Sanhita, 2023, the right of private defence of property extends to the voluntary causing of death or of any other harm to the wrong-doer in which of the offences committed or attempting to be committed?",
     "options": [
-      "(1) only",
-      "(1) and (3) both",
-      "(1) and (2) both",
-      "(1) (2) and (3)"
+      "Robbery",
+      "House-breaking after sunset",
+      "Theft, mischief or house trespass",
+      "(1), (2) and (3)"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "The law permits a person to defend their property to the extent of causing death when facing: - Robbery, - House-breaking after sunset, - Theft, mischief, or house trespass (in aggravated forms). Thus, all three listed offences are covered.",
+    "quickTip": "Private defence of property allows extreme measures when faced with grave offences like robbery or house-breaking after sunset."
   },
   {
     "id": "aibe19-q14",
@@ -7939,15 +7967,17 @@
     "year": 2024,
     "questionNumber": 14,
     "subject": "Criminal Law",
-    "question": "Rajesh, in a heated argument with Sunil, strikes him with a heavy iron rod. The blow fractures Sunil's arm, and he is unable to use it for several weeks. The medical report confirms that the fracture amounts to grievous hurt. Which of the following offenses has Rajesh committed?",
+    "question": "Rajesh, in a heated argument with Sunil, strikes him with a heavy iron rod.   The blow fractures Sunil’s arm, and he is unable to use it for several weeks.   The medical report confirms that the fracture amounts to grievous hurt. Which of the following offences has Rajesh committed?",
     "options": [
-      "Simple hurt under Section 115 of BNS, 2023",
-      "Voluntarily causing grievous hurt under Section 117 of BNS, 2023",
-      "Voluntarily causing hurt by dangerous weapon under Section 117(3) of BNS, 2023",
-      "Attempt to commit culpable homicide under Section 110 of BNS, 2023"
+      "Simple hurt under Section 323 of IPC",
+      "Voluntarily causing grievous hurt under Section 325 of IPC",
+      "Voluntarily causing hurt under Section 324 of IPC",
+      "Attempt to commit culpable homicide under Section 308 of IPC"
     ],
     "correctAnswer": "B",
-    "isModernized": true
+    "isModernized": false,
+    "solution": "The injury caused was a fracture, which is legally recognized as   grievous hurt . Section 325 IPC (now BNS equivalent) punishes voluntarily causing grievous hurt. Thus, Rajesh is guilty under Section 325.",
+    "quickTip": "Fracture or dislocation of bone is always classified as grievous hurt."
   },
   {
     "id": "aibe19-q15",
@@ -7955,15 +7985,17 @@
     "year": 2024,
     "questionNumber": 15,
     "subject": "Criminal Law",
-    "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with the knowledge that his actions were likely to cause death. However, there is no evidence of premeditation or intent to murder Vijay. Which of the following offenses has Amit committed?",
+    "question": "Amit, intending to cause the death of Vijay, attacks him with a knife. Vijay sustains severe injuries and dies on the spot. The investigation reveals that Amit acted with knowledge that his actions were likely to cause death. However, there is no evidence of premeditation or intent to murder Vijay. Which of the following offences has Amit committed?",
     "options": [
-      "Murder under Section 101 of BNS, 2023",
-      "Culpable homicide not amounting to murder under Section 105 of BNS, 2023",
-      "Causing death by negligence under Section 106 of BNS, 2023",
-      "Voluntarily causing grievous hurt under Section 117 of BNS, 2023"
+      "Murder under Section 302 of IPC",
+      "Culpable homicide not amounting to murder under Section 304 of IPC",
+      "Causing death by negligence under Section 304A of IPC",
+      "Voluntarily causing grievous hurt under Section 325 of IPC"
     ],
     "correctAnswer": "B",
-    "isModernized": true
+    "isModernized": false,
+    "solution": "Since there was no pre-planned intent or motive, it does not amount to murder. The act was dangerous and knowingly likely to cause death. Hence, it falls under   Section 304 IPC   (culpable homicide not amounting to murder).",
+    "quickTip": "Premeditated intent = Murder (302).   Knowledge without intent = Culpable homicide (304)."
   },
   {
     "id": "aibe19-q16",
@@ -7971,7 +8003,7 @@
     "year": 2024,
     "questionNumber": 16,
     "subject": "Criminal Law",
-    "question": "Amit and Rani decide to break into a house at night with the intent of stealing valuables. They use a crowbar to force open the door, but before they can take anything, the owner of the house, Vikram, unexpectedly arrives home. Amit and Rani panic and run away without stealing anything. The police arrest them the following morning based on a complaint from Vikram. Which of the following offenses under the BNS have Amit and Rani committed ?",
+    "question": "Amit and Rani decide to break into a house at night with the intent of stealing valuables. They use a crowbar to force open the door, but before they can take anything, the owner arrives. Amit and Rani panic and run away without stealing. The police arrest them. Which of the following offences under the BNS have Amit and Rani committed?",
     "options": [
       "Attempt to commit theft",
       "House trespass with intent to commit theft",
@@ -7979,7 +8011,9 @@
       "Burglary"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "The essential ingredients:   - Entry into another’s house by force, - At night, with intent to commit theft, - Theft not completed. This constitutes   house trespass with intent to commit theft .",
+    "quickTip": "Mere entry with intent = house trespass; execution of theft not necessary for the offence."
   },
   {
     "id": "aibe19-q17",
@@ -7987,7 +8021,7 @@
     "year": 2024,
     "questionNumber": 17,
     "subject": "Criminal Law",
-    "question": "Punishment for rape in cases where the victim is a woman below the age of 16 or 12 is included in which section of the BNS ?",
+    "question": "Punishment for rape in cases where the victim is a woman below the age of 16 or 12 is included in which section of the BNS?",
     "options": [
       "64",
       "65",
@@ -7995,7 +8029,9 @@
       "72"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "The Bhartiya Nyaya Sanhita, 2023 prescribes stricter punishments for aggravated forms of rape, including those where the victim is a minor (below 16 or 12). Section 65 deals with such cases.",
+    "quickTip": "Always remember: aggravated circumstances (like minor victim) invoke stricter punishments."
   },
   {
     "id": "aibe19-q18",
@@ -8003,7 +8039,7 @@
     "year": 2024,
     "questionNumber": 18,
     "subject": "Criminal Law",
-    "question": "A new offense of 'Snatching' has been introduced by the BNS. Which section of the BNS defines 'Snatching' as an offense ?",
+    "question": "A new offence of “Snatching” has been introduced by the BNS. Which section of the BNS defines “Snatching” as an offence?",
     "options": [
       "308",
       "303",
@@ -8011,7 +8047,9 @@
       "304"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "The Bhartiya Nyaya Sanhita has classified “snatching” as a distinct offence. Section   304   defines and punishes this act.",
+    "quickTip": "“Snatching” has been newly codified under BNS to deal with rising cases distinct from theft or robbery."
   },
   {
     "id": "aibe19-q19",
@@ -8019,37 +8057,43 @@
     "year": 2024,
     "questionNumber": 19,
     "subject": "Criminal Law",
-    "question": "Consider the following statements and answer the question given below: - (1) Raju can be arrested only if he commits a non - cognizable offence in the presence of Mr. Patel./(2) Since the reasonable complaint against Raju has been received and there is a strong suspicion exists due to the testimony of villagers, he can be immediately arrested. (3) Raju can be arrested only when he tries to escape or run away. (4) Raju can be arrested so as to prevent him from making any inducement, threat or promise to any person acquainted with facts and circumstances. Which of the above is/are the correct statement?",
+    "question": "Consider the following statements and answer: Mr.   Patel, being a police officer, receives a complaint that Raju was involved in a robbery of bank property and helped to hide valuables in his farm, as stated by villagers.   With this regard:",
     "options": [
-      "(1) and (3)",
-      "(2) and (4)",
-      "Only (4)",
-      "Only (2)"
+      "The Police Officer Mr. Patel may arrest Raju without warrant when Raju can be arrested only if he commits a non-cognizable offence in the presence of Mr. Patel.",
+      "Since the reasonable complaint against Raju has been received and strong suspicion exists, he can be immediately arrested.",
+      "Raju can be arrested only when he tries to escape or run away.",
+      "Raju can be arrested to prevent him from making inducement, threat, or promise to witnesses. (1) (1) and (3) (2) (2) and (4) (3) Only (4) (4) Only (2)"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Arrest without warrant is valid when: - A reasonable complaint and strong suspicion exists, - Preventive measures are needed to stop inducement/threat to witnesses. Thus, statements (2) and (4) are correct.",
+    "quickTip": "Arrest without warrant is justified in cognizable cases, especially to prevent interference with justice."
   },
   {
     "id": "aibe19-q20",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 20,
-    "question": "BNSS introduced the provision of registration of FIR relating to commission of cognizable offense irrespective of area where the offense is committed. This FIR is known as ---------- .",
+    "subject": "Criminal Law",
+    "question": "BNSS introduced the provision of registration of FIR relating to commission of cognizable offences irrespective of area where the offence is committed. This FIR is known as:",
     "options": [
-      "NCR ( NCR)",
-      "Zero FIR ( FIR)",
-      "False FIR ( FIR)",
-      "Counter FIR ( FIR)"
+      "NCR",
+      "Zero FIR",
+      "False FIR",
+      "Counter FIR"
     ],
     "correctAnswer": "B",
-    "subject": "Criminal Law"
+    "isModernized": true,
+    "solution": "Zero FIR refers to the registration of an FIR at any police station irrespective of jurisdiction. It can later be transferred to the appropriate station.",
+    "quickTip": "Zero FIR ensures no delay in registering complaints of cognizable offences."
   },
   {
     "id": "aibe19-q21",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 21,
-    "question": "The BNSS mandates a forensic team to visit the crime scenes to collect evidence for offenses punishable with imprisonment for at least ------ years.",
+    "subject": "Criminal Law",
+    "question": "The BNSS mandates a forensic team to visit the crime scenes to collect evidence for offenses punishable with imprisonment for at least   years.",
     "options": [
       "2",
       "4",
@@ -8057,7 +8101,9 @@
       "5"
     ],
     "correctAnswer": "C",
-    "subject": "Criminal Law"
+    "isModernized": true,
+    "solution": "Step 1: Understanding the provision.  The Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 emphasizes scientific methods of investigation. It mandates forensic teams to be involved in crimes of serious nature.  Step 2: The threshold for forensic involvement.  The law specifies that whenever the offence is punishable with imprisonment of   7 years or more , it becomes mandatory for the forensic team to visit the crime scene. This ensures that critical evidence is properly documented and preserved.  Step 3: Purpose of the provision.  The inclusion of forensic teams reduces reliance on oral testimony and strengthens conviction rates by basing cases on scientific evidence such as fingerprints, DNA, and digital evidence.  Step 4: Conclusion.  Thus, forensic involvement is compulsory where the punishment is at least 7 years.",
+    "quickTip": "BNSS = Forensic-first approach   →   mandatory forensic team visit for offences with punishment of 7 years or more."
   },
   {
     "id": "aibe19-q22",
@@ -8065,7 +8111,7 @@
     "year": 2024,
     "questionNumber": 22,
     "subject": "Criminal Law",
-    "question": "Which section of the BNSS allows for trials in absentia of proclaimed offenders ?",
+    "question": "Which section of the BNSS allows for trials in absentia of proclaimed offenders?",
     "options": [
       "251",
       "349",
@@ -8073,7 +8119,9 @@
       "366"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Meaning of proclaimed offender.  A proclaimed offender is someone declared absconding by a competent court despite repeated summons/warrants. Such absconders pose serious challenges to justice delivery.  Step 2: Section 356 BNSS.  This section empowers courts to conduct trials   in absentia   against proclaimed offenders. It ensures that justice is not indefinitely stalled because the accused chooses to flee.  Step 3: Impact of the provision.  Earlier, trials could not proceed without the accused’s presence. Now, courts can record evidence, examine witnesses, and deliver judgments even when the offender is absconding. This ensures victims are not denied justice.  Step 4: Conclusion.  Section 356 BNSS   →   Trials in absentia of proclaimed offenders.",
+    "quickTip": "Trials in absentia = Important reform to avoid indefinite delay due to absconding accused."
   },
   {
     "id": "aibe19-q23",
@@ -8081,7 +8129,7 @@
     "year": 2024,
     "questionNumber": 23,
     "subject": "Criminal Law",
-    "question": "Which section of BNSS facilitates trials and proceedings to be held in electronic mode ?",
+    "question": "Which section of BNSS facilitates trials and proceedings to be held in electronic mode?",
     "options": [
       "532",
       "330",
@@ -8089,7 +8137,9 @@
       "530"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Modernization of justice.  The BNSS, 2023 recognizes the importance of digital courts and e-proceedings in reducing pendency and ensuring wider access to justice.  Step 2: Section 530.  This section specifically provides for   trials and proceedings to be conducted electronically , including filing of documents, presentation of evidence, and virtual hearings. Step 3: Practical significance.  - Reduces time taken in trials. - Ensures smoother handling of evidence (e-documents, video evidence). - Allows virtual presence of accused/witnesses in certain cases.  Step 4: Conclusion.  Section 530 BNSS = Electronic trials and proceedings.",
+    "quickTip": "E-courts under BNSS = Faster, transparent, and more accessible justice system."
   },
   {
     "id": "aibe19-q24",
@@ -8101,11 +8151,13 @@
     "options": [
       "531",
       "101",
-      "200",
-      "1"
+      "2",
+      "5"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Background.  The Code of Criminal Procedure (CrPC), 1973 governed criminal procedures in India for decades. With new challenges, reforms were needed.  Step 2: Repeal provision.  Section 531 BNSS explicitly repeals CrPC, 1973 and replaces it with updated procedures focusing on digitization, timelines, and victim-friendly provisions.  Step 3: Significance.  Repeal ensures uniformity of law and prevents overlap between old and new codes.  Step 4: Conclusion.  Section 531 = Repeal of CrPC, 1973.",
+    "quickTip": "Section 531   →   Old CrPC replaced with BNSS (2023)."
   },
   {
     "id": "aibe19-q25",
@@ -8113,7 +8165,7 @@
     "year": 2024,
     "questionNumber": 25,
     "subject": "Criminal Law",
-    "question": "Which section mandates State Government prepare and notify a witness protection scheme for the state with a view to ensure the protection of witnesses ?",
+    "question": "Which section mandates State Government prepare and notify a witness protection scheme with a view to ensure the protection of witnesses?",
     "options": [
       "98",
       "198",
@@ -8121,7 +8173,9 @@
       "398"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Importance of witness protection.  Witnesses often face threats, intimidation, or coercion, which can derail trials. A witness protection scheme provides security and confidence to testify truthfully.  Step 2: Section 398 BNSS.  This section directs every State Government to prepare and notify a   witness protection scheme . This includes measures like relocation, police protection, and confidentiality of witness identity.  Step 3: Conclusion.  Section 398 ensures a statutory basis for witness protection in India.",
+    "quickTip": "Witness protection = crucial for fair trials and preventing hostile witnesses."
   },
   {
     "id": "aibe19-q26",
@@ -8137,7 +8191,9 @@
       "45"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Importance of transparency.  Arrested individuals must not disappear into custody without accountability.   Families and society need access to arrest-related information.  Step 2: Section 37 BNSS.  This section mandates appointing designated officers in each police station/district who will provide arrest information to the general public. Step 3: Conclusion.  This provision enhances transparency and safeguards human rights.",
+    "quickTip": "Section 37   →   Public right to know about arrests."
   },
   {
     "id": "aibe19-q27",
@@ -8153,7 +8209,9 @@
       "86"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Nature of proclaimed offenders.  These are absconding criminals who evade justice. Many of them escape abroad and keep their property overseas.  Step 2: Section 86 BNSS.  This section empowers authorities to   identify, attach, and forfeit property   belonging to proclaimed offenders even if it is situated outside India.  Step 3: International significance.  This allows coordination with foreign jurisdictions to seize such assets, preventing offenders from enjoying illegal wealth abroad.",
+    "quickTip": "Section 86 = Cross-border reach against proclaimed offenders."
   },
   {
     "id": "aibe19-q28",
@@ -8161,7 +8219,7 @@
     "year": 2024,
     "questionNumber": 28,
     "subject": "Criminal Law",
-    "question": "Which section of BNSS places restrictions on the adjournment of trials, ensuring the expeditious resolution of cases ?",
+    "question": "Which section of BNSS places restrictions on the adjournment of trials, ensuring expeditious resolution of cases?",
     "options": [
       "146",
       "246",
@@ -8169,23 +8227,27 @@
       "356"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Problem of delays.  Adjournments are one of the main reasons for massive pendency in Indian courts. Unlimited adjournments compromise justice.  Step 2: Section 346 BNSS.  This section imposes restrictions on adjournments, allowing them only under valid circumstances. The goal is to secure   speedy justice   by discouraging frivolous delays.  Step 3: Conclusion.  Section 346 ensures that trials are conducted in a time-bound manner.",
+    "quickTip": "Section 346 = Limit adjournments   →   promote speedy disposal of cases."
   },
   {
     "id": "aibe19-q29",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 29,
-    "subject": "Civil Procedure",
-    "question": "A suit is pending in District Court A, but one of the parties, Meera, requests its transfer to District Court B, claiming that the judge in Court A is biased. The opposing party, Ravi, objects, stating that the request is baseless. Who has the authority to decide whether the suit can be transferred ?",
+    "subject": "Constitutional Law",
+    "question": "A suit is pending in District Court A, but one of the parties, Meera, requests its transfer to District Court B, claiming bias of the judge. The opposing party objects, stating the request is baseless. Who has the authority to decide whether the suit can be transferred?",
     "options": [
-      "The District Court A where the suit is currently pending.",
+      "The District Court A where the suit is pending",
       "The High Court or the Supreme Court",
       "The Civil Judge in District Court B",
       "A committee of local advocates"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Principle of impartiality.  A fair trial requires that judges are not biased. When allegations of bias are raised, the case may be transferred.  Step 2: Authority for transfer.  District Courts cannot transfer cases between themselves. Only the   High Court (within a state)   or the   Supreme Court (between states)   has the authority to decide such matters.  Step 3: Conclusion.  Therefore, Meera’s request would be decided by the High Court or Supreme Court.",
+    "quickTip": "High Court (intra-state) and Supreme Court (inter-state) decide transfer of suits."
   },
   {
     "id": "aibe19-q30",
@@ -8193,15 +8255,17 @@
     "year": 2024,
     "questionNumber": 30,
     "subject": "Civil Procedure",
-    "question": "Maya files a suit in Court A for the recovery of a sum of money from her neighbour , Neha. During the proceedings, Neha requests that a third party? Seema, be added to the suit, as Seema is allegedly liable for the debt. Maya objects, claiming that Seema is not a necessary party. Court A then reviews the application and decides that Seem a should indeed be included as a defendant. Which principle of the CPC is applied in this situation?",
+    "question": "Maya files a suit in Court A for the recovery of money from Neha. During proceedings, Neha requests that Seema be added as a defendant, claiming Seema is liable.   Maya objects. The Court reviews the application and decides Seema should be included as a defendant. Which principle of CPC is applied?",
     "options": [
-      "Order 1, Rule 10 - Joinder and Substitution of Parties",
-      "Order 7, Rule 11 - Rejection of Plaint",
-      "Order 5 - Service of Summons",
-      "Order 6, Rule 17 - Amendment of Pleadings"
+      "Order 1, Rule 10 – Joinder and Substitution of Parties",
+      "Order 7, Rule 11 – Rejection of Plaint",
+      "Order 5 – Service of Summons",
+      "Order 6, Rule 17 – Amendment of Pleadings"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Issue at hand.  Maya filed a money recovery suit against Neha only. Neha argued Seema should also be added as a party because she shares liability. Maya opposed this.  Step 2: Relevant rule.  Order 1 Rule 10 CPC empowers the Court to add necessary or proper parties in order to decide the matter effectively. Even if the plaintiff resists, the Court can add a party if their presence is essential for complete adjudication.  Step 3: Application here.  The Court found Seema necessary for fair adjudication, so it added her as a defendant despite Maya’s objection.  Step 4: Conclusion.  This is an application of Order 1 Rule 10 CPC.",
+    "quickTip": "Order 1 Rule 10 CPC   →   Courts can add necessary parties suo motu or on application."
   },
   {
     "id": "aibe19-q31",
@@ -8209,15 +8273,17 @@
     "year": 2024,
     "questionNumber": 31,
     "subject": "Civil Procedure",
-    "question": "Which section of the CPC allows for the appeal from original decrees ?",
+    "question": "Which section of the CPC allows for the appeal from original decrees?",
     "options": [
-      "Section 96 96",
-      "Section 100 100",
-      "Section 115 115",
-      "Section 104 104"
+      "Section 96",
+      "Section 100",
+      "Section 115",
+      "Section 104"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding appeals.  An appeal is a legal remedy where a higher court re-examines the decision of a lower court. Appeals from decrees are generally provided under specific provisions of CPC.  Step 2: Relevant section.  Section 96 CPC provides the right to appeal against any original decree passed by a court exercising original jurisdiction. It is a substantive right available to parties.  Step 3: Conclusion.  Thus, appeals from original decrees are covered under Section 96 CPC.",
+    "quickTip": "Section 96 = Appeals from original decrees. Section 100 = Second Appeals."
   },
   {
     "id": "aibe19-q32",
@@ -8225,7 +8291,7 @@
     "year": 2024,
     "questionNumber": 32,
     "subject": "Civil Procedure",
-    "question": "Under the CPC , what is the maximum time limit for filing a written statement in a suit ?",
+    "question": "Under the CPC, what is the maximum time limit for filing a written statement in a suit?",
     "options": [
       "30 Days",
       "60 Days",
@@ -8233,23 +8299,27 @@
       "90 Days"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Written statement definition.  A written statement is the defendant’s formal reply to the plaint. It must contain the defense and objections.  Step 2: Time limit.  The CPC originally provided 30 days.   However, through amendments, the maximum period has been extended. Now, the outer limit is   90 days from the date of service of summons . Courts may allow extension but not beyond 90 days in commercial disputes.  Step 3: Conclusion.  Hence, the maximum limit is 90 days.",
+    "quickTip": "Written statement = 30 days (normal) + permissible extensions = maximum 90 days."
   },
   {
     "id": "aibe19-q33",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 33,
-    "subject": "Civil Procedure",
-    "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court ?",
+    "subject": "Constitutional Law",
+    "question": "Which section of the CPC provides exemption of the President of India and the Governors of states from personal appearance in court?",
     "options": [
-      "Section 132 132",
-      "Section 133 133",
-      "Section 128 128",
-      "Section 130 130"
+      "Section 132",
+      "Section 133",
+      "Section 128",
+      "Section 130"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Rationale for exemption.  Certain high dignitaries of the State should not be burdened with personal appearances in court due to their constitutional responsibilities.  Step 2: Relevant provision.  Section 133 CPC exempts the President of India and the Governors of states from appearing personally in court. Instead, they can be represented through officers.  Step 3: Conclusion.  So, the correct answer is Section 133.",
+    "quickTip": "Section 132   →   Women exemption. Section 133   →   President and Governors exemption."
   },
   {
     "id": "aibe19-q34",
@@ -8257,15 +8327,17 @@
     "year": 2024,
     "questionNumber": 34,
     "subject": "Civil Procedure",
-    "question": "What is the term used for a court's power to transfer a case from one court to another under the Code of Civil Procedure?",
+    "question": "What is the term used for a court’s power to transfer a case from one court to another under the Code of Civil Procedure?",
     "options": [
       "Res Judicata",
       "Reference",
       "Review",
-      "Tr"
+      "Transfer of suits"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding the concept.  Courts have the power to transfer a case from one court to another if required for justice, fairness, or convenience of parties.  Step 2: CPC provision.  The CPC explicitly provides for   Transfer of Suits .   This is different from “Review” (reexamination of judgment), “Reference” (submitting a legal question to higher court), and “Res Judicata” (finality of decision).  Step 3: Conclusion.  Thus, the correct term is Transfer of suits.",
+    "quickTip": "Transfer of suits = shifting proceedings for justice.   Not to be confused with Review/Reference."
   },
   {
     "id": "aibe19-q35",
@@ -8273,15 +8345,17 @@
     "year": 2024,
     "questionNumber": 35,
     "subject": "Civil Procedure",
-    "question": "Under which order of the CPC the procedure for summary suits is provided ?",
+    "question": "Under which order of the CPC the procedure for summary suits is provided?",
     "options": [
-      "Order XXXV XXXV",
-      "Order XXXVII XXXVII",
-      "Order XXXIV XXXIV",
-      "Order XXXVI XXXVI"
+      "Order XXXV",
+      "Order XXXVII",
+      "Order XXXIV",
+      "Order XXXVI"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Meaning of summary suits.  Summary suits are special procedures for speedy disposal of cases, especially for recovery of debts or liquidated demands.  Step 2: Relevant provision.  Order XXXVII CPC deals with summary procedure. The defendant must obtain the court’s permission to defend, otherwise the plaintiff gets judgment quickly.  Step 3: Conclusion.  Thus, summary suits are governed by Order XXXVII CPC.",
+    "quickTip": "Order XXXVII = Summary suits   →   fast-track remedy in commercial disputes."
   },
   {
     "id": "aibe19-q36",
@@ -8289,30 +8363,35 @@
     "year": 2024,
     "questionNumber": 36,
     "subject": "Civil Procedure",
-    "question": "Which section of the CPC deals with the principle of \"res judicata\"?",
+    "question": "Which section of the CPC deals with the principle of “res judicata”?",
     "options": [
-      "Section 11 11",
-      "Section 10 10",
-      "Section 12 12",
-      "Section 9 9"
+      "Section 11",
+      "Section 10",
+      "Section 12",
+      "Section 9"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Meaning.  Res judicata means “a matter once judicially decided is finally decided.” It prevents the same parties from re-litigating the same issue.  Step 2: Section 11 CPC.  This section bars courts from trying suits or issues already adjudicated between the same parties by a competent court.  Step 3: Conclusion.  Thus, Section 11 = Doctrine of res judicata.",
+    "quickTip": "Res judicata ensures finality of judgments   →   prevents multiplicity of litigation."
   },
   {
     "id": "aibe19-q37",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 37,
-    "question": "----------- of the CPC provides for an deinterleave suit. ?",
+    "subject": "Civil Procedure",
+    "question": "of the CPC provides for an interpleader suit.",
     "options": [
-      "Section 88 88",
-      "Section 89 89",
-      "Section 92 92",
-      "Section 86 86"
+      "Section 88",
+      "Section 89",
+      "Section 92",
+      "Section 86"
     ],
     "correctAnswer": "A",
-    "subject": "Civil Procedure"
+    "isModernized": false,
+    "solution": "Step 1: Meaning.  An interpleader suit is filed when a person faces rival claims over the same property/money and seeks court’s direction on rightful owner.  Step 2: Relevant section.  Section 88 CPC expressly provides for filing of interpleader suits.  Step 3: Conclusion.  Hence, Section 88 = Interpleader suits.",
+    "quickTip": "Interpleader suits help avoid multiple liabilities   →   Court decides rightful claimant."
   },
   {
     "id": "aibe19-q38",
@@ -8320,14 +8399,17 @@
     "year": 2024,
     "questionNumber": 38,
     "subject": "Civil Procedure",
-    "question": "Which section of the CPC provides for the payment of compensatory costs ?",
+    "question": "Which section of the CPC provides for the payment of compensatory costs?",
     "options": [
       "Section 35",
-      "Section 35 (A)",
-      "Section 35 (B)",
+      "Section 35(A)",
+      "Section 35(B)",
       "Section 36"
     ],
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Concept of compensatory costs.  When litigation is frivolous, false, or vexatious, courts may impose compensatory costs.  Step 2: Relevant provision.  Section 35(A) CPC empowers courts to impose such costs on the losing party to discourage misuse of process of law.  Step 3: Conclusion.  Section 35(A) = Compensatory costs.",
+    "quickTip": "Section 35(A)   →   discourages false/vexatious claims by awarding compensation."
   },
   {
     "id": "aibe19-q39",
@@ -8335,53 +8417,61 @@
     "year": 2024,
     "questionNumber": 39,
     "subject": "Evidence Law",
-    "question": "Which word is inserted in Section 22 of the BSA that was not present in Section 24 of the Evidence Act ?",
+    "question": "Which word is inserted in Section 22 of the BSA that was not present in Section 24 of the Evidence Act?",
     "options": [
       "Inducement",
-      "Coerciof",
+      "Coercion",
       "Threat",
       "Promise"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Evolution from Evidence Act to BSA.  The Bharatiya Sakshya Adhiniyam (BSA), 2023 replaced the Indian Evidence Act, 1872.  Step 2: New insertion.  Section 22 of BSA includes “coercion” as a factor making confessions inadmissible.   The old Evidence Act had inducement, threat, or promise, but not coercion.  Step 3: Conclusion.  Thus, the new term added = Coercion.",
+    "quickTip": "BSA 2023 modernized provisions: “Coercion” is a new addition to confession rules."
   },
   {
     "id": "aibe19-q40",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 40,
-    "question": "Existence of course of business when relevant is discussed in ?",
+    "subject": "Evidence Law",
+    "question": "Existence of course of business when relevant is discussed in:",
     "options": [
-      "Section 12 of the BSA, 2023 12",
-      "Section 13 of the BSA, 2023 13",
-      "Section 14 of the BSA, 2023 14",
-      "Section 15 of the BSA, 2023 15"
+      "Section 12 of the BSA, 2023",
+      "Section 13 of the BSA, 2023",
+      "Section 14 of the BSA, 2023",
+      "Section 15 of the BSA, 2023"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law"
+    "isModernized": true,
+    "solution": "Step 1: Relevancy in evidence law.  Courts often rely on the existence of a “course of business” to infer whether a fact is probable. Example: routine entries in account books.  Step 2: Relevant section.  Section 14 BSA, 2023 deals with the relevancy of “existence of course of business.”  Step 3: Conclusion.  Correct section = Section 14 BSA.",
+    "quickTip": "Evidence of routine course of business strengthens probability of facts."
   },
   {
     "id": "aibe19-q41",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 41,
-    "subject": "Evidence Law",
-    "question": "In a criminal trial, Rajesh is accused of theft. During the investigation, the police recover a stolen laptop from a location known to be frequented by Rajesh. His fingerprints are found on the laptop. According to the Bharatiya Sakshya Adhiniyam, 2023, ho w should the court interpret this piece of evidence ?",
+    "subject": "Criminal Law",
+    "question": "In a criminal trial, Rajesh is accused of theft. During investigation, the police recover a stolen laptop from a location frequented by Rajesh. His fingerprints are found on the laptop. According to the Bharatiya Sakshya Adhiniyam, 2023, how should the court interpret this evidence?",
     "options": [
-      "The recovered laptop and fingerprints are automatically considered conclusive proof of Rajesh's guilt.",
+      "The recovered laptop and fingerprints are automatically considered conclusive proof of Rajesh’s guilt.",
       "The recovered laptop and fingerprints are circumstantial evidence that can be considered along with other evidence, but do not by themselves prove guilt beyond reasonable doubt.",
-      "The evidence is inadmissible because the police did not obtain a search warrant before recovering the laptop.",
-      "The fingerprints must be verfied by at least two independent forensic experts before being presented in court."
+      "The evidence is inadmissible because the police did not obtain a search warrant.",
+      "The fingerprints must be verified by at least two independent forensic experts before being presented in court."
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Nature of fingerprints.  Fingerprints and recovery of stolen property are not direct evidence but fall under the category of   circumstantial evidence .  Step 2: Interpretation under BSA 2023.  Such evidence strengthens suspicion, but conviction cannot rest solely on it. Courts must consider it along with corroborating evidence.  Step 3: Conclusion.  Therefore, fingerprints and laptop recovery = circumstantial evidence, not conclusive proof.",
+    "quickTip": "Circumstantial evidence must form a complete chain of facts before conviction."
   },
   {
     "id": "aibe19-q42",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 42,
-    "question": "Where a document is executed in several parts like printing, lithography or photography, video recording, computer resource as a electronic or digital records, the BSA 2023 classifies each part as a ?",
+    "subject": "Cyber Law",
+    "question": "Where a document is executed in several parts like printing, lithography or photography, video recording, computer resource as electronic or digital records, the BSA 2023 classifies each part as:",
     "options": [
       "Primary evidence",
       "Secondary evidence",
@@ -8389,15 +8479,17 @@
       "Scientific evidence"
     ],
     "correctAnswer": "A",
-    "subject": "Evidence Law"
+    "isModernized": true,
+    "solution": "Step 1: Definition.  Primary evidence is the document itself produced for inspection by the court. It includes original documents or parts executed in multiple forms.  Step 2: BSA 2023 provision.  According to Section 62 of BSA 2023, documents executed in several parts, like print, lithography, video recording, or electronic records, are all treated as   primary evidence .  Step 3: Conclusion.  Thus, every executed part qualifies as primary evidence.",
+    "quickTip": "Primary evidence = the best evidence rule   →   originals or multiple executed parts."
   },
   {
     "id": "aibe19-q43",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 43,
-    "subject": "Evidence Law",
-    "question": "Which section of BSA provides that no court shall require any communication between the Ministers and the President of India to be produced before it ?",
+    "subject": "Constitutional Law",
+    "question": "Which section of BSA provides that no court shall require any communication between the Ministers and the President of India to be produced before it?",
     "options": [
       "65",
       "165",
@@ -8405,7 +8497,9 @@
       "168"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Confidentiality of State communications.  Certain communications at the highest executive level must be immune from judicial scrutiny to preserve national security and confidentiality.  Step 2: Section 165 BSA.  It provides that no court shall compel production of communications between the President and Ministers of India. This preserves the doctrine of executive privilege.  Step 3: Conclusion.  Hence, the correct answer is Section 165.",
+    "quickTip": "BSA Section 165 = Privilege for confidential President–Minister communications."
   },
   {
     "id": "aibe19-q44",
@@ -8413,7 +8507,7 @@
     "year": 2024,
     "questionNumber": 44,
     "subject": "Evidence Law",
-    "question": "According to Section 46 of Bharatiya Sakshya Adhiniyam, when character evidence is relevant in civil cases ?",
+    "question": "According to Section 46 of Bharatiya Sakshya Adhiniyam, when character evidence is relevant in civil cases?",
     "options": [
       "Always relevant to prove conduct",
       "Only when related to other relevant fact",
@@ -8421,22 +8515,27 @@
       "Only in criminal cases"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: General principle.  Character evidence is generally inadmissible in civil cases because cases are decided on facts and rights, not on moral character.  Step 2: Exception in BSA.  Section 46 allows character evidence only if it is directly connected to another relevant fact in dispute. Example: a person’s reputation in defamation suits.  Step 3: Conclusion.  Thus, it is admissible only when linked to another relevant fact.",
+    "quickTip": "Civil cases = character evidence generally irrelevant, except when tied to other facts."
   },
   {
     "id": "aibe19-q45",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 45,
-    "question": "As per Section 78(2) of the BSA 2023, presumption about the officer signing or certifying a document is : ?",
+    "subject": "Evidence Law",
+    "question": "As per Section 78(2) of the BSA 2023, presumption about the officer signing or certifying a document is:",
     "options": [
-      "The officer's signature is assumed to be forgery",
-      "The officer did not hold the claimed officer character at the time of signing",
+      "The officer’s signature is assumed to be forgery",
+      "The officer did not hold the claimed office at the time of signing",
       "The officer held the official character claimed when signing or certifying the document",
-      "The document's authenticity is independent of the official's official character"
+      "The document’s authenticity is independent of the official’s official character"
     ],
     "correctAnswer": "C",
-    "subject": "Evidence Law"
+    "isModernized": true,
+    "solution": "Step 1: Presumption of regularity.  Law presumes official acts to have been validly performed, unless proven otherwise.  Step 2: Section 78(2) BSA.  When a document is certified/signed by an officer, courts presume that the officer indeed held the claimed official character.  Step 3: Conclusion.  Thus, presumption favors authenticity of the officer’s act.",
+    "quickTip": "Presumption of official acts = valid until disproved by contrary evidence."
   },
   {
     "id": "aibe19-q46",
@@ -8444,31 +8543,35 @@
     "year": 2024,
     "questionNumber": 46,
     "subject": "Evidence Law",
-    "question": "Under Section 146 of the BSA 2023, when the leading questions are permissible in the court proceedings ?",
+    "question": "Under Section 146 of the BSA 2023, when are leading questions permissible in court proceedings?",
     "options": [
-      "Leading questions are always allowed during examination - in chief without restriction,",
-      "Leading questions are not allowed during cross - examination",
-      "Leading questions can be asked in an examination - in chief, re - examination, cross examination without any objection.",
-      "Leading questions are permitted during cross - examination and when matters are introductory, undisputed, or sufficiently proved."
+      "Always allowed in examination-in-chief without restriction",
+      "Not allowed during cross-examination",
+      "Can be asked in any stage without objection",
+      "Permitted during cross-examination and when matters are introductory, undisputed, or proved"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": true,
+    "solution": "Step 1: Leading question defined.  A leading question suggests the answer itself. Example: “You were at the crime scene, weren’t you?”  Step 2: Rule under BSA.  Section 146 permits leading questions during cross-examination, and during examination-inchief only for introductory, undisputed, or already proved matters.  Step 3: Conclusion.  Thus, leading questions are mainly for cross-examination.",
+    "quickTip": "Leading Q   →   Suggestive. Cross-examination tool."
   },
   {
     "id": "aibe19-q47",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 47,
-    "subject": "ADR & Arbitration",
-    "question": "Which of the following is a characteristic of mediation ?",
+    "subject": "Civil Procedure",
+    "question": "Which of the following is a characteristic of mediation?",
     "options": [
-      "The mediator imposes a binding decision.",
-      "It involves a neutral third party who facilitates negotiation between the parties.",
-      "The mediator acts as a judge and renders a verdict.",
-      "It is always court - ordered."
+      "Mediator imposes binding decision",
+      "Neutral third party facilitates negotiation",
+      "Mediator acts as judge",
+      "Always court-ordered"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Nature of mediation.  Mediation is an ADR mechanism where a neutral third party helps disputing parties negotiate and reach a settlement.  Step 2: Non-binding process.  The mediator does not impose a decision; the parties themselves agree voluntarily.  Step 3: Conclusion.  Thus, mediation = facilitative, non-binding.",
+    "quickTip": "Mediation = voluntary, party-driven, neutral facilitator."
   },
   {
     "id": "aibe19-q48",
@@ -8476,15 +8579,17 @@
     "year": 2024,
     "questionNumber": 48,
     "subject": "ADR & Arbitration",
-    "question": "A dispute arises between ABC Ltd. and XYZ Pvt. Ltd. regarding a contract that both parties had entered into. The agreement includes an arbitration clause, which states that any disputes shall be referred to arbitration. However, the parties fail to agree o n the appointment of an arbitrator. Which of the following provisions of the Arbitration and Conciliation Act, 1996 would be applicable to resolve the issue of the appointment of an arbitrator?",
+    "question": "A dispute arises between ABC Ltd. and XYZ Pvt. Ltd. regarding arbitration. Parties fail to agree on arbitrator. Which provision of Arbitration and Conciliation Act, 1996 applies?",
     "options": [
-      "The court will appoint an arbitrator under Section 11 if the parties fail to agree on one.",
-      "The parties must mutually select an arbitrator, and if they fail, the arbitration will not take place.",
-      "The arbitrator must be appointed by the Indian Council of Arbitration (ICA) in all cases.",
-      "The parties can resolve the appointment issue by opting for conciliation instead of arbitration."
+      "Court appoints arbitrator under Section 11",
+      "Parties must mutually select an arbitrator",
+      "Arbitrator must be appointed by ICA",
+      "Appointment issue resolved by conciliation"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Arbitration clause.  When parties agree to arbitrate but fail to agree on arbitrator, intervention is needed.  Step 2: Section 11 ACA 1996.  It empowers High Court or Supreme Court to appoint arbitrators when parties cannot decide mutually.  Step 3: Conclusion.  Hence, Section 11 governs appointment.",
+    "quickTip": "Section 11 ACA   →   Court steps in to appoint arbitrator if parties fail."
   },
   {
     "id": "aibe19-q49",
@@ -8492,15 +8597,17 @@
     "year": 2024,
     "questionNumber": 49,
     "subject": "ADR & Arbitration",
-    "question": "Which of the following is not an advantage of using ADR ?",
+    "question": "Which of the following is not an advantage of ADR?",
     "options": [
-      "It is generally faster than litigation.",
-      "It offers more confidentiality than traditional court cases.",
-      "It always results in a binding decision.",
-      "It is often less expensive than court proceedings."
+      "Faster than litigation",
+      "More confidentiality",
+      "Always results in binding decision",
+      "Less expensive than court cases"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: ADR advantages.  ADR (mediation, conciliation, arbitration) is usually faster, cost-effective, and confidential.  Step 2: Binding nature.  Not all ADR methods are binding. Mediation/conciliation are voluntary and non-binding unless recorded as settlement. Only arbitration gives binding awards. Step 3: Conclusion.  Hence, “always binding” is not an advantage of ADR.",
+    "quickTip": "ADR   always binding. Binding only in arbitration."
   },
   {
     "id": "aibe19-q50",
@@ -8508,15 +8615,17 @@
     "year": 2024,
     "questionNumber": 50,
     "subject": "ADR & Arbitration",
-    "question": "Kiran and Meera are involved in an arbitration, where Kiran was awarded Rs. 10 lakhs as compensation. Meera refuses to pay the amount, arguing that the award was not enforceable because of certain procedural irregularities in the arbitration process. Kiran decides to approach the court to enforce the arbitral award. Which of the following provisions of the Arbitration and Conciliation Act, 1996 governs the enforcement of an arbitral award ?",
+    "question": "Kiran wins arbitral award; Meera refuses to pay citing irregularities.   Kiran seeks court enforcement. Which ACA 1996 section applies?",
     "options": [
-      "Section 34 of the Act deals with the enforcement of an arbitral award.",
-      "Section 36 of the Act allows for the automatic enforcement of an arbitral award unless set - aside by the court.",
-      "Section 9 of the Act governs the enforcement of arbitral awards.",
-      "Section 11 of the Act deals with the enforcement of arbitral awards, not the appeal."
+      "Section 34 – challenge award",
+      "Section 36 – automatic enforcement unless set aside",
+      "Section 9 – interim relief",
+      "Section 11 – appointment of arbitrator"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Enforcement principle.  Once an arbitral award is passed, it is enforceable like a civil decree.  Step 2: Section 36 ACA.  It provides automatic enforcement of awards unless stayed by court under Section 34.  Step 3: Conclusion.  So, enforcement is governed by Section 36.",
+    "quickTip": "Section 34   →   challenge. Section 36   →   enforcement."
   },
   {
     "id": "aibe19-q51",
@@ -8524,30 +8633,35 @@
     "year": 2024,
     "questionNumber": 51,
     "subject": "Family Law",
-    "question": "Which sections discusses with regard to \"sapinda relationships\" under the Hindu Marriage Act 1955 ?",
+    "question": "Which sections discuss “sapinda relationships” under the Hindu Marriage Act 1955?",
     "options": [
-      "Sections 3(f) (i), 5(v) 3(f) (i), 5(v)",
-      "Sections 3(f) (i), 5(iv) 3(f) (i), 5(iv)",
-      "Sections 3(f) (i) \\ & (ii), Explanation to section 3 (g), 5 (iv) , 5 (iv)",
-      "Sections 3(f) (i) \\ & (ii), Explanation to section 3 (g), 5(v) , (5( v )"
+      "Sections 3(f), 5(v)",
+      "Sections 3(i), 5(v)",
+      "Sections 3(i)(i), 3(g), 5(iv)",
+      "Sections 3(f)(i)(ii), Explanation to 3(g), 5(v)"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Sapinda defined. Sapinda relationship prohibits marriages within certain degrees of blood relations.  Step 2: Relevant provisions.  - Section 3(f) defines sapinda degrees. - Section 3(g) provides explanations on prohibited relationships. - Section 5(v) prohibits marriages between sapindas.  Step 3: Conclusion.  Hence, Sections 3(f), 3(g), and 5(v) cover sapinda relationships.",
+    "quickTip": "Sapinda prohibition = prevent close-blood marriages, ensure genetic/social health."
   },
   {
     "id": "aibe19-q52",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 52,
-    "question": "Under Section 15 of Hindu Marriage Act, 1955 the divorced person, to marry again --------- . \\ ( \\ qquad \\ )",
+    "subject": "Civil Procedure",
+    "question": "Under Section 15 of Hindu Marriage Act, 1955 the divorced person, to marry again:",
     "options": [
-      "have to wait for a period of one year from the date of the decree.",
-      "have to wait for a period of six month from the date of the decree.",
-      "may marry immediately thereafter without the leave of the court as a matter of right,",
+      "Has to wait for one year from the date of decree",
+      "Has to wait for six months from the date of decree",
+      "May marry immediately thereafter without leave of court",
       "None of these"
     ],
     "correctAnswer": "C",
-    "subject": "Family Law"
+    "isModernized": false,
+    "solution": "Step 1: Provision of Section 15.  Section 15 of the Hindu Marriage Act permits remarriage after divorce without requiring prior permission of the court.  Step 2: Exception.  The only restriction applies if the decree is under appeal and not yet finalized. In such case, remarriage must wait until the appeal is resolved.  Step 3: Conclusion.  Therefore, once the decree is final and not under appeal, remarriage is allowed immediately.",
+    "quickTip": "Remarriage is permitted once decree is final   →   No need for court’s leave."
   },
   {
     "id": "aibe19-q53",
@@ -8555,31 +8669,35 @@
     "year": 2024,
     "questionNumber": 53,
     "subject": "Family Law",
-    "question": "Aarti and Rajesh have been married for five years. Over time, Aarti has been subjected to continuous cruelty by Rajesh, which has led to emotional and mental distress. Aarti decides to file for divorce on the grounds of cruelty under Section 13(1)(ia) of t he Hindu Marriage Act, 1955. Which of the following statements is true regarding the grounds for divorce under the Hindu Marriage Act ?",
+    "question": "Aarti seeks divorce on cruelty grounds under Section 13",
     "options": [
-      "Aarti can only seek divorce on the grounds of adultery.",
-      "Aarti can seek divorce on the grounds of cruelty, as long as she proves mental or physical cruelty.",
-      "Aarti cannot seek divorce on the grounds of cruelty as it is not recognized under the Hindu Marriage Act.",
-      "Aarti must prove Rajesh's cruelty was intentional to succeed in the divorce petition."
+      "(ia) HMA. Which is true? (1) Only adultery allows divorce",
+      "Cruelty includes mental and emotional cruelty, not just physical",
+      "Divorce not available on cruelty grounds",
+      "Must prove cruelty was intentional"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Provision.  Section 13(1)(ia) recognizes cruelty as a valid ground for divorce.  Step 2: Judicial interpretation.  Courts have clarified that cruelty includes mental harassment, emotional torture, and not only physical violence. Intention is not necessary.  Step 3: Conclusion.  Hence, Aarti can seek divorce based on continuous mental cruelty.",
+    "quickTip": "Cruelty under HMA includes mental, emotional, and physical cruelty."
   },
   {
     "id": "aibe19-q54",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 54,
-    "subject": "Family Law",
-    "question": "On matters where Dayabhaga is silent, what prevails ?",
+    "subject": "Miscellaneous",
+    "question": "On matters where Dayabhaga is silent, what prevails?",
     "options": [
-      "The local customs",
-      "The Smritis",
-      "The Shrutis",
+      "Local customs",
+      "Smritis",
+      "Shrutis",
       "Mitakshara"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Dayabhaga applies primarily in Bengal.   In areas where Dayabhaga has no provision, Mitakshara principles are applied to fill the gaps.",
+    "quickTip": "Dayabhaga (Bengal)   →   fallback = Mitakshara."
   },
   {
     "id": "aibe19-q55",
@@ -8587,15 +8705,17 @@
     "year": 2024,
     "questionNumber": 55,
     "subject": "Family Law",
-    "question": "Nisha and Aakash are separated, and they both seek custody of their minor child, Aarav. Nisha has been the primary caregiver, while Aakash claims that he can provide better financial stability for Aarav. They both approach the court under the Guardian and Wards Act, 1890. Which of the following factors will the court primarily consider in determining the custody of Aarav?",
+    "question": "Custody under Guardian and Wards Act, 1890 – main factor?",
     "options": [
-      "The financial stability of both parents.",
-      "The gender of the child.",
-      "The welfare and best interests of the child.",
-      "The parent who is financially more stable is granted custody automatically."
+      "Parents’ financial stability",
+      "Gender of child",
+      "Welfare and best interest of child",
+      "Wealthier parent gets custody automatically"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "The paramount consideration is welfare of the child – physical, moral, and emotional well-being. Financial ability alone is not decisive.",
+    "quickTip": "Custody law   →   “Welfare of child” is paramount consideration."
   },
   {
     "id": "aibe19-q56",
@@ -8603,15 +8723,17 @@
     "year": 2024,
     "questionNumber": 56,
     "subject": "Family Law",
-    "question": "Match the following: a. Spoken words i. Sunnat - ul - Qaul b. Deepika vs. CAT ii. Customary Law c. Silence iii. Sunnat - ul - Taqrir d. Ass Kaur vs. Kartar Singh iv. Atypical Relationships e. Shayara Bano vs. UOI v. Triple Talaq vi. Maintenance Choose the correct option :",
+    "question": "Match the following: a. Spoken words – (i) Sunna-ul-Qaul b. Deepika vs. CAT – (ii) Customary Law c. Silence – (iii) Sunna-ul-Tagrir d. Ass Kaur vs. Kartar Singh – (iv) Atypical Relationships e. Shayara Bano vs. UOI – (v) Triple Talaq f. Maintenance – (vi) Maintenance",
     "options": [
-      "a - i, b - ii, c - iii, d - iv, e - vi",
-      "a - iii, b - i, c - i, d - v, e - vi",
-      "a - i, b - iv, c - iii, d - ii, e - v",
-      "a - iii, b - fiw, c - i, d - ii, e - vi"
+      "a-i, b-ii, c-iii, d-iv, e-v, f-vi",
+      "a-iii, b-ii, c-i, d-v, e-vi",
+      "a-i, b-iv, c-iii, d-ii, e-v, f-vi",
+      "a-iii, b-vi, c-i, d-ii, e-v"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Correct matches: a   →   Sunna-ul-Qaul (spoken words) b   →   Deepika vs. CAT (atypical relationships) c   →   Silence = Sunna-ul-Tagrir d   →   Ass Kaur vs. Kartar Singh = Customary law e   →   Shayara Bano vs. UOI = Triple Talaq f   →   Maintenance = Maintenance",
+    "quickTip": "Shayara Bano case = struck down instant triple talaq (2017)."
   },
   {
     "id": "aibe19-q57",
@@ -8619,69 +8741,79 @@
     "year": 2024,
     "questionNumber": 57,
     "subject": "Family Law",
-    "question": "Fatima, a Muslim woman, has been divorced by her husband, Imran, through Talaq. Fatima is now secking maintenance from Imran for herself and her two minor children. Imran argues that Fatima has remarried and, therefore, is not entitled to any maintenance. Under Muslim law, which of the following statements is true regarding Fatima's claim for maintenance ?",
+    "question": "Fatima seeks maintenance post-divorce under Muslim law. Which is true?",
     "options": [
-      "Fatima is not entitled to maintenance because she has remarried.",
-      "Fatima is entitled to maintenance only for a period of three months after the divorce.",
-      "Fatimatis entitled to maintenance for herself during her iddat period and for her children - until they are self - supporting.",
-      "Fatima claim maintenance for herself and her children indefinitely, irrespective of her remarriage or the children's age."
+      "No maintenance since remarried",
+      "Maintenance only for iddat period",
+      "Maintenance for herself during iddat + children until self-supporting",
+      "Maintenance indefinitely despite remarriage"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Under Muslim law, a divorced woman is entitled to maintenance for herself during the iddat period.   Children are entitled to maintenance till they can support themselves.   Remarriage bars her own maintenance beyond iddat.",
+    "quickTip": "Iddat = waiting period after divorce; maintenance rights linked to it."
   },
   {
     "id": "aibe19-q58",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 58,
-    "question": "The remedy of restitution of conjugal rights is given in Section ----------- of Hindu Marriage Act, 1955. ?",
+    "subject": "Family Law",
+    "question": "Remedy of restitution of conjugal rights is given in Section   of Hindu Marriage Act, 1955.",
     "options": [
-      "13",
-      "11",
-      "6",
-      "9"
+      "Section 13",
+      "Section 11",
+      "Section 6",
+      "Section 9"
     ],
     "correctAnswer": "D",
-    "subject": "Family Law"
+    "isModernized": false,
+    "solution": "Section 9 allows a spouse to seek a decree of restitution if the other spouse withdraws from society without reasonable cause.",
+    "quickTip": "Restitution = restoration of cohabitation rights. Section 9 HMA."
   },
   {
     "id": "aibe19-q59",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 59,
-    "subject": "Constitutional Law",
-    "question": "In which casea prison inmate sent a letter to the Supreme Court, describing physical torture, which became a pioneer in public interest litigation, though the court later abandoned the practice of considering letters ?",
+    "subject": "Miscellaneous",
+    "question": "Which case pioneered prison letters as PIL on torture?",
     "options": [
-      "Hussainara Khatoon vs. Bihar case",
+      "Hussainara Khatoon vs. Bihar",
       "Sunil Batra vs. Delhi Administration",
-      "Mukti Morcha vs. Union of India",
-      "The Narasimha Rao case"
+      "Mukti Morcha vs. UOI",
+      "Narasimha Rao case"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "In Sunil Batra (1978), a prisoner’s letter about torture was treated as PIL by SC, expanding scope of Article 21 protections.",
+    "quickTip": "Sunil Batra = milestone PIL on custodial torture via prison letters."
   },
   {
     "id": "aibe19-q60",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 60,
-    "question": "In the early 1980s, a social activist group discovered severe exploitation of labourers working in stone quarries near Delhi. The workers, including many children, were working in extremely hazardous conditions, living in makeshift shelters, and were effec tively trapped in a cycle of debt and forced labour. The conditions revealed systematic violations of fundamental human rights. The Supreme Court was approached to look into the dire circumstances of the working persons there and one of the following views of the Court was sustained in the said case, identify from the following - :",
+    "subject": "Constitutional Law",
+    "question": "1980s bonded labour case – what did SC hold?",
     "options": [
-      "The Court established that - the right to free legal aid is a mere directive principle and cannot be enforced as a fütudamental right.",
-      "The judgment primarily fecused on providing monetary compensation to the affected labourers without addressing systemic issues of bonded labour.",
-      "The Supreme Court recognized the right against forced labour as a fundamental right derived from the right to life and human dignity under Article 21.",
-      "The Court ruled that only government agencies, and not social activists, could file petitions concerning labour rights."
+      "Right to free legal aid is only directive, not fundamental",
+      "Monetary relief only, no systemic reforms",
+      "Right against forced labour is fundamental right under Art. 21",
+      "Only govt. agencies can file labour petitions"
     ],
     "correctAnswer": "C",
-    "subject": "Constitutional Law"
+    "isModernized": false,
+    "solution": "The SC held that right against bonded labour is part of right to life and dignity under Article 21. It recognized forced labour as unconstitutional.",
+    "quickTip": "Article 21   →   includes freedom from bonded labour."
   },
   {
     "id": "aibe19-q61",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 61,
-    "subject": "Constitutional Law",
-    "question": "Read the given statements and choose the correct option..\nStatement 1: In PIL cases, the Court plays a passive role similar to traditional cases.\nStatement 2: PIL is primarily focused on individual disputes.",
+    "subject": "Miscellaneous",
+    "question": "Read the given statements and choose the correct option. Statement 1: In PIL cases, the Court plays a passive role similar to traditional cases. Statement 2: PIL is primarily focused on individual disputes.",
     "options": [
       "Both statements are true.",
       "Only Statement 1 is true.",
@@ -8689,23 +8821,27 @@
       "Both statements are false."
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding PIL.  Public Interest Litigation (PIL) is not passive. The court plays an active role to protect collective and public rights. Hence, Statement 1 is false.  Step 2: PIL scope.  PIL does not focus on individual disputes but rather on issues affecting the community at large. Hence, Statement 2 is false.  Final Conclusion:   Both statements are false.",
+    "quickTip": "PIL is always concerned with the protection of community interest, not individual grievances."
   },
   {
     "id": "aibe19-q62",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 62,
-    "subject": "Constitutional Law",
-    "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\nAssertion (A): The concept of \"locus standi\" is relaxed in PIL cases.\nReason (R): PIL allows any public - spirited person to approach the court on behalf of those who cannot represent themselves.\n\nIn the context of the above two statements, which one of the following is correct ?",
+    "subject": "Miscellaneous",
+    "question": "Assertion",
     "options": [
-      "? (A) Both A and (R) are true, and (R) is the correct explanation of A.",
-      "Both (A) and (R) are true, but (R) is not The correct explanation of A.",
+      ": The concept of “locus standi” is relaxed in PIL cases. Reason (R): PIL allows any public-spirited person to approach the court on behalf of those who cannot represent themselves. (A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
       "(A) is true, but (R) is false.",
       "(A) is false, and (R) is true."
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Assertion check.  In PIL, the court allows relaxation of locus standi so that access to justice is widened.  Step 2: Reason check.  PIL enables socially active citizens to represent those who cannot approach the court.   This directly explains why locus standi is relaxed.  Conclusion:   Both A and R are true, and R explains A.",
+    "quickTip": "Remember that locus standi is the right to approach the court. PIL relaxes this concept."
   },
   {
     "id": "aibe19-q63",
@@ -8713,23 +8849,25 @@
     "year": 2024,
     "questionNumber": 63,
     "subject": "Administrative Law",
-    "question": "Which of the following best defines delegated egislation?",
+    "question": "Which of the following best defines delegated legislation?",
     "options": [
-      "Legislation passed by local governments",
+      "Legislation passed by local governments.",
       "Laws enacted by Parliament or the Legislature.",
       "Laws made by an administrative authority under powers given to them by Parliament.",
       "A judicial decision made by an administrative tribunal."
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Understanding delegated legislation.  Delegated legislation means law-making power delegated by Parliament to other bodies, such as ministries or administrative agencies.  Step 2: Elimination.  - (A) Local governments are not the primary agents of delegated legislation. - (B) Laws by Parliament are original, not delegated. - (D) Judicial decisions are interpretations, not delegated legislation. Thus, (C) is correct.",
+    "quickTip": "Delegated legislation is also called subordinate or secondary legislation."
   },
   {
     "id": "aibe19-q64",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 64,
-    "subject": "Administrative Law",
-    "question": "In 2020 at Dhorodo village the Panchayat elections could not happen due to Covid pandemic while the tenure of the Panchayat was get t ing over that year itself. Mr. Haribansh, represented the people that year at the Panchayat post dissolution of the Panchayat tenure and made a law exercising the delegated power vide the Panchayatiraj Act of the state to restrict their economic activities per day to (₹100) only. In which of the following case this is allowed or restricted?",
+    "subject": "Constitutional Law",
+    "question": "In 2020 at Dhorodo village the Panchayat elections could not happen due to Covid pandemic while the tenure of the Panchayat was getting over that year itself.   Mr.   Haribansh represented the people that year at the Panchayat post dissolution of the Panchayat tenure and made a law exercising the delegated power, vide, the Panchayati Raj Act of the state to restrict economic activities per day to 100 only. In which of the following cases this is allowed or restricted?",
     "options": [
       "MCD vs. Birla Cotton Mills",
       "Patna University vs. Amita Tiwari",
@@ -8737,7 +8875,9 @@
       "None of these"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "This case clarifies the extent of delegated power exercised by local authorities under Panchayati Raj laws. Delegated legislation must remain within the authority granted by the parent statute, and unreasonable restrictions on economic activity can be struck down.",
+    "quickTip": "MCD vs. Birla Cotton Mills is a leading case on delegated legislative powers."
   },
   {
     "id": "aibe19-q65",
@@ -8745,22 +8885,25 @@
     "year": 2024,
     "questionNumber": 65,
     "subject": "Administrative Law",
-    "question": "Which of the following is/are not ground/s for judicial review of administrative action ?",
+    "question": "Which of the following is/are not ground/s for judicial review of administrative action?",
     "options": [
-      "Only (2)",
-      "(2) and (4)",
-      "(1), (2) and (3)",
-      "Only (4)"
+      "Illegality",
+      "Irrationality",
+      "Proportionality",
+      "Public opinion (A) Only (2) (B) (2) and (4) (C) (1), (2) and (3) (D) Only (4)"
     ],
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Judicial review examines illegality, irrationality, and disproportionality of administrative action. However, public opinion is not a recognized ground for judicial review.",
+    "quickTip": "Remember: 3 I’s of judicial review   →   Illegality, Irrationality, and Impropriety (including proportionality)."
   },
   {
     "id": "aibe19-q66",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 66,
-    "subject": "Legal Ethics",
-    "question": "What does \"conflict of interest\" refer to in professional ethics ?",
+    "subject": "Miscellaneous",
+    "question": "What does “conflict of interest” refer to in professional ethics?",
     "options": [
       "A situation involving legal disputes",
       "A situation where two professionals disagree",
@@ -8768,22 +8911,27 @@
       "A situation where personal interests conflict with professional duties"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Conflict of interest arises when a professional allows personal motives or benefits to interfere with their official duties, leading to ethical compromise.",
+    "quickTip": "Always separate personal interest from professional obligations to avoid bias."
   },
   {
     "id": "aibe19-q67",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 67,
-    "question": "Advocate Mr. X was representing a client, Mr. Y, in a property dispute case. During the proceedings, Advocate Mr. X accepted a bribe from the opposing party to delay the case, causing significant harm to Mr. Y's interests. Moreover, Mr. X failed to inform his client about critical hearing dates, leading to adverse judgments. On the basis of the above problem, select the correct option.",
+    "subject": "Legal Ethics",
+    "question": "Advocate Mr. X was representing a client, Mr. Y, in a property dispute case. During the proceedings, Advocate X accepted a bribe from the opposing party to delay the case, causing significant harm to Mr. Y’s interests. Moreover, Mr. X failed to inform his client about critical hearing dates, leading to adverse judgments.   On the basis of the above problem, select the correct option.",
     "options": [
       "It is a violation of Rules made by the Bar Council of India for the professional ethics",
       "It is only an offence under the Prevention of Corruption Act, 2018",
-      "It amounts to criminal conspiracy under the Bhartiya Nyaya Sanhita, 2023",
+      "It amounts to criminal conspiracy under the Bharatiya Nyaya Sanhita, 2023",
       "It amounts to the Contempt of Court under the Contempt of Courts Act, 1971"
     ],
     "correctAnswer": "A",
-    "subject": "Legal Ethics"
+    "isModernized": true,
+    "solution": "Accepting a bribe, misleading a client, and failing to attend hearings are breaches of professional ethics under the Bar Council rules. Hence, the main offence is professional misconduct.",
+    "quickTip": "Bar Council rules regulate lawyers’ ethical behavior—breach results in disciplinary action."
   },
   {
     "id": "aibe19-q68",
@@ -8791,68 +8939,79 @@
     "year": 2024,
     "questionNumber": 68,
     "subject": "Legal Ethics",
-    "question": "The nature of proceedings in the cases of professional misconduct : (1) Criminal in nature (2) Neither civil nor criminal (3) Quasi - criminal in nature (4) Civil in nature",
+    "question": "The nature of proceedings in the cases of professional misconduct is: (A) Both",
     "options": [
-      "Both (1) and (4)",
-      "Only (2)",
-      "Only (3)",
-      "(1), (3) and (4)"
+      "and (4) (B) Only",
+      "(C) Only",
+      "(D) (1), (3) and",
+      ""
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Proceedings of professional misconduct are quasi-criminal in nature because they are neither fully civil nor purely criminal.",
+    "quickTip": "Professional misconduct proceedings are “sui generis” – unique and quasi-criminal."
   },
   {
     "id": "aibe19-q69",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 69,
-    "subject": "Legal Ethics",
-    "question": "Appropriate procedural safeguards help reduce threats to objectivity and counter any perception of possible bias, which of the following is/are not procedural safeguard/s ? (1) Act in a fraudulent manner (2) Providing peer - review of valuation, if necessary (3) Non - Disclosure of any prior association with the client (4) Non - Disclosure of any possible source of conflict of interest",
+    "subject": "Civil Procedure",
+    "question": "Appropriate procedural safeguards help reduce threats to objectivity and counter any perception of possible bias, which of the following is/are not procedural safeguards?",
     "options": [
-      "(3) and (4)",
-      "Only (2)",
-      "Only (4)",
-      "(2) and (4)"
+      "Act in a fraudulent manner",
+      "Providing peer-review of valuation, if necessary",
+      "Non-Disclosure of any prior association with the client",
+      "Non-Disclosure of any possible source of conflict of interest (A) (3) and (4) (B) Only (2) (C) Only (4) (D) (2) and (4)"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Peer-review is not a mandatory safeguard but a quality practice.   Fraudulent conduct and non-disclosure of conflicts are clearly violations.",
+    "quickTip": "Always disclose conflicts of interest—transparency ensures fairness."
   },
   {
     "id": "aibe19-q70",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 70,
-    "question": "As per Section 2(84) Share means share in the share capital of a Company and includes ----------- -- . (1) Debentures (2) Preference Shares (3) Stocks (4) Bonds",
+    "subject": "Corporate Law",
+    "question": "As per Section 2(84) Share means share in the share capital of a Company and includes: (A)",
     "options": [
-      "(1) and (2)",
-      "(1), (2) and (3)",
-      "Only (3)",
-      "(1), (2), (3) and (4)"
+      "and",
+      "(B) (4) (C) (1), (2) and",
+      "(D) (1), (2), (3) and",
+      ""
     ],
     "correctAnswer": "C",
-    "subject": "Corporate Law"
+    "isModernized": false,
+    "solution": "According to Companies Act, 2013, Section 2(84), shares include debentures, preference shares, and stocks, but exclude bonds.",
+    "quickTip": "Shares represent ownership in a company, unlike bonds which are debt instruments."
   },
   {
     "id": "aibe19-q71",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 71,
-    "question": "Section 43 of the Companies Act, 2013 provides for -------- ?",
+    "subject": "Corporate Law",
+    "question": "Section 43 of the Companies Act, 2013 provides for   .",
     "options": [
       "Issue of Shares at Premium",
       "Kinds of Shares Capital",
       "Buy Back of Shares",
-      "Reduction in share Capital"
+      "Reduction in Share Capital"
     ],
     "correctAnswer": "B",
-    "subject": "Corporate Law"
+    "isModernized": false,
+    "solution": "Step 1: Recall Section 43.  Section 43 of the Companies Act, 2013 deals with the classification of share capital of a company. Step 2: Understanding provisions.  It mentions two kinds of share capital: equity share capital and preference share capital. Hence, it does not deal with issue of premium, buy back, or reduction.  Conclusion:   Section 43 specifically provides for kinds of share capital.",
+    "quickTip": "Equity shares and preference shares are the two main categories under Section 43."
   },
   {
     "id": "aibe19-q72",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 72,
-    "question": "A manufacturing company in the city of Surat named as \" X \" has been discharging untreated industrial waste into a nearby river, violating the provisions of the Environment Protection Act, 1986 and the Water (Prevention and Control of Pollution) Act, 1974. This has resulted in severe pollution, making the river water unsafe for drinking and harming aquatic life. Local farmers and residents, who rely on the river for irrigation and daily needs, have started facing health issues and crop failures due to the contaminated water. Despite multiple complaints to the local pollution control board, no action has been taken against the company. Based on the above problem, select the correct answer.",
+    "subject": "Environmental Law",
+    "question": "A manufacturing company in Surat named “X” has been discharging untreated industrial waste into a nearby river, violating the Environment Protection Act, 1986 and the Water (Prevention and Control of Pollution) Act, 1974.   Based on the above problem, select the correct answer.",
     "options": [
       "It is the violation of Section 24 of the Water (Prevention and Control of Pollution) Act, 1974.",
       "It is the violation of Section 40 of the Water (Prevention and Control of Pollution) Act, 1974.",
@@ -8860,7 +9019,9 @@
       "It is the violation of Section 23 of the Water (Prevention and Control of Pollution) Act, 1974."
     ],
     "correctAnswer": "A",
-    "subject": "Environmental Law"
+    "isModernized": false,
+    "solution": "Step 1: Check the relevant section.  Section 24 prohibits knowingly allowing poisonous or polluting matter to enter a stream or well.  Step 2: Application.  Since company “X” discharged untreated waste into a river, it is a direct violation of Section 24.",
+    "quickTip": "Section 24 is the key provision preventing direct discharge of pollutants into water bodies."
   },
   {
     "id": "aibe19-q73",
@@ -8868,7 +9029,7 @@
     "year": 2024,
     "questionNumber": 73,
     "subject": "Environmental Law",
-    "question": "Which of the following Acts is popularly known as Umbrella Legislation ?",
+    "question": "Which of the following Acts is popularly known as Umbrella Legislation?",
     "options": [
       "The Water (Prevention and Control of Pollution) Act, 1974",
       "The Air (Prevention and Control of Pollution) Act, 1981",
@@ -8876,7 +9037,9 @@
       "The Environment (Protection) Act, 1986"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "The Environment Protection Act, 1986 provides a framework for coordination of central and state authorities.   It is called an “Umbrella Legislation” as it covers multiple environmental concerns and links Water and Air Acts.",
+    "quickTip": "EPA 1986 was enacted after the Bhopal Gas Tragedy and is the umbrella act of environmental law."
   },
   {
     "id": "aibe19-q74",
@@ -8884,30 +9047,35 @@
     "year": 2024,
     "questionNumber": 74,
     "subject": "Cyber Law",
-    "question": "Which of the following is/are included under Section 2(1)(w) of the Information Technology Act, 2000 describing the Intermediary? ( 1 ) Cyber Cafes (2) Telecom Regulators (3) Social Media Platforms (4) Internet Service Providers",
+    "question": "Which of the following is/are included under Section 2",
     "options": [
-      "(1), (2) and (3)",
-      "(1), (3) and (4)",
-      "(1), (2) and (4)",
-      "(1), (2), (3) and (4)"
+      "(w) of the Information Technology Act, 2000 describing the Intermediary? (1) Cyber Cafes",
+      "Telecom Regulators",
+      "Social Media Platforms",
+      "Internet Service Providers (A) (1), (2) and (3) (B) (1), (3) and (4) (C) (1), (2) and (4) (D) (1), (2), (3) and (4)"
     ],
     "correctAnswer": "B",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "According to IT Act, intermediaries are entities that receive, store or transmit data on behalf of others. This includes cyber cafes, social media platforms, and ISPs. Telecom regulators are not included.",
+    "quickTip": "Intermediaries include Facebook, Google, ISPs, and even cyber cafes."
   },
   {
     "id": "aibe19-q75",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 75,
-    "question": "Malti, a small business owner, runs an online clothing store. Recently, she noticed that her website had been hacked, and her customers' personal information, including names, addresses, and payment details, was stolen. Shortly after, some of her customers reported unauthorized transactions on their accounts. Malti wishes to file a complaint against the incident. On the basis of the above problem select the correct option.",
+    "subject": "Cyber Law",
+    "question": "Malti, a small business owner, runs an online store.   Her site was hacked and customer data stolen. Which provision applies?",
     "options": [
-      "It is punishable under Section 66 of the Information Technology Act, 2000.",
-      "It is punishable only under the criminal laws.",
-      "It is punishable under Section 66 of the Information Technology Act, 2000 and the customers can also claim the compensation under certain circumstances.",
-      "The customers do not have any legal remedy under the Information Technology Act, 2000."
+      "Punishable under Section 66 of the IT Act, 2000",
+      "Punishable only under criminal laws",
+      "Punishable under Section 66 of the IT Act, 2000 + compensation claimable",
+      "Customers have no legal remedy under IT Act"
     ],
     "correctAnswer": "C",
-    "subject": "Cyber Law"
+    "isModernized": false,
+    "solution": "Hacking and unauthorized access are covered under Section 66. Customers can claim damages under Section 43A.",
+    "quickTip": "Link Section 66 (hacking) with Section 43A (compensation)."
   },
   {
     "id": "aibe19-q76",
@@ -8915,15 +9083,17 @@
     "year": 2024,
     "questionNumber": 76,
     "subject": "Labour Law",
-    "question": "Which of the following is/are included under the definition of employer given under The Industrial Relations Code, 2020? (1) Occupier of the factory (2) Contractor (3) Manager of the factory (4) Managing director of the factory",
+    "question": "Which of the following is/are included under “employer” in Industrial Relations Code, 2020?",
     "options": [
-      "(4) Only",
-      "(1), (3) and (4)",
-      "(1), (2) and (4)",
-      "(1), (2) and ( 3)"
+      "Occupier of the factory",
+      "Contractor",
+      "Manager of the factory",
+      "Managing director of the factory (A) Only (4) (B) (1), (3) and (4) (C) (1), (2) and (4) (D) (1), (2) and (3)"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "The Code includes occupier, contractor, and manager, but excludes managing director in the statutory definition.",
+    "quickTip": "Employers under the Code are directly involved in industrial operations."
   },
   {
     "id": "aibe19-q77",
@@ -8931,22 +9101,25 @@
     "year": 2024,
     "questionNumber": 77,
     "subject": "Labour Law",
-    "question": "Which of the following legislations has been included under the Social Security Code, 2020 ? (1) The Maternity Benefit Act, 1961 , 1961 (2) The Payment of Gratuity Act, 1972 , 1972 (3) The Payment of Bonus Act, 1965 , 1965 (4) The Employment Exchanges ( Compulsory Notification of Vacancies) Act, 1959 , 1959",
+    "question": "Which of the following legislations is included under the Social Security Code, 2020?",
     "options": [
       "The Maternity Benefit Act, 1961",
       "The Payment of Gratuity Act, 1972",
       "The Payment of Bonus Act, 1965",
-      "The Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959"
+      "The Employment Exchanges Act, 1959 (A) Only (3) (B) (3) and (4) (C) (1), (2) and (3) (D) (1), (2), (3) and (4)"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "The Social Security Code merged multiple labour laws, including Maternity Benefit Act, Payment of Gratuity, and Payment of Bonus. The Employment Exchanges Act is not merged.",
+    "quickTip": "Remember: The four labour codes simplify 29 central labour laws."
   },
   {
     "id": "aibe19-q78",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 78,
-    "question": "------------ have not been set up under the provisions of the Industrial Disputes Act, 1947 for adjudication of industrial disputes in an organization. ?",
+    "subject": "Labour Law",
+    "question": "have not been set up under the Industrial Disputes Act, 1947.",
     "options": [
       "Industrial Tribunals",
       "Environmental Tribunals",
@@ -8954,128 +9127,153 @@
       "National Tribunal"
     ],
     "correctAnswer": "B",
-    "subject": "Labour Law"
+    "isModernized": false,
+    "solution": "The Industrial Disputes Act establishes Labour Courts, Industrial Tribunals, and National Tribunals. Environmental tribunals are not part of it.",
+    "quickTip": "Environmental disputes are handled separately, not under the ID Act."
   },
   {
     "id": "aibe19-q79",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 79,
-    "question": "XYZ Textiles Ltd., a manufacturing company, recently terminated 04 workers without providing any compensation. The termination was because of the misconduct on the part of the workers. The company issued a show cause notice and the disciplinary enquiry was also conducted against them. On the basis of the recommendations of the committee the services of these employees were terminated. The workers claimed the retrenchment compensation which was rejected by the management. Aggrieved by the rejection the worke rs have filed a complaint in the Labour Court under the provisions of the Industrial Disputes Act, 1947. Based on the above problem, select the correct answer.",
+    "subject": "Labour Law",
+    "question": "XYZ Textiles Ltd. terminated 4 workers for misconduct without compensation. Under ID Act, select the correct answer.",
     "options": [
       "The termination does not amount to retrenchment, hence no compensation.",
-      "The termination amounts to lay - off, hence compensation will be awarded.",
+      "The termination amounts to lay-off, hence compensation will be awarded.",
       "The termination amounts to retrenchment, hence compensation will be awarded.",
-      "The termination violated the provisions under the Industrial Disputes Act, 1947, hence the compensation will be awarded."
+      "The termination violated the ID Act, hence compensation will be awarded."
     ],
     "correctAnswer": "A",
-    "subject": "Labour Law"
+    "isModernized": false,
+    "solution": "Retrenchment excludes termination for misconduct. Since this was punishment-based, no compensation is payable.",
+    "quickTip": "Retrenchment = termination not due to misconduct."
   },
   {
     "id": "aibe19-q80",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 80,
-    "question": "Ms J, a banker refuses to honour cheque of Ms F. Though she was having sufficient balance yet it doesn't suffer any loss to Ms F. Ms F can file the case under which scenario?",
+    "subject": "Miscellaneous",
+    "question": "Ms J, a banker refuses to honour a cheque of Ms F despite sufficient balance. Ms F suffers no monetary loss. Which maxim applies?",
     "options": [
-      "Volenti - non - fit - injuria",
-      "Injuria - sine - damnum",
-      "Damnum - sine - injuria",
-      "Res - ipsa - loquitur"
+      "Volenti-non-fit-injuria",
+      "Injuria-sine-damnum",
+      "Damnum-sine-injuria",
+      "Res-ipsa-loquitur"
     ],
     "correctAnswer": "B",
-    "subject": "Law of Torts"
+    "isModernized": false,
+    "solution": "Injuria-sine-damnum means legal injury without actual damage.   Refusing cheque violates a legal right even if no loss occurs.",
+    "quickTip": "Injuria-sine-damnum = actionable without loss."
   },
   {
     "id": "aibe19-q81",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 81,
-    "subject": "Law of Torts",
-    "question": "Mr B told Mr A to leave the premises in occupation of Mr A. When Mr A refused then Mr B collected some of his workmen who mustered round Mr A. They tucking up their sleeves and aprons and threatened to break the plaintiff's neck, he did not leave. Under which tortious act, Mr A can file the case?",
+    "subject": "Criminal Law",
+    "question": "Mr B told Mr A to leave the premises in occupation of Mr A. When Mr A refused, Mr B collected some of his workmen who mustered round Mr A. They tucked up their sleeves and aprons and threatened to break the plaintiff’s neck, but did not leave. Under which tortious act, Mr A can file the case?",
     "options": [
       "False Imprisonment",
       "Assault",
       "Battery",
       "Hurt"
     ],
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Recall the definition of assault.  Assault occurs when a person intentionally causes another to apprehend the use of force, even without actual physical contact.  Step 2: Apply facts.  Here, Mr B and his men threatened Mr A with violence (tucking sleeves and threatening to break his neck).   Although no physical harm was done, the threats created fear of imminent harm.  Step 3: Conclusion.  This constitutes assault, not battery or false imprisonment.",
+    "quickTip": "Remember: Assault = threat or attempt; Battery = actual physical contact."
   },
   {
     "id": "aibe19-q82",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 82,
-    "subject": "Law of Torts",
-    "question": "Ms J knowing while taking the lift that driver Mr T was under the influence of alcohol. Consequently, car met with an accident and Ms J got injuries and she has filed the case for compensation. Which defence could be claimed by Mr T ?",
+    "subject": "Labour Law",
+    "question": "Ms J knowingly took a lift with driver Mr T who was under the influence of alcohol. The car met with an accident and Ms J got injuries.   She filed a case for compensation.   Which defence could be claimed by Mr T?",
     "options": [
-      "Volenti - non - fit - injuria",
+      "Volenti non-fit injuria",
       "Act of God",
       "Inevitable Accident",
       "Act of Necessity"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Meaning of Volenti non-fit injuria.  It means “to one who voluntarily consents, no injury is done.”  Step 2: Application.  Since Ms J knew the driver was drunk yet chose to travel, she voluntarily accepted the risk. Hence, Mr T can use this as a defence.",
+    "quickTip": "Consent, if given with full knowledge of risk, negates liability under tort law."
   },
   {
     "id": "aibe19-q83",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 83,
-    "question": "Mr K is owner of a building containing a large number of rooms and had derived a considerable income by letting them. Mr Y is owner of an adjacent cotton mill which erected after the occupation by Mr K . Owing to noise and smoke of the mill several rooms r emain vacated that results into loss for Mr K . Examine relevant tort fors the case.",
+    "subject": "Law of Torts",
+    "question": "Mr K is owner of a building containing many rooms and earns rent from it. Mr Y is owner of an adjacent cotton mill which causes noise and smoke, forcing tenants to vacate rooms and resulting in loss of rent for Mr K. Which tort applies?",
     "options": [
-      "Damnum - sine - injuria",
-      "Trespass to lan'",
+      "Damnum sine injuria",
+      "Trespass to land",
       "Nuisance",
       "Negligence"
     ],
     "correctAnswer": "C",
-    "subject": "Law of Torts"
+    "isModernized": false,
+    "solution": "Step 1: Define nuisance.  Nuisance is an unlawful interference with the use and enjoyment of land.  Step 2: Apply facts.  Noise and smoke from Y’s mill disturbed tenants, reducing K’s income. This clearly interferes with enjoyment of property.",
+    "quickTip": "Private nuisance affects the rights of an individual to enjoy their property."
   },
   {
     "id": "aibe19-q84",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 84,
-    "question": "There was a collision between two buses, one owned by the government and another was a private bus. Wherein private bus whe coming from wrong side and government bus was coming rashly, neither slowing dowy his bus after secing the other bus. Determine the tortious act.",
+    "subject": "Motor Vehicle Law",
+    "question": "There was a collision between a government-owned bus and a private bus.   Both were driving negligently and caused damage. Determine the tortious act.",
     "options": [
       "Private bus owner is negligent",
-      "Govemment bus owner is negligent.",
-      "Inevitable accident.",
-      "Contributory negligence."
+      "Government bus owner is negligent",
+      "Inevitable accident",
+      "Contributory negligence"
     ],
     "correctAnswer": "D",
-    "subject": "Law of Torts"
+    "isModernized": false,
+    "solution": "Both drivers were negligent, and their combined actions caused the accident. This is contributory negligence, where more than one party is at fault.",
+    "quickTip": "In contributory negligence, liability is shared among negligent parties."
   },
   {
     "id": "aibe19-q85",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 85,
-    "question": "The term \"Income\" is described in the Income Tax Act, 1961 under -------------- .",
+    "subject": "Tax Law",
+    "question": "The term “Income” is described in the Income Tax Act, 1961 under   .",
     "options": [
-      "Section 2 (24) 2 (24)",
-      "Section 2 (40) 2(40)",
-      "Section 3 3",
-      "Section 10 E 10 E"
+      "Section 2(24)",
+      "Section 2(20)",
+      "Section 3",
+      "Section 10E"
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law"
+    "isModernized": false,
+    "solution": "Section 2(24) of the Income Tax Act defines “Income” inclusively, covering profits, dividends, capital gains, winnings from lotteries, etc.",
+    "quickTip": "Section 2(24) is a wide definition, not exhaustive."
   },
   {
     "id": "aibe19-q86",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 86,
-    "question": "Mr. X deposits ₹ 65,000 in the term deposit of 5 years with the Post Office to avail tax deduction under section 80 C . Assuming Mr. X does not opt for concessional tax regime u",
+    "subject": "Tax Law",
+    "question": "Mr X deposits 65,000 in a 5-year term deposit with the Post Office to avail deduction under Section 80C. Assuming Mr X does not opt for the concessional regime u/s 115BAC, what is correct?",
     "options": [
-      "Mr. X is guilty of tax evasion/tax avoidance.",
-      "Mr. X is not guilty of either taxevasion/tax avoidance.",
-      "No tax deduction can be availed under Section 80 C .",
-      "It is an unlawful act to treat a personal expenditure."
+      "Mr X is guilty of tax evasion/tax avoidance.",
+      "Mr X is not guilty of either tax evasion/tax avoidance.",
+      "No tax deduction can be availed under Section 80C.",
+      "It is unlawful to treat a deposit as personal expenditure."
     ],
     "correctAnswer": "B",
-    "subject": "Tax Law"
+    "isModernized": false,
+    "solution": "Deposits in 5-year term deposits with the Post Office are eligible for deduction u/s 80C. Since Mr X invested legitimately, he cannot be accused of tax evasion.",
+    "quickTip": "Tax planning using deductions like 80C is legal; tax evasion is illegal."
   },
   {
     "id": "aibe19-q87",
@@ -9083,30 +9281,35 @@
     "year": 2024,
     "questionNumber": 87,
     "subject": "Tax Law",
-    "question": "Read the given statements and choose the correct option.\nStatement 1: Agricultural income is exempt from tax under Section 10(1) of Income Tax Act, 1961.\nStatement 2: Tax on Non - Agricultural in case of Non - Agricultural Income exceeds Basic Exemption limit and Agricultural Income exceeds ₹ 5000",
+    "question": "Read the statements: 1. Agricultural income is exempt from tax under Section 10(1) of Income Tax Act, 1961.   2.   Non-agricultural income above exemption + agricultural income above 5000 is taxable via partial integration.",
     "options": [
-      "Both the Statements are incorrect.",
+      "Both statements are incorrect.",
       "Only Statement 1 is true.",
       "Only Statement 2 is true.",
-      "Both the Statements are correct."
+      "Both statements are correct."
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Agricultural income is exempt under Section 10(1). But, if combined with high non-agricultural income, partial integration applies. Thus both statements hold true.",
+    "quickTip": "Partial integration ensures equity in taxation where agricultural income indirectly raises tax liability."
   },
   {
     "id": "aibe19-q88",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 88,
-    "question": "Rent - Free Accommodation provided by an employer to employee is --------------------- .",
+    "subject": "Labour Law",
+    "question": "Rent-free accommodation provided by employer to employee is   .",
     "options": [
-      "Perquisite as per Section 17(2) of the Income Tax Act",
-      "Perquisite as per Section 16(2) of the Income Tax Act",
-      "Allowance under Section 10(13A) of the Income Tax Act",
-      "Allowance under Section 10(1) of the Income Tax Act"
+      "Perquisite under Section 17(2) of IT Act",
+      "Perquisite under Section 16(2)",
+      "Allowance under Section 10(13A)",
+      "Allowance under Section 10(1)"
     ],
     "correctAnswer": "A",
-    "subject": "Tax Law"
+    "isModernized": false,
+    "solution": "Section 17(2) includes rent-free accommodation in the definition of “perquisites.”",
+    "quickTip": "Perquisites = non-cash benefits provided by employer."
   },
   {
     "id": "aibe19-q89",
@@ -9114,7 +9317,7 @@
     "year": 2024,
     "questionNumber": 89,
     "subject": "Contract Law",
-    "question": "An agreement not enforceable by law is stated to be void under ---------------",
+    "question": "An agreement not enforceable by law is called   .",
     "options": [
       "Section 2(d)",
       "Section 2(e)",
@@ -9122,44 +9325,53 @@
       "Section 2(g)"
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Section 2(g) of Indian Contract Act states an agreement not enforceable by law is void.",
+    "quickTip": "All contracts are agreements, but not all agreements are contracts."
   },
   {
     "id": "aibe19-q90",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 90,
-    "question": "The concept of invalid guarantee is covered under Sections ------------",
+    "subject": "Contract Law",
+    "question": "The concept of invalid guarantee is covered under Sections   .",
     "options": [
-      "142 - 146",
-      "142 - 144",
-      "143 - 147",
-      "140 - 143"
+      "142–146",
+      "142–144",
+      "143–147",
+      "140–143"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law"
+    "isModernized": false,
+    "solution": "Sections 142–144 of Indian Contract Act, 1872 deal with invalid guarantees, such as misrepresentation or concealment.",
+    "quickTip": "A guarantee obtained by misrepresentation or concealment is invalid."
   },
   {
     "id": "aibe19-q91",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 91,
-    "question": "\"A\", a real estate developer, entered into a contract with \"B\", the owner of a piece of prime land, for the purchase of her property. The contract stipulated that \"A\" would pay ₹ 50 lakhs in advance and the remaining ₹ 1 crore within six months. In return, \"B\" agreed to transfer the title to the land. However, after receiving the advance payment, \" B \" refused to execute the sale deed, claiming that she received a better offer from another buyer. \"A\" demanded the enforcement of the contract under the Specific Relief Act, 1963, but \"B\" denied his claim. \"A\" has to file a suit in a court of law. On the basis of the above problem, select the correct answer.",
+    "subject": "Civil Procedure",
+    "question": "”A”, a real estate developer, entered into a contract with ”B”, the owner of a piece of land, for the purchase of her property. The contract stipulated that ”A” would pay 50 lakhs in advance and the remaining 1 crore within six months.   In return, ”B” agreed to transfer the title to the land.   However, after receiving the advance payment, ”B” refused to execute the sale deed claiming that she received a better offer from another buyer. ”A” demanded the enforcement of the contract under the Specific Relief Act, 1963, but ”B” denied his claim. ”A” has to file a suit in a court of law.",
     "options": [
-      "\"A\" may file a suit in the criminal court having the powers under the Bhartiya Nagarik Suraksha Sanhita, 2023.",
-      "\"A\" may file a suit in the special court constituted under the Specific Relief Act, 1963.",
-      "\"A\" may file a suit in the civil court having the powers under the Civil Procedure Code, 1908.",
-      "No suit can be brought against \"A\" as there in no breach of contract. \"A\""
+      "”A” may file a suit in the criminal court having the powers under the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "”A” may file a suit in the special court constituted under the Specific Relief Act, 1963.",
+      "”A” may file a suit in the civil court having powers under the Civil Procedure Code, 1908.",
+      "No suit can be brought against ”A” as there is no breach of contract."
     ],
     "correctAnswer": "C",
-    "subject": "Contract Law"
+    "isModernized": true,
+    "solution": "Step 1: Nature of dispute.  The dispute is contractual in nature regarding the enforcement of a sale deed.  Step 2: Relevant law.  Specific Relief Act, 1963 provides substantive remedies like specific performance, but the suit must be filed in a civil court under CPC, 1908.  Step 3: Elimination.  - (A) Criminal court is irrelevant here. - (B) There is no special court under Specific Relief Act. - (D) Clearly breach exists, so this is wrong.  Conclusion:   The correct forum is a civil court under CPC, 1908.",
+    "quickTip": "Contracts are enforced in civil courts; the Specific Relief Act only provides remedies, not procedure."
   },
   {
     "id": "aibe19-q92",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 92,
-    "question": "\"A\" transfers a piece of land to \"B\" on the condition that \" B \" shall not transfer the land to anyone else for the next 10 years. In this case, \"B\" has no right to transfer the land to someone else for the next 10 years.",
+    "subject": "Property Law",
+    "question": "”A” transfers a piece of land to ”B” on the condition that ”B” shall not transfer the land to anyone else for the next 10 years.   In this case, ”B” has no right to transfer the land to someone else for the next 10 years.",
     "options": [
       "It amounts to Conditional Transfer of Property.",
       "It amounts to Conditional Limitations on Transfer of Property.",
@@ -9167,14 +9379,17 @@
       "It amounts to conditions precedent in the Transfer of Property."
     ],
     "correctAnswer": "B",
-    "subject": "Property Law"
+    "isModernized": false,
+    "solution": "Step 1: Identify nature of restriction.  The restriction imposed is not about transfer itself but limiting ”B” from transferring to anyone else.  Step 2: Rule under TPA.  Such restrictions are categorized as conditional limitations on transfer under the Transfer of Property Act.  Step 3: Elimination.  - (A) Conditional transfer means dependent on fulfillment of condition. - (C) Subsequent transfer means fresh transfer, not restriction. - (D) Condition precedent is condition before transfer, not after.  Conclusion:   The case falls under conditional limitations.",
+    "quickTip": "Always distinguish between condition precedent (before transfer) and conditional limitation (restriction after transfer)."
   },
   {
     "id": "aibe19-q93",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 93,
-    "question": "Mr. Rajesh issued a cheque of ₹ 50,000 to his supplier, Mr. Sharma, for the payment of goods purchased. When Mr. Sharma deposited the cheque, it was returned by the bank with the remark \"Insufficient Funds\". On the basis of the above problem, select the correct option.",
+    "subject": "Miscellaneous",
+    "question": "Mr.   Rajesh issued a cheque of 50,000 to his supplier, Mr.   Sharma, for the payment of goods purchased. When Mr. Sharma deposited the cheque, it was returned by the bank with the remark ”Insufficient Funds.” On the basis of the above problem, select the correct option.",
     "options": [
       "A complaint in writing is to be made by Mr. Sharma in the court within three months for the dishonour of the cheque.",
       "A complaint in writing is to be made by Mr. Sharma in the court within one month for the dishonour of the cheque.",
@@ -9182,14 +9397,17 @@
       "A complaint in writing is to be made by Mr. Sharma in the court within two months for the dishonour of the cheque."
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law"
+    "isModernized": false,
+    "solution": "Step 1: Law applicable.  Cheque dishonour is governed by Section 138 of the Negotiable Instruments Act, 1881. Step 2: Complaint period.  Complaint must be filed within one month from the date on which cause of action arises after expiry of notice period.  Step 3: Elimination.  Options (A), (C), (D) provide wrong time limits.  Conclusion:   Correct limit is one month.",
+    "quickTip": "For cheque bounce cases, complaint must be filed within one month after notice period lapses."
   },
   {
     "id": "aibe19-q94",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 94,
-    "question": "Section 31 of the Specific Relief Act, 1963 is related to --------- ?",
+    "subject": "Civil Procedure",
+    "question": "Section 31 of the Specific Relief Act, 1963 is related to:",
     "options": [
       "Rescission of contracts",
       "Cancellation of instruments",
@@ -9197,46 +9415,53 @@
       "Perpetual injunction"
     ],
     "correctAnswer": "B",
-    "subject": "Contract Law"
+    "isModernized": false,
+    "solution": "Step 1: Law check.  Section 31 of the Specific Relief Act deals with cancellation of instruments that are void or voidable and may cause harm.  Step 2: Elimination.  Other options belong to different sections: rescission (27), declaratory decrees (34), perpetual injunction (38).  Conclusion:   Section 31 deals with cancellation of instruments.",
+    "quickTip": "Remember Specific Relief Act sections: 27 (rescission), 31 (cancellation), 34 (declaratory decree), 38 (injunction)."
   },
   {
     "id": "aibe19-q95",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 95,
-    "subject": "Contract Law",
-    "question": "How the recovery of specific immovable property may be enforced ?",
+    "subject": "Civil Procedure",
+    "question": "How the recovery of specific immovable property may be enforced?",
     "options": [
-      "A person entitled to the possession of specific immovable property may recover it in the manner provided by The Specific Relief Act, 1963.",
-      "A person entitled to the possession of specific immovable property may recover it in the manner provided by the Transfer of Property Act, 1882.",
-      "A person entitled to the possession of specific immovable property may recover it in the manner provided by the Code of Criminal Procedure, 1973.",
-      "A person entitled to the possession of specific immovable property may recover it in the manner provided by the Code of Civil Procedure, 1908."
+      "A person entitled to possession of specific immovable property may recover it in the manner provided by The Specific Relief Act, 1963.",
+      "A person entitled to possession of specific immovable property may recover it in the manner provided by the Transfer of Property Act, 1882.",
+      "A person entitled to possession of specific immovable property may recover it in the manner provided by the Code of Criminal Procedure, 1973.",
+      "A person entitled to possession of specific immovable property may recover it in the manner provided by the Code of Civil Procedure, 1908."
     ],
     "correctAnswer": "D",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Law reference.  Recovery of specific immovable property is dealt under Section 5 of the Specific Relief Act, 1963.  Step 2: Mode of recovery.  It specifically provides that possession can be recovered in the manner provided under CPC, 1908.  Step 3: Elimination.  Options (A), (B), (C) are incorrect as they do not specify CPC, which is mandatory.  Conclusion:   Recovery is through CPC.",
+    "quickTip": "Specific Relief Act refers to CPC for actual enforcement of recovery of immovable property."
   },
   {
     "id": "aibe19-q96",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 96,
-    "question": "Which section of Law of Contract defines, \"A proposal may be revoked at any time, before the communication of its acceptance is complete as against the proposer, but not afterwards.\" ? \" ?",
+    "subject": "Contract Law",
+    "question": "Which section of Law of Contract defines, “A proposal may be revoked at any time before the communication of its acceptance is complete as against the proposer, but not afterwards”?",
     "options": [
-      "Section 5 5",
-      "Section 4 4",
-      "Section 6 6",
-      "Section 7 7"
+      "Section 5",
+      "Section 4",
+      "Section 6",
+      "Section 7"
     ],
     "correctAnswer": "A",
-    "subject": "Contract Law"
+    "isModernized": false,
+    "solution": "Step 1: Understanding revocation of proposal.  The Indian Contract Act, 1872, in Section 5, clearly lays down that a proposal may be revoked before the communication of its acceptance is complete as against the proposer.  Step 2: Elimination.  - Section 4: Defines communication, acceptance, and revocation. - Section 6: Deals with modes of revocation. - Section 7: Deals with acceptance must be absolute.  Conclusion:   Only Section 5 directly addresses revocation of proposal.",
+    "quickTip": "Remember: Section 4   →   communication; Section 5   →   revocation; Section 6   →   modes; Section 7   →   acceptance must be absolute."
   },
   {
     "id": "aibe19-q97",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 97,
-    "subject": "Property Law",
-    "question": "According to the Land Acquisition Act (Land Acquisition, Rehabilitation and Resettlement), 2013, governments can acquire land for:\n\n(i) Strategic purpose.\n(ii) Projects for Families Affected by Projects.\n(iii) For public-private partnership projects, where government ownership of land will remain with the government.",
+    "subject": "Contract Law",
+    "question": "According to the Land Acquisition Act (Land Acquisition, Rehabilitation and Resettlement), 2013, governments can acquire land for: (i) Strategic purpose. (ii) Projects for Families Affected by Projects. (iii) For public-private partnership projects, where government ownership of land will remain with the government.",
     "options": [
       "(i) & (ii)",
       "(ii) & (iii)",
@@ -9244,15 +9469,17 @@
       "(i), (ii) & (iii)"
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Scope of LARR Act, 2013.  The Act allows acquisition for strategic purposes (e.g., defense) and for resettlement of families affected by projects.  Step 2: Clarification on PPP.  In PPP projects, land ownership remains with private parties, not government; hence (iii) is excluded.  Conclusion:   Correct purposes are (i) and (ii).",
+    "quickTip": "Strategic and rehabilitation purposes are the two main grounds for land acquisition under LARR Act, 2013."
   },
   {
     "id": "aibe19-q98",
     "exam": "AIBE 19",
     "year": 2024,
     "questionNumber": 98,
-    "subject": "Property Law",
-    "question": "Land Acquisition Act, 2013 in India has replaced which earlier legislation ?",
+    "subject": "Labour Law",
+    "question": "Land Acquisition Act, 2013 in India has replaced which earlier legislation?",
     "options": [
       "Land Acquisition Act, 1956",
       "Land Acquisition Act, 1862",
@@ -9260,7 +9487,9 @@
       "Land Acquisition Act, 1874"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Historical background.  The Land Acquisition Act, 1894 was the primary law governing acquisition of land in India.  Step 2: Replacement.  It was repealed and replaced by the LARR Act, 2013, which included provisions for rehabilitation and resettlement.  Conclusion:   The 1894 Act was replaced by the 2013 Act.",
+    "quickTip": "Always remember: 1894 Act   →   repealed; 2013 Act   →   introduced fair compensation and rehabilitation."
   },
   {
     "id": "aibe19-q99",
@@ -9268,7 +9497,7 @@
     "year": 2024,
     "questionNumber": 99,
     "subject": "Intellectual Property",
-    "question": "Soham, an independent software developer, created a mobile app called \"FitLife\" that provides personalized fitness plans. He registered the app's name and logo under trademark law and copyrighted the app's source code. However, six months after its launch, Soham discovered a competing app called \"EitLyfe\", with a similar logo and features, being marketed by a large tech company. Soham believes the competing app copied elements of his source code and intentionally used a confusingly similar name and logo to mislead customers. On the basis of the above problem, select the correct option. Under trademark law, can Soham claim infringement for the use of a similar name and logo by the competing app ?",
+    "question": "Soham, an independent software developer, created a mobile app called ”FitLife” that provides personalized fitness plans.   He registered the app’s name and logo under trademark law and copyrighted the app’s source code. However, six months after its launch, Soham discovered a competing app called ”LyfWell”, with a similar logo and features, being marketed by a large tech company. Soham believes the competing app copied elements of his source code and intentionally used a confusingly similar name and logo to mislead customers. On the basis of the above problem, select the correct option. Under trademark law, can Soham claim infringement for the use of a similar name and logo by the competing app?",
     "options": [
       "Yes, if he can prove that the names are confusingly similar.",
       "No, because the competing app has a different name and logo.",
@@ -9276,7 +9505,9 @@
       "No, trademark infringement can only occur if there is identical copying."
     ],
     "correctAnswer": "A",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Trademark principle.  Trademark law protects not just identical marks but also deceptively similar marks.  Step 2: Facts applied.  “FitLife” and “LyfWell” are similar enough to cause confusion among consumers, especially with logos being alike. Conclusion:   Soham can claim infringement if he proves confusing similarity.",
+    "quickTip": "Trademark infringement covers deceptive similarity, not just identical copying."
   },
   {
     "id": "aibe19-q100",
@@ -9289,10 +9520,12 @@
       "50 years from the creation of the work",
       "60 years from the date of publication",
       "Lifetime of the author plus 60 years",
-      "10 years from the date of first publication"
+      "10 years from the date of first sale"
     ],
     "correctAnswer": "C",
-    "isModernized": false
+    "isModernized": false,
+    "solution": "Step 1: Law reference.  Copyright Act, 1957 in India provides that for literary works, copyright subsists during the author’s lifetime and for 60 years after their death.  Step 2: Clarification.  The 60 years are calculated from the year following the author’s death.  Conclusion:   Correct duration is lifetime + 60 years.",
+    "quickTip": "Remember: Literary, dramatic, musical, and artistic works = lifetime + 60 years; films, sound recordings = 60 years from publication."
   },
   {
     "id": "aibe20-q1",
