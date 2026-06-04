@@ -1,9 +1,11 @@
 import { useState, useMemo } from 'react'
 import questions from '../data/questions.json'
+import { parseSolution } from '../utils/parseSolution'
 import './Questions.css'
 
 const EXAMS = [...new Set(questions.map(q => q.exam))].sort()
 const SUBJECTS = [...new Set(questions.map(q => q.subject))].sort()
+
 
 
 export default function Questions() {
@@ -76,6 +78,7 @@ export default function Questions() {
       <div className="questions-list">
         {paged.map(q => (
           <div key={q.id} className="question-card glass-card">
+            {/* Header with number + tags */}
             <div className="q-header">
               <span className="q-number">Q{q.questionNumber}</span>
               <div className="q-tags">
@@ -89,7 +92,11 @@ export default function Questions() {
                 <span className="tag tag-subject">{q.subject}</span>
               </div>
             </div>
+
+            {/* Question text */}
             <p className="q-text">{q.question}</p>
+
+            {/* Options */}
             <div className="q-options">
               {q.options.map((opt, i) => {
                 const letter = String.fromCharCode(65 + i)
@@ -103,21 +110,44 @@ export default function Questions() {
                 )
               })}
             </div>
+
+
             {q.correctAnswer ? (
               <>
                 <button className="btn btn-ghost show-answer-btn" onClick={() => toggleAnswer(q.id)}>
                   {showAnswer[q.id] ? 'Hide Answer' : 'Show Answer'}
                 </button>
+
+                {/* Structured Solution */}
                 {showAnswer[q.id] && q.solution && (
                   <div className="q-solution-box animate-in">
-                    <div className="q-solution-title">💡 Explanation</div>
-                    <div className="q-solution-text">{q.solution}</div>
+                    <div className="q-solution-header">
+                      <span className="q-solution-icon">📖</span>
+                      <span className="q-solution-title">Solution</span>
+                    </div>
+                    <div className="q-solution-steps">
+                      {parseSolution(q.solution).map((step, idx) => (
+                        <div key={idx} className="q-step">
+                          {step.stepNum && (
+                            <div className="q-step-header">
+                              <span className="q-step-badge">Step {step.stepNum}</span>
+                              {step.title && <span className="q-step-title">{step.title}</span>}
+                            </div>
+                          )}
+                          <p className="q-step-body">{step.body}</p>
+                        </div>
+                      ))}
+                    </div>
                   </div>
                 )}
+
+                {/* Quick Tip */}
                 {showAnswer[q.id] && q.quickTip && (
                   <div className="q-quicktip-box animate-in">
-                    <span className="q-quicktip-icon">✨</span>
-                    <span className="q-quicktip-text">{q.quickTip}</span>
+                    <div className="q-quicktip-header">
+                      <span className="q-quicktip-label">Quick Tip</span>
+                    </div>
+                    <p className="q-quicktip-text">{q.quickTip}</p>
                   </div>
                 )}
               </>

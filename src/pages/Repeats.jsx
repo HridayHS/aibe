@@ -1,4 +1,5 @@
 import repeats from '../data/repeats.json'
+import { parseSolution } from '../utils/parseSolution'
 import './Repeats.css'
 
 export default function Repeats() {
@@ -92,14 +93,31 @@ export default function Repeats() {
                   </div>
                   {q.solution && (
                     <div className="q-solution-box" style={{ marginTop: '0.75rem', marginBottom: '0.5rem' }}>
-                      <div className="q-solution-title">💡 Explanation</div>
-                      <div className="q-solution-text">{q.solution}</div>
+                      <div className="q-solution-header">
+                        <span className="q-solution-icon">📖</span>
+                        <span className="q-solution-title">Solution</span>
+                      </div>
+                      <div className="q-solution-steps">
+                        {parseSolution(q.solution).map((step, idx) => (
+                          <div key={idx} className="q-step">
+                            {step.stepNum && (
+                              <div className="q-step-header">
+                                <span className="q-step-badge">Step {step.stepNum}</span>
+                                {step.title && <span className="q-step-title">{step.title}</span>}
+                              </div>
+                            )}
+                            <p className="q-step-body">{step.body}</p>
+                          </div>
+                        ))}
+                      </div>
                     </div>
                   )}
                   {q.quickTip && (
                     <div className="q-quicktip-box" style={{ marginTop: '0.5rem', marginBottom: '0.5rem' }}>
-                      <span className="q-quicktip-icon">✨</span>
-                      <span className="q-quicktip-text">{q.quickTip}</span>
+                      <div className="q-quicktip-header">
+                        <span className="q-quicktip-label">Quick Tip</span>
+                      </div>
+                      <p className="q-quicktip-text">{q.quickTip}</p>
                     </div>
                   )}
                 </div>
