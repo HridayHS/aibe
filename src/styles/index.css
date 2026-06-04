@@ -163,6 +163,7 @@ p { color: var(--text-secondary); line-height: 1.7; }
 }
 .tag-gold { color: var(--gold-300); border-color: rgba(201, 168, 76, 0.25); background: rgba(201, 168, 76, 0.08); }
 .tag-green { color: var(--accent-300); border-color: rgba(52, 211, 153, 0.25); background: rgba(52, 211, 153, 0.08); }
+.tag-blue { color: #93c5fd; border-color: rgba(147, 197, 253, 0.25); background: rgba(147, 197, 253, 0.08); }
 .tag-modernized { color: #2dd4bf; border-color: rgba(45, 212, 191, 0.25); background: rgba(45, 212, 191, 0.08); }
 
 .search-input {

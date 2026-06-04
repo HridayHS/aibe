@@ -4,7 +4,7 @@
 .paper-card:hover { transform: none; }
 .paper-name { font-size: 1.5rem; color: var(--gold-300); margin-bottom: 0.25rem; }
 .paper-date { font-size: 0.85rem; color: var(--text-tertiary); }
-.paper-meta { display: flex; gap: 0.5rem; }
+.paper-meta { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 
 .paper-progress-section {
   margin-bottom: 1.25rem;

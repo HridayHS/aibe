@@ -6,25 +6,26 @@ const PDF_BASE = '/pdfs/'
 
 const exams = [
   { id: 'aibe20', name: 'AIBE 20', year: 2025, date: 'November 30, 2025',
-    sets: [
-      { code: 'A', pdf: 'aibe-20-set-a.pdf' },
-      { code: 'D', pdf: 'aibe-20-set-d.pdf' },
-    ],
-    totalQ: 100, hasAnswers: true },
+    pdf: 'aibe-20-set-a-with-solutions.pdf',
+    totalQ: 100, hasAnswers: true, hasSolutions: true },
   { id: 'aibe19', name: 'AIBE 19', year: 2024, date: '2024',
-    sets: [
-      { code: 'A', pdf: 'aibe-19-set-a.pdf' },
-      { code: 'B', pdf: 'aibe-19-set-b.pdf' },
-      { code: 'C', pdf: 'aibe-19-set-c.pdf' },
-      { code: 'D', pdf: 'aibe-19-set-d.pdf' },
-    ],
-    answerKeyPdf: 'aibe-19-answer-key.pdf',
-    totalQ: 100, hasAnswers: true },
-  { id: 'aibe18', name: 'AIBE 18', year: 2023, date: '2023',
-    sets: [
-      { code: 'A', pdf: 'aibe-18-set-a.pdf' },
-    ],
-    totalQ: 100, hasAnswers: true },
+    pdf: 'aibe-19-set-a-with-solutions.pdf',
+    totalQ: 100, hasAnswers: true, hasSolutions: true },
+  { id: 'aibe18', name: 'AIBE 18', year: 2024, date: '2024',
+    pdf: 'aibe-18-set-a-with-solutions.pdf',
+    totalQ: 100, hasAnswers: true, hasSolutions: true },
+  { id: 'aibe17', name: 'AIBE 17', year: 2023, date: '2023',
+    pdf: 'aibe-17-set-a-with-solutions.pdf',
+    totalQ: 100, hasAnswers: true, hasSolutions: true },
+  { id: 'aibe16', name: 'AIBE 16', year: 2022, date: '2022',
+    pdf: 'aibe-16-set-a-with-solutions.pdf',
+    totalQ: 100, hasAnswers: true, hasSolutions: true },
+  { id: 'aibe15', name: 'AIBE 15', year: 2021, date: '2021',
+    pdf: 'aibe-15-set-a-with-solutions.pdf',
+    totalQ: 100, hasAnswers: true, hasSolutions: true },
+  { id: 'aibe14', name: 'AIBE 14', year: 2019, date: 'September 15, 2019',
+    pdf: 'aibe-14-set-a-with-solutions.pdf',
+    totalQ: 100, hasAnswers: true, hasSolutions: true },
 ]
 
 export default function Papers() {
@@ -34,7 +35,7 @@ export default function Papers() {
     <div className="papers-page">
       <div className="page-header">
         <h1>Question Papers</h1>
-        <p>Access AIBE exam papers — practice online or download original PDFs</p>
+        <p>Access AIBE exam papers with solutions — practice online or download PDFs</p>
       </div>
 
       <div className="papers-list">
@@ -48,8 +49,9 @@ export default function Papers() {
                   <span className="paper-date">{exam.date}</span>
                 </div>
                 <div className="paper-meta">
-                  <span className="tag tag-gold">{count} Questions Extracted</span>
-                  {exam.hasAnswers && <span className="tag tag-green">Answer Key Verified ✓</span>}
+                  <span className="tag tag-gold">{count} Questions</span>
+                  {exam.hasAnswers && <span className="tag tag-green">Answers Verified ✓</span>}
+                  {exam.hasSolutions && <span className="tag tag-blue">Solutions Included ✓</span>}
                 </div>
               </div>
 
@@ -74,33 +76,21 @@ export default function Papers() {
                 </Link>
               </div>
 
-              {/* PDF Downloads */}
+              {/* PDF Download */}
               <div className="paper-pdfs-section">
-                <h4>Original Question Paper PDFs</h4>
+                <h4>Question Paper with Solutions</h4>
                 <div className="pdf-links-list">
-                  {exam.sets.map(set => (
-                    <div key={set.code} className="pdf-link-item">
-                      <span className="pdf-set-label">Set {set.code} Original PDF</span>
-                      <div className="pdf-action-buttons">
-                        <a href={PDF_BASE + set.pdf} target="_blank" rel="noopener noreferrer" className="pdf-btn-link view">
-                          👁️ View
-                        </a>
-                        <a href={PDF_BASE + set.pdf} download className="pdf-btn-link download">
-                          ⬇️ Download
-                        </a>
-                      </div>
+                  <div className="pdf-link-item">
+                    <span className="pdf-set-label">Set A — Questions, Answers & Solutions</span>
+                    <div className="pdf-action-buttons">
+                      <a href={PDF_BASE + exam.pdf} target="_blank" rel="noopener noreferrer" className="pdf-btn-link view">
+                        👁️ View
+                      </a>
+                      <a href={PDF_BASE + exam.pdf} download className="pdf-btn-link download">
+                        ⬇️ Download
+                      </a>
                     </div>
-                  ))}
-                  {exam.answerKeyPdf && (
-                    <div className="pdf-link-item answer-key-item">
-                      <span className="pdf-set-label">Official Answer Key PDF</span>
-                      <div className="pdf-action-buttons">
-                        <a href={PDF_BASE + exam.answerKeyPdf} target="_blank" rel="noopener noreferrer" className="pdf-btn-link view">
-                          📋 View Key
-                        </a>
-                      </div>
-                    </div>
-                  )}
+                  </div>
                 </div>
               </div>
 
@@ -121,12 +111,12 @@ export default function Papers() {
       </div>
 
       <div className="papers-note glass-card">
-        <h3>📋 Note on Data Coverage</h3>
+        <h3>📋 About These Papers</h3>
         <p>
-          We maintain a unified database of unique questions for each exam year. Duplicate questions across different sets have been consolidated for maximum study efficiency.
+          All 7 AIBE exam papers (AIBE 14–20) are available with verified answer keys, step-by-step solutions, and quick tips for every question.
         </p>
         <p style={{ color: 'var(--text-tertiary)', fontSize: '0.85rem', marginTop: '0.5rem' }}>
-          Original PDFs for all sets are provided above for reference.
+          Questions referencing old laws (IPC, CrPC, Evidence Act) include updated references to the new BNS, BNSS, and BSA.
         </p>
       </div>
     </div>
