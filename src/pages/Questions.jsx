@@ -120,11 +120,12 @@ export default function Questions() {
 
                 {/* Structured Solution */}
                 {showAnswer[q.id] && q.solution && (
-                  <div className="q-solution-box animate-in">
-                    <div className="q-solution-header">
+                  <details className="q-solution-box animate-in">
+                    <summary className="q-solution-header">
                       <span className="q-solution-icon">📖</span>
                       <span className="q-solution-title">Solution</span>
-                    </div>
+                      <span className="q-solution-chevron">▸</span>
+                    </summary>
                     <div className="q-solution-steps">
                       {parseSolution(q.solution).map((step, idx) => (
                         <div key={idx} className="q-step">
@@ -138,7 +139,7 @@ export default function Questions() {
                         </div>
                       ))}
                     </div>
-                  </div>
+                  </details>
                 )}
 
                 {/* Quick Tip */}
