@@ -330,6 +330,62 @@ details.q-quicktip-box[open] > .q-quicktip-header .q-quicktip-chevron {
   font-weight: 500;
 }
 
+/* ===== Modern Law Note Box - Green/teal accent ===== */
+.q-modern-box {
+  margin-top: 0.75rem;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid rgba(34, 197, 94, 0.25);
+  background: rgba(34, 197, 94, 0.04);
+  animation: fadeIn 0.3s ease both;
+}
+
+.q-modern-header {
+  background: linear-gradient(135deg, #166534, #15803d);
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  user-select: none;
+}
+
+.q-modern-header::-webkit-details-marker {
+  display: none;
+}
+
+.q-modern-icon {
+  font-size: 0.9rem;
+}
+
+.q-modern-label {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #d1fae5;
+  letter-spacing: 0.02em;
+}
+
+.q-modern-chevron {
+  margin-left: auto;
+  font-size: 0.9rem;
+  color: #86efac;
+  transition: transform var(--transition-fast);
+}
+
+details.q-modern-box[open] > .q-modern-header .q-modern-chevron {
+  transform: rotate(90deg);
+}
+
+.q-modern-text {
+  padding: 0.85rem 1rem;
+  font-size: 0.85rem;
+  line-height: 1.65;
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
 /* ===== Tags for withdrawn ===== */
 .tag-withdrawn {
   color: #f87171;

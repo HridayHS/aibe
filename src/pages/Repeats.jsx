@@ -122,6 +122,16 @@ export default function Repeats() {
                       <p className="q-quicktip-text">{q.quickTip}</p>
                     </details>
                   )}
+                  {q.modernNote && (
+                    <details className="q-modern-box" style={{ marginTop: '0.5rem', marginBottom: '0.5rem' }}>
+                      <summary className="q-modern-header">
+                        <span className="q-modern-icon">⚖️</span>
+                        <span className="q-modern-label">New Law Reference</span>
+                        <span className="q-modern-chevron">▸</span>
+                      </summary>
+                      <p className="q-modern-text">{q.modernNote}</p>
+                    </details>
+                  )}
                 </div>
                 ))}
               </div>

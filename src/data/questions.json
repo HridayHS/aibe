@@ -393,7 +393,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Let’s analyze the statements based on the Indian Evidence Act, 1872: • (B) is true under Section 25, which states that no confession made to a police officer shall be proved against an accused. • (C) is true under the proviso to Section 26, which allows a confession made in police custody to be proved if it is made in the immediate presence of a Magistrate. • (D) is true under Section 27, which allows so much of a confession (even if made to police) as relates distinctly to a fact thereby discovered to be proved. • (A) is not true. Under Section 30, the confession of a co-accused can only be ”taken into consideration” by the court against other co-accused. It is not substantive evidence and cannot be the sole basis for conviction. It cannot be ”proved” in the same way as other evidence.",
-    "quickTip": "A confession of a co-accused is very weak evidence against others. It can only be used to lend support to other independent evidence. It is not ’proof’ in itself. The other statements reflect specific rules (and exceptions) about confessions in the Evidence Act."
+    "quickTip": "A confession of a co-accused is very weak evidence against others. It can only be used to lend support to other independent evidence. It is not ’proof’ in itself. The other statements reflect specific rules (and exceptions) about confessions in the Evidence Act.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe14-q23",
@@ -411,7 +412,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "The case of Kashmira Singh v. State of Madhya Pradesh (1952) is a landmark judgment that clarifies the evidentiary value of a confession made by a co-accused under Section 30 of the Indian Evidence Act. The Supreme Court authoritatively held that such a confession is not substantive evidence against the other accused persons. It can only be used to corroborate other evidence on record. The court cannot start with the confession and then look for corroboration; it must first consider all other evidence and only if it is satisfied, it may look to the confession to lend assurance to its conclusion.",
-    "quickTip": "Link Kashmira Singh directly to the ’Confession of a co-accused’. The key takeaway from the case is that such a confession has very low evidentiary value and can never be the foundation of a conviction for another accused."
+    "quickTip": "Link Kashmira Singh directly to the ’Confession of a co-accused’. The key takeaway from the case is that such a confession has very low evidentiary value and can never be the foundation of a conviction for another accused.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 30 → BSA Section 28."
   },
   {
     "id": "aibe14-q24",
@@ -429,7 +431,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Section 8 of the Indian Evidence Act, 1872, explicitly makes three categories of facts relevant: 1. Any fact which shows or constitutes a motive or preparation for any fact in issue or relevant fact. 2. The conduct of any party, or of any agent to any party, to any suit or proceeding, in reference to such suit or proceeding, or in reference to any fact in issue therein or relevant thereto, and the conduct of any person an offence against whom is the subject of any proceeding. The section does not explicitly list ”attempt” as a relevant fact. While evidence of an attempt might be covered under ”conduct” or other sections, it is not a distinct category under Section 8.",
-    "quickTip": "Remember the three key words for Section 8 of the Evidence Act: Motive, Preparation, and Conduct. ’Attempt’ is a stage in crime under the Indian Penal Code, but it is not a category of relevant facts listed in Section 8."
+    "quickTip": "Remember the three key words for Section 8 of the Evidence Act: Motive, Preparation, and Conduct. ’Attempt’ is a stage in crime under the Indian Penal Code, but it is not a category of relevant facts listed in Section 8.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 8 → BSA Section 6."
   },
   {
     "id": "aibe14-q25",
@@ -537,7 +540,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "The Code of Criminal Procedure, 1973 (CrPC) deals with the effect of irregularities in proceedings in several sections: • Section 460 (Irregularities which do not vitiate proceedings): This section lists certain procedural errors that are considered minor and do not render the entire proceeding void. • Section 461 (Irregularities which vitiate proceedings): This section lists more serious procedural errors that are considered fundamental defects. If a Magistrate not empowered by law does any of the things listed in this section (e.g., attaches and sells property, tries an offender), the proceedings are void. • Section 462 deals with proceedings in the wrong place. • Section 468 deals with the limitation period for taking cognizance of certain offences. Therefore, Section 461 is the correct answer.",
-    "quickTip": "Remember the pair: Section 460 of CrPC lists irregularities that are ’curable’ (do not vitiate), while Section 461 lists irregularities that are ’fatal’ (vitiate the proceedings)."
+    "quickTip": "Remember the pair: Section 460 of CrPC lists irregularities that are ’curable’ (do not vitiate), while Section 461 lists irregularities that are ’fatal’ (vitiate the proceedings).",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe14-q31",
@@ -573,7 +577,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "An advocate has duties to the court, to the client, to the opponent, and to the profession. • Options (D), (B), and (C) are duties towards the court, aimed at maintaining the dignity of the court and preventing conflicts of interest. These are outlined in the Bar Council of India Rules (e.g., Rule 1 on dignity, Rule 6 on not appearing before relatives). • Option (A), not committing a breach of Section 126 of the Evidence Act, refers to protecting privileged professional communications. This is a fundamental duty an advocate owes to their client, not directly to the court. While a breach of this duty could lead to professional misconduct proceedings, its primary obligation is towards the client’s confidentiality.",
-    "quickTip": "Distinguish duties based on whom they primarily protect. Duties to the court ensure the integrity of the judicial process (dignity, impartiality). Duties to the client, like confidentiality under Section 126, protect the client’s interests."
+    "quickTip": "Distinguish duties based on whom they primarily protect. Duties to the court ensure the integrity of the judicial process (dignity, impartiality). Duties to the client, like confidentiality under Section 126, protect the client’s interests.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 126 → BSA Section 132."
   },
   {
     "id": "aibe14-q33",
@@ -609,7 +614,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 173 of the Code of Criminal Procedure, 1973 (CrPC) deals with the ”Report of police officer on completion of investigation.” This report, commonly known as the chargesheet or final report, is the culmination of the police investigation. Specifically, subsection (2) of Section 173 mandates that the officer-in-charge shall forward this report to a Magistrate empowered to take cognizance. Clause (i) of subsection (2) then lists the details that must be included in the report, such as names of parties, nature of information, evidence collected, etc. Other sections listed are incorrect: S.174 deals with inquest reports, S.177 with jurisdiction, and S.175 with summoning persons during an inquest.",
-    "quickTip": "The police investigation process, which starts with an FIR (S.154), concludes with the submission of the final report (chargesheet) to the court under Section 173 of the CrPC."
+    "quickTip": "The police investigation process, which starts with an FIR (S.154), concludes with the submission of the final report (chargesheet) to the court under Section 173 of the CrPC.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 173 → BNSS Section 193."
   },
   {
     "id": "aibe14-q35",
@@ -627,7 +633,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "The provisions for bail are located in Chapter XXXIII of the CrPC. Section 438 specifically deals with ”Direction for grant of bail to person apprehending arrest,” which is commonly known as anticipatory bail. This unique provision allows a person who anticipates being arrested on an accusation of a non-bailable offence to apply to the High Court or the Court of Session for a direction that they be released on bail in the event of such an arrest. In contrast, Section 437 deals with regular bail in non-bailable cases (before a Magistrate), and Section 439 outlines the special powers of the High Court and Court of Session regarding bail.",
-    "quickTip": "Remember the key bail sections in order: S.436 (Bailable offences), S.437 (Non-bailable offences - regular bail), and S.438 (Anticipatory bail - pre-arrest)."
+    "quickTip": "Remember the key bail sections in order: S.436 (Bailable offences), S.437 (Non-bailable offences - regular bail), and S.438 (Anticipatory bail - pre-arrest).",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 438 → BNSS Section 482; CrPC Section 437 → BNSS Section 479."
   },
   {
     "id": "aibe14-q36",
@@ -645,7 +652,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "While Section 446 of the CrPC deals with the procedure for forfeiture of a bond (i.e., collecting the penalty amount when a condition is breached), Section 446-A specifically addresses the ”Cancellation of bond and bail bond.” This section states that if a person who has executed a bond fails to appear in court without sufficient cause, the court can, in addition to imposing the penalty under Section 446, cancel the bond and issue a warrant for their arrest. This provision was inserted to provide a stronger deterrent against non-appearance.",
-    "quickTip": "Think of the difference: Section 446 is about the financial penalty (forfeiture) for breaking a bond. Section 446-A is the additional, more severe step of cancelling the bond itself."
+    "quickTip": "Think of the difference: Section 446 is about the financial penalty (forfeiture) for breaking a bond. Section 446-A is the additional, more severe step of cancelling the bond itself.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 446 → BNSS Section 489."
   },
   {
     "id": "aibe14-q37",
@@ -663,7 +671,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 304-B of the Indian Penal Code, 1860, specifically defines and provides punishment for the offence of ”Dowry Death.” This section was inserted to combat dowryrelated violence and deaths. It creates a legal presumption that if a woman dies under unnatural circumstances within seven years of marriage and was subjected to cruelty or harassment for dowry soon before her death, her husband or his relatives are deemed to have caused her death. Other options are incorrect: S.304-A is for causing death by negligence, S.304 is for culpable homicide not amounting to murder, and S.305-B does not exist.",
-    "quickTip": "Remember the special sections for different types of deaths in the IPC: 302 (Murder), 304 (Culpable Homicide), 304-A (Negligence), and 304-B (Dowry). Think ’B’ for Bride in 304-B."
+    "quickTip": "Remember the special sections for different types of deaths in the IPC: 302 (Murder), 304 (Culpable Homicide), 304-A (Negligence), and 304-B (Dowry). Think ’B’ for Bride in 304-B.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 304 → BNS Section 105."
   },
   {
     "id": "aibe14-q38",
@@ -681,7 +690,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Section 315 of the IPC is titled ”Act done with intent to prevent child being born alive or to cause it to die after birth.” This provision directly penalizes acts that are intended to kill a child either in the womb when it is capable of being born alive, or immediately after it is born. This is the most direct provision in the IPC aimed at curbing infanticide and late-stage foeticide. The other sections deal with related but distinct acts: S.317 (abandonment of a child), S.313 (causing miscarriage without consent), and S.318 (concealment of birth).",
-    "quickTip": "Section 315 is the specific provision targeting the act of killing a child at the moment of birth. It bridges the gap between miscarriage and homicide of a child that has started living independently."
+    "quickTip": "Section 315 is the specific provision targeting the act of killing a child at the moment of birth. It bridges the gap between miscarriage and homicide of a child that has started living independently.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 315 → BNS Section 88."
   },
   {
     "id": "aibe14-q39",
@@ -771,7 +781,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "This question refers to Section 307 of the IPC (Attempt to murder). The section provides different punishments based on the circumstances. • The general punishment for attempt to murder is imprisonment up to 10 years and a fine. • If hurt is caused, the punishment can be enhanced to imprisonment for life or the punishment mentioned above. • The second paragraph of S.307 contains a special, harsher provision: if a person already under a sentence of life imprisonment commits this offence and causes hurt, they may be punished with death. The question is poorly phrased (”A imprisonment, if...”) but likely refers to the range of punishments available under the section. Since the court has the discretion to award imprisonment for a term, life imprisonment, or death (in the specific case of a life convict), ”All of the above” represents the possible outcomes.",
-    "quickTip": "Section 307 IPC has escalating punishments: simple attempt (up to 10 years), attempt with hurt (up to life imprisonment), and attempt with hurt by a life convict (may be death)."
+    "quickTip": "Section 307 IPC has escalating punishments: simple attempt (up to 10 years), attempt with hurt (up to life imprisonment), and attempt with hurt by a life convict (may be death).",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 307 → BNS Section 109."
   },
   {
     "id": "aibe14-q44",
@@ -807,7 +818,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Section 53 of the Indian Penal Code, 1860, provides a comprehensive list of the punishments that can be awarded to offenders. The punishments are: 1. Death 2. Imprisonment for life 3. Imprisonment, which is of two types: Rigorous (with hard labour) and Simple 4. Forfeiture of property 5. Fine All the options—(A) Death and imprisonment for life, (B) Rigorous and simple imprisonment, and (C) Forfeiture of property and fine—are components of this list. Therefore, ”All of the above” is the correct answer.",
-    "quickTip": "Section 53 of the IPC provides the complete ’menu’ of punishments available under the code, ranging from the ultimate penalty (death) to monetary penalties (fine). All the listed options are on this menu."
+    "quickTip": "Section 53 of the IPC provides the complete ’menu’ of punishments available under the code, ranging from the ultimate penalty (death) to monetary penalties (fine). All the listed options are on this menu.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 53 → BNS Section 4."
   },
   {
     "id": "aibe14-q46",
@@ -825,7 +837,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "The M’Naghten Rules originate from a famous English case in 1843 and provide the foundational test for the defence of insanity in common law jurisdictions. These rules state that an accused can be acquitted on the grounds of insanity if it is proved that, at the time of the act, they were suffering from a ”defect of reason, from disease of the mind,” which made them incapable of knowing the ”nature and quality of the act” or, if they did know it, that they ”did not know he was doing what was wrong.” These principles are codified in Section 84 of the Indian Penal Code.",
-    "quickTip": "M’Naghten = Mind = Insanity. These rules created the classic ”right-wrong test” for legal insanity, focusing on the cognitive capacity of the accused at the time of the offence."
+    "quickTip": "M’Naghten = Mind = Insanity. These rules created the classic ”right-wrong test” for legal insanity, focusing on the cognitive capacity of the accused at the time of the offence.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 84 → BNS Section 22."
   },
   {
     "id": "aibe14-q47",
@@ -951,7 +964,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "The key distinction is between wrongful restraint and wrongful confinement under the IPC. • Wrongful Restraint (S. 339): Obstructing a person’s path in one direction while they are free to go in other directions. It is a partial restraint. • Wrongful Confinement (S. 340): Restraining a person in a way that prevents them from moving beyond certain defined limits. It is a total restraint. In this case, by blocking all outlets of the building, ’A’ has completely prevented ’Z’ from proceeding in any direction beyond the confines of the building. This constitutes total restraint, which is wrongful confinement.",
-    "quickTip": "Remember: Wrongful Restraint = Blocking a path. Wrongful Confinement = Trapping within a boundary. If you can’t go anywhere, it’s confinement."
+    "quickTip": "Remember: Wrongful Restraint = Blocking a path. Wrongful Confinement = Trapping within a boundary. If you can’t go anywhere, it’s confinement.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe14-q54",
@@ -969,7 +983,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "This scenario involves two concepts from the IPC: 1. Force (S. 349): A person is said to use force if they cause motion to another, including by ”inducing any animal to move.” By inciting the dog, ’A’ uses force against ’Z’. 2. Criminal Force (S. 350): A person uses criminal force if they intentionally use force without consent, intending to cause injury, fear, or annoyance. Since ’A’ used force (via the dog) with the specific intent to cause injury, fear, or annoyance, the act amounts to the use of criminal force. Assault (S. 351) is merely the apprehension of force, whereas here the force is actually applied.",
-    "quickTip": "Force can be applied indirectly (e.g., through an animal). When this force is combined with a guilty intent (to cause injury, fear, etc.), it becomes *criminal* force."
+    "quickTip": "Force can be applied indirectly (e.g., through an animal). When this force is combined with a guilty intent (to cause injury, fear, etc.), it becomes *criminal* force.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe14-q55",
@@ -987,7 +1002,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "This act fits the definition of ’Mischief’ under Section 425 of the IPC. The essential ingredients of mischief are: (1) intending to cause, or knowing that one is likely to cause, wrongful loss or damage to the public or any person; (2) causing the destruction of any property, or any such change in any property that diminishes its value or utility. By causing cattle to enter and damage Z’s crop, A has intentionally caused a change that diminishes the crop’s value, resulting in wrongful loss to Z. This is a classic example of mischief. It is not criminal trespass, as trespass requires the entry of a person, not an animal.",
-    "quickTip": "Mischief (S.425) is about damaging property and diminishing its value. Criminal Trespass (S.441) is about a person unlawfully entering property. Here, the focus is on the damage to the crops, making it mischief."
+    "quickTip": "Mischief (S.425) is about damaging property and diminishing its value. Criminal Trespass (S.441) is about a person unlawfully entering property. Here, the focus is on the damage to the crops, making it mischief.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 425 → BNS Section 324."
   },
   {
     "id": "aibe14-q56",
@@ -1149,7 +1165,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 403 of the IPC defines ’Dishonest Misappropriation of Property’. The key elements are the dishonest misappropriation or conversion of movable property for one’s own use. The initial possession of the property is often innocent or neutral (e.g., finding a lost wallet), but a subsequent dishonest intention to keep it for oneself constitutes the offence. This is distinct from Theft (S.378), where the initial taking is dishonest, and Criminal Breach of Trust (S.405), where the initial possession is based on entrustment.",
-    "quickTip": "Remember the difference: • Theft (S.378): Initial taking is dishonest. • Dishonest Misappropriation (S.403): Initial taking is innocent, but a later intention becomes dishonest. • Criminal Breach of Trust (S.405): Initial possession is based on trust, which is then broken."
+    "quickTip": "Remember the difference: • Theft (S.378): Initial taking is dishonest. • Dishonest Misappropriation (S.403): Initial taking is innocent, but a later intention becomes dishonest. • Criminal Breach of Trust (S.405): Initial possession is based on trust, which is then broken.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 403 → BNS Section 316(3)."
   },
   {
     "id": "aibe14-q65",
@@ -1203,7 +1220,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Chapter VIII of the CrPC deals with ’Security for Keeping the Peace and for Good Behaviour’. Section 107 specifically empowers an Executive Magistrate to take action when they receive information that a person is likely to commit a breach of the peace or disturb public tranquility. The Magistrate can require such a person to show cause why they should not be ordered to execute a bond for keeping the peace for a period not exceeding one year. It is a preventive, not punitive, measure.",
-    "quickTip": "Section 107 of the CrPC is a key tool of preventive justice. It’s not about punishing someone for a crime they’ve committed, but about preventing them from disturbing the peace in the future by taking a security bond."
+    "quickTip": "Section 107 of the CrPC is a key tool of preventive justice. It’s not about punishing someone for a crime they’ve committed, but about preventing them from disturbing the peace in the future by taking a security bond.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe14-q68",
@@ -1275,7 +1293,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 378 of the Indian Penal Code defines the offence of ’Theft’. It lays down five essential ingredients: (1) Dishonest intention to take property; (2) The property must be movable; (3) It should be taken out of the possession of another person; (4) It should be taken without the consent of that person; and (5) There must be some moving of the property to effectuate the taking. Section 379 is the corresponding section that provides for the punishment for theft.",
-    "quickTip": "Remember the distinction: Section 378 *defines* theft by listing its five essential elements. Section 379 *punishes* the act of theft."
+    "quickTip": "Remember the distinction: Section 378 *defines* theft by listing its five essential elements. Section 379 *punishes* the act of theft.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 378 → BNS Section 303(1)."
   },
   {
     "id": "aibe14-q72",
@@ -1365,7 +1384,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 6 of the Indian Evidence Act, 1872, deals with the relevancy of facts which, though not in issue, are so connected with a fact in issue as to form part of the same transaction. This principle is known as the doctrine of *res gestae* (Latin for ”things done”). It allows for the admission of spontaneous statements, acts, or events that are closely associated in time, place, and circumstances with the main fact, making them relevant to explain it. For example, statements made by a victim or bystanders immediately after a crime are relevant under this section.",
-    "quickTip": "Remember: Section 6 = Same Transaction = *Res Gestae*. It’s about events and statements that are so intertwined with the main event that they are considered part of it."
+    "quickTip": "Remember: Section 6 = Same Transaction = *Res Gestae*. It’s about events and statements that are so intertwined with the main event that they are considered part of it.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 6 → BSA Section 4."
   },
   {
     "id": "aibe14-q77",
@@ -1383,7 +1403,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "The Code of Criminal Procedure primarily provides for two distinct categories of bail: 1. Regular Bail: Granted to a person who is already in custody, under Sections 437 and 439. 2. Anticipatory Bail: Granted to a person in anticipation of arrest, under Section 438. While courts often grant ”Interim Bail” for a short, fixed period while the main bail application is pending consideration, it is a judicial practice and not a separate category defined in the statute. ”Conditional Bail” is not a type of bail but a feature of a bail order, as courts can impose conditions under Section 437(3) and 439. Therefore, ’Interim Bail’ is the term that does not represent a formally defined type of bail in the CrPC itself.",
-    "quickTip": "The CrPC formally defines two main types of bail: Post-arrest (Regular Bail) and Prearrest (Anticipatory Bail). ’Interim bail’ is a temporary measure created by judicial practice, not by the statute."
+    "quickTip": "The CrPC formally defines two main types of bail: Post-arrest (Regular Bail) and Prearrest (Anticipatory Bail). ’Interim bail’ is a temporary measure created by judicial practice, not by the statute.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe14-q78",
@@ -1455,7 +1476,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Chapter XXI of the Code of Criminal Procedure, containing Sections 260 to 265, deals with ’Summary Trials’. Section 260 specifically grants the ”Power to try summarily” to certain magistrates (Chief Judicial Magistrate, Metropolitan Magistrate, or a Magistrate of the first class empowered by the High Court). This section lists the offences which can be tried in this expedited manner, which are generally minor offences where the punishment does not exceed two years of imprisonment. Subsequent sections like S.262 and S.263 lay down the procedure and the record to be maintained in summary trials.",
-    "quickTip": "Summary Trial = Speedy Trial. Section 260 of the CrPC is the key provision that empowers magistrates to use a shortened procedure for minor offences to ensure quick disposal of cases and reduce the burden on courts."
+    "quickTip": "Summary Trial = Speedy Trial. Section 260 of the CrPC is the key provision that empowers magistrates to use a shortened procedure for minor offences to ensure quick disposal of cases and reduce the burden on courts.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe14-q82",
@@ -1635,7 +1657,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "The power to transfer criminal cases is distributed among different courts based on their hierarchy. Section 407 of the CrPC specifically grants the ”Power of High Court to transfer cases and appeals.” A High Court can order the transfer of a case from one criminal court to another within its jurisdiction if it is expedient for the ends of justice, for instance, to ensure a fair and impartial inquiry or trial. This is distinct from: • Section 406: Supreme Court’s power to transfer cases between states. • Section 408: Session Judge’s power to transfer cases within their sessions division.",
-    "quickTip": "Remember the transfer hierarchy in CrPC: • Supreme Court (S.406): Inter-State transfers. • High Court (S.407): Intra-State transfers (between districts). • Sessions Judge (S.408): Intra-District transfers."
+    "quickTip": "Remember the transfer hierarchy in CrPC: • Supreme Court (S.406): Inter-State transfers. • High Court (S.407): Intra-State transfers (between districts). • Sessions Judge (S.408): Intra-District transfers.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 407 → BNSS Section 449."
   },
   {
     "id": "aibe14-q92",
@@ -1923,7 +1946,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding the Issue. This question refers to a situation where a false representation is made regarding the ownership of land, and the party (A) is attempting to prove the opposite, i.e., their lack of title. Step 2: Section 115 of the Evidence Act. Section 115 of the Indian Evidence Act deals with estoppel, which prevents a person from denying the truth of a statement made or a belief induced by them. In this case, A cannot be allowed to prove his lack of title, as B was induced to believe he had title to the property. Step 3: Analyzing Other Options. - Section 92 deals with the exclusion of oral evidence in cases of written contracts. - Section 124 relates to communications between a legal advisor and their client. - Section 101 talks about the burden of proof, but it is not directly applicable here. Step 4: Conclusion. The correct section is Section 115, which applies in cases of estoppel, where a party is prevented from denying a statement or fact they previously induced.",
-    "quickTip": "Estoppel prevents a party from denying facts they’ve induced someone to believe, ensuring fairness in legal transactions."
+    "quickTip": "Estoppel prevents a party from denying facts they’ve induced someone to believe, ensuring fairness in legal transactions.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 115 → BSA Section 121."
   },
   {
     "id": "aibe15-q8",
@@ -1959,7 +1983,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding Plea Bargaining. Plea bargaining is a process where the accused agrees to plead guilty to a lesser charge in exchange for a reduced sentence. Step 2: Statutory Provision. Chapter XXIA of the Cr.P.C. (Sections 265A to 265L) specifically deals with plea bargaining in criminal cases, which was introduced by the 2005 amendment to the Criminal Procedure Code. Step 3: Conclusion. The correct answer is (d), as these sections deal specifically with the process and conditions under which plea bargaining is allowed in India.",
-    "quickTip": "Plea bargaining allows for a quicker resolution of criminal cases, benefiting both the accused and the legal system."
+    "quickTip": "Plea bargaining allows for a quicker resolution of criminal cases, benefiting both the accused and the legal system.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 265A → BNSS Section 290."
   },
   {
     "id": "aibe15-q10",
@@ -1977,7 +2002,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Definition under Cr.P.C. Section 110 of the Criminal Procedure Code deals with the power of the Magistrate to take preventive action against habitual offenders. The section allows the Magistrate to require the habitual offender to provide security for good behavior. Step 2: Purpose of the provision. This section is meant to prevent habitual offenders from committing crimes in the future by requiring them to give security or bond for maintaining good behavior. Step 3: Conclusion. The correct answer is (b), as Section 110 of Cr.P.C. directly addresses security for good behavior from habitual offenders.",
-    "quickTip": "Section 110 Cr.P.C. helps prevent future crimes by ensuring habitual offenders maintain good behavior under legal supervision."
+    "quickTip": "Section 110 Cr.P.C. helps prevent future crimes by ensuring habitual offenders maintain good behavior under legal supervision.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 109 → BNSS Section 106; CrPC Section 110 → BNSS Section 107; CrPC Section 111 → BNSS Section 108."
   },
   {
     "id": "aibe15-q11",
@@ -2229,7 +2255,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Relevance under the Indian Evidence Act. The question concerns the evidence required to determine if A owes B a debt of Rs. 10,000. Under the Indian Evidence Act, various statements can be considered relevant based on their proximity to the facts in question. Step 2: Analyzing the Options. - Option (a): A asking C to lend him money could be considered relevant as it may show A’s need or intention to borrow, possibly indicating the debt. - Option (b): D’s statement in A’s presence that A owes B Rs. 10,000 is relevant under Section 6 of the Evidence Act as it is a statement made in A’s presence and could show the existing relationship between A and B regarding the debt. - Option (c): A’s silence in response to a question or statement is also relevant, as per Section 8 of the Evidence Act, where silence or conduct can imply acknowledgment or denial. Step 3: Conclusion. All the statements provided are relevant under the Evidence Act as they offer insight into the relationship between A and B regarding the alleged debt. Therefore, the correct answer is (d) All of the above.",
-    "quickTip": "Statements made in the presence of a party or their conduct can be relevant under the Evidence Act to establish facts about the case."
+    "quickTip": "Statements made in the presence of a party or their conduct can be relevant under the Evidence Act to establish facts about the case.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 6 → BSA Section 4; Evidence Act Section 8 → BSA Section 6."
   },
   {
     "id": "aibe15-q25",
@@ -2247,7 +2274,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 27. Section 27 of the Indian Evidence Act, 1872, allows the admissibility of information obtained from an accused person if the information directly leads to the discovery of any fact. This includes statements that might not be confessions but lead to crucial discoveries. Step 2: Legal Context. - Section 25 deals with confessions made to the police and renders them inadmissible. - Section 26 excludes confessions made in police custody unless they are made in the presence of a Magistrate. - Section 27 allows the admissibility of information provided by the accused, even if it doesn’t amount to a confession, as long as it leads to the discovery of a fact. Step 3: Conclusion. The correct answer is (c), as Section 27 allows the use of statements that lead to the discovery of facts, even if they do not amount to a confession.",
-    "quickTip": "Section 27 of the Evidence Act is crucial as it permits the use of statements that lead to the discovery of facts, even if those statements are not full confessions."
+    "quickTip": "Section 27 of the Evidence Act is crucial as it permits the use of statements that lead to the discovery of facts, even if those statements are not full confessions.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 26 → BSA Section 24; Evidence Act Section 27 → BSA Section 25; Evidence Act Section 29 → BSA Section 27; Evidence Act Section 25 → BSA Section 23."
   },
   {
     "id": "aibe15-q26",
@@ -2265,7 +2293,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Relevance of Opinion under Evidence Act. Section 45 of the Indian Evidence Act, 1872, deals with the opinion of experts on matters of foreign law, science, or art. It also includes opinions about handwriting and finger impressions. This section allows courts to accept the opinion of individuals who are specially skilled in these subjects as relevant facts. Step 2: Explanation of Other Options. - Section 42 deals with the relevancy of facts in cases of confessions made by persons in custody. - Section 50 discusses the admissibility of statements made by persons in official positions, but does not pertain to expert opinions. - Section 55 relates to opinions about the general conduct of the accused. Step 3: Conclusion. The correct answer is (b), as Section 45 specifically deals with expert opinions on handwriting, finger impressions, and foreign law, science, or art.",
-    "quickTip": "Section 45 of the Evidence Act is crucial for the admissibility of expert opinions, especially in matters like handwriting and scientific issues."
+    "quickTip": "Section 45 of the Evidence Act is crucial for the admissibility of expert opinions, especially in matters like handwriting and scientific issues.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 45 → BSA Section 39."
   },
   {
     "id": "aibe15-q27",
@@ -2337,7 +2366,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding Plea Bargaining. Plea bargaining is a process where the accused pleads guilty to a lesser charge in exchange for a reduced sentence. This practice is allowed under the Criminal Procedure Code (CrPC) for specific offenses. Step 2: Time Limitation for Plea Bargaining. Under Section 265A of the CrPC, plea bargaining can only be applied in cases where the punishment for the offense does not exceed 7 years of imprisonment. This ensures that more serious offenses are not dealt with through plea bargaining. Step 3: Conclusion. The correct answer is (a), as plea bargaining is only available for offenses with a maximum imprisonment term of 7 years.",
-    "quickTip": "Plea bargaining is a legal process only applicable for offenses punishable by up to 7 years of imprisonment under the CrPC."
+    "quickTip": "Plea bargaining is a legal process only applicable for offenses punishable by up to 7 years of imprisonment under the CrPC.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 265A → BNSS Section 290."
   },
   {
     "id": "aibe15-q31",
@@ -2355,7 +2385,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 195 Cr.P.C. Section 195 of the Criminal Procedure Code restricts the power of courts to take cognizance of certain offences unless a complaint is made by the court or the public servant concerned. This applies in cases like offences relating to documents produced in judicial proceedings. Step 2: Relevance of the Case Law. In the case of Shamsher Singh Vs State of Punjab, the Supreme Court clarified that the statutory power of the police to investigate is not controlled by Section 195 Cr.P.C. The Court’s decision laid down that the police can still investigate a cognizable offence even if the court has not yet taken cognizance. Step 3: Conclusion. Therefore, the correct answer is (c), as it directly relates to the case that clarified the scope of Section 195.",
-    "quickTip": "Section 195 Cr.P.C. does not limit the police’s power to investigate a cognizable offence, even if the court has not yet taken cognizance."
+    "quickTip": "Section 195 Cr.P.C. does not limit the police’s power to investigate a cognizable offence, even if the court has not yet taken cognizance.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 195 → BNSS Section 215; CrPC Section 190 → BNSS Section 210."
   },
   {
     "id": "aibe15-q32",
@@ -2409,7 +2440,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Section 164 of Cr.P.C. Section 164 of the Criminal Procedure Code, 1973, governs the procedure for recording confessions and statements by the Magistrate. It specifies that confessions must be recorded in the presence of a Magistrate and must be voluntary. Step 2: Explanation of Other Sections. - Section 162 deals with the recording of statements by the police during investigation and prohibits their use in court, except in certain situations. - Section 163A deals with recording statements under special circumstances related to confession and coercion. - Section 165 empowers the Magistrate to issue search warrants for investigation. Step 3: Conclusion. The correct answer is (b), as Section 164 specifically deals with the recording of confessions and statements by the Magistrate.",
-    "quickTip": "Confessions and statements are legally admissible only when recorded under Section 164 of the Cr.P.C. by the Magistrate."
+    "quickTip": "Confessions and statements are legally admissible only when recorded under Section 164 of the Cr.P.C. by the Magistrate.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 164 → BNSS Section 183."
   },
   {
     "id": "aibe15-q35",
@@ -2427,7 +2459,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Section 83 of Cr.P.C. Section 83 of the Criminal Procedure Code provides for the attachment of property of a person who is absconding. This section allows the police to attach the property of a person who has fled and is avoiding arrest. Step 2: Explanation of Other Sections. - Section 82 deals with the issuance of a proclamation for the person absconding and seeking their appearance. - Section 85 allows for arrest without a warrant for specific offenses. - Section 86 relates to the procedure for executing warrants outside the jurisdiction. Step 3: Conclusion. The correct answer is (a), as Section 83 specifically deals with the attachment of property for persons absconding.",
-    "quickTip": "Section 83 of the Cr.P.C. enables the attachment of property when an individual absconds and avoids arrest."
+    "quickTip": "Section 83 of the Cr.P.C. enables the attachment of property when an individual absconds and avoids arrest.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 83 → BNSS Section 79."
   },
   {
     "id": "aibe15-q36",
@@ -2445,7 +2478,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Section 205 of Cr.P.C. Section 205 of the Criminal Procedure Code, 1973, allows a Magistrate to dispense with the personal attendance of an accused person. This is typically done if the accused is represented by a lawyer and the offense is not of a serious nature. Step 2: Explanation of Other Sections. - Section 201 deals with the procedure to be followed when a person is found to be in an unfit state to stand trial. - Section 204 concerns the issuance of summons or warrants by the Magistrate to the accused. - Section 200 deals with the examination of the complainant and witnesses before issuing process. Step 3: Conclusion. The correct answer is (c), as Section 205 specifically allows the Magistrate to dispense with the personal attendance of an accused person.",
-    "quickTip": "Under Section 205, the Magistrate can allow an accused person to be represented by a lawyer in cases where personal attendance is not essential."
+    "quickTip": "Under Section 205, the Magistrate can allow an accused person to be represented by a lawyer in cases where personal attendance is not essential.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 205 → BNSS Section 228."
   },
   {
     "id": "aibe15-q37",
@@ -2463,7 +2497,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Principle of Transformative Constitutionalism. The principle of ”Transformative Constitutionalism” refers to the notion that the Constitution should be interpreted in a way that fosters social change and equality. It focuses on the transformative nature of the Constitution to address social justice issues and human rights. Step 2: Case of Navtej Singh Johar Vs Union of India (2018). In Navtej Singh Johar Vs Union of India (2018), the Supreme Court of India invoked the principle of transformative constitutionalism to decriminalize Section 377 of the Indian Penal Code, which criminalized same-sex relations. The Court held that the law violated the fundamental rights of LGBTQ+ individuals, thereby bringing about transformative change in the legal landscape. Step 3: Conclusion. The correct answer is (a), as the principle of transformative constitutionalism was prominently invoked in this case.",
-    "quickTip": "Transformative Constitutionalism aims to bring about progressive change through the interpretation of constitutional principles, as seen in Navtej Singh Johar Vs Union of India."
+    "quickTip": "Transformative Constitutionalism aims to bring about progressive change through the interpretation of constitutional principles, as seen in Navtej Singh Johar Vs Union of India.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 377 → BNS Section Omitted (struck down by SC in Navtej Singh Johar, 2018)."
   },
   {
     "id": "aibe15-q38",
@@ -2481,7 +2516,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Section 4 of the Indian Penal Code. Section 4 of the Indian Penal Code (IPC) provides that the provisions of the IPC apply to any offense committed by a person: 1. (a) A citizen of India, even if the offense occurs outside India. 2. (b) A person on a ship or aircraft registered in India, regardless of its location. 3. (c) A person committing an offense targeting a computer resource located within India, even if the act occurs outside India. Step 2: Conclusion. The correct answer is (d), as all the listed options are covered under Section 4 of the IPC.",
-    "quickTip": "Section 4 of the IPC ensures that Indian Penal Code provisions apply to Indian citizens and certain offenses committed abroad or against Indian interests."
+    "quickTip": "Section 4 of the IPC ensures that Indian Penal Code provisions apply to Indian citizens and certain offenses committed abroad or against Indian interests.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 4 → BNS Section 2."
   },
   {
     "id": "aibe15-q39",
@@ -2499,7 +2535,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Section 105 of Cr.P.C. Section 105 (H) of the Criminal Procedure Code addresses the forfeiture of property in cases where the person is convicted of a specific offense and the property is deemed to be used in furtherance of the criminal act. The law allows authorities to forfeit such property to prevent misuse or to enforce penalties. Step 2: Explanation of Other Options. - Section 105(A) deals with the provision for the disposal of such forfeited property. - Section 105(B) pertains to giving notice regarding the forfeiture process. Step 3: Conclusion. The correct answer is (a), as Section 105(H) deals directly with the forfeiture of property in specific criminal cases.",
-    "quickTip": "Section 105(H) allows the government to forfeit property used in or acquired from criminal activity."
+    "quickTip": "Section 105(H) allows the government to forfeit property used in or acquired from criminal activity.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 105 → BNSS Section 103."
   },
   {
     "id": "aibe15-q40",
@@ -2517,7 +2554,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Section 469 of Cr.P.C. Section 469 of the Criminal Procedure Code provides the limitation period within which cognizance must be taken for a particular offense. It states that no cognizance can be taken after the expiration of the prescribed period of limitation, except in specific circumstances. Step 2: Explanation of Other Sections. - Section 178 deals with the place of trial and jurisdiction when an offense is committed. - Section 478 relates to the procedure for the disposal of certain property during a trial. - Section 168 concerns the powers of a Magistrate to adjourn a case. Step 3: Conclusion. The correct answer is (b), as Section 469 specifically addresses the bar on taking cognizance after the period of limitation has passed.",
-    "quickTip": "Section 469 of the Cr.P.C. ensures that a case is not prosecuted beyond the time limit set by law, providing a safeguard against delayed trials."
+    "quickTip": "Section 469 of the Cr.P.C. ensures that a case is not prosecuted beyond the time limit set by law, providing a safeguard against delayed trials.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 178 → BNSS Section 197; CrPC Section 469 → BNSS Section 513."
   },
   {
     "id": "aibe15-q41",
@@ -2751,7 +2789,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Section 326 B of IPC. Section 326 B of the Indian Penal Code (IPC) deals with the offence of voluntarily throwing or attempting to throw acid or any other corrosive substance. It is a criminal offence that carries a serious penalty, which includes imprisonment and a fine. Step 2: Explanation of Other Options. - Section 120B relates to criminal conspiracy. - Section 509 deals with insult to the modesty of a woman. - Section 295B deals with defiling a place of worship. Step 3: Conclusion. The correct answer is (a), as Section 326 B specifically addresses the crime of throwing acid or attempting to throw acid.",
-    "quickTip": "Section 326 B of the IPC punishes the act of throwing or attempting to throw acid or any corrosive substance."
+    "quickTip": "Section 326 B of the IPC punishes the act of throwing or attempting to throw acid or any corrosive substance.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 509 → BNS Section 79; IPC Section 295B → BNS Section 300; IPC Section 326 → BNS Section 118(2)."
   },
   {
     "id": "aibe15-q54",
@@ -2769,7 +2808,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding the Situation. In this case, A is working with a hatchet and an unfortunate accident occurs where the head of the hatchet flies off and causes the death of a bystander. This event happens without any fault or negligence on the part of A. Step 2: Legal Interpretation. Since there was no want of proper caution on A’s part and the death was a result of an accidental event, this does not constitute a criminal offence under the IPC. There was no intention, recklessness, or negligence to cause harm. Step 3: Conclusion. The correct answer is (c), as this is an accidental event with no criminal intent or negligence.",
-    "quickTip": "When an event is purely accidental and without negligence or intention to harm, it may not be considered a criminal offence."
+    "quickTip": "When an event is purely accidental and without negligence or intention to harm, it may not be considered a criminal offence.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe15-q55",
@@ -2787,7 +2827,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Section 195 of IPC. Section 195 of the Indian Penal Code (IPC) deals with the false evidence and forgery of documents to cause a person to be convicted of a crime, which is the exact case in this situation. By putting the letter in a place where the police are likely to find it, A is attempting to influence the criminal conspiracy investigation by misleading the authorities. Step 2: Explanation of Other Options. - Section 256 relates to punishment for disobedience of orders of public servants. - Section 192 relates to fabricating false evidence. - Section 201 deals with causing disappearance of evidence of an offence. Step 3: Conclusion. The correct answer is (c), as Section 195 deals with fabricating false evidence to mislead authorities in judicial proceedings.",
-    "quickTip": "Section 195 of the IPC addresses the issue of fabricating evidence or creating false documents with the intent to mislead legal authorities."
+    "quickTip": "Section 195 of the IPC addresses the issue of fabricating evidence or creating false documents with the intent to mislead legal authorities.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 256 → BNS Section Omitted; IPC Section 192 → BNS Section 230; IPC Section 195 → BNS Section 232; IPC Section 201 → BNS Section 238."
   },
   {
     "id": "aibe15-q56",
@@ -2931,7 +2972,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Section 6 of the Evidence Act. Section 6 of the Indian Evidence Act, 1872, deals with res gestae, which refers to facts forming part of the same transaction. This section allows evidence of facts or acts done during a transaction to be admissible in court if they are closely related to the main event or transaction. Step 2: Explanation of Other Options. - Section 17 refers to the admission of statements made by a party to a case. - Section 18 deals with admissions made by persons authorized to make them. - Section 20 refers to admissions made by persons in authority. Step 3: Conclusion. The correct answer is (a), as Section 6 specifically addresses res gestae and the relevancy of facts forming part of the same transaction.",
-    "quickTip": "Res gestae refers to facts that form part of the same transaction and are admissible under Section 6 of the Evidence Act."
+    "quickTip": "Res gestae refers to facts that form part of the same transaction and are admissible under Section 6 of the Evidence Act.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 17 → BSA Section 15; Evidence Act Section 18 → BSA Section 16; Evidence Act Section 20 → BSA Section 18; Evidence Act Section 6 → BSA Section 4."
   },
   {
     "id": "aibe15-q64",
@@ -3129,7 +3171,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 6. Section 6 of the Indian Evidence Act deals with the relevancy of facts forming part of the same transaction. It is concerned with the chain of events that occur in a transaction, and when a person is involved in part of the transaction, facts related to that transaction become relevant, even if the person was not present at all of them. In this case, A’s involvement in the armed insurrection is relevant to the offense under Section 6. Step 2: Explanation of Other Options. - Section 12 deals with facts relating to previous statements in a case. - Section 3 defines relevant facts, but it does not specifically address the situation described. - Section 5 deals with the admissibility of facts, but it is not the appropriate section in this context. Step 3: Conclusion. The correct answer is (b), as Section 6 deals with facts forming part of the same transaction.",
-    "quickTip": "Section 6 of the Indian Evidence Act ensures that facts forming part of the same transaction are admissible, even if the person was not present during every event."
+    "quickTip": "Section 6 of the Indian Evidence Act ensures that facts forming part of the same transaction are admissible, even if the person was not present during every event.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 6 → BSA Section 4."
   },
   {
     "id": "aibe15-q75",
@@ -3147,7 +3190,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 110. Section 110 of the Indian Evidence Act deals with the burden of proof in cases where ownership of property is in question. It places the burden of proving ownership on the person who claims it. This section applies in civil cases involving property disputes. Step 2: Explanation of Other Options. - Option (a) refers to documentary evidence, which is covered under other sections. - Option (b) deals with the exclusion of oral evidence, which is addressed under Section 91. - Option (d) refers to proof of guilt, which is a broader concept beyond this section. Step 3: Conclusion. The correct answer is (c), as Section 110 specifically addresses the burden of proof regarding ownership.",
-    "quickTip": "Section 110 of the Indian Evidence Act places the burden of proving ownership of property on the person asserting it."
+    "quickTip": "Section 110 of the Indian Evidence Act places the burden of proving ownership of property on the person asserting it.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 110 → BSA Section 113."
   },
   {
     "id": "aibe15-q76",
@@ -3165,7 +3209,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 113 (A). Section 113 (A) of the Indian Evidence Act creates a presumption in cases where a married woman commits suicide. If a woman commits suicide within a specified time after her marriage, the law presumes that her husband or his relatives abetted the suicide, unless proven otherwise. Step 2: Explanation of Other Options. - Option (a) refers to murder, but Section 113 (A) is specifically about suicide. - Option (b) refers to rape and suicide, but Section 113 (A) is focused only on suicide. - Option (c) deals with kidnapping, which is a different offense not covered under this section. Step 3: Conclusion. The correct answer is (d), as Section 113 (A) specifically deals with the presumption of abetment of suicide by a married woman.",
-    "quickTip": "Section 113 (A) presumes the abetment of suicide by a married woman if she commits suicide within a short period after marriage."
+    "quickTip": "Section 113 (A) presumes the abetment of suicide by a married woman if she commits suicide within a short period after marriage.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 113 → BSA Section 117."
   },
   {
     "id": "aibe15-q77",
@@ -3183,7 +3228,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Sedition Cases. Sedition, as an offense, involves acts that promote disaffection against the government. The Indian courts have dealt with sedition laws in several landmark cases, including: - Queen Empress Vs Bal Gangadhar Tilak (1897), which was a case involving the sedition charge against Bal Gangadhar Tilak for his speeches against the British. - Niharendu Dutt Mazumdar Vs Emperor (1942), a case that also involved sedition charges for anti-government activities. - Kedar Nath Singh Vs State of Bihar (1962), where the Supreme Court clarified the scope of sedition and upheld the constitutionality of Section 124-A of the IPC, while limiting its misuse. Step 2: Explanation of Other Options. - All of the above options are correct as sedition was discussed in each of these cases. Step 3: Conclusion. The correct answer is (d), as sedition was involved in all of the above cases.",
-    "quickTip": "Sedition was involved in Queen Empress Vs Bal Gangadhar Tilak, Niharendu Dutt Mazumdar Vs Emperor, and Kedar Nath Singh Vs State of Bihar."
+    "quickTip": "Sedition was involved in Queen Empress Vs Bal Gangadhar Tilak, Niharendu Dutt Mazumdar Vs Emperor, and Kedar Nath Singh Vs State of Bihar.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe15-q78",
@@ -3201,7 +3247,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 295A. Section 295A of the Indian Penal Code (IPC) deals with acts that insult religion or religious beliefs with the deliberate and malicious intention of outraging religious feelings. This section specifically targets offensive actions that disturb public harmony or incite religious intolerance. Step 2: Explanation of Other Options. - Section 295 pertains to damaging or defiling a place of worship, but it doesn’t address insulting religious beliefs. - Section 265A is related to the preparation of an order for a criminal trial, not religious offenses. - Section 276 deals with the punishment for selling adulterated drugs and is unrelated to religious offenses. Step 3: Conclusion. The correct answer is (b), as Section 295A specifically deals with deliberate and malicious acts to insult religion or religious beliefs.",
-    "quickTip": "Section 295A of the IPC addresses deliberate and malicious acts intended to outrage religious feelings by insulting religion or religious beliefs."
+    "quickTip": "Section 295A of the IPC addresses deliberate and malicious acts intended to outrage religious feelings by insulting religion or religious beliefs.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 295A → BNS Section 299."
   },
   {
     "id": "aibe15-q79",
@@ -3219,7 +3266,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 29 of Cr.P.C. Section 29 of the Criminal Procedure Code (Cr.P.C.) allows the Court of a Chief Judicial Magistrate to pass any sentence authorized by law, except a sentence of death. This section outlines the limitations on the sentencing power of the Chief Judicial Magistrate. While they can pass sentences of imprisonment, they cannot pass the death sentence. Step 2: Explanation of Other Options. - Imprisonment for life and imprisonment for a term exceeding seven years are within the jurisdiction of a Chief Judicial Magistrate, as long as they do not involve the death penalty. - Option (d) is incorrect, as the Chief Judicial Magistrate can pass sentences of imprisonment but not the death sentence. Step 3: Conclusion. The correct answer is (a), as a sentence of death is outside the scope of the sentencing power of a Chief Judicial Magistrate.",
-    "quickTip": "A Chief Judicial Magistrate cannot pass a death sentence under Section 29 of Cr.P.C.."
+    "quickTip": "A Chief Judicial Magistrate cannot pass a death sentence under Section 29 of Cr.P.C..",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 29 → BNSS Section 24."
   },
   {
     "id": "aibe15-q80",
@@ -3525,7 +3573,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 82 of IPC. Section 82 of the Indian Penal Code (IPC) states that nothing is an offence if it is committed by a child under the age of 7 years. This section provides a legal defense for children under 7 years of age, as they are presumed to lack the capacity to commit crimes due to their immaturity. Step 2: Explanation of Other Options. - Option (a), (c), and (d) are incorrect, as the age of criminal responsibility under Section 82 of IPC is 7 years, not 14, 18, or 21 years. Step 3: Conclusion. The correct answer is (b), as Section 82 of IPC excludes criminal liability for children under the age of 7 years.",
-    "quickTip": "Under Section 82 of the IPC, a child under the age of 7 years cannot be held criminally responsible for their actions."
+    "quickTip": "Under Section 82 of the IPC, a child under the age of 7 years cannot be held criminally responsible for their actions.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 82 → BNS Section 19."
   },
   {
     "id": "aibe15-q97",
@@ -3669,7 +3718,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the provision. Section 216 of the Indian Penal Code (IPC) deals with the offence of harbouring an offender. It applies when someone intentionally assists an offender to evade arrest or punishment. Step 2: Capital offence clause. If the offence committed by the person harboured is punishable with death (a capital offence), the punishment for the harbourer is more severe under Section 216 IPC. Step 3: Conclusion. Therefore, harbouring an offender in such a case falls under Section 216 of IPC .",
-    "quickTip": "Remember: Section 216 IPC deals with harbouring an offender, and punishment depends on the nature of the main offence."
+    "quickTip": "Remember: Section 216 IPC deals with harbouring an offender, and punishment depends on the nature of the main offence.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 215 → BNS Section 252; IPC Section 216 → BNS Section 253; IPC Section 217 → BNS Section 254; IPC Section 218 → BNS Section 255."
   },
   {
     "id": "aibe16-q5",
@@ -3795,7 +3845,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding “injury” under IPC. Section 44 of the Indian Penal Code defines “injury” as any harm caused illegally to any person’s body, mind, reputation, or property. Step 2: Explanation. Thus, “injury” covers all forms of harm — physical, mental, and reputational — provided they are caused unlawfully. Step 3: Conclusion. Hence, the correct answer is (D) All above .",
-    "quickTip": "“Injury” under IPC is a broad term covering harm to body, mind, and reputation."
+    "quickTip": "“Injury” under IPC is a broad term covering harm to body, mind, and reputation.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 53 → BNS Section 4; IPC Section 44 → BNS Section Omitted (concept merged into general provisions)."
   },
   {
     "id": "aibe16-q12",
@@ -3813,7 +3864,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 465 Cr.P.C. Section 465 Cr.P.C. states that no finding, sentence, or order shall be reversed or altered by an appellate or revisional court on account of any error, omission, or irregularity unless a failure of justice has occurred. Step 2: Case context. Minor procedural irregularities, such as the reading or recording of evidence from one companion case into another, are curable defects under this section. Step 3: Conclusion. Hence, the correct answer is (B) .",
-    "quickTip": "Section 465 Cr.P.C. cures procedural defects that do not cause a miscarriage of justice."
+    "quickTip": "Section 465 Cr.P.C. cures procedural defects that do not cause a miscarriage of justice.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 465 → BNSS Section 509; CrPC Section 195 → BNSS Section 215."
   },
   {
     "id": "aibe16-q13",
@@ -4011,7 +4063,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Meaning of subsequent conduct. Subsequent conduct refers to the behavior of a person after the occurrence of an event or commission of an offence, which may indicate guilt or innocence. Step 2: Examples of material conduct. Changes in life pattern, fear, trembling, or attempts to evade justice can be used as circumstantial evidence to establish mental state or involvement. Step 3: Conclusion. All these behaviors are relevant as subsequent conduct under the Indian Evidence Act, hence (D) All of them is correct.",
-    "quickTip": "Subsequent conduct helps in determining the mental state or consciousness of guilt of the accused."
+    "quickTip": "Subsequent conduct helps in determining the mental state or consciousness of guilt of the accused.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe16-q24",
@@ -4101,7 +4154,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding the term ’admission’. Under the Indian Evidence Act, 1872, an admission refers to a statement, oral or documentary, which suggests any inference as to a fact in issue or relevant fact. Step 2: Legal provision. Section 17 defines ’admission’ and explains that such a statement can be made by a party to the proceeding, an agent, or any person from whom the parties derive their interest. Step 3: Conclusion. Hence, admissions are defined under Section 17 of the Indian Evidence Act .",
-    "quickTip": "Admissions are voluntary statements used as evidence against the person making them — defined under Section 17 of the Evidence Act."
+    "quickTip": "Admissions are voluntary statements used as evidence against the person making them — defined under Section 17 of the Evidence Act.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 17 → BSA Section 15."
   },
   {
     "id": "aibe16-q29",
@@ -4209,7 +4263,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the provision. Section 304A of the Indian Penal Code (IPC) deals with causing death by negligence . It applies when death is caused by a rash or negligent act not amounting to culpable homicide. Step 2: Application to medical professionals. Medical professionals are often charged under this section when their negligent act results in the death of a patient. However, the negligence must be of a gross or reckless nature to attract criminal liability. Step 3: Conclusion. Hence, in cases of medical negligence, Section 304A of IPC is most commonly invoked.",
-    "quickTip": "Section 304A IPC = Death by negligence. Commonly used for cases involving road accidents and medical negligence."
+    "quickTip": "Section 304A IPC = Death by negligence. Commonly used for cases involving road accidents and medical negligence.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 304A → BNS Section 106(1)."
   },
   {
     "id": "aibe16-q35",
@@ -4227,7 +4282,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Relevant section. Section 161 of the Indian Penal Code (prior to being replaced by provisions under the Prevention of Corruption Act, 1988) dealt with public servants taking gratification other than legal remuneration in respect of official acts. Step 2: Explanation. In this case, A, by offering a bribe to B (a public servant), has abetted the offence defined under Section 161 IPC since it involves giving gratification as a reward for official favor. Step 3: Conclusion. Thus, A has abetted the offence defined in Section 161, IPC .",
-    "quickTip": "Offering or accepting gratification in exchange for an official favor constitutes an offence under anti-corruption laws derived from Section 161 IPC."
+    "quickTip": "Offering or accepting gratification in exchange for an official favor constitutes an offence under anti-corruption laws derived from Section 161 IPC.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 161 → BNS Section Repealed (covered under Prevention of Corruption Act)."
   },
   {
     "id": "aibe16-q36",
@@ -4389,7 +4445,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 109 Cr.P.C. Section 109 of the Code of Criminal Procedure, 1973 empowers a Magistrate to require security for good behaviour from persons suspected of being habitual offenders. Step 2: Duration. The period for which such a bond may be executed shall not exceed two years . This acts as a preventive measure against potential offences. Step 3: Conclusion. Hence, under Section 109 Cr.P.C., the maximum period for such a bond is two years .",
-    "quickTip": "Security bonds under preventive sections of Cr.P.C. (like 107–110) are preventive in nature and cannot exceed two years."
+    "quickTip": "Security bonds under preventive sections of Cr.P.C. (like 107–110) are preventive in nature and cannot exceed two years.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 109 → BNSS Section 106."
   },
   {
     "id": "aibe16-q45",
@@ -4407,7 +4464,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 125 Cr.P.C. Section 125 of the Criminal Procedure Code, 1973 provides for maintenance to wives, children, and parents who are unable to maintain themselves. Step 2: Amendment. Originally, the ceiling for maintenance was Rs. 500 per month. However, this limit was removed by the Criminal Procedure Code (Amendment) Act, 1989 , allowing courts to determine the amount based on circumstances. Step 3: Conclusion. Hence, the upper limit of Rs. 500 was abolished in the year 1989 .",
-    "quickTip": "Post-1989, courts have full discretion to fix a reasonable maintenance amount under Section 125 Cr.P.C. based on income and needs."
+    "quickTip": "Post-1989, courts have full discretion to fix a reasonable maintenance amount under Section 125 Cr.P.C. based on income and needs.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 125 → BNSS Section 144."
   },
   {
     "id": "aibe16-q46",
@@ -4479,7 +4537,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Background. In Naz Foundation Vs Government of NCT of Delhi (2009) , the Delhi High Court decriminalized consensual homosexual acts between adults by reading down Section 377 of the Indian Penal Code, declaring it unconstitutional as it violated Articles 14, 15, and 21. Step 2: Later developments. This judgment was later overturned by the Supreme Court in Suresh Kaushal Vs Naz Foundation (2013) , which reinstated Section 377. However, in 2018, the Supreme Court finally decriminalized consensual homosexual acts in Navtej Singh Johar Vs Union of India . Step 3: Conclusion. Thus, the landmark judgment by Delhi High Court was Naz Foundation Vs Government of NCT of Delhi .",
-    "quickTip": "Naz Foundation (2009) = Delhi HC decriminalized homosexuality; Suresh Kaushal (2013) = SC reversed it; Navtej Johar (2018) = SC decriminalized again."
+    "quickTip": "Naz Foundation (2009) = Delhi HC decriminalized homosexuality; Suresh Kaushal (2013) = SC reversed it; Navtej Johar (2018) = SC decriminalized again.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 377 → BNS Section Omitted (struck down by SC in Navtej Singh Johar, 2018)."
   },
   {
     "id": "aibe16-q50",
@@ -4497,7 +4556,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Relevant provision. Under Section 154(1) of the Criminal Procedure Code (Cr.P.C.), if the information is related to an offence of rape, it must be recorded by a woman police officer or any woman officer . Step 2: Purpose. This provision ensures sensitivity, comfort, and dignity to the victim while recording the statement, avoiding intimidation or trauma. Step 3: Conclusion. Hence, the correct answer is (D) Woman police officer or any woman officer .",
-    "quickTip": "Section 154(1) Cr.P.C. ensures that rape victims’ statements are recorded by women officers to maintain sensitivity and trust."
+    "quickTip": "Section 154(1) Cr.P.C. ensures that rape victims’ statements are recorded by women officers to maintain sensitivity and trust.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 154 → BNSS Section 173."
   },
   {
     "id": "aibe16-q51",
@@ -4515,7 +4575,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Relevant provision. Under Section 61–69 of the Criminal Procedure Code (Cr.P.C.), the process of issuing and serving summons is detailed. A summons must be in writing, signed by the presiding officer, and bear the seal of the court. Step 2: Purpose of summons. As per Section 61 and 91 Cr.P.C. , summons can be issued to compel a person to appear before a court or to produce a document or other thing required for judicial proceedings. Step 3: Conclusion. Therefore, the correct answer is (C) — Summons are either for appearance or for producing a document or thing.",
-    "quickTip": "A summons is a written legal order, unlike a warrant, which involves physical compulsion."
+    "quickTip": "A summons is a written legal order, unlike a warrant, which involves physical compulsion.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe16-q52",
@@ -4785,7 +4846,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Overview of the Indian Evidence Act. The Indian Evidence Act, 1872, is a key statute governing the law of evidence in India. It deals with the admissibility, relevance, and weight of evidence presented in court. Step 2: Date of enforcement. The Indian Evidence Act came into force on 15th March, 1872 , marking the beginning of codified rules of evidence in India. Step 3: Conclusion. Thus, the correct answer is (C) 15th March, 1872 .",
-    "quickTip": "The Indian Evidence Act, 1872, remains a cornerstone of the legal system in India, governing all matters related to evidence."
+    "quickTip": "The Indian Evidence Act, 1872, remains a cornerstone of the legal system in India, governing all matters related to evidence.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe16-q67",
@@ -5019,7 +5081,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Section 98 of IPC. Section 98 of the Indian Penal Code (IPC) provides that a person who is under the influence of madness is not considered criminally responsible. Therefore, Z’s actions, under the influence of madness, do not constitute an offence, and X is still entitled to the right of private defence. Step 2: Conclusion. Thus, the correct answer is (A) Z has not committed any offence as per section 98 of IPC and same right of private defence to X if Z is mad .",
-    "quickTip": "Section 98 of IPC grants rights to self-defence even when the aggressor is not criminally responsible due to mental illness."
+    "quickTip": "Section 98 of IPC grants rights to self-defence even when the aggressor is not criminally responsible due to mental illness.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 98 → BNS Section 36."
   },
   {
     "id": "aibe16-q80",
@@ -5055,7 +5118,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 66 of the Indian Evidence Act. Section 66 of the Indian Evidence Act specifies that a notice must be given for the production of secondary evidence and for the production of documents in writing. It also cross-references Order XI, Rule 15, of the Civil Procedure Code, which outlines the procedure for giving notice to produce documents. Step 2: Conclusion. Thus, the correct answer is (D) All of them .",
-    "quickTip": "Section 66 and related rules ensure proper procedure for requesting the production of documents in legal proceedings."
+    "quickTip": "Section 66 and related rules ensure proper procedure for requesting the production of documents in legal proceedings.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 66 → BSA Section 64; Evidence Act Section 65 → BSA Section 60."
   },
   {
     "id": "aibe16-q82",
@@ -5091,7 +5155,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the powers of private persons in arrest. Under Indian law, a private person has the authority to arrest anyone who has committed a non-bailable and cognizable offence in their presence, as outlined in the Code of Criminal Procedure (CrPC). Step 2: Conclusion. Thus, the correct answer is (B) Commits non-bailable offence and cognizable offence in his presence .",
-    "quickTip": "A private person has limited powers to arrest in case of cognizable and non-bailable offences, as per the CrPC."
+    "quickTip": "A private person has limited powers to arrest in case of cognizable and non-bailable offences, as per the CrPC.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe16-q84",
@@ -5109,7 +5174,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding the warrant of arrest. As per the CrPC, a warrant of arrest remains in force until it is either executed or cancelled by the court. There is no set time limit; it remains active until the person is arrested or the warrant is otherwise voided. Step 2: Conclusion. Thus, the correct answer is (D) Until executed or cancelled .",
-    "quickTip": "A warrant of arrest remains valid until it is executed or formally cancelled by the court."
+    "quickTip": "A warrant of arrest remains valid until it is executed or formally cancelled by the court.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe16-q85",
@@ -5235,7 +5301,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 25 of the Indian Evidence Act. Section 25 of the Indian Evidence Act provides that confessions made to a police officer are not admissible in court. However, statements made by the accused about the facts of the case (such as admitting participation in a robbery or knowledge of the property) can be admissible, but a statement regarding the location of the property is considered hearsay and is not admissible as evidence. Step 2: Conclusion. Thus, the correct answer is (D) All of them .",
-    "quickTip": "Under Section 25 of the Indian Evidence Act, confessions made to police officers are inadmissible, but factual statements by the accused may be considered."
+    "quickTip": "Under Section 25 of the Indian Evidence Act, confessions made to police officers are inadmissible, but factual statements by the accused may be considered.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 25 → BSA Section 23."
   },
   {
     "id": "aibe16-q92",
@@ -5307,7 +5374,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Powers of Chief Judicial Magistrate. A Chief Judicial Magistrate has the power to pass sentences of imprisonment that do not exceed seven years. This is as per Section 29 of the Criminal Procedure Code (CrPC), which defines the maximum sentencing power of the Chief Judicial Magistrate. Step 2: Conclusion. Thus, the correct answer is (A) Not exceeding seven years .",
-    "quickTip": "Chief Judicial Magistrates can only pass sentences of imprisonment that do not exceed seven years, as per the CrPC."
+    "quickTip": "Chief Judicial Magistrates can only pass sentences of imprisonment that do not exceed seven years, as per the CrPC.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 29 → BNSS Section 24."
   },
   {
     "id": "aibe16-q96",
@@ -6027,7 +6095,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 5 of the Specific Relief Act, 1963 provides that a person who is entitled to the possession of specific immovable property may recover it in the manner outlined in the Specific Relief Act. This Act specifically deals with the recovery of possession of immovable property. Step 2: Analysis of Options. - (A) The Specific Relief Act, 1963: This is the correct answer. Section 5 of the Specific Relief Act lays down the procedure for the recovery of possession of specific immovable property. - (B) The Code of Civil Procedure, 1908: While the CPC contains provisions for civil suits, the Specific Relief Act specifically deals with the recovery of immovable property. - (C) The Code of Criminal Procedure, 1973: This is incorrect, as the CrPC is concerned with criminal procedures, not civil matters like possession of property. - (D) The Transfer of Property Act, 1882: This Act deals with the transfer of property, not the recovery of possession. Step 3: Conclusion. Thus, the correct answer is (A) The Specific Relief Act, 1963.",
-    "quickTip": "Section 5 of the Specific Relief Act, 1963 provides the remedy for the recovery of possession of specific immovable property."
+    "quickTip": "Section 5 of the Specific Relief Act, 1963 provides the remedy for the recovery of possession of specific immovable property.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q36",
@@ -6405,7 +6474,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. The provisions related to the Right of Private Defence are mentioned in Sections 96-106 of the Indian Penal Code (IPC). These sections allow a person to defend themselves or others under certain conditions. Step 2: Analysis of Options. - (A) Sections 74-84: These sections deal with the punishment for certain offences, not private defence. - (B) Sections 96-106: This is the correct answer, as these sections deal with the Right of Private Defence. - (C) Sections 107-120: These sections deal with offences related to abetment, not private defence. - (D) Sections 141-160: These sections deal with unlawful assembly and related offences, not private defence. Step 3: Conclusion. Thus, the correct answer is (B) Sections 96-106.",
-    "quickTip": "Sections 96-106 of the IPC deal with the Right of Private Defence."
+    "quickTip": "Sections 96-106 of the IPC deal with the Right of Private Defence.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q57",
@@ -6423,7 +6493,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 90 of the Indian Penal Code defines valid consent and specifies that consent is not valid if given under certain conditions, such as under fear of injury, misconception of fact, or by a person of unsound mind or a child below 12 years of age. Step 2: Analysis of Options. - (A) If given under fear of injury or misconception of fact: This is correct, as consent under these conditions is not valid. - (B) If given by person of unsound mind: This is also correct, as such consent is invalid. - (C) If given by child below 12 years of age: This is correct, as children below 12 cannot give valid consent. - (D) All of these: This is the correct answer, as all the conditions mentioned in the options make consent invalid. Step 3: Conclusion. Thus, the correct answer is (D) All of these.",
-    "quickTip": "Under Section 90 of IPC, consent is invalid if given under fear, misconception, or by a person of unsound mind or a child below 12 years of age."
+    "quickTip": "Under Section 90 of IPC, consent is invalid if given under fear, misconception, or by a person of unsound mind or a child below 12 years of age.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 90 → BNS Section 28."
   },
   {
     "id": "aibe17-q58",
@@ -6441,7 +6512,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Explanation III to Section 299 of the Indian Penal Code (IPC) defines homicide and clarifies that causing the death of a child in the womb does not constitute homicide as provided in Section 300, unless the child was born alive. Step 2: Analysis of Options. - (A) Explanation III to Section 300: This is incorrect as Section 300 deals with the definition of murder, not death during childbirth. - (B) Explanation III to Section 299: This is the correct answer, as it deals with the causing of death in the womb. - (C) Explanation III to Section 301: This section deals with the death caused by one person aiding another in causing death. - (D) Explanation III to Section 302: This relates to punishment for murder, not the definition of homicide. Step 3: Conclusion. Thus, the correct answer is (B) Explanation III to Section 299.",
-    "quickTip": "Explanation III to Section 299 clarifies that the death of a child in the mother’s womb is not considered homicide unless the child was born alive."
+    "quickTip": "Explanation III to Section 299 clarifies that the death of a child in the mother’s womb is not considered homicide unless the child was born alive.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 299 → BNS Section 100."
   },
   {
     "id": "aibe17-q59",
@@ -6459,7 +6531,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 500 of the Indian Penal Code (IPC) deals with defamation and prescribes a punishment of simple imprisonment for up to 2 years, or a fine, or both. Step 2: Analysis of Options. - (A) 2 Years: This is incorrect because the maximum punishment prescribed under IPC for defamation is 3 years. - (B) 3 Years: This is the correct answer, as the punishment can extend to 3 years of imprisonment, or a fine, or both. - (C) 4 Years: This is incorrect. - (D) 5 Years: This is incorrect, as the punishment does not extend to 5 years. Step 3: Conclusion. Thus, the correct answer is (B) 3 Years.",
-    "quickTip": "Under Section 500 of IPC, defamation is punishable with simple imprisonment of up to 3 years or a fine or both."
+    "quickTip": "Under Section 500 of IPC, defamation is punishable with simple imprisonment of up to 3 years or a fine or both.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 500 → BNS Section 356(2)."
   },
   {
     "id": "aibe17-q60",
@@ -6477,7 +6550,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. The offence of assault or criminal force with the intent to outrage a woman’s modesty, under Section 354 of the Indian Penal Code, is a cognizable and bailable offence. This means that the police can arrest the accused without a warrant, and the accused can be granted bail. Step 2: Analysis of Options. - (A) Non-Cognizable and Bailable: This is incorrect as the offence is cognizable. - (B) Cognizable and Bailable: This is the correct answer, as the offence is cognizable and bailable under Section 354 of the IPC. - (C) Cognizable and Non-Bailable: This is incorrect, as it is bailable. - (D) Non-Cognizable and Non-Bailable: This is incorrect, as it is cognizable and bailable. Step 3: Conclusion. Thus, the correct answer is (B) Cognizable and Bailable.",
-    "quickTip": "Assault or criminal force to a woman with intent to outrage her modesty is a cognizable and bailable offence under Section 354 of the IPC."
+    "quickTip": "Assault or criminal force to a woman with intent to outrage her modesty is a cognizable and bailable offence under Section 354 of the IPC.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 354 → BNS Section 74."
   },
   {
     "id": "aibe17-q61",
@@ -6495,7 +6569,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Wrongful confinement occurs when a person is wrongfully detained in a place where they cannot leave. In this case, A is preventing Z from leaving the building, which constitutes wrongful confinement under Section 340 of the Indian Penal Code (IPC). Step 2: Analysis of Options. - (A) wrongful confinement: This is the correct answer, as A has prevented Z from leaving the building. - (B) wrongful restraint: This option refers to preventing someone from moving but without confining them to a place. - (C) Both wrongful confinement and wrongful restraint: This is incorrect because wrongful restraint is not applicable here. - (D) None of these: This is incorrect, as wrongful confinement is the correct charge. Step 3: Conclusion. Thus, the correct answer is (A) wrongful confinement.",
-    "quickTip": "Wrongful confinement occurs when a person is kept in a place and not allowed to leave, as defined under Section 340 of the IPC."
+    "quickTip": "Wrongful confinement occurs when a person is kept in a place and not allowed to leave, as defined under Section 340 of the IPC.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 340 → BNS Section 127."
   },
   {
     "id": "aibe17-q62",
@@ -6513,7 +6588,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Plea bargaining is a process where the accused pleads guilty to a lesser charge in exchange for a lighter sentence. However, it is not applicable in cases where the offence is committed against a child below the age of 18, as the child’s rights need to be fully protected under law. Step 2: Analysis of Options. - (A) 12 years: Plea bargaining is not applicable for cases involving children below 18 years of age, not 12 years. - (B) 14 years: This is incorrect, as plea bargaining is not applicable for offences involving children under 18. - (C) 16 years: This is incorrect for the same reason as above. - (D) 18 years: This is the correct answer, as the protection of minors under 18 is paramount, making plea bargaining unavailable in such cases. Step 3: Conclusion. Thus, the correct answer is (D) 18 years.",
-    "quickTip": "Plea bargaining is not applicable for offences committed against children under the age of 18, as their rights must be fully protected."
+    "quickTip": "Plea bargaining is not applicable for offences committed against children under the age of 18, as their rights must be fully protected.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q63",
@@ -6531,7 +6607,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Sections 82 and 83 of the Indian Penal Code deal with the criminal liability of children. According to Section 82, a child under the age of seven is not criminally liable. Under Section 83, a child above seven but under twelve can be held criminally responsible if they have attained sufficient maturity and understanding. Step 2: Analysis of Options. - (A) below seven years of age: This is incorrect, as children under seven are not criminally liable. - (B) above seven years of age but below twelve years having attained sufficient maturity and understanding: This is the correct answer as per Section 83. - (C) above seven years of age but below ten years: This is incorrect as it is not age-specific but maturity-specific. - (D) above seven years of age but below twelve years not having attained sufficient maturity and understanding: This is incorrect as the child would not be held criminally responsible. Step 3: Conclusion. Thus, the correct answer is (B) above seven years of age but below twelve years having attained sufficient maturity and understanding.",
-    "quickTip": "Under Section 82 and 83, children above seven and below twelve may be criminally liable if they have attained sufficient maturity."
+    "quickTip": "Under Section 82 and 83, children above seven and below twelve may be criminally liable if they have attained sufficient maturity.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 82 → BNS Section 19."
   },
   {
     "id": "aibe17-q64",
@@ -6567,7 +6644,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Sections 61 to 90 of the Criminal Procedure Code (CrPC) deal with the processes for compelling an appearance. This includes the issuance of summons and warrants. Step 2: Analysis of Options. - (A) Sections 61 to 90: This is the correct answer as it addresses the processes related to compelling appearance. - (B) Sections 154 to 173: These sections deal with information, investigation, and inquiries, not compelling appearance. - (C) Sections 211 to 219: These sections deal with framing of charges and trial proceedings. - (D) Sections 274 to 282: These sections deal with procedures for trial and recording of evidence. Step 3: Conclusion. Thus, the correct answer is (A) Sections 61 to 90.",
-    "quickTip": "Sections 61 to 90 of the CrPC govern the processes of summons, warrants, and compelling appearance."
+    "quickTip": "Sections 61 to 90 of the CrPC govern the processes of summons, warrants, and compelling appearance.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q66",
@@ -6603,7 +6681,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Under CrPC, the non-appearance or death of a complainant in a summons trial case could lead to the discharge or acquittal of the accused, depending on the specific circumstances. Step 2: Analysis of Options. - (A) Discharge of the accused: This may be the case, but the decision depends on the facts of the case. - (B) Acquittal of the accused: This is possible but not automatic, as it depends on the circumstances. - (C) Either discharge or acquittal depending on the facts and circumstances of the case: This is the correct answer. - (D) None of these: This is incorrect, as the law provides for discharge or acquittal depending on the circumstances. Step 3: Conclusion. Thus, the correct answer is (C) Either discharge or acquittal depending on the facts and circumstances of the case.",
-    "quickTip": "In a summons trial, the non-appearance or death of the complainant may lead to discharge or acquittal of the accused, depending on the facts."
+    "quickTip": "In a summons trial, the non-appearance or death of the complainant may lead to discharge or acquittal of the accused, depending on the facts.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q68",
@@ -6639,7 +6718,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 160 of the CrPC specifies that a police officer cannot require the attendance of a male person under the age of 18 years or above the age of 65 years to attend a place other than his residence. Step 2: Analysis of Options. - (A) under the age of 15 years and above the age of 60 years: This is incorrect, as the law applies to those under 18 or over 65 years. - (B) under the age of 18 years and above the age of 60 years: This is incorrect, as the age limit is 65 years, not 60. - (C) under the age of 15 years and above the age of 65 years: This is incorrect, as the law applies to those under 18 years and above 65 years. - (D) under the age of 18 years and above the age of 65 years: This is the correct answer, as it is specifically mentioned in Section 160 of the CrPC. Step 3: Conclusion. Thus, the correct answer is (D) under the age of 18 years and above the age of 65 years.",
-    "quickTip": "Under Section 160 of the CrPC, no police officer can require the attendance of a male person under 18 or above 65 years at a place other than his residence."
+    "quickTip": "Under Section 160 of the CrPC, no police officer can require the attendance of a male person under 18 or above 65 years at a place other than his residence.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 160 → BNSS Section 179."
   },
   {
     "id": "aibe17-q70",
@@ -6657,7 +6737,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. In the case of Mohd. Ahmed Khan V. Shah Bano Begum, the Supreme Court observed that Section 125 of the CrPC, which deals with maintenance, is secular in character as it applies to all individuals regardless of their religion. Step 2: Analysis of Options. - (A) Lalita Kumari V. State of Uttar Pradesh: This case dealt with the registration of FIR and is not related to Section 125 of CrPC. - (B) Arnesh Kumar’s Case: This case deals with arrest procedures and is not related to Section 125. - (C) Mohd. Ahmed Khan V. Shah Bano Begum: This is the correct answer, as it involves Section 125 and the secular nature of the law. - (D) Selvy V. State of Karnataka: This case is not related to Section 125. Step 3: Conclusion. Thus, the correct answer is (C) Mohd. Ahmed Khan V. Shah Bano Begum.",
-    "quickTip": "Section 125 of the CrPC is secular in nature and applies to all individuals, as observed in the case of Mohd. Ahmed Khan V. Shah Bano Begum."
+    "quickTip": "Section 125 of the CrPC is secular in nature and applies to all individuals, as observed in the case of Mohd. Ahmed Khan V. Shah Bano Begum.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 125 → BNSS Section 144."
   },
   {
     "id": "aibe17-q71",
@@ -6873,7 +6954,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 6 of the Indian Evidence Act refers to the doctrine of ”Res Gestae,” which allows statements made during or immediately after an event to be admissible as evidence. This section is related to the facts that are part of the transaction. Step 2: Analysis of Options. - (A) Section 5: This deals with the relevancy of facts, not the doctrine of Res Gestae. - (B) Section 6: This is the correct answer, as it discusses the doctrine of Res Gestae. - (C) Section 10: This deals with the admissibility of statements made in the course of a conspiracy. - (D) Section 11: This deals with the relevancy of facts for proving the existence of a relationship, not Res Gestae. Step 3: Conclusion. Thus, the correct answer is (B) Section 6.",
-    "quickTip": "The doctrine of ”Res Gestae” is outlined in Section 6 of the Indian Evidence Act, which deals with facts forming part of the transaction."
+    "quickTip": "The doctrine of ”Res Gestae” is outlined in Section 6 of the Indian Evidence Act, which deals with facts forming part of the transaction.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 6 → BSA Section 4."
   },
   {
     "id": "aibe17-q83",
@@ -6891,7 +6973,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 18 of the Indian Evidence Act allows an admission made by a stranger to be binding on a party to the suit if the liability of the party depends on the liability of the stranger. Step 2: Analysis of Options. - (A) Section 17: This deals with the admissibility of admissions made by parties to the suit. - (B) Section 18: This is the correct answer, as it deals with admissions by a stranger being binding on a party to the suit. - (C) Section 19: This deals with the rules regarding oral admissions in writing. - (D) Section 21: This deals with the admissibility of statements made in the course of legal proceedings. Step 3: Conclusion. Thus, the correct answer is (B) Section 18.",
-    "quickTip": "Section 18 of the Evidence Act allows admissions by a stranger to be binding on the party whose liability depends on that stranger’s admission."
+    "quickTip": "Section 18 of the Evidence Act allows admissions by a stranger to be binding on the party whose liability depends on that stranger’s admission.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 18 → BSA Section 16."
   },
   {
     "id": "aibe17-q84",
@@ -6927,7 +7010,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. The Indian Evidence Act defines documents to include any material used for the purpose of recording something. However, a caricature, which is typically a humorous or satirical drawing, does not qualify as a ”document” in this sense. Step 2: Analysis of Options. - (A) An inscription on a metal plate or stone: This qualifies as a document under the Indian Evidence Act. - (B) A map or plan: This is also considered a document. - (C) A caricature: This is the correct answer, as it is not a ”document” according to the Indian Evidence Act. - (D) None of these: This is incorrect because (C) is the correct answer. Step 3: Conclusion. Thus, the correct answer is (C) A caricature.",
-    "quickTip": "According to the Indian Evidence Act, a ”document” is anything used for the purpose of recording information, excluding artistic or humorous representations like caricatures."
+    "quickTip": "According to the Indian Evidence Act, a ”document” is anything used for the purpose of recording information, excluding artistic or humorous representations like caricatures.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q86",
@@ -6945,7 +7029,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 113B of the Indian Evidence Act deals with the presumption of dowry death. If a woman dies within seven years of marriage due to burns or bodily injury or otherwise, and if it is shown that she was subjected to cruelty or harassment by her husband or his relatives in connection with dowry, the court can presume that the death was caused by dowry-related harassment. Step 2: Analysis of Options. - (A) 113A: This section deals with the presumption of suicide due to abetment. - (B) 113B: This is the correct answer, as it deals with the presumption regarding dowry deaths. - (C) 11: This section deals with the relevancy of facts in judicial proceedings. - (D) 114B: This section deals with the presumption regarding dowry deaths in specific circumstances. Step 3: Conclusion. Thus, the correct answer is (B) 113B.",
-    "quickTip": "Section 113B of the Indian Evidence Act presumes dowry death if the woman dies within seven years of marriage and there is evidence of dowry-related harassment."
+    "quickTip": "Section 113B of the Indian Evidence Act presumes dowry death if the woman dies within seven years of marriage and there is evidence of dowry-related harassment.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 113B → BSA Section 119."
   },
   {
     "id": "aibe17-q87",
@@ -6963,7 +7048,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 63 of the Indian Evidence Act discusses secondary evidence. Secondary evidence refers to copies or reproductions of original documents. However, copies that are not certified do not qualify as secondary evidence. Step 2: Analysis of Options. - (A) Copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy: This is correct and considered secondary evidence. - (B) Copies made from or compared with the original: This is correct and considered secondary evidence. - (C) Oral accounts of the contents of a document given by some person who has himself seen it: This is correct, as it is another form of secondary evidence. - (D) Copies not certified under Section 63: This is incorrect, as un-certified copies cannot be considered secondary evidence. Step 3: Conclusion. Thus, the correct answer is (D) Copies not certified under Section 63.",
-    "quickTip": "For secondary evidence to be admissible under the Indian Evidence Act, the copies must be certified or meet other specific criteria."
+    "quickTip": "For secondary evidence to be admissible under the Indian Evidence Act, the copies must be certified or meet other specific criteria.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 63 → BSA Section 58."
   },
   {
     "id": "aibe17-q88",
@@ -7017,7 +7103,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. The Arbitral Tribunal is not bound by the Code of Civil Procedure or the Indian Evidence Act when determining the rules of procedure in arbitration. The tribunal has flexibility in the procedures it follows. Step 2: Analysis of Options. - (A) The Code of Civil Procedure, 1908: This is incorrect, as the tribunal is not bound by this code. - (B) The Indian Evidence Act, 1872: This is incorrect, as the tribunal is not bound by the Indian Evidence Act. - (C) The Code of Criminal Procedure, 1973: This is incorrect, as the tribunal is not bound by this code. - (D) Both (The Code of Civil Procedure, 1908) and (The Indian Evidence Act, 1872): This is the correct answer, as the tribunal is not bound by either of these acts. Step 3: Conclusion. Thus, the correct answer is (D) Both (The Code of Civil Procedure, 1908) and (The Indian Evidence Act, 1872).",
-    "quickTip": "The Arbitral Tribunal has the discretion to decide the rules of procedure in arbitration and is not bound by the Code of Civil Procedure or the Indian Evidence Act."
+    "quickTip": "The Arbitral Tribunal has the discretion to decide the rules of procedure in arbitration and is not bound by the Code of Civil Procedure or the Indian Evidence Act.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024. Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q91",
@@ -7125,7 +7212,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding the Question. Section 6 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 provides that a Muslim woman can opt to be governed by the provisions of Sections 125 to 128 of the Criminal Procedure Code, 1973, relating to maintenance. Step 2: Analysis of Options. - (A) Section 5: This section deals with the right of the woman to maintain herself and her children after divorce. - (B) Section 6: This is the correct answer, as it specifically addresses the option to be governed by Sections 125 to 128 of the CrPC. - (C) Section 7: This section deals with the woman’s right to alimony and maintenance. - (D) None of these: This is incorrect, as Section 6 is the correct answer. Step 3: Conclusion. Thus, the correct answer is (B) Section 6.",
-    "quickTip": "Section 6 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 allows a Muslim woman to opt for maintenance under Sections 125 to 128 of CrPC."
+    "quickTip": "Section 6 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 allows a Muslim woman to opt for maintenance under Sections 125 to 128 of CrPC.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe17-q97",
@@ -7593,7 +7681,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "The Indian Penal Code (IPC), 1860 has extraterritorial application in certain cases, such as offences committed by Indian citizens outside India (Section 3) and offences on Indian-registered ships (Section 4). However, offences targeting computer resources outside India may not fall under IPC jurisdiction.",
-    "quickTip": "The IPC applies to certain extraterritorial offences, but offences targeting computer resources outside India may require application under the IT Act."
+    "quickTip": "The IPC applies to certain extraterritorial offences, but offences targeting computer resources outside India may require application under the IT Act.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q12",
@@ -7629,7 +7718,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "The IPC, 1860, provides for five types of punishments: (1) Death, (2) Imprisonment for life, (3) Imprisonment (rigorous or simple), (4) Forfeiture of property, and (5) Fine.",
-    "quickTip": "The IPC categorizes punishments to encompass a range of penalties suitable for various crimes."
+    "quickTip": "The IPC categorizes punishments to encompass a range of penalties suitable for various crimes.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q13",
@@ -7683,7 +7773,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "The injury caused was a fracture, which is legally recognized as grievous hurt . Section 325 IPC (now BNS equivalent) punishes voluntarily causing grievous hurt. Thus, Rajesh is guilty under Section 325.",
-    "quickTip": "Fracture or dislocation of bone is always classified as grievous hurt."
+    "quickTip": "Fracture or dislocation of bone is always classified as grievous hurt.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 323 → BNS Section 115(2); IPC Section 325 → BNS Section 117(2); IPC Section 324 → BNS Section 118(1); IPC Section 308 → BNS Section 110."
   },
   {
     "id": "aibe18-q14",
@@ -7719,7 +7810,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Since there was no pre-planned intent or motive, it does not amount to murder. The act was dangerous and knowingly likely to cause death. Hence, it falls under Section 304 IPC (culpable homicide not amounting to murder).",
-    "quickTip": "Premeditated intent = Murder (302). Knowledge without intent = Culpable homicide (304)."
+    "quickTip": "Premeditated intent = Murder (302). Knowledge without intent = Culpable homicide (304).",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 302 → BNS Section 103(1); IPC Section 304 → BNS Section 105; IPC Section 304A → BNS Section 106(1); IPC Section 325 → BNS Section 117(2)."
   },
   {
     "id": "aibe18-q15",
@@ -7737,7 +7829,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 89 of the IPC pertains to acts done in good faith for the benefit of a person under twelve years or of unsound mind, without pecuniary benefit. The term “benefit” here refers to well-being, not financial gain.",
-    "quickTip": "In Section 89, “benefit” implies well-being rather than monetary advantage."
+    "quickTip": "In Section 89, “benefit” implies well-being rather than monetary advantage.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 89 → BNS Section 27."
   },
   {
     "id": "aibe19-q16",
@@ -7773,7 +7866,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Under the IPC, criminal force is the intentional use of force on a person without consent, with intent to cause injury, fear, or annoyance. By pulling up the woman’s veil without her consent, X has committed the offence of criminal force.",
-    "quickTip": "Criminal force involves intentional use of force to cause annoyance or harm, even without causing physical injury."
+    "quickTip": "Criminal force involves intentional use of force to cause annoyance or harm, even without causing physical injury.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q17",
@@ -7809,7 +7903,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Under Section 363A of the IPC, maiming a minor for the purpose of using them for begging is a grave offence, punishable with imprisonment for life and fine.",
-    "quickTip": "Maiming a minor for exploitation in begging is a serious crime under IPC, warranting the highest level of punishment."
+    "quickTip": "Maiming a minor for exploitation in begging is a serious crime under IPC, warranting the highest level of punishment.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 363A → BNS Section 141."
   },
   {
     "id": "aibe19-q18",
@@ -7845,7 +7940,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "This act falls under criminal intimidation with the intent of extortion. Under Section 503 and 506 of the IPC, the punishment for criminal intimidation is imprisonment up to 3 years, or with fine, or with both.",
-    "quickTip": "Threatening someone for monetary gain through defamation is considered criminal intimidation under the IPC."
+    "quickTip": "Threatening someone for monetary gain through defamation is considered criminal intimidation under the IPC.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q19",
@@ -7881,7 +7977,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "According to the Code of Criminal Procedure, 1973, an Assistant Sessions Judge can impose a sentence of imprisonment for a term not exceeding ten years.",
-    "quickTip": "The powers of an Assistant Sessions Judge are limited to sentencing up to ten years, unlike higher judicial officers."
+    "quickTip": "The powers of an Assistant Sessions Judge are limited to sentencing up to ten years, unlike higher judicial officers.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q20",
@@ -7917,7 +8014,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 41 of the Code of Criminal Procedure, 1973, empowers a police officer to arrest a person without a warrant in cases involving cognizable and non-bailable offences. If a private person has arrested someone for such an offence, Section 41 allows the police officer to re-arrest that individual.",
-    "quickTip": "Section 41 grants police officers the authority to re-arrest individuals for non-bailable and cognizable offences if initially apprehended by private citizens."
+    "quickTip": "Section 41 grants police officers the authority to re-arrest individuals for non-bailable and cognizable offences if initially apprehended by private citizens.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 41 → BNSS Section 35."
   },
   {
     "id": "aibe19-q21",
@@ -7953,7 +8051,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Under Section 125 of the Code of Criminal Procedure, 1973, a wife is not entitled to maintenance if she voluntarily refuses to live with her husband without sufficient reason. However, if she is forced to live separately or if the husband’s conduct is unreasonable, she is entitled to maintenance.",
-    "quickTip": "A wife who voluntarily chooses to live apart without valid reasons is not eligible for maintenance under Section 125."
+    "quickTip": "A wife who voluntarily chooses to live apart without valid reasons is not eligible for maintenance under Section 125.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 125 → BNSS Section 144."
   },
   {
     "id": "aibe19-q22",
@@ -7989,7 +8088,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 164-A of the Code of Criminal Procedure, 1973, pertains to the medical examination of a rape victim. This provision ensures prompt medical examination to gather evidence and provide necessary care to the victim.",
-    "quickTip": "Section 164-A mandates medical examination for victims of sexual assault to aid in evidence collection and care."
+    "quickTip": "Section 164-A mandates medical examination for victims of sexual assault to aid in evidence collection and care.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 164 → BNSS Section 183."
   },
   {
     "id": "aibe19-q23",
@@ -8025,7 +8125,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "As per the Code of Criminal Procedure, 1973, the investigation diary is meant for internal use by the police and cannot be used as primary evidence in court. It can, however, be used to refresh the memory of police officers or by the court to verify facts.",
-    "quickTip": "Investigation diaries are not admissible as evidence; they serve as records to support investigations and refresh memory."
+    "quickTip": "Investigation diaries are not admissible as evidence; they serve as records to support investigations and refresh memory.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q24",
@@ -8061,7 +8162,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "For the offence of theft, it is sufficient to specify the time, place, and article involved, without detailing the manner in which the theft was committed. In contrast, certain other offences, such as cheating or disobedience, may require specific details.",
-    "quickTip": "Details of the offence’s manner are not always required, particularly for straightforward crimes like theft."
+    "quickTip": "Details of the offence’s manner are not always required, particularly for straightforward crimes like theft.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q25",
@@ -8097,7 +8199,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "The Code of Criminal Procedure, 1973, allows summary trials for offences punishable with imprisonment not exceeding two years, as these cases are relatively minor and can be resolved quickly.",
-    "quickTip": "Summary trials are suitable for minor offences with lighter punishments to expedite the judicial process."
+    "quickTip": "Summary trials are suitable for minor offences with lighter punishments to expedite the judicial process.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 454 → BNS Section 333; IPC Section 504 → BNS Section 351."
   },
   {
     "id": "aibe19-q26",
@@ -8133,7 +8236,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Section 395 of the Code of Criminal Procedure, 1973, allows a court to refer certain questions of law to the High Court when it feels that such questions require higher judicial interpretation.",
-    "quickTip": "Section 395 facilitates the escalation of complex legal questions to the High Court for authoritative resolution."
+    "quickTip": "Section 395 facilitates the escalation of complex legal questions to the High Court for authoritative resolution.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 395 → BNSS Section 437."
   },
   {
     "id": "aibe19-q27",
@@ -8169,7 +8273,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Section 438 of the CrPC provides for anticipatory bail, but it is not applicable for offences under Sections 376AB, 376DA, and 376DB of the IPC, which pertain to serious sexual offences and carry stringent provisions that restrict anticipatory bail.",
-    "quickTip": "Anticipatory bail is generally not granted for heinous offences, particularly those involving severe sexual assault."
+    "quickTip": "Anticipatory bail is generally not granted for heinous offences, particularly those involving severe sexual assault.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 438 → BNSS Section 482."
   },
   {
     "id": "aibe19-q28",
@@ -8205,7 +8310,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "According to the CrPC, a Magistrate must be duly empowered to attach property under Section 83. If a Magistrate without proper authority performs this action, even in good faith, it will vitiate the proceedings.",
-    "quickTip": "Property attachment requires specific authorization; doing so without empowerment affects the validity of the proceedings."
+    "quickTip": "Property attachment requires specific authorization; doing so without empowerment affects the validity of the proceedings.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 306 → BNSS Section 343; CrPC Section 410 → BNSS Section 452; CrPC Section 83 → BNSS Section 79; CrPC Section 176 → BNSS Section 194."
   },
   {
     "id": "aibe19-q29",
@@ -8601,7 +8707,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Under the Indian Evidence Act, 1872, only statements or actions directly related to the incident and occurring at the same time are considered part of the same transaction. Statements made a day before the beating would not qualify as part of the same transaction.",
-    "quickTip": "For a fact to be relevant as part of the same transaction, it must be closely connected in time and context to the main incident."
+    "quickTip": "For a fact to be relevant as part of the same transaction, it must be closely connected in time and context to the main incident.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q40",
@@ -8637,7 +8744,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Section 25 of the Indian Evidence Act, 1872, provides that a confession made to a police officer is inadmissible as evidence against the person making the confession, to prevent abuse of authority and ensure fair trials.",
-    "quickTip": "Confessions to police officers are not admissible in court under Section 25, ensuring confessions are made voluntarily and in a fair setting."
+    "quickTip": "Confessions to police officers are not admissible in court under Section 25, ensuring confessions are made voluntarily and in a fair setting.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 25 → BSA Section 23; Evidence Act Section 24 → BSA Section 22."
   },
   {
     "id": "aibe19-q41",
@@ -8673,7 +8781,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Section 32 of the Indian Evidence Act, 1872, allows the admission of a dying declaration as evidence, considering it credible as it is made by a person who believes they are about to die and thus has no motive to lie.",
-    "quickTip": "Dying declarations are considered reliable under Section 32, as the declarant has little reason to be untruthful in such circumstances."
+    "quickTip": "Dying declarations are considered reliable under Section 32, as the declarant has little reason to be untruthful in such circumstances.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 32 → BSA Section 30; Evidence Act Section 25 → BSA Section 23."
   },
   {
     "id": "aibe19-q42",
@@ -8709,7 +8818,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "According to the Indian Evidence Act, 1872, the contents of a document can be proved by primary evidence (the original document itself) or, in certain circumstances, by secondary evidence (e.g., copies of the document).",
-    "quickTip": "Primary evidence is preferred, but secondary evidence is permissible when primary evidence is unavailable."
+    "quickTip": "Primary evidence is preferred, but secondary evidence is permissible when primary evidence is unavailable.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q43",
@@ -8745,7 +8855,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Under the Indian Evidence Act, leading questions, which suggest the answer, are generally permitted in cross-examination but not in examination-in-chief or re-examination unless the court allows.",
-    "quickTip": "Leading questions are allowed in cross-examination to challenge the witness’s credibility."
+    "quickTip": "Leading questions are allowed in cross-examination to challenge the witness’s credibility.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q44",
@@ -8781,7 +8892,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "In Anvar P.V. v P.K. Basheer , the Supreme Court clarified the requirements for the admissibility of electronic records as evidence, stating that electronic records must meet specific criteria outlined under Section 65B of the Indian Evidence Act.",
-    "quickTip": "The Anvar P.V. case established guidelines for electronic evidence, emphasizing adherence to Section 65B."
+    "quickTip": "The Anvar P.V. case established guidelines for electronic evidence, emphasizing adherence to Section 65B.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 65B → BSA Section 63."
   },
   {
     "id": "aibe19-q45",
@@ -8817,7 +8929,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Admissions are not always conclusive proof of the matters admitted; they can be rebutted. They are only prima facie evidence and may operate as estoppel in certain circumstances.",
-    "quickTip": "Admissions provide prima facie evidence but are not always conclusive; they can be contested in court."
+    "quickTip": "Admissions provide prima facie evidence but are not always conclusive; they can be contested in court.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe19-q46",
@@ -8853,7 +8966,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Section 32(1) of the Indian Evidence Act is an exception to the hearsay rule, as it allows statements made by a person who cannot be called as a witness, such as in the case of dying declarations, to be admissible in court.",
-    "quickTip": "Hearsay is generally inadmissible, but Section 32(1) permits exceptions, such as dying declarations."
+    "quickTip": "Hearsay is generally inadmissible, but Section 32(1) permits exceptions, such as dying declarations.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 32 → BSA Section 30."
   },
   {
     "id": "aibe19-q47",
@@ -10599,7 +10713,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Law reference. Recovery of specific immovable property is dealt under Section 5 of the Specific Relief Act, 1963. Step 2: Mode of recovery. It specifically provides that possession can be recovered in the manner provided under CPC, 1908. Step 3: Elimination. Options (A), (B), (C) are incorrect as they do not specify CPC, which is mandatory. Conclusion: Recovery is through CPC.",
-    "quickTip": "Specific Relief Act refers to CPC for actual enforcement of recovery of immovable property."
+    "quickTip": "Specific Relief Act refers to CPC for actual enforcement of recovery of immovable property.",
+    "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe18-q95",
@@ -10815,7 +10930,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 78 IPC. Section 78 IPC protects any person (including a bailiff) who acts strictly under the authority of a court order that appears valid, even if the court later turns out to have no jurisdiction. Step 2: Application to the question. Since the bailiff acted purely on the face of the order and without personal fault, Section 78 shields him from criminal liability. Step 3: Conclusion. A bailiff is exempt from punishment if he executes the order in good faith.",
-    "quickTip": "Section 78 IPC protects actions done under court orders if performed in good faith."
+    "quickTip": "Section 78 IPC protects actions done under court orders if performed in good faith.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 78 → BNS Section 16."
   },
   {
     "id": "aibe20-q2",
@@ -10887,7 +11003,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Evaluate Statement 1. Statement 1 is false because harbouring an offender who escaped custody for an offence punishable up to 3 years does not attract 7 years’ imprisonment — punishment is much lower. Step 2: Evaluate Statement 2. Statement 2 is true — IPC provides a clear exception for spouses harbouring each other. Step 3: Conclusion. Hence, only Statement 2 is correct.",
-    "quickTip": "IPC excuses harbouring by spouses, recognizing the sanctity of marriage."
+    "quickTip": "IPC excuses harbouring by spouses, recognizing the sanctity of marriage.",
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe20-q6",
@@ -10923,7 +11040,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 27 CrPC. Section 27 applies when a juvenile (below 16 years) is accused of an offence not punishable with death or life imprisonment. The juvenile must be tried by a special court: Juvenile Justice Board or any court empowered under the Juvenile Justice Act. Step 2: Applying to the scenario. The accused is 14 years old and the offence is not punishable with death or life imprisonment. Therefore, Section 27 directly applies. Step 3: Conclusion. The appropriate provision is Section 27 of the CrPC.",
-    "quickTip": "Any juvenile under 16 committing a non-capital offence is governed by Section 27 CrPC."
+    "quickTip": "Any juvenile under 16 committing a non-capital offence is governed by Section 27 CrPC.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 27 → BNSS Section 22."
   },
   {
     "id": "aibe20-q8",
@@ -10995,7 +11113,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding relevance under the Evidence Act. Sections 5 to 11 of the Indian Evidence Act explain when otherwise irrelevant facts may become relevant. Section 11 specifically deals with inconsistent facts. Step 2: Application. A fact that contradicts or makes improbable the existence of a fact in issue becomes relevant even if it would normally be irrelevant. Step 3: Conclusion. Facts inconsistent with facts in issue or relevant facts gain relevance under Section 11.",
-    "quickTip": "Always check Section 11 when dealing with “otherwise irrelevant” but contradictory facts."
+    "quickTip": "Always check Section 11 when dealing with “otherwise irrelevant” but contradictory facts.",
+    "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
   {
     "id": "aibe20-q12",
@@ -11013,7 +11132,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 33. Section 33 allows evidence given in a previous judicial proceeding to be relevant in a subsequent proceeding when certain conditions are met. Step 2: Key condition. One essential requirement is that the earlier proceeding must have been between the same parties or their legal representatives. This ensures fairness and prevents prejudice. Step 3: Conclusion. Thus, the requirement of “same parties or representatives in interest” is mandatory under Section 33.",
-    "quickTip": "Section 33 deals with “former testimony”—always check for same parties and opportunity of cross-examination."
+    "quickTip": "Section 33 deals with “former testimony”—always check for same parties and opportunity of cross-examination.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 33 → BSA Section 31."
   },
   {
     "id": "aibe20-q13",
@@ -11031,7 +11151,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 74 of the Evidence Act. Public documents include acts of public officers, official records, judicial acts, and executive acts of government authorities. Step 2: Application to options. Draft agreements, diaries, and private notes are all private documents. Only judicial and executive acts of public officers qualify as official public documents. Step 3: Conclusion. Thus, the correct category is judicial and executive acts of public officers.",
-    "quickTip": "Section 74 = Public documents; Section 75 = Private documents. Easy rule: Government-created = public."
+    "quickTip": "Section 74 = Public documents; Section 75 = Private documents. Easy rule: Government-created = public.",
+    "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 74 → BSA Section 72."
   },
   {
     "id": "aibe20-q14",
@@ -11067,7 +11188,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 30 CrPC. A Magistrate of First Class may award imprisonment in default of fine, but the total imprisonment (substantive + default) cannot exceed the Magistrate’s sentencing power of 3 years. Step 2: Application. If 2 years of substantive imprisonment has already been imposed, he may impose up to 1 additional year. However, specific default limits allow up to 2 years where permitted, depending on the quantum of fine. Step 3: Conclusion. In this factual context, the maximum permissible imprisonment in default is 2 years.",
-    "quickTip": "Default imprisonment is separate from substantive imprisonment but must remain within statutory limits."
+    "quickTip": "Default imprisonment is separate from substantive imprisonment but must remain within statutory limits.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 30 → BNSS Section 25."
   },
   {
     "id": "aibe20-q16",
@@ -11337,7 +11459,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 133 CrPC. Section 133 provides for public nuisance proceedings, allowing individuals to approach an Executive Magistrate with complaints affecting the public at large. Step 2: Nature of proceedings. Issues such as obstruction of public pathways, unlawful trades, pollution, and public health hazards fall under this provision. Step 3: Conclusion. Thus, public interest matters before a Magistrate are filed under Section 133 CrPC.",
-    "quickTip": "Section 133 CrPC = Public nuisance remedy before Magistrate → accessible to any citizen."
+    "quickTip": "Section 133 CrPC = Public nuisance remedy before Magistrate → accessible to any citizen.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 302 → BNS Section 103(1). Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 144 → BNSS Section 163; CrPC Section 133 → BNSS Section 171; CrPC Section 482 → BNSS Section 528."
   },
   {
     "id": "aibe20-q31",
@@ -11391,7 +11514,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Check Assertion (A). Section 96 CrPC provides the right to appeal within two months of publication of the forfeiture order. Hence, Assertion (A) is correct. Step 2: Check Reason (R). The Special Bench must consist of at least three judges, not “exactly” three, and the strength may vary depending on the High Court. Thus, (R) is false. Step 3: Conclusion. (A) is true, (R) is false Option (3).",
-    "quickTip": "Forfeiture under Section 95/96 CrPC → Appeal within 2 months → Special Bench = minimum three judges."
+    "quickTip": "Forfeiture under Section 95/96 CrPC → Appeal within 2 months → Special Bench = minimum three judges.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 96 → BNSS Section 93."
   },
   {
     "id": "aibe20-q34",
@@ -12255,7 +12379,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding the nature of the order passed by the High Court. The order restrains the media from publishing news relating to an ongoing criminal trial. This is not a writ against a public authority, nor is it a prohibition stopping a subordinate court from acting beyond jurisdiction. Instead, it is a preventive and supervisory measure to protect the fairness of the judicial process. Step 2: Why it is not mandamus or prohibition. Mandamus directs a public authority to perform its duty. Prohibition restrains a subordinate court from exceeding jurisdiction. But here, the High Court is not issuing commands to any authority; it is controlling the flow of information so that trial fairness is preserved. Step 3: High Courts possess inherent powers. Under Articles 215 and 226, and under their inherent jurisdiction as Courts of Record, High Courts may pass any order necessary to ensure: - fairness of trial, - preventing interference with administration of justice, - contempt prevention. Such inherent power is recognised even in criminal procedure under Section 482 CrPC. Step 4: Conclusion. Since the order is neither a writ nor residuary power, the only correct classification is the inherent power of the High Court.",
-    "quickTip": "High Courts can issue protective orders—even when not specifically provided by statute—under their inherent powers to secure justice and maintain judicial integrity."
+    "quickTip": "High Courts can issue protective orders—even when not specifically provided by statute—under their inherent powers to secure justice and maintain judicial integrity.",
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 482 → BNSS Section 528."
   },
   {
     "id": "aibe20-q82",
@@ -12471,7 +12596,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 72 IPC. Section 72 applies when a single act falls under two or more offences but it is unclear which specific offence has been committed. Step 2: Rule of proportional justice. The law requires that, in such circumstances, punishment must be based on the offence carrying the least severe penalty. This protects the accused from harsher penalties when ambiguity exists. Step 3: Applying the principle. Thus, the court imposes the minimum punishment possible among the options. This is the fairest approach under criminal jurisprudence.",
-    "quickTip": "Section 72 IPC ensures “benefit of doubt” in punishment—not by acquitting the accused, but by awarding the least severe sentence when offence classification is unclear."
+    "quickTip": "Section 72 IPC ensures “benefit of doubt” in punishment—not by acquitting the accused, but by awarding the least severe sentence when offence classification is unclear.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 72 → BNS Section 12."
   },
   {
     "id": "aibe20-q94",
@@ -12579,7 +12705,8 @@
     "correctAnswer": "B",
     "isModernized": false,
     "solution": "Step 1: What Section 57 states. Section 57 does not define life imprisonment; it only provides a conversion measure stating that life imprisonment shall be deemed equivalent to 20 years for calculating fractions of punishment. Step 2: Judicial interpretation. Courts have consistently held that life imprisonment means imprisonment till the last breath, but for remission calculations, 20 years is used. Step 3: Conclusion. Thus, when computing remission under Section 57, the law applies a fixed equivalent of 20 years.",
-    "quickTip": "Life imprisonment 20 years, but for remission calculations, courts treat it as 20 years."
+    "quickTip": "Life imprisonment 20 years, but for remission calculations, courts treat it as 20 years.",
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 57 → BNS Section 10."
   },
   {
     "id": "aibe20-q100",

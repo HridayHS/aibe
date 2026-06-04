@@ -152,6 +152,18 @@ export default function Questions() {
                     <p className="q-quicktip-text">{q.quickTip}</p>
                   </details>
                 )}
+
+                {/* Modern Law Note */}
+                {showAnswer[q.id] && q.modernNote && (
+                  <details className="q-modern-box animate-in">
+                    <summary className="q-modern-header">
+                      <span className="q-modern-icon">⚖️</span>
+                      <span className="q-modern-label">New Law Reference</span>
+                      <span className="q-modern-chevron">▸</span>
+                    </summary>
+                    <p className="q-modern-text">{q.modernNote}</p>
+                  </details>
+                )}
               </>
             ) : (
               <div className="withdrawn-note">
