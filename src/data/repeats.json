@@ -48,16 +48,18 @@
         {
           "id": "aibe18-q31",
           "exam": "AIBE 18",
-          "year": 2023,
+          "year": 2024,
           "questionNumber": 31,
-          "question": "Which of the following provision of the Code of Civil Procedure, 1908 makes the doctrine of res judicata applicable in representative suit?",
+          "question": "Which of the following provision of the Code of Civil Procedure, 1908 makes the doctrine of res judicata applicable in representative suits?",
           "options": [
-            "Section 11, Explanation V V",
-            "Section 11, Explanation VI VI",
-            "Section 11, Explanation VII VII",
-            "Section 11, Explanation VIII VIII"
+            "Section 11, Explanation V",
+            "Section 11, Explanation VI",
+            "Section 11, Explanation VII",
+            "Section 11, Explanation VIII"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Section 11, Explanation VI of the CPC applies the doctrine of res judicata to representative suits, ensuring that a decision in a representative suit binds all parties represented, preventing re-litigation of the same issue.",
+          "quickTip": "Res judicata in representative suits avoids repetitive litigation by binding all parties represented in the initial suit."
         },
         {
           "id": "aibe19-q36",
@@ -72,15 +74,15 @@
             "Section 9"
           ],
           "correctAnswer": "A",
-          "solution": "Step 1: Meaning.  Res judicata means “a matter once judicially decided is finally decided.” It prevents the same parties from re-litigating the same issue.  Step 2: Section 11 CPC.  This section bars courts from trying suits or issues already adjudicated between the same parties by a competent court.  Step 3: Conclusion.  Thus, Section 11 = Doctrine of res judicata.",
-          "quickTip": "Res judicata ensures finality of judgments   →   prevents multiplicity of litigation."
+          "solution": "Step 1: Meaning. Res judicata means “a matter once judicially decided is finally decided.” It prevents the same parties from re-litigating the same issue. Step 2: Section 11 CPC. This section bars courts from trying suits or issues already adjudicated between the same parties by a competent court. Step 3: Conclusion. Thus, Section 11 = Doctrine of res judicata.",
+          "quickTip": "Res judicata ensures finality of judgments → prevents multiplicity of litigation."
         },
         {
           "id": "aibe20-q61",
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 61,
-          "question": "As per Section 11 of the Code of Civil Procedure, 1908 for   Res Judicata   to be applicable on a subsequent suit, the former suit must satisfy the following conditions:  I. has been finally decided. II. can only be instituted prior to the subsequent suit. III. relates to the same matter directly and substantially in issue in the subsequent suit. IV. is between the same parties, or between parties under whom they or any of them claim.  Select the correct answer.",
+          "question": "As per Section 11 of the Code of Civil Procedure, 1908 for Res Judicata to be applicable on a subsequent suit, the former suit must satisfy the following conditions: I. has been finally decided. II. can only be instituted prior to the subsequent suit. III. relates to the same matter directly and substantially in issue in the subsequent suit. IV. is between the same parties, or between parties under whom they or any of them claim. Select the correct answer.",
           "options": [
             "I, II and III",
             "II, III and IV",
@@ -88,7 +90,7 @@
             "I, II, III and IV"
           ],
           "correctAnswer": "C",
-          "solution": "Step 1: Apply essentials of Res Judicata (Section 11 CPC).  A matter is barred when: it was finally decided, it concerns the same issue, and parties are the same or claiming under same title.  Step 2: Analyse each statement.  I – Correct: A former suit must be finally decided. II – Incorrect: Law does NOT say the former suit “can only be instituted prior”; it only must be decided earlier. III – Correct: Matter must be directly and substantially the same. IV – Correct: Parties must be same or claiming under them.  Step 3: Conclusion.  Thus the correct combination is I, III and IV.",
+          "solution": "Step 1: Apply essentials of Res Judicata (Section 11 CPC). A matter is barred when: it was finally decided, it concerns the same issue, and parties are the same or claiming under same title. Step 2: Analyse each statement. I – Correct: A former suit must be finally decided. II – Incorrect: Law does NOT say the former suit “can only be instituted prior”; it only must be decided earlier. III – Correct: Matter must be directly and substantially the same. IV – Correct: Parties must be same or claiming under them. Step 3: Conclusion. Thus the correct combination is I, III and IV.",
           "quickTip": "Res Judicata = Same matter + Same parties + Former suit finally decided."
         }
       ]
@@ -129,16 +131,18 @@
         {
           "id": "aibe18-q69",
           "exam": "AIBE 18",
-          "year": 2023,
+          "year": 2024,
           "questionNumber": 69,
-          "question": "Which of the following authority acts as an appellate authority against the order made by the disciplinary committee of the Bar Council of India ?",
+          "question": "Which of the following authority acts as an appellate authority against the order made by the disciplinary committee of the Bar Council of India?",
           "options": [
             "Chairman of the Bar Council of India",
-            "Vice - chairman of the Bar Council of India",
+            "Vice-chairman of the Bar Council of India",
             "High Courts",
             "Supreme Court of India"
           ],
-          "correctAnswer": "D"
+          "correctAnswer": "D",
+          "solution": "The Supreme Court of India acts as the appellate authority for orders made by the disciplinary committee of the Bar Council of India. Appeals against disciplinary actions by the Bar Council can be directed to the Supreme Court.",
+          "quickTip": "The Supreme Court serves as the final appellate authority for disciplinary matters involving advocates in India."
         },
         {
           "id": "aibe20-q73",
@@ -153,7 +157,7 @@
             "Section 38"
           ],
           "correctAnswer": "B",
-          "solution": "Step 1: Understanding powers.  Section 35   →   State Bar Council. Section 36   →   Bar Council of India (BCI).  Step 2: Application.  BCI can withdraw cases from State Bar Councils and decide them itself under Section 36.  Step 3: Conclusion.  Therefore, Section 36 is the correct section.",
+          "solution": "Step 1: Understanding powers. Section 35 → State Bar Council. Section 36 → Bar Council of India (BCI). Step 2: Application. BCI can withdraw cases from State Bar Councils and decide them itself under Section 36. Step 3: Conclusion. Therefore, Section 36 is the correct section.",
           "quickTip": "Discipline: State Bar Council = Section 35; BCI = Section 36."
         }
       ]
@@ -191,7 +195,7 @@
           "exam": "AIBE 20",
           "year": 2025,
           "questionNumber": 69,
-          "question": "The grounds for decree for dissolution of marriage under Section 2 of the Dissolution of Muslim Marriages Act, 1939 are:  I. whereabouts of the husband have not been known for two years. II. husband has been sentenced to imprisonment for a period of five years. III. husband has failed to perform marital obligations for two years without reasonable cause. IV. husband has neglected or failed to maintain his wife for one year.  Select the correct answer.",
+          "question": "The grounds for decree for dissolution of marriage under Section 2 of the Dissolution of Muslim Marriages Act, 1939 are: I. whereabouts of the husband have not been known for two years. II. husband has been sentenced to imprisonment for a period of five years. III. husband has failed to perform marital obligations for two years without reasonable cause. IV. husband has neglected or failed to maintain his wife for one year. Select the correct answer.",
           "options": [
             "III and IV",
             "I and II",
@@ -199,8 +203,8 @@
             "None of these"
           ],
           "correctAnswer": "C",
-          "solution": "Step 1: Section 2 grounds.  All four given grounds appear exactly in clauses (i), (iii), (ii), and (iv) of Section 2 of the Act.  Step 2: Application.  Each of the grounds—absence, imprisonment, failure of obligations, and failure to maintain—is sufficient for decree.  Step 3: Conclusion.  Thus, all I, II, III and IV are correct.",
-          "quickTip": "Muslim Marriages Act Section 2   →   multiple independent grounds; wife-friendly legislation."
+          "solution": "Step 1: Section 2 grounds. All four given grounds appear exactly in clauses (i), (iii), (ii), and (iv) of Section 2 of the Act. Step 2: Application. Each of the grounds—absence, imprisonment, failure of obligations, and failure to maintain—is sufficient for decree. Step 3: Conclusion. Thus, all I, II, III and IV are correct.",
+          "quickTip": "Muslim Marriages Act Section 2 → multiple independent grounds; wife-friendly legislation."
         }
       ]
     },
@@ -222,7 +226,7 @@
         {
           "id": "aibe18-q53",
           "exam": "AIBE 18",
-          "year": 2023,
+          "year": 2024,
           "questionNumber": 53,
           "question": "Section 13(1) of the Hindu Marriage Act, 1955 provides for the following: i. Grounds for restitution of conjugal rights ii. Grounds for judicial separation iii. Grounds for divorce",
           "options": [
@@ -231,7 +235,9 @@
             "iii & i",
             "Only iii"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Section 13(1) of the Hindu Marriage Act, 1955 provides grounds for both judicial separation and divorce. Restitution of conjugal rights is covered under Section 9, not Section 13.",
+          "quickTip": "Section 13(1) addresses grounds for judicial separation and divorce, while restitution of conjugal rights falls under Section 9."
         },
         {
           "id": "aibe19-q53",
@@ -246,7 +252,7 @@
             "Must prove cruelty was intentional"
           ],
           "correctAnswer": "B",
-          "solution": "Step 1: Provision.  Section 13(1)(ia) recognizes cruelty as a valid ground for divorce.  Step 2: Judicial interpretation.  Courts have clarified that cruelty includes mental harassment, emotional torture, and not only physical violence. Intention is not necessary.  Step 3: Conclusion.  Hence, Aarti can seek divorce based on continuous mental cruelty.",
+          "solution": "Step 1: Provision. Section 13(1)(ia) recognizes cruelty as a valid ground for divorce. Step 2: Judicial interpretation. Courts have clarified that cruelty includes mental harassment, emotional torture, and not only physical violence. Intention is not necessary. Step 3: Conclusion. Hence, Aarti can seek divorce based on continuous mental cruelty.",
           "quickTip": "Cruelty under HMA includes mental, emotional, and physical cruelty."
         }
       ]
@@ -292,8 +298,8 @@
             "on the date the arbitral tribunal issues notice"
           ],
           "correctAnswer": "C",
-          "solution": "Step 1: Understanding Section 21.  Arbitration commences when the respondent receives the request to refer disputes to arbitration—unless parties agreed otherwise.  Step 2: Importance.  This date determines limitation and procedural timelines.  Step 3: Conclusion.  Thus proceedings commence when the respondent receives the request.",
-          "quickTip": "Section 21   →   Commencement = date of receipt of arbitration request by respondent."
+          "solution": "Step 1: Understanding Section 21. Arbitration commences when the respondent receives the request to refer disputes to arbitration—unless parties agreed otherwise. Step 2: Importance. This date determines limitation and procedural timelines. Step 3: Conclusion. Thus proceedings commence when the respondent receives the request.",
+          "quickTip": "Section 21 → Commencement = date of receipt of arbitration request by respondent."
         }
       ]
     },
@@ -315,16 +321,18 @@
         {
           "id": "aibe18-q32",
           "exam": "AIBE 18",
-          "year": 2023,
+          "year": 2024,
           "questionNumber": 32,
-          "question": "In which of the following situations a court will not issue summons for personal appearance to the defendant ?",
+          "question": "In which of the following situations a court will not issue summons for personal appearance to the defendant?",
           "options": [
-            "If defendant reside within the local limit of the court's jurisdiction.",
-            "If defendant resides with within 40 miles from the court.",
+            "If defendant resides within the local limit of the court’s jurisdiction.",
+            "If defendant resides within 40 miles from the court.",
             "If defendant resides 250 miles away from the court in an area having public conveyance available.",
             "Woman to whom Section 132 of the Civil Procedure Code, 1908 does not apply."
           ],
-          "correctAnswer": "A"
+          "correctAnswer": "C",
+          "solution": "As per the CPC, the court generally issues summons within a reasonable distance to facilitate personal appearance. If the defendant resides 250 miles away in an area where public conveyance is available, the court may avoid issuing summons for personal appearance due to the impracticality of distance.",
+          "quickTip": "Courts consider practicality when summoning defendants over long distances, especially if public conveyance is available."
         },
         {
           "id": "aibe19-q33",
@@ -339,8 +347,8 @@
             "Section 130"
           ],
           "correctAnswer": "B",
-          "solution": "Step 1: Rationale for exemption.  Certain high dignitaries of the State should not be burdened with personal appearances in court due to their constitutional responsibilities.  Step 2: Relevant provision.  Section 133 CPC exempts the President of India and the Governors of states from appearing personally in court. Instead, they can be represented through officers.  Step 3: Conclusion.  So, the correct answer is Section 133.",
-          "quickTip": "Section 132   →   Women exemption. Section 133   →   President and Governors exemption."
+          "solution": "Step 1: Rationale for exemption. Certain high dignitaries of the State should not be burdened with personal appearances in court due to their constitutional responsibilities. Step 2: Relevant provision. Section 133 CPC exempts the President of India and the Governors of states from appearing personally in court. Instead, they can be represented through officers. Step 3: Conclusion. So, the correct answer is Section 133.",
+          "quickTip": "Section 132 → Women exemption. Section 133 → President and Governors exemption."
         }
       ]
     },
@@ -362,16 +370,18 @@
         {
           "id": "aibe18-q95",
           "exam": "AIBE 18",
-          "year": 2023,
+          "year": 2024,
           "questionNumber": 95,
-          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881 ?",
+          "question": "Which of the following is not a negotiable instrument as per the Negotiable Instruments Act, 1881?",
           "options": [
             "Promissory note",
             "Hundi",
             "Bill of exchange",
             "Cheque"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "The Negotiable Instruments Act, 1881, officially recognizes promissory notes, bills of exchange, and cheques as negotiable instruments. Hundi, although commonly used in practice, is not formally recognized as a negotiable instrument under this Act.",
+          "quickTip": "Only promissory notes, bills of exchange, and cheques are defined as negotiable instruments under the Act."
         },
         {
           "id": "aibe20-q36",
@@ -386,8 +396,8 @@
             "Both the Statements are true"
           ],
           "correctAnswer": "D",
-          "solution": "Step 1: Verifying Statement 1.  Section 43 NI Act states that an instrument without consideration creates no payment obligation between the involved parties. Hence, Statement 1 is correct.  Step 2: Verifying Statement 2.  If consideration partially fails, the holder in immediate relation may recover only the proportionate amount (Section 44). Hence, Statement 2 is also correct.  Step 3: Conclusion.  Both statements correctly reflect Sections 43 and 44 of the NI Act.",
-          "quickTip": "Section 43   →   No consideration = no liability; Section 44   →   Partial failure = proportionate recovery."
+          "solution": "Step 1: Verifying Statement 1. Section 43 NI Act states that an instrument without consideration creates no payment obligation between the involved parties. Hence, Statement 1 is correct. Step 2: Verifying Statement 2. If consideration partially fails, the holder in immediate relation may recover only the proportionate amount (Section 44). Hence, Statement 2 is also correct. Step 3: Conclusion. Both statements correctly reflect Sections 43 and 44 of the NI Act.",
+          "quickTip": "Section 43 → No consideration = no liability; Section 44 → Partial failure = proportionate recovery."
         }
       ]
     },
@@ -433,7 +443,7 @@
             "50"
           ],
           "correctAnswer": "C",
-          "solution": "Step 1: Understanding Section 24(a).  Section 24(a) provides a flat 30  Step 2: Purpose.  This accounts for repairs, maintenance, and other related costs without the need for proof.  Step 3: Conclusion.  Standard deduction = 30",
+          "solution": "Step 1: Understanding Section 24(a). Section 24(a) provides a flat 30 Step 2: Purpose. This accounts for repairs, maintenance, and other related costs without the need for proof. Step 3: Conclusion. Standard deduction = 30",
           "quickTip": "House property income = Annual Value – 30"
         }
       ]
@@ -455,23 +465,25 @@
         {
           "id": "aibe18-q88",
           "exam": "AIBE 18",
-          "year": 2023,
+          "year": 2024,
           "questionNumber": 88,
-          "question": "Income is defined under which of the following provision of the Income Tax Act, 1961 ?",
+          "question": "Income is defined under which of the following provision of the Income Tax Act, 1961?",
           "options": [
             "Section 2(31)",
             "Section 2(24)",
             "Section 2(9)",
             "Section 3"
           ],
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "solution": "Section 2(24) of the Income Tax Act, 1961 defines ”income” for the purposes of taxation, detailing various types of income included under this term.",
+          "quickTip": "Section 2(24) broadly defines income, encompassing different income sources for tax purposes."
         },
         {
           "id": "aibe19-q85",
           "exam": "AIBE 19",
           "year": 2024,
           "questionNumber": 85,
-          "question": "The term “Income” is described in the Income Tax Act, 1961 under   .",
+          "question": "The term “Income” is described in the Income Tax Act, 1961 under .",
           "options": [
             "Section 2(24)",
             "Section 2(20)",
@@ -515,16 +527,18 @@
         {
           "id": "aibe18-q30",
           "exam": "AIBE 18",
-          "year": 2023,
+          "year": 2024,
           "questionNumber": 30,
-          "question": "Which of the following cannot be considered as the suit of civil nature for Section 9 of the Code of Civil Procedure, 1908 ?",
+          "question": "Which of the following cannot be considered as the suit of civil nature for Section 9 of the Code of Civil Procedure, 1908?",
           "options": [
             "Suit for recovery of voluntary payments or offerings.",
             "Suit for rights of franchise.",
             "Suit for specific reliefs.",
             "Suit relating to rights of worship."
           ],
-          "correctAnswer": "D"
+          "correctAnswer": "A",
+          "solution": "Section 9 of the CPC allows civil courts to entertain suits of civil nature. However, suits for the recovery of voluntary payments or offerings do not qualify as civil nature suits, as they do not pertain to enforceable private rights.",
+          "quickTip": "Civil suits require enforceable rights, while voluntary payments or offerings do not involve enforceable claims."
         }
       ]
     }
