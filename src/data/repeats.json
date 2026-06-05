@@ -29,9 +29,7 @@
             "A has abetted the offence defined in Section 162, IPC",
             "A has abetted the offence defined in Section 163, IPC"
           ],
-          "correctAnswer": "B",
-          "solution": "Step 1: Relevant section. Section 161 of the Indian Penal Code (prior to being replaced by provisions under the Prevention of Corruption Act, 1988) dealt with public servants taking gratification other than legal remuneration in respect of official acts. Step 2: Explanation. In this case, A, by offering a bribe to B (a public servant), has abetted the offence defined under Section 161 IPC since it involves giving gratification as a reward for official favor. Step 3: Conclusion. Thus, A has abetted the offence defined in Section 161, IPC .",
-          "quickTip": "Offering or accepting gratification in exchange for an official favor constitutes an offence under anti-corruption laws derived from Section 161 IPC."
+          "correctAnswer": "B"
         },
         {
           "id": "aibe17-q77",
@@ -210,9 +208,7 @@
             "I, II, III and IV",
             "None of these"
           ],
-          "correctAnswer": "C",
-          "solution": "Step 1: Section 2 grounds. All four given grounds appear exactly in clauses (i), (iii), (ii), and (iv) of Section 2 of the Act. Step 2: Application. Each of the grounds—absence, imprisonment, failure of obligations, and failure to maintain—is sufficient for decree. Step 3: Conclusion. Thus, all I, II, III and IV are correct.",
-          "quickTip": "Muslim Marriages Act Section 2 → multiple independent grounds; wife-friendly legislation."
+          "correctAnswer": "D"
         }
       ]
     },
@@ -534,9 +530,7 @@
             "List of occupational diseases",
             "List of injuries deemed to result in Permanent Total Disablement"
           ],
-          "correctAnswer": "B",
-          "solution": "Step 1: Understanding Schedule II. The Employees’ Compensation Act, 1923 contains various schedules specifying factors relevant to compensation. Schedule II specifies who is covered under the term ‘employee’ . Step 2: Purpose of Schedule II. This Schedule includes workers such as railway servants, factory workers, drivers, and others engaged in hazardous occupations. Step 3: Conclusion. Hence, Schedule II deals with the list of persons included in the definition of ‘employee’ .",
-          "quickTip": "Remember: Schedule II = list of employees, Schedule III = occupational diseases, Schedule IV = compensation calculation factors."
+          "correctAnswer": "D"
         },
         {
           "id": "aibe18-q30",
@@ -550,9 +544,7 @@
             "Suit for specific reliefs.",
             "Suit relating to rights of worship."
           ],
-          "correctAnswer": "A",
-          "solution": "Section 9 of the CPC allows civil courts to entertain suits of civil nature. However, suits for the recovery of voluntary payments or offerings do not qualify as civil nature suits, as they do not pertain to enforceable private rights.",
-          "quickTip": "Civil suits require enforceable rights, while voluntary payments or offerings do not involve enforceable claims."
+          "correctAnswer": "D"
         }
       ]
     }
