@@ -778,9 +778,9 @@
       "Imprisonment",
       "All of the above"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "This question refers to Section 307 of the IPC (Attempt to murder). The section provides different punishments based on the circumstances. • The general punishment for attempt to murder is imprisonment up to 10 years and a fine. • If hurt is caused, the punishment can be enhanced to imprisonment for life or the punishment mentioned above. • The second paragraph of S.307 contains a special, harsher provision: if a person already under a sentence of life imprisonment commits this offence and causes hurt, they may be punished with death. The question is poorly phrased (”A imprisonment, if...”) but likely refers to the range of punishments available under the section. Since the court has the discretion to award imprisonment for a term, life imprisonment, or death (in the specific case of a life convict), ”All of the above” represents the possible outcomes.",
+    "solution": "This question refers to the specific provision in Section 307 of the IPC regarding an attempt to murder by a life convict. The second paragraph of Section 307 explicitly states: \"When any person offending under this section is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death.\" The question text (\"A imprisonment...\") is a slightly garbled reference to \"A person under sentence of life imprisonment\". According to the bare act, the specific punishment prescribed for this category of offender when hurt is caused is death. Therefore, \"Death\" is the legally precise and officially recognized answer.",
     "quickTip": "Section 307 IPC has escalating punishments: simple attempt (up to 10 years), attempt with hurt (up to life imprisonment), and attempt with hurt by a life convict (may be death).",
     "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 307 → BNS Section 109."
   },
@@ -1473,9 +1473,9 @@
       "Section 262",
       "Section 263"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Chapter XXI of the Code of Criminal Procedure, containing Sections 260 to 265, deals with ’Summary Trials’. Section 260 specifically grants the ”Power to try summarily” to certain magistrates (Chief Judicial Magistrate, Metropolitan Magistrate, or a Magistrate of the first class empowered by the High Court). This section lists the offences which can be tried in this expedited manner, which are generally minor offences where the punishment does not exceed two years of imprisonment. Subsequent sections like S.262 and S.263 lay down the procedure and the record to be maintained in summary trials.",
+    "solution": "Section 262 of the Code of Criminal Procedure, 1973, explicitly deals with the 'Procedure for summary trials'. It mandates that in summary trials, the procedure specified for summons-cases shall be followed. While Section 260 grants the power to try summarily, Section 262 lays down the actual procedure.",
     "quickTip": "Summary Trial = Speedy Trial. Section 260 of the CrPC is the key provision that empowers magistrates to use a shortened procedure for minor offences to ensure quick disposal of cases and reduce the burden on courts.",
     "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
@@ -2533,11 +2533,11 @@
       "Section 178 of Cr.P.C.",
       "Section 469 of Cr. P.C.",
       "Section 478 of Cr. P.C.",
-      "Section 168 of Cr. P.C."
+      "Section 468 of Cr. P.C."
     ],
     "correctAnswer": "D",
     "isModernized": false,
-    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 178 → BNSS Section 197; CrPC Section 469 → BNSS Section 513."
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 178 → BNSS Section 197; CrPC Section 468 → BNSS Section 512; CrPC Section 469 → BNSS Section 513."
   },
   {
     "id": "aibe15-q41",
@@ -2552,8 +2552,9 @@
       "any Citizen in whose favour a decree has been passed or an order capable of execution has been made",
       "any corporation in whose favour a decree has been passed or an order capable of execution has been made"
     ],
-    "correctAnswer": "A",
-    "isModernized": false
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Definition of Decree-Holder. Under Section 2(3) of the Code of Civil Procedure (CPC), a 'decree-holder' is defined as any person in whose favour a decree has been passed or an order capable of execution has been made. Step 2: Explanation. The essential condition is that the order must be capable of execution. Option A incorrectly uses the word 'incapable', while Option B correctly matches the statutory definition. Step 3: Conclusion. Therefore, the correct answer is (b)."
   },
   {
     "id": "aibe15-q42",
@@ -3975,8 +3976,10 @@
       "List of occupational diseases",
       "List of injuries deemed to result in Permanent Total Disablement"
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Understanding Schedules of Employees' Compensation Act, 1923. Schedule I lists injuries resulting in Permanent Total and Partial Disablement. Schedule II lists persons included in the definition of 'Employee'. Schedule III lists occupational diseases. Schedule IV provides the age factors for calculating compensation. Step 2: Conclusion. Therefore, Schedule II deals with the list of persons included in the definition of 'Employee', making (B) the correct answer.",
+    "quickTip": "Schedule I = Injuries; Schedule II = Definition of Employee; Schedule III = Occupational diseases; Schedule IV = Age factors."
   },
   {
     "id": "aibe16-q22",
@@ -4473,9 +4476,11 @@
       "Shabnam Hashmi Vs Union of India",
       "Suresh Kaushal Vs Naz Foundation"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "B",
     "isModernized": false,
-    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 377 → BNS Section Omitted (struck down by SC in Navtej Singh Johar, 2018)."
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 377 → BNS Section Omitted (struck down by SC in Navtej Singh Johar, 2018).",
+    "solution": "Step 1: Background of Section 377 IPC. Section 377 of the IPC criminalized unnatural offences. The constitutional validity of this section was challenged in the Delhi High Court. Step 2: The Delhi High Court Pronouncement. In the landmark case of Naz Foundation v. Government of NCT of Delhi (2009), the Delhi High Court declared Section 377 unconstitutional insofar as it criminalized consensual sexual acts between adults in private. Step 3: Reversal by Supreme Court. This decision was later reversed by the Supreme Court in Suresh Kumar Koushal v. Naz Foundation (2013), before finally being read down in Navtej Singh Johar v. Union of India (2018). Step 4: Conclusion. The question asks for the Delhi High Court's pronouncement, which was in the Naz Foundation case.",
+    "quickTip": "The Delhi HC decriminalized Section 377 in Naz Foundation (2009), which was overturned by the SC in Suresh Koushal (2013), but ultimately the SC struck down the section in Navtej Singh Johar (2018)."
   },
   {
     "id": "aibe16-q50",
@@ -4729,15 +4734,16 @@
     "year": 2022,
     "questionNumber": 64,
     "subject": "Family Law",
-    "question": "Which of the following statement/ statements is/are false for the purpose of the Hindu Marriage Act, 1955?",
+    "question": "Which of the following statement/ statements is/are false for the purpose of the Hindu Marriage Act, 1955?\nI. It is assumed that a person who is not Muslim, Santhal, Christian, Jew or Parsi by religion is Hindu.\nII. A person who belongs to Lingayat sub-sect is assumed to be Hindu.\nIII. A person converted who converted to another religion needs to follow local ritual/ custom for converting back to Hinduism.",
     "options": [
       "I only",
       "I and II",
       "III only",
-      "I and III I. It is assumed that a person who is not Muslim, Santhal, Christian, Jew or Parsi by religion is Hindu. II. A person who belongs to Lingayat sub-sect is assumed to be Hindu. III. A person converted who converted to another religion needs to follow local ritual/ custom for converting back to Hinduism."
+      "I and III"
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "C",
+    "isModernized": false,
+    "solution": "Step 1: Analyzing the statements. Statement I is true, as the Hindu Marriage Act applies to persons not Muslim, Christian, Parsi, or Jew, and explicitly excludes Scheduled Tribes like Santhals unless notified otherwise. Statement II is true, as Lingayats are recognized as Hindus under the Act. Statement III is false, as the Supreme Court has held that no formal ritual or custom is required for a person to reconvert to Hinduism. Step 2: Conclusion. Since only Statement III is false, the correct answer is (C) III only."
   },
   {
     "id": "aibe16-q65",
@@ -5216,9 +5222,9 @@
       "II, III and IV",
       "All of them"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding Section 25 of the Indian Evidence Act. Section 25 of the Indian Evidence Act provides that confessions made to a police officer are not admissible in court. However, statements made by the accused about the facts of the case (such as admitting participation in a robbery or knowledge of the property) can be admissible, but a statement regarding the location of the property is considered hearsay and is not admissible as evidence. Step 2: Conclusion. Thus, the correct answer is (D) All of them .",
+    "solution": "Step 1: Understanding Section 25 and Section 27. Section 25 of the Indian Evidence Act provides that confessions made to a police officer are not admissible. This makes statements I, II, and III (admitting robbery, participation, and receiving the share) inadmissible. Step 2: Exception under Section 27. Section 27 allows the part of the statement that distinctly relates to a fact discovered (like the location of the stolen property) to be admissible. Therefore, statement IV is admissible. Step 3: Conclusion. Since the question asks which statements are NOT admissible, the correct answer is (A) I, II and III.",
     "quickTip": "Under Section 25 of the Indian Evidence Act, confessions made to police officers are inadmissible, but factual statements by the accused may be considered.",
     "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 25 → BSA Section 23."
   },
@@ -5574,9 +5580,9 @@
       "Indian Divorce Act, 1869",
       "Special Marriage Act, 1872"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Indian Christian Divorce Laws. The Christian Marriage Act, 1872, provides the legal framework for marriage and divorce among Indian Christians. It governs Christian marriages, including grounds for divorce. Step 2: Explanation of Other Options. - (a) The Special Marriage Act, 1954 applies to marriages between individuals of different religions, not specifically for Christians. - (C) The Indian Divorce Act, 1869 governs the divorce of Christian women, not necessarily all Christians. - (D) The Special Marriage Act, 1872 does not exist. Step 3: Conclusion. The correct answer is (B), The Christian Marriage Act, 1872.",
+    "solution": "Step 1: Understanding the Indian Christian Divorce Laws. The Indian Divorce Act, 1869, governs the divorce of persons professing the Christian religion. The Christian Marriage Act, 1872, only provides the legal framework for the solemnization of marriages. Step 2: Conclusion. Thus, the correct answer is (C), The Indian Divorce Act, 1869.",
     "quickTip": "Indian Christians seeking divorce must refer to the Christian Marriage Act, 1872, which provides grounds and procedures for divorce."
   },
   {
@@ -5646,9 +5652,9 @@
       "Section 6A",
       "Section 7A"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. The National Green Tribunal (NGT) has jurisdiction over cases involving environmental protection under Section 4A of the Environment Protection Act, 1986. Step 2: Conclusion. Thus, the correct answer is (A) Section 4A.",
+    "solution": "Step 1: Understanding the Question. Under Section 5A of the Environment (Protection) Act, 1986, an appeal against any directions issued under Section 5 lies to the National Green Tribunal. Section 5A was inserted by the NGT Act, 2010. Step 2: Conclusion. Thus, the correct answer is (B) Section 5A.",
     "quickTip": "Section 4A of the Environment Protection Act, 1986, allows appeals to the National Green Tribunal (NGT)."
   },
   {
@@ -5718,9 +5724,9 @@
       "5",
       "7"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "D",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under the Trade Unions Act, the minimum number of members required for the registration of a trade union is 7, but the question asks for the minimum number for registration. So, we need to select the correct answer based on that. Step 2: Conclusion. Thus, the correct answer is (B) 3, as per the provision in the Trade Unions Act.",
+    "solution": "Step 1: Understanding the Question. Under Section 4(1) of the Trade Unions Act, 1926, the minimum number of members required to apply for the registration of a trade union is seven. Step 2: Conclusion. Thus, the correct answer is (D) 7.",
     "quickTip": "For registering a trade union under the Trade Unions Act, the minimum number of members required is 3."
   },
   {
@@ -5736,9 +5742,9 @@
       "Devanagari Script",
       "Language specified in 8th Schedule of the Constitution"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under the Industrial Employment (Standing Orders) Act, 1946, it is specified that the Certified Standing Orders should be posted in the language specified in the 8th Schedule of the Indian Constitution. Step 2: Conclusion. Thus, the correct answer is (D) Language specified in 8th Schedule of the Constitution.",
+    "solution": "Step 1: Understanding the Question. Under Section 9 of the Industrial Employment (Standing Orders) Act, 1946, the text of the certified standing orders must be prominently posted by the employer in English and in the language understood by the majority of his workmen. Step 2: Conclusion. Thus, the correct answer is (B) English.",
     "quickTip": "The text of Certified Standing Orders must be posted in the language understood by the majority of workmen, and this often aligns with the 8th Schedule languages."
   },
   {
@@ -5754,9 +5760,9 @@
       "2",
       "4"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under the Bar Council of India Rules, an advocate is allowed to take up teaching in a University affiliated institution, but the total hours for teaching Law should not exceed 4 hours a day. Step 2: Conclusion. Thus, the correct answer is (D) 4 hours.",
+    "solution": "Step 1: Understanding the Question. Under the Bar Council of India Rules (Part VI, Chapter II, Rule 49), an advocate is allowed to take up part-time teaching in law, provided that the hours during which they are engaged in teaching do not exceed 3 hours a day. Step 2: Conclusion. Thus, the correct answer is (B) 3.",
     "quickTip": "An advocate can take up teaching law, but the limit is set to 4 hours a day to avoid conflicts with professional practice."
   },
   {
@@ -5790,9 +5796,9 @@
       "Summon to Insurance Company ¿ Petition ¿ FIR",
       "FIR ¿ Summon to Insurance Company ¿ Petition"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. In case of a road accident, the first step is to file an FIR (First Information Report) with the police, followed by issuing a summon to the insurance company and then filing a petition for further legal action. Step 2: Conclusion. Thus, the correct answer is (D) FIR ¿ Summon to Insurance Company ¿ Petition.",
+    "solution": "Step 1: Understanding the Question. In the event of a road accident, the correct legal procedure begins with lodging an FIR. Following this, a claim petition is filed before the Motor Accident Claims Tribunal (MACT). Once the petition is filed, the Tribunal issues a summon to the Insurance Company. Step 2: Conclusion. Thus, the correct answer is (A) FIR ¿ Petition ¿ Summon to Insurance Company.",
     "quickTip": "In case of road accidents, filing an FIR should be the first step, followed by summons to the insurance company, and then filing a petition."
   },
   {
@@ -5844,9 +5850,9 @@
       "50 Crores",
       "100 Crores"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under the Consumer Protection Act, 2019, the National Consumer Disputes Redressal Commission (NCDRC) has jurisdiction over complaints where the value of the goods or services paid as consideration exceeds Rs. 50 Crores. Step 2: Analysis of Options. - (A) 1 Crore: This limit applies to the District Consumer Forum, not NCDRC. - (B) 10 Crores: This is the limit for the State Consumer Commission. - (C) 50 Crores: This is the correct jurisdictional limit for NCDRC, as per the Consumer Protection Act, 2019. - (D) 100 Crores: This amount is not applicable under the Act for NCDRC jurisdiction. Step 3: Conclusion. Thus, the correct answer is (C) 50 Crores.",
+    "solution": "Step 1: Understanding the Question. Under the Consumer Protection Act, 2019, the National Consumer Disputes Redressal Commission (NCDRC) has the jurisdiction to entertain complaints where the value of the goods or services paid as consideration exceeds Rs. 10 Crores. Step 2: Conclusion. Thus, the correct answer is (B) 10 Crores.",
     "quickTip": "The National Consumer Disputes Redressal Commission (NCDRC) has jurisdiction over complaints where the value exceeds Rs. 50 Crores."
   },
   {
@@ -5952,9 +5958,9 @@
       "A is not liable to C upon indemnity.",
       "None of these"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. According to Section 224 of the Indian Contract Act, 1872, an indemnity agreement allows the indemnified party (B) to seek compensation from the indemnifying party (A) for losses incurred due to certain actions (in this case, the publication). Since A agreed to indemnify B, A is responsible for reimbursing B for the damages and expenses incurred in the lawsuit filed by C. Step 2: Analysis of Options. - (A) A is not liable to B upon indemnity: This is incorrect. A is liable to indemnify B since A agreed to do so. - (B) A is liable to B upon indemnity: This is the correct option, as A specifically agreed to indemnify B against the consequences of the publication. - (C) A is not liable to C upon indemnity: The indemnity is between A and B, so A is not liable to C. The agreement concerns indemnifying B. - (D) None of these: This is incorrect because (B) is the correct answer. Step 3: Conclusion. Thus, the correct answer is (B) A is liable to B upon indemnity.",
+    "solution": "Step 1: Understanding the Question. According to Section 224 of the Indian Contract Act, 1872, where one person employs another to do an act which is criminal, the employer is not liable to the agent, either upon an express or an implied promise, to indemnify him against the consequences of that act. Publishing a libel is an unlawful act, so A is not liable to indemnify B. Step 2: Conclusion. Thus, the correct answer is (A) A is not liable to B upon indemnity.",
     "quickTip": "Under Section 224 of the Indian Contract Act, the indemnifier (A) is liable to indemnify the indemnified party (B) for the consequences and costs of any legal action, as agreed."
   },
   {
@@ -5970,9 +5976,9 @@
       "Agent",
       "Procured Agent"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. In agency law, a Sub-agent is a person whom the agent appoints to carry out the agent’s duties for the principal. The Sub-agent acts under the agent’s authority but still represents the principal. Step 2: Analysis of Options. - (A) Sub-agent: This is the correct answer. A Sub-agent is appointed by the agent to carry out the principal’s business. - (B) Substituted Agent: This term refers to an agent appointed to replace the original agent, not a person named by the agent under implied authority. - (C) Agent: The agent is the original person authorized to act for the principal, not the person named by the agent. - (D) Procured Agent: This term is not commonly used in the context of agency law. Step 3: Conclusion. Thus, the correct answer is (A) Sub-agent.",
+    "solution": "Step 1: Understanding the Question. Under Section 194 of the Indian Contract Act, 1872, where an agent, holding an express or implied authority to name another person to act for the principal in the business of the agency, has named another person accordingly, such person is not a sub-agent, but an agent of the principal (a substituted agent). Step 2: Conclusion. Thus, the correct answer is (B) Substituted Agent.",
     "quickTip": "In agency law, a Sub-agent is appointed by the agent to carry out tasks on behalf of the principal."
   },
   {
@@ -6006,9 +6012,9 @@
       "The Code of Criminal Procedure, 1973",
       "The Transfer of Property Act, 1882"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Section 5 of the Specific Relief Act, 1963 provides that a person who is entitled to the possession of specific immovable property may recover it in the manner outlined in the Specific Relief Act. This Act specifically deals with the recovery of possession of immovable property. Step 2: Analysis of Options. - (A) The Specific Relief Act, 1963: This is the correct answer. Section 5 of the Specific Relief Act lays down the procedure for the recovery of possession of specific immovable property. - (B) The Code of Civil Procedure, 1908: While the CPC contains provisions for civil suits, the Specific Relief Act specifically deals with the recovery of immovable property. - (C) The Code of Criminal Procedure, 1973: This is incorrect, as the CrPC is concerned with criminal procedures, not civil matters like possession of property. - (D) The Transfer of Property Act, 1882: This Act deals with the transfer of property, not the recovery of possession. Step 3: Conclusion. Thus, the correct answer is (A) The Specific Relief Act, 1963.",
+    "solution": "Step 1: Understanding the Question. According to Section 5 of the Specific Relief Act, 1963, a person entitled to the possession of specific immovable property may recover it in the manner provided by the Code of Civil Procedure, 1908. Step 2: Conclusion. Thus, the correct answer is (B) The Code of Civil Procedure, 1908.",
     "quickTip": "Section 5 of the Specific Relief Act, 1963 provides the remedy for the recovery of possession of specific immovable property.",
     "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
@@ -6061,9 +6067,9 @@
       "0%, 5%, 12%, 18%, 28%",
       "0%, 5%, 12%, 16%, 28%"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. The Goods and Services Tax (GST) in India has a range of tax slabs applicable to different goods and services. The standard GST slabs for regular taxpayers include 0%, 5%, 12%, 18%, and 26%. Step 2: Analysis of Options. - (A) 0%, 5%, 12%, 18%, 26%: This is the correct GST slab structure as defined for regular taxpayers. - (B) 0%, 6%, 12%, 18%, 28%: This option is incorrect, as the GST slab of 6% does not exist. - (C) 0%, 5%, 12%, 18%, 28%: This option is also incorrect because the highest slab is 26%, not 28%. - (D) 0%, 5%, 12%, 16%, 28%: This option is incorrect, as the 16% slab does not exist. Step 3: Conclusion. Thus, the correct answer is (A) 0%, 5%, 12%, 18%, 26%.",
+    "solution": "Step 1: Understanding the Question. The Goods and Services Tax (GST) in India has primary slabs structured as 0%, 5%, 12%, 18%, and 28%. Step 2: Conclusion. Thus, the correct answer is (C) 0%, 5%, 12%, 18%, 28%.",
     "quickTip": "The primary GST slabs for regular taxpayers in India are 0%, 5%, 12%, 18%, and 26%."
   },
   {
@@ -6079,9 +6085,9 @@
       "Cheque",
       "Billing Receipt"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under The Negotiable Instruments Act, 1881, negotiable instruments include promissory notes, bills of exchange, and cheques. These instruments can be transferred from one person to another, and the holder has the right to enforce them. A billing receipt does not fall under the category of negotiable instruments. Step 2: Analysis of Options. - (A) Promissory Note: This is a negotiable instrument as defined under the Act. - (B) Bill of Exchange: This is also a negotiable instrument as per the Act. - (C) Cheque: A cheque is a type of negotiable instrument under the Act. - (D) Billing Receipt: This is not a negotiable instrument, as it is simply a receipt for goods or services. Step 3: Conclusion. Thus, the correct answer is (D) Billing Receipt.",
+    "solution": "Step 1: Understanding the Question. Under the GST rules, when goods are sent from one branch to another branch of the same organisation for reasons other than a taxable supply (e.g., within the same state under the same GSTIN), a Delivery Challan is used to track the movement of goods. Step 2: Conclusion. Thus, the correct answer is (A) Delivery Challan.",
     "quickTip": "A Billing Receipt is not a negotiable instrument under The Negotiable Instruments Act, 1881."
   },
   {
@@ -6133,9 +6139,9 @@
       "Director-General of Patents, Designs and Trade Marks",
       "Director-General of Copyright, Designs and Trade Marks"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under the Trade Marks Act, 1999, the Registrar of Trade Marks is the Director-General of Patents, Designs and Trade Marks. This person is responsible for administering and enforcing the provisions of the Trade Marks Act. Step 2: Analysis of Options. - (A) Controller-General of Patents, Designs and Trade Marks: While the Controller-General plays an important role in intellectual property, the Registrar is specifically the Director-General. - (B) Controller-General of Copyright, Designs and Trade Marks: This option is incorrect as it refers to copyrights, not trade marks. - (C) Director-General of Patents, Designs and Trade Marks: This is the correct answer, as the Director-General holds the position of Registrar under the Act. - (D) Director-General of Copyright, Designs and Trade Marks: This option is incorrect because it is a misnomer for the Registrar of Trade Marks. Step 3: Conclusion. Thus, the correct answer is (C) Director-General of Patents, Designs and Trade Marks.",
+    "solution": "Step 1: Understanding the Question. According to Section 3(1) of the Trade Marks Act, 1999, the Central Government appoints a person to be known as the Controller-General of Patents, Designs and Trade Marks, who serves as the Registrar of Trade Marks for the purposes of the Act. Step 2: Conclusion. Thus, the correct answer is (A) Controller-General of Patents, Designs and Trade Marks.",
     "quickTip": "The Registrar of Trade Marks under the Trade Marks Act, 1999 is the Director-General of Patents, Designs and Trade Marks."
   },
   {
@@ -6442,9 +6448,9 @@
       "4 Years",
       "5 Years"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Section 500 of the Indian Penal Code (IPC) deals with defamation and prescribes a punishment of simple imprisonment for up to 2 years, or a fine, or both. Step 2: Analysis of Options. - (A) 2 Years: This is incorrect because the maximum punishment prescribed under IPC for defamation is 3 years. - (B) 3 Years: This is the correct answer, as the punishment can extend to 3 years of imprisonment, or a fine, or both. - (C) 4 Years: This is incorrect. - (D) 5 Years: This is incorrect, as the punishment does not extend to 5 years. Step 3: Conclusion. Thus, the correct answer is (B) 3 Years.",
+    "solution": "Step 1: Understanding the Question. Section 500 of the Indian Penal Code (IPC) prescribes the punishment for defamation as simple imprisonment for a term which may extend to 2 years, or with fine, or with both. Step 2: Analysis of Options. - (A) 2 Years: This is the correct answer. - (B) 3 Years: Incorrect. - (C) 4 Years: Incorrect. - (D) 5 Years: Incorrect. Step 3: Conclusion. Thus, the correct answer is (A) 2 Years.",
     "quickTip": "Under Section 500 of IPC, defamation is punishable with simple imprisonment of up to 3 years or a fine or both.",
     "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 500 → BNS Section 356(2)."
   },
@@ -6461,9 +6467,9 @@
       "Cognizable and Non-Bailable",
       "Non-Cognizable and Non-Bailable"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. The offence of assault or criminal force with the intent to outrage a woman’s modesty, under Section 354 of the Indian Penal Code, is a cognizable and bailable offence. This means that the police can arrest the accused without a warrant, and the accused can be granted bail. Step 2: Analysis of Options. - (A) Non-Cognizable and Bailable: This is incorrect as the offence is cognizable. - (B) Cognizable and Bailable: This is the correct answer, as the offence is cognizable and bailable under Section 354 of the IPC. - (C) Cognizable and Non-Bailable: This is incorrect, as it is bailable. - (D) Non-Cognizable and Non-Bailable: This is incorrect, as it is cognizable and bailable. Step 3: Conclusion. Thus, the correct answer is (B) Cognizable and Bailable.",
+    "solution": "Step 1: Understanding the Question. The offence of assault or criminal force to outrage a woman's modesty under Section 354 IPC is a cognizable and non-bailable offence following the 2013 Criminal Law Amendment. Step 2: Analysis of Options. - (A) Non-Cognizable and Bailable: Incorrect. - (B) Cognizable and Bailable: Incorrect. - (C) Cognizable and Non-Bailable: This is the correct answer. - (D) Non-Cognizable and Non-Bailable: Incorrect. Step 3: Conclusion. Thus, the correct answer is (C) Cognizable and Non-Bailable.",
     "quickTip": "Assault or criminal force to a woman with intent to outrage her modesty is a cognizable and bailable offence under Section 354 of the IPC.",
     "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 354 → BNS Section 74."
   },
@@ -6499,9 +6505,9 @@
       "16 years",
       "18 years"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Plea bargaining is a process where the accused pleads guilty to a lesser charge in exchange for a lighter sentence. However, it is not applicable in cases where the offence is committed against a child below the age of 18, as the child’s rights need to be fully protected under law. Step 2: Analysis of Options. - (A) 12 years: Plea bargaining is not applicable for cases involving children below 18 years of age, not 12 years. - (B) 14 years: This is incorrect, as plea bargaining is not applicable for offences involving children under 18. - (C) 16 years: This is incorrect for the same reason as above. - (D) 18 years: This is the correct answer, as the protection of minors under 18 is paramount, making plea bargaining unavailable in such cases. Step 3: Conclusion. Thus, the correct answer is (D) 18 years.",
+    "solution": "Step 1: Understanding the Question. Under Section 265A of the CrPC, plea bargaining is not applicable where the offence has been committed against a woman, or a child below the age of fourteen years. Step 2: Analysis of Options. - (A) 12 years: Incorrect. - (B) 14 years: This is the correct answer. - (C) 16 years: Incorrect. - (D) 18 years: Incorrect. Step 3: Conclusion. Thus, the correct answer is (B) 14 years.",
     "quickTip": "Plea bargaining is not applicable for offences committed against children under the age of 18, as their rights must be fully protected.",
     "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
@@ -6592,9 +6598,9 @@
       "Either discharge or acquittal depending on the facts and circumstances of the case",
       "None of these"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under CrPC, the non-appearance or death of a complainant in a summons trial case could lead to the discharge or acquittal of the accused, depending on the specific circumstances. Step 2: Analysis of Options. - (A) Discharge of the accused: This may be the case, but the decision depends on the facts of the case. - (B) Acquittal of the accused: This is possible but not automatic, as it depends on the circumstances. - (C) Either discharge or acquittal depending on the facts and circumstances of the case: This is the correct answer. - (D) None of these: This is incorrect, as the law provides for discharge or acquittal depending on the circumstances. Step 3: Conclusion. Thus, the correct answer is (C) Either discharge or acquittal depending on the facts and circumstances of the case.",
+    "solution": "Step 1: Understanding the Question. Under Section 256 of the CrPC, dealing with summons cases, the non-appearance or death of a complainant results in the Magistrate acquitting the accused, unless the hearing is adjourned. There is no provision for 'discharge' under this specific section. Step 2: Conclusion. Thus, the correct answer is (B) Acquittal of the accused.",
     "quickTip": "In a summons trial, the non-appearance or death of the complainant may lead to discharge or acquittal of the accused, depending on the facts.",
     "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
@@ -6629,9 +6635,9 @@
       "under the age of 15 years and above the age of 65 years",
       "under the age of 18 years and above the age of 65 years"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Section 160 of the CrPC specifies that a police officer cannot require the attendance of a male person under the age of 18 years or above the age of 65 years to attend a place other than his residence. Step 2: Analysis of Options. - (A) under the age of 15 years and above the age of 60 years: This is incorrect, as the law applies to those under 18 or over 65 years. - (B) under the age of 18 years and above the age of 60 years: This is incorrect, as the age limit is 65 years, not 60. - (C) under the age of 15 years and above the age of 65 years: This is incorrect, as the law applies to those under 18 years and above 65 years. - (D) under the age of 18 years and above the age of 65 years: This is the correct answer, as it is specifically mentioned in Section 160 of the CrPC. Step 3: Conclusion. Thus, the correct answer is (D) under the age of 18 years and above the age of 65 years.",
+    "solution": "Step 1: Understanding the Question. Section 160(1) proviso of the CrPC specifies that a police officer cannot require the attendance of a male person under the age of 15 years or above the age of 65 years at a place other than his residence. Step 2: Conclusion. Thus, the correct answer is (C) under the age of 15 years and above the age of 65 years.",
     "quickTip": "Under Section 160 of the CrPC, no police officer can require the attendance of a male person under 18 or above 65 years at a place other than his residence.",
     "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 160 → BNSS Section 179."
   },
@@ -6739,9 +6745,9 @@
       "Mr. A cannot treat his joint-decree as cross-decree under Order 22 Rule 18.",
       "None of these"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under the provisions of Order 21 Rule 18 of the Civil Procedure Code, a decree-holder may apply for the execution of a decree. A joint decree, however, cannot be treated as a cross-decree in this case because the execution process applies only when a decree-holder is seeking enforcement of his own decree. Step 2: Analysis of Options. - (A) Mr. A may treat his joint-decree as cross-decree under Order 21 Rule 18: This is incorrect, as Mr. A cannot treat his joint-decree as a cross-decree. - (B) Mr. A cannot treat his joint-decree as cross-decree under Order 21 Rule 18: This is the correct answer. - (C) Mr. A cannot treat his joint-decree as cross-decree under Order 22 Rule 18: This is incorrect as Order 22 deals with substitution in cases of death and not the execution of decrees. - (D) None of these: This is incorrect because option (B) is correct. Step 3: Conclusion. Thus, the correct answer is (B) Mr. A cannot treat his joint-decree as cross-decree under Order 21 Rule 18.",
+    "solution": "Step 1: Understanding the Question. As per Order 21 Rule 18 of the Civil Procedure Code, particularly Illustration (c), if A, B, and C are jointly and severally liable under a decree obtained by X, and A obtains a decree against X singly, X may treat his joint-decree as a cross-decree. In this question's scenario, A holds the joint decree and Y holds the single decree against A. Step 2: Conclusion. Thus, Mr. A may treat his joint-decree as a cross-decree. The correct answer is (A).",
     "quickTip": "Order 21 Rule 18 of the CPC deals with the execution of decrees and does not allow treating a joint-decree as a cross-decree."
   },
   {
@@ -6757,9 +6763,9 @@
       "A, B and C",
       "None of these"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. When a suit is filed against multiple parties and an ex parte decree is passed, those who did not appear can apply to set the decree aside. Here, A and B, who did not appear, can apply to set the ex parte decree aside. Step 2: Analysis of Options. - (A) Only C: This is incorrect, as C was served the summons and cannot apply to set the decree aside. - (B) Only A & B: This is the correct answer, as A and B did not appear and can apply to set the ex parte decree aside. - (C) A, B and C: This is incorrect because C is already part of the decree and cannot apply to set it aside. - (D) None of these: This is incorrect as option (B) is the correct answer. Step 3: Conclusion. Thus, the correct answer is (B) Only A & B.",
+    "solution": "Step 1: Understanding the Question. Under the proviso to Order 9 Rule 13 of the CPC, if a decree is of such a nature that it cannot be set aside against one defendant only, it may be set aside against all. A joint mortgage decree against coparceners is indivisible. Step 2: Conclusion. Therefore, if set aside for A and B, it must also be set aside for C. Thus, the correct answer is (C) A, B and C.",
     "quickTip": "In an ex parte decree, only those who did not appear may apply to set the decree aside."
   },
   {
@@ -6811,9 +6817,9 @@
       "Second appeal can be on question of fact or law or both.",
       "First appeal may or may not be in the High Court, Second appeal has to be in the High Court."
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. This question addresses the concept of appeals under the Civil Procedure Code. The first and second appeals differ in their jurisdiction and the type of questions that can be raised. Step 2: Analysis of Options. - (A) First appeal can be on question of fact or law or both: This is correct, as the first appeal can cover both factual and legal questions. - (B) Second appeal can be on substantial question of law only: This is correct, as the second appeal is restricted to substantial questions of law. - (C) Second appeal can be on question of fact or law or both: This is incorrect, as the second appeal only concerns substantial questions of law. - (D) First appeal may or may not be in the High Court, Second appeal has to be in the High Court: This is incorrect. A first appeal may be to the District Court, while a second appeal is heard only in the High Court. Step 3: Conclusion. Thus, the correct answer is (D) First appeal may or may not be in the High Court, Second appeal has to be in the High Court.",
+    "solution": "Step 1: Understanding the Question. Section 100 of the CPC mandates that a second appeal can only lie on a substantial question of law. Therefore, stating that a second appeal can be on a question of fact or law or both is incorrect. Step 2: Conclusion. Since the question asks for the incorrect statement, the correct answer is (C).",
     "quickTip": "First appeals can be to any court of appeal, while second appeals are specifically heard in the High Court."
   },
   {
@@ -6884,9 +6890,9 @@
       "Section 19",
       "Section 21"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Section 18 of the Indian Evidence Act allows an admission made by a stranger to be binding on a party to the suit if the liability of the party depends on the liability of the stranger. Step 2: Analysis of Options. - (A) Section 17: This deals with the admissibility of admissions made by parties to the suit. - (B) Section 18: This is the correct answer, as it deals with admissions by a stranger being binding on a party to the suit. - (C) Section 19: This deals with the rules regarding oral admissions in writing. - (D) Section 21: This deals with the admissibility of statements made in the course of legal proceedings. Step 3: Conclusion. Thus, the correct answer is (B) Section 18.",
+    "solution": "Step 1: Understanding the Question. Section 19 of the Indian Evidence Act deals with admissions by persons whose position or liability must be proved as against a party to the suit (i.e., a stranger's admission when the party's liability depends on it). Step 2: Conclusion. Thus, the correct answer is (C) Section 19.",
     "quickTip": "Section 18 of the Evidence Act allows admissions by a stranger to be binding on the party whose liability depends on that stranger’s admission.",
     "modernNote": "Under the Bharatiya Sakshya Adhiniyam (BSA), 2023: Evidence Act Section 18 → BSA Section 16."
   },
@@ -6921,9 +6927,9 @@
       "A caricature",
       "None of these"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. The Indian Evidence Act defines documents to include any material used for the purpose of recording something. However, a caricature, which is typically a humorous or satirical drawing, does not qualify as a ”document” in this sense. Step 2: Analysis of Options. - (A) An inscription on a metal plate or stone: This qualifies as a document under the Indian Evidence Act. - (B) A map or plan: This is also considered a document. - (C) A caricature: This is the correct answer, as it is not a ”document” according to the Indian Evidence Act. - (D) None of these: This is incorrect because (C) is the correct answer. Step 3: Conclusion. Thus, the correct answer is (C) A caricature.",
+    "solution": "Step 1: Understanding the Question. Section 3 of the Indian Evidence Act defines 'document' and specifically provides in its illustrations that a writing, a map, an inscription, and a caricature are all documents. Step 2: Conclusion. Since options A, B, and C are all legally documents, none of them is 'not a document'. Thus, the correct answer is (D) None of these.",
     "quickTip": "According to the Indian Evidence Act, a ”document” is anything used for the purpose of recording information, excluding artistic or humorous representations like caricatures.",
     "modernNote": "Note: The Indian Evidence Act, 1872 has been replaced by the Bharatiya Sakshya Adhiniyam (BSA), 2023, effective July 1, 2024."
   },
@@ -7051,9 +7057,9 @@
       "2 and 3",
       "1.2 and 3"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. The arbitration proceedings can be terminated under various circumstances as provided in the Arbitration and Conciliation Act, 1996. These include the final arbitral award, interim award, or an order by the arbitral tribunal for termination. Step 2: Analysis of Options. - (A) 1 and 3: This combination is incomplete as it misses the interim award. - (B) 1 and 2: This combination is incomplete as it misses the arbitral tribunal’s order for termination. - (C) 2 and 3: This combination also misses the final arbitral award. - (D) 1.2 and 3: This is the correct answer, as all three circumstances (final award, interim award, or tribunal order) can result in termination of proceedings. Step 3: Conclusion. Thus, the correct answer is (D) 1.2 and 3.",
+    "solution": "Step 1: Understanding the Question. Under Section 32 of the Arbitration and Conciliation Act, 1996, arbitral proceedings are terminated by the final arbitral award or by an order of the arbitral tribunal. An interim award does not terminate proceedings. Step 2: Conclusion. Thus, the correct answer is (A) 1 and 3.",
     "quickTip": "Arbitral proceedings can be terminated by a final award, interim award, or an order of termination from the arbitral tribunal."
   },
   {
@@ -7123,9 +7129,9 @@
       "Section 7",
       "None of these"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Section 6 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 provides that a Muslim woman can opt to be governed by the provisions of Sections 125 to 128 of the Criminal Procedure Code, 1973, relating to maintenance. Step 2: Analysis of Options. - (A) Section 5: This section deals with the right of the woman to maintain herself and her children after divorce. - (B) Section 6: This is the correct answer, as it specifically addresses the option to be governed by Sections 125 to 128 of the CrPC. - (C) Section 7: This section deals with the woman’s right to alimony and maintenance. - (D) None of these: This is incorrect, as Section 6 is the correct answer. Step 3: Conclusion. Thus, the correct answer is (B) Section 6.",
+    "solution": "Step 1: Understanding the Question. Section 5 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 provides a divorced woman and her former husband the option to be governed by the provisions of Sections 125 to 128 of the CrPC. Step 2: Conclusion. Thus, the correct answer is (A) Section 5.",
     "quickTip": "Section 6 of The Muslim Women (Protection of Rights on Divorce) Act, 1986 allows a Muslim woman to opt for maintenance under Sections 125 to 128 of CrPC.",
     "modernNote": "Note: The Code of Criminal Procedure (CrPC), 1973 has been replaced by the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, effective July 1, 2024."
   },
@@ -7142,9 +7148,9 @@
       "Sapinda Relationship",
       "Child marriage"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "isModernized": false,
-    "solution": "Step 1: Understanding the Question. Under Section 11 of the Hindu Marriage Act, marriages that violate specific provisions of the Act are considered void. These include bigamy, degrees of prohibited relationships, and child marriage. However, the concept of a sapinda relationship is a specific restriction within the Act related to marriage. Step 2: Conclusion. Sapinda relationship is a ground for voidable marriages (Section 5 of the Hindu Marriage Act) but not for void marriages under Section 11. Therefore, option (C) is the correct answer.",
+    "solution": "Step 1: Understanding the Question. Section 11 of the Hindu Marriage Act specifies grounds for void marriages, which include bigamy, prohibited degrees of relationship, and sapinda relationship (Section 5 clauses i, iv, and v). Violation of the age requirement (child marriage) does not render the marriage void under Section 11. Step 2: Conclusion. Thus, the correct answer is (D) Child marriage.",
     "quickTip": "Section 11 of the Hindu Marriage Act lists grounds for void marriages, including bigamy, degrees of prohibited relationships, and child marriage. Sapinda relationship, however, is not a ground for void marriage."
   },
   {
@@ -7645,8 +7651,9 @@
       "Theft, mischief or house trespass",
       "(1), (2) and (3)"
     ],
-    "correctAnswer": "C",
-    "isModernized": false
+    "correctAnswer": "D",
+    "isModernized": false,
+    "solution": "Under Section 41 of the Bhartiya Nyaya Sanhita, 2023, the right of private defence of property extends to causing death in cases of Robbery, House-breaking after sunset and before sunrise, and Theft, mischief, or house-trespass under circumstances causing apprehension of death or grievous hurt. Therefore, options (1), (2), and (3) are all correct."
   },
   {
     "id": "aibe18-q13",
@@ -7847,7 +7854,7 @@
     ],
     "correctAnswer": "B",
     "isModernized": false,
-    "solution": "This act falls under criminal intimidation with the intent of extortion. Under Section 503 and 506 of the IPC, the punishment for criminal intimidation is imprisonment up to 3 years, or with fine, or with both.",
+    "solution": "This scenario is a direct illustration of Extortion under Section 383 of the IPC. The punishment for extortion is prescribed under Section 384 of the IPC, which is imprisonment for a term which may extend to 3 years, or with fine, or with both.",
     "quickTip": "Threatening someone for monetary gain through defamation is considered criminal intimidation under the IPC.",
     "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
   },
@@ -7919,9 +7926,10 @@
       "Section 42",
       "Section 43"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "isModernized": false,
-    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 41 → BNSS Section 35."
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 41 → BNSS Section 35.",
+    "solution": "Section 43(2) of the CrPC states that if there is reason to believe that such person comes under the provisions of Section 41, a police officer shall re-arrest him. Thus, the condition for re-arrest by the police officer is that the person falls under Section 41."
   },
   {
     "id": "aibe19-q21",
@@ -8282,8 +8290,10 @@
       "Suit for specific reliefs.",
       "Suit relating to rights of worship."
     ],
-    "correctAnswer": "D",
-    "isModernized": false
+    "correctAnswer": "A",
+    "isModernized": false,
+    "solution": "Under Section 9 of the CPC, suits for recovery of voluntary payments or offerings are not considered suits of a civil nature, because voluntary payments do not create a legal right. In contrast, suits relating to rights of worship are suits of a civil nature.",
+    "quickTip": "Suits for voluntary payments or offerings are not civil suits, while right to worship or franchise are of civil nature."
   },
   {
     "id": "aibe19-q31",
@@ -9951,10 +9961,8 @@
       "The Payment of Bonus Act, 1965",
       "The Employment Exchanges Act, 1959 (A) Only (3) (B) (3) and (4) (C) (1), (2) and (3) (D) (1), (2), (3) and (4)"
     ],
-    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "The Social Security Code merged multiple labour laws, including Maternity Benefit Act, Payment of Gratuity, and Payment of Bonus. The Employment Exchanges Act is not merged.",
-    "quickTip": "Remember: The four labour codes simplify 29 central labour laws."
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q77",
@@ -12248,8 +12256,10 @@
       "Right to Information Act, 2005",
       "Article 19(1)(a) and the RTI Act collectively"
     ],
-    "correctAnswer": "C",
-    "isModernized": false
+    "correctAnswer": "B",
+    "isModernized": false,
+    "solution": "Step 1: Judicial History. Long before the Right to Information Act, 2005 was enacted, the Supreme Court in cases like State of U.P. v. Raj Narain (1975) and S.P. Gupta v. Union of India (1981) held that the right to know is implicit in the right to free speech and expression. Step 2: Constitutional Provision. This right is guaranteed under Article 19(1)(a) of the Constitution. Step 3: Conclusion. The Supreme Court relied on Article 19(1)(a) to declare RTI a fundamental right.",
+    "quickTip": "Right to Information is a fundamental right implicit under Article 19(1)(a) (Freedom of Speech and Expression)."
   },
   {
     "id": "aibe20-q83",
