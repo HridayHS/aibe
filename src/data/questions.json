@@ -7411,8 +7411,7 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Context. The 106th Constitutional Amendment Act deals with reservation of seats for women . Step 2: Specific provisions. - Article 330A: Reservation of seats for women in the House of People. - Article 334A: Implementation after the first census post-commencement, with a validity of 15 years. - Note: Article 239A is unrelated to this Amendment. Step 3: Conclusion. Thus, statements (ii), (iii), and (iv) are correct.",
-    "quickTip": "The 106th Amendment introduced women’s reservation in the Lok Sabha and State Assemblies, with implementation linked to census data."
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q4",
@@ -7447,8 +7446,7 @@
     ],
     "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Step 1: Understanding the principle. The doctrine of severability allows the Court to strike down unconstitutional portions of a law while keeping the valid parts operative. Step 2: Application here. In this case, Section 10 of the Fair Housing Act was struck down as unconstitutional for violating Article 21 (right to privacy), but Sections 3 and 6 were upheld as valid. Step 3: Conclusion. This clearly demonstrates the application of the Doctrine of Severability.",
-    "quickTip": "The Doctrine of Severability ensures that only the unconstitutional part of a law is invalidated, not the entire law."
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q5",
@@ -7735,10 +7733,8 @@
       "Theft, mischief or house trespass",
       "(1), (2) and (3)"
     ],
-    "correctAnswer": "D",
-    "isModernized": false,
-    "solution": "The law permits a person to defend their property to the extent of causing death when facing: - Robbery, - House-breaking after sunset, - Theft, mischief, or house trespass (in aggravated forms). Thus, all three listed offences are covered.",
-    "quickTip": "Private defence of property allows extreme measures when faced with grave offences like robbery or house-breaking after sunset."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe18-q13",
@@ -7773,9 +7769,8 @@
     ],
     "correctAnswer": "B",
     "isModernized": false,
-    "solution": "The injury caused was a fracture, which is legally recognized as grievous hurt . Section 325 IPC (now BNS equivalent) punishes voluntarily causing grievous hurt. Thus, Rajesh is guilty under Section 325.",
-    "quickTip": "Fracture or dislocation of bone is always classified as grievous hurt.",
-    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 323 → BNS Section 115(2); IPC Section 325 → BNS Section 117(2); IPC Section 324 → BNS Section 118(1); IPC Section 308 → BNS Section 110."
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 323 → BNS Section 115(2); IPC Section 325 → BNS Section 117(2); IPC Section 324 → BNS Section 118(1); IPC Section 308 → BNS Section 110.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q14",
@@ -8181,8 +8176,7 @@
     ],
     "correctAnswer": "D",
     "isModernized": false,
-    "solution": "Step 1: Importance of witness protection. Witnesses often face threats, intimidation, or coercion, which can derail trials. A witness protection scheme provides security and confidence to testify truthfully. Step 2: Section 398 BNSS. This section directs every State Government to prepare and notify a witness protection scheme . This includes measures like relocation, police protection, and confidentiality of witness identity. Step 3: Conclusion. Section 398 ensures a statutory basis for witness protection in India.",
-    "quickTip": "Witness protection = crucial for fair trials and preventing hostile witnesses."
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q25",
@@ -9165,8 +9159,7 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Provision of Section 15. Section 15 of the Hindu Marriage Act permits remarriage after divorce without requiring prior permission of the court. Step 2: Exception. The only restriction applies if the decree is under appeal and not yet finalized. In such case, remarriage must wait until the appeal is resolved. Step 3: Conclusion. Therefore, once the decree is final and not under appeal, remarriage is allowed immediately.",
-    "quickTip": "Remarriage is permitted once decree is final → No need for court’s leave."
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q52",
@@ -9345,8 +9338,7 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Under Muslim law, a divorced woman is entitled to maintenance for herself during the iddat period. Children are entitled to maintenance till they can support themselves. Remarriage bars her own maintenance beyond iddat.",
-    "quickTip": "Iddat = waiting period after divorce; maintenance rights linked to it."
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q57",
@@ -9777,8 +9769,7 @@
     ],
     "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Peer-review is not a mandatory safeguard but a quality practice. Fraudulent conduct and non-disclosure of conflicts are clearly violations.",
-    "quickTip": "Always disclose conflicts of interest—transparency ensures fairness."
+    "isWithdrawn": true
   },
   {
     "id": "aibe18-q69",
@@ -9991,10 +9982,12 @@
       "Punishable under Section 66 of the IT Act, 2000 + compensation claimable",
       "Customers have no legal remedy under IT Act"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Hacking and unauthorized access are covered under Section 66. Customers can claim damages under Section 43A.",
-    "quickTip": "Link Section 66 (hacking) with Section 43A (compensation)."
+    "alternateAnswers": [
+      "A",
+      "C"
+    ]
   },
   {
     "id": "aibe18-q75",
@@ -10784,10 +10777,8 @@
       "(i) & (iii)",
       "(i), (ii) & (iii)"
     ],
-    "correctAnswer": "A",
-    "isModernized": false,
-    "solution": "Step 1: Scope of LARR Act, 2013. The Act allows acquisition for strategic purposes (e.g., defense) and for resettlement of families affected by projects. Step 2: Clarification on PPP. In PPP projects, land ownership remains with private parties, not government; hence (iii) is excluded. Conclusion: Correct purposes are (i) and (ii).",
-    "quickTip": "Strategic and rehabilitation purposes are the two main grounds for land acquisition under LARR Act, 2013."
+    "correctAnswer": "D",
+    "isModernized": false
   },
   {
     "id": "aibe18-q97",
