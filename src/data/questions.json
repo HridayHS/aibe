@@ -7679,9 +7679,8 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "The Indian Penal Code (IPC), 1860 has extraterritorial application in certain cases, such as offences committed by Indian citizens outside India (Section 3) and offences on Indian-registered ships (Section 4). However, offences targeting computer resources outside India may not fall under IPC jurisdiction.",
-    "quickTip": "The IPC applies to certain extraterritorial offences, but offences targeting computer resources outside India may require application under the IT Act.",
-    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024."
+    "modernNote": "Note: The Indian Penal Code (IPC), 1860 has been replaced by the Bharatiya Nyaya Sanhita (BNS), 2023, effective July 1, 2024.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe19-q12",
@@ -8007,10 +8006,8 @@
       "Section 42",
       "Section 43"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "D",
     "isModernized": false,
-    "solution": "Section 41 of the Code of Criminal Procedure, 1973, empowers a police officer to arrest a person without a warrant in cases involving cognizable and non-bailable offences. If a private person has arrested someone for such an offence, Section 41 allows the police officer to re-arrest that individual.",
-    "quickTip": "Section 41 grants police officers the authority to re-arrest individuals for non-bailable and cognizable offences if initially apprehended by private citizens.",
     "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 41 → BNSS Section 35."
   },
   {
@@ -8046,9 +8043,8 @@
     ],
     "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Under Section 125 of the Code of Criminal Procedure, 1973, a wife is not entitled to maintenance if she voluntarily refuses to live with her husband without sufficient reason. However, if she is forced to live separately or if the husband’s conduct is unreasonable, she is entitled to maintenance.",
-    "quickTip": "A wife who voluntarily chooses to live apart without valid reasons is not eligible for maintenance under Section 125.",
-    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 125 → BNSS Section 144."
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 125 → BNSS Section 144.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe19-q22",
@@ -8193,9 +8189,8 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "The Code of Criminal Procedure, 1973, allows summary trials for offences punishable with imprisonment not exceeding two years, as these cases are relatively minor and can be resolved quickly.",
-    "quickTip": "Summary trials are suitable for minor offences with lighter punishments to expedite the judicial process.",
-    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 454 → BNS Section 333; IPC Section 504 → BNS Section 351."
+    "modernNote": "Under the Bharatiya Nyaya Sanhita (BNS), 2023: IPC Section 454 → BNS Section 333; IPC Section 504 → BNS Section 351.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe19-q26",
@@ -8304,9 +8299,8 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "According to the CrPC, a Magistrate must be duly empowered to attach property under Section 83. If a Magistrate without proper authority performs this action, even in good faith, it will vitiate the proceedings.",
-    "quickTip": "Property attachment requires specific authorization; doing so without empowerment affects the validity of the proceedings.",
-    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 306 → BNSS Section 343; CrPC Section 410 → BNSS Section 452; CrPC Section 83 → BNSS Section 79; CrPC Section 176 → BNSS Section 194."
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 306 → BNSS Section 343; CrPC Section 410 → BNSS Section 452; CrPC Section 83 → BNSS Section 79; CrPC Section 176 → BNSS Section 194.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe19-q29",
@@ -8375,10 +8369,8 @@
       "Suit for specific reliefs.",
       "Suit relating to rights of worship."
     ],
-    "correctAnswer": "A",
-    "isModernized": false,
-    "solution": "Section 9 of the CPC allows civil courts to entertain suits of civil nature. However, suits for the recovery of voluntary payments or offerings do not qualify as civil nature suits, as they do not pertain to enforceable private rights.",
-    "quickTip": "Civil suits require enforceable rights, while voluntary payments or offerings do not involve enforceable claims."
+    "correctAnswer": "D",
+    "isModernized": false
   },
   {
     "id": "aibe19-q31",
@@ -8555,10 +8547,8 @@
       "The Code of Civil Procedure (Amendment) Act, 2002",
       "Such provision does not exist."
     ],
-    "correctAnswer": "B",
-    "isModernized": false,
-    "solution": "The Code of Civil Procedure (Amendment) Act, 1999 introduced provisions allowing parties to produce witnesses without requiring a summons in certain circumstances, aimed at simplifying the process and reducing delays in court proceedings.",
-    "quickTip": "Allowing witness production without summons can expedite legal proceedings by reducing procedural delays."
+    "correctAnswer": "A",
+    "isModernized": false
   },
   {
     "id": "aibe19-q36",
@@ -8665,8 +8655,7 @@
     ],
     "correctAnswer": "D",
     "isModernized": false,
-    "solution": "Order XLI Rule 25 of the CPC allows an appellate court to frame and remit an issue for trial to the lower court when it finds it necessary for a just decision in the appeal.",
-    "quickTip": "Order XLI Rule 25 enables appellate courts to ensure all relevant issues are thoroughly examined by remitting them to the trial court."
+    "isWithdrawn": true
   },
   {
     "id": "aibe19-q39",
@@ -9139,10 +9128,8 @@
       "When they are descended from a common ancestress by different husbands.",
       "When they are not descended from a common ancestor at all."
     ],
-    "correctAnswer": "C",
-    "isModernized": false,
-    "solution": "Under the Hindu Marriage Act, “half-blood” refers to individuals who share a common ancestor or ancestress but are descended through different spouses. In this case, it applies to those descended from a common ancestress by different husbands.",
-    "quickTip": "Half-blood relations share a common parent or ancestor, often differing by maternal or paternal lineage."
+    "correctAnswer": "B",
+    "isModernized": false
   },
   {
     "id": "aibe19-q52",
@@ -9174,10 +9161,8 @@
       "The parties should not be sapindas of each other.",
       "The parties should not be suffering from epilepsy."
     ],
-    "correctAnswer": "D",
-    "isModernized": false,
-    "solution": "The Hindu Marriage Act previously considered epilepsy as a disqualification for marriage. However, this condition was later removed as a requirement, so it is no longer a valid condition under the Act.",
-    "quickTip": "Epilepsy is no longer considered a disqualification for Hindu marriage, reflecting progressive changes in the law."
+    "correctAnswer": "B",
+    "isModernized": false
   },
   {
     "id": "aibe19-q53",
@@ -9569,10 +9554,8 @@
       "Sonik Industries Rajkot v Municipal Corporation, Rajkot",
       "Maneka Gandhi v Union of India"
     ],
-    "correctAnswer": "B",
-    "isModernized": false,
-    "solution": "In Ram Jawaya Kapoor v State of Punjab , the Supreme Court held that the principles of natural justice apply to both judicial and administrative functions, marking a broad interpretation of natural justice within administrative law.",
-    "quickTip": "The Ram Jawaya Kapoor case expanded the scope of natural justice to administrative functions, emphasizing fair process."
+    "correctAnswer": "A",
+    "isModernized": false
   },
   {
     "id": "aibe19-q64",
@@ -9894,8 +9877,7 @@
     ],
     "correctAnswer": "A",
     "isModernized": false,
-    "solution": "In Vellore Citizens’ Welfare Forum v Union of India , the Supreme Court elaborated on the Precautionary Principle, emphasizing preventive action to protect the environment from potential harm, even in the absence of full scientific certainty.",
-    "quickTip": "The Precautionary Principle encourages proactive measures to prevent environmental damage."
+    "isWithdrawn": true
   },
   {
     "id": "aibe19-q73",
@@ -10328,8 +10310,7 @@
     ],
     "correctAnswer": "B",
     "isModernized": false,
-    "solution": "Under the Consumer Protection Act, 2019, the Central Consumer Protection Council is tasked with advising the government on consumer rights promotion and protection. The council’s role is advisory, aiming to create a consumer-friendly environment.",
-    "quickTip": "The Central Consumer Protection Council advises on safeguarding consumer rights and promoting awareness under the Act."
+    "isWithdrawn": true
   },
   {
     "id": "aibe19-q85",
