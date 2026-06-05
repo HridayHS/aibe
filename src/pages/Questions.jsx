@@ -86,8 +86,11 @@ export default function Questions() {
                 {q.isModernized && (
                   <span className="tag tag-modernized">✨ BNS/BSA Updated</span>
                 )}
-                {!q.correctAnswer && (
+                {q.isWithdrawn && (
                   <span className="tag tag-withdrawn">Withdrawn</span>
+                )}
+                {q.alternateAnswers && (
+                  <span className="tag tag-multi">Multiple Answers</span>
                 )}
                 <span className="tag tag-subject">{q.subject}</span>
               </div>
@@ -100,8 +103,11 @@ export default function Questions() {
             <div className="q-options">
               {q.options.map((opt, i) => {
                 const letter = String.fromCharCode(65 + i)
-                const isCorrect = showAnswer[q.id] && q.correctAnswer === letter
-                const isWrong = showAnswer[q.id] && q.correctAnswer && q.correctAnswer !== letter
+                const isAccepted = q.alternateAnswers
+                  ? q.alternateAnswers.includes(letter)
+                  : q.correctAnswer === letter
+                const isCorrect = showAnswer[q.id] && !q.isWithdrawn && isAccepted
+                const isWrong = showAnswer[q.id] && !q.isWithdrawn && q.correctAnswer && !isAccepted
                 return (
                   <div key={i} className={`q-option ${isCorrect ? 'correct' : ''} ${isWrong ? 'dimmed' : ''}`}>
                     <span className="opt-letter">{letter}</span>
@@ -112,11 +118,24 @@ export default function Questions() {
             </div>
 
 
-            {q.correctAnswer ? (
+            {q.isWithdrawn ? (
+              <div className="withdrawn-note">
+                <span>⚠️</span>
+                <span>This question was officially withdrawn by the BCI. No official answer is available.</span>
+              </div>
+            ) : (
               <>
                 <button className="btn btn-ghost show-answer-btn" onClick={() => toggleAnswer(q.id)}>
                   {showAnswer[q.id] ? 'Hide Answer' : 'Show Answer'}
                 </button>
+
+                {/* Multi-answer note */}
+                {showAnswer[q.id] && q.alternateAnswers && (
+                  <div className="multi-answer-note animate-in">
+                    <span>📋</span>
+                    <span>Multiple answers accepted: <strong>{q.alternateAnswers.join(', ')}</strong></span>
+                  </div>
+                )}
 
                 {/* Structured Solution */}
                 {showAnswer[q.id] && q.solution && (
@@ -165,11 +184,6 @@ export default function Questions() {
                   </details>
                 )}
               </>
-            ) : (
-              <div className="withdrawn-note">
-                <span>⚠️</span>
-                <span>This question was officially withdrawn by the BCI. No official answer is available.</span>
-              </div>
             )}
           </div>
         ))}

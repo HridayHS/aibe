@@ -6,7 +6,7 @@ import './Flashcards.css'
 const allCards = []
 const seen = new Set()
 questions.forEach(q => {
-  if (!q.correctAnswer) return
+  if (!q.correctAnswer || q.isWithdrawn) return
   const key = q.question.trim().toLowerCase()
   if (seen.has(key)) return
   seen.add(key)

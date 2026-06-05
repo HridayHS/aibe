@@ -407,6 +407,32 @@ details.q-modern-box[open] > .q-modern-header .q-modern-chevron {
   gap: 0.5rem;
 }
 
+/* ===== Tags for multi-answer ===== */
+.tag-multi {
+  color: #c084fc;
+  border-color: rgba(192, 132, 252, 0.4);
+  background: rgba(192, 132, 252, 0.08);
+}
+
+.multi-answer-note {
+  font-size: 0.85rem;
+  color: #c084fc;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-md);
+  background: rgba(192, 132, 252, 0.04);
+  border: 1px solid rgba(192, 132, 252, 0.25);
+  margin-top: 0.75rem;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.multi-answer-note strong {
+  color: #d8b4fe;
+  letter-spacing: 0.05em;
+}
+
 /* ===== Pagination ===== */
 .pagination {
   display: flex;

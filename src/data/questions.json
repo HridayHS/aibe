@@ -10967,8 +10967,6 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding no-fault liability. Under Section 140 of the Motor Vehicles Act, 1988, compensation is fixed irrespective of negligence. Step 2: Fixed compensation amount. For death, the fixed compensation under no-fault liability was revised to one lakh rupees. Step 3: Conclusion. Thus, the payable amount in such cases is one lakh rupees.",
-    "quickTip": "No-fault liability ensures quick compensation without proving negligence.",
     "isWithdrawn": true
   },
   {
@@ -11344,8 +11342,6 @@
     ],
     "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding Section 14A. A party must furnish a registered address for service of notice. The address remains effective for six years after final determination unless changed by the party. Step 2: Importance. This ensures certainty of communication even after the proceedings end. Step 3: Conclusion. Validity continues for six years after disposal of the cause.",
-    "quickTip": "Section 14A keeps the registered address active for 6 years post-judgment unless updated.",
     "isWithdrawn": true
   },
   {
@@ -11433,8 +11429,6 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding Section 9 of the Act. Section 9 requires the Collector to issue public notice inviting claims from persons interested in the land. Step 2: Minimum period requirement. The Act mandates that the date fixed for appearance cannot be earlier than 15 days from publication of notice. Step 3: Conclusion. Therefore, a minimum of 15 days must elapse.",
-    "quickTip": "Section 9 → Notice period for claims = minimum 15 days.",
     "isWithdrawn": true
   },
   {
@@ -11616,8 +11610,6 @@
     ],
     "correctAnswer": "D",
     "isModernized": false,
-    "solution": "Step 1: Understanding compensable loss under the Act. Section 23 allows compensation for damages directly arising from acquisition, including bona fide reduction of profits from land use. Step 2: Application. Reduced crop income directly related to acquisition interference qualifies as bona fide diminution of profits. Step 3: Conclusion. Thus, the compensable loss is bona fide diminution of profits.",
-    "quickTip": "Only losses directly resulting from acquisition—not market fluctuations—are compensable.",
     "isWithdrawn": true
   },
   {
@@ -12355,8 +12347,6 @@
     ],
     "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding the nature of the order passed by the High Court. The order restrains the media from publishing news relating to an ongoing criminal trial. This is not a writ against a public authority, nor is it a prohibition stopping a subordinate court from acting beyond jurisdiction. Instead, it is a preventive and supervisory measure to protect the fairness of the judicial process. Step 2: Why it is not mandamus or prohibition. Mandamus directs a public authority to perform its duty. Prohibition restrains a subordinate court from exceeding jurisdiction. But here, the High Court is not issuing commands to any authority; it is controlling the flow of information so that trial fairness is preserved. Step 3: High Courts possess inherent powers. Under Articles 215 and 226, and under their inherent jurisdiction as Courts of Record, High Courts may pass any order necessary to ensure: - fairness of trial, - preventing interference with administration of justice, - contempt prevention. Such inherent power is recognised even in criminal procedure under Section 482 CrPC. Step 4: Conclusion. Since the order is neither a writ nor residuary power, the only correct classification is the inherent power of the High Court.",
-    "quickTip": "High Courts can issue protective orders—even when not specifically provided by statute—under their inherent powers to secure justice and maintain judicial integrity.",
     "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 482 → BNSS Section 528.",
     "isWithdrawn": true
   },
@@ -12533,8 +12523,6 @@
     ],
     "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Understanding the constitutional rule regarding Money Bills. Article 109 of the Constitution of India clearly provides that a Money Bill can only be introduced in the Lok Sabha. This makes Assertion (A) factually correct. The Rajya Sabha has no power of introduction. Step 2: Understanding the role of the Rajya Sabha. Under Article 109(2), the Rajya Sabha may only offer recommendations on a Money Bill within 14 days. The Lok Sabha may either accept or reject these recommendations. Step 3: Determining whether the Bill still passes. Even if the Rajya Sabha does nothing for 14 days, or its recommendations are rejected, the Bill is deemed to have been passed. This validates Reason (R). Step 4: Relationship between (A) and (R). Reason (R) explains why a Money Bill must originate in the Lok Sabha: the Rajya Sabha has extremely limited powers over it. Thus, (R) correctly explains (A).",
-    "quickTip": "Money Bills are unique because the Lok Sabha has overriding authority—Rajya Sabha cannot block or amend them. Always remember Article 109 for such questions.",
     "alternateAnswers": [
       "A",
       "B"

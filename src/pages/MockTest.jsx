@@ -9,7 +9,7 @@ const SUBJECTS = [...new Set(questions.map(q => q.subject))].sort()
 const pool = []
 const seen = new Set()
 questions.forEach(q => {
-  if (!q.correctAnswer) return
+  if (!q.correctAnswer || q.isWithdrawn) return
   const key = q.question.trim().toLowerCase()
   if (seen.has(key)) return
   seen.add(key)
@@ -73,7 +73,7 @@ export default function MockTest() {
     let correct = 0, wrong = 0, unanswered = 0
     testQs.forEach((q, i) => {
       if (!answers[i]) unanswered++
-      else if (answers[i] === q.correctAnswer) correct++
+      else if (q.alternateAnswers ? q.alternateAnswers.includes(answers[i]) : answers[i] === q.correctAnswer) correct++
       else wrong++
     })
     return { correct, wrong, unanswered, total: testQs.length, pct: Math.round((correct / testQs.length) * 100) }
@@ -161,7 +161,9 @@ export default function MockTest() {
         <div className="review-list">
           {testQs.map((q, i) => {
             const userAns = answers[i]
-            const isCorrect = userAns === q.correctAnswer
+            const isCorrect = q.alternateAnswers
+              ? q.alternateAnswers.includes(userAns)
+              : userAns === q.correctAnswer
             return (
               <div key={i} className={`review-q glass-card ${!userAns ? 'skipped' : isCorrect ? 'was-correct' : 'was-wrong'}`}>
                 <div className="rq-header">
@@ -177,7 +179,9 @@ export default function MockTest() {
                 <div className="q-options">
                   {q.options.map((opt, oi) => {
                     const letter = String.fromCharCode(65 + oi)
-                    const isRight = q.correctAnswer === letter
+                    const isRight = q.alternateAnswers
+                      ? q.alternateAnswers.includes(letter)
+                      : q.correctAnswer === letter
                     const isUser = userAns === letter
                     let cls = ''
                     if (isRight) cls = 'correct'
