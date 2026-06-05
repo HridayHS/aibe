@@ -10968,7 +10968,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding no-fault liability. Under Section 140 of the Motor Vehicles Act, 1988, compensation is fixed irrespective of negligence. Step 2: Fixed compensation amount. For death, the fixed compensation under no-fault liability was revised to one lakh rupees. Step 3: Conclusion. Thus, the payable amount in such cases is one lakh rupees.",
-    "quickTip": "No-fault liability ensures quick compensation without proving negligence."
+    "quickTip": "No-fault liability ensures quick compensation without proving negligence.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe20-q4",
@@ -11057,10 +11058,8 @@
       "45",
       "60"
     ],
-    "correctAnswer": "D",
-    "isModernized": true,
-    "solution": "Step 1: Understanding Section 290(1) BNSS. Section 290(1) provides a clear timeline for filing a plea bargaining application. It states that the accused must apply within 60 days from the date charges are framed. Step 2: Conclusion. Thus, the maximum allowable period is 60 days.",
-    "quickTip": "Plea bargaining applications must be filed within a strict 60-day limit from framing of charge."
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe20-q9",
@@ -11075,10 +11074,8 @@
       "Four months",
       "Six months"
     ],
-    "correctAnswer": "C",
-    "isModernized": true,
-    "solution": "Step 1: Understanding default of fine provisions. Under BNS, default imprisonment depends on the amount of fine. For fines above 2000 but below 5000, the maximum simple imprisonment is four months. Step 2: Application. The fine is 4,000, which falls squarely in this category. Step 3: Conclusion. Thus, the maximum simple imprisonment is four months.",
-    "quickTip": "Default imprisonment always varies with the fine amount—higher fines allow longer simple imprisonment terms."
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe20-q10",
@@ -11093,10 +11090,8 @@
       "7 years",
       "10 years"
     ],
-    "correctAnswer": "A",
-    "isModernized": true,
-    "solution": "Step 1: Understanding Section 18 BNSS. Section 18 lays down the qualifications for appointment of Public Prosecutors and Additional Public Prosecutors. It requires a minimum of three years of practice as an advocate. Step 2: Analysis. This is a significant reduction from the earlier CrPC requirement (seven years) and aims to bring more advocates into prosecutorial roles. Step 3: Conclusion. Thus, the minimum practice period required is 3 years.",
-    "quickTip": "BNSS reduces the required experience for Public Prosecutors to encourage broader participation in prosecution services."
+    "correctAnswer": "C",
+    "isModernized": true
   },
   {
     "id": "aibe20-q11",
@@ -11186,10 +11181,8 @@
       "6 months",
       "3 months"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "isModernized": false,
-    "solution": "Step 1: Understanding Section 30 CrPC. A Magistrate of First Class may award imprisonment in default of fine, but the total imprisonment (substantive + default) cannot exceed the Magistrate’s sentencing power of 3 years. Step 2: Application. If 2 years of substantive imprisonment has already been imposed, he may impose up to 1 additional year. However, specific default limits allow up to 2 years where permitted, depending on the quantum of fine. Step 3: Conclusion. In this factual context, the maximum permissible imprisonment in default is 2 years.",
-    "quickTip": "Default imprisonment is separate from substantive imprisonment but must remain within statutory limits.",
     "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 30 → BNSS Section 25."
   },
   {
@@ -11352,7 +11345,8 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 14A. A party must furnish a registered address for service of notice. The address remains effective for six years after final determination unless changed by the party. Step 2: Importance. This ensures certainty of communication even after the proceedings end. Step 3: Conclusion. Validity continues for six years after disposal of the cause.",
-    "quickTip": "Section 14A keeps the registered address active for 6 years post-judgment unless updated."
+    "quickTip": "Section 14A keeps the registered address active for 6 years post-judgment unless updated.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe20-q25",
@@ -11385,10 +11379,8 @@
       "Six months",
       "Three months"
     ],
-    "correctAnswer": "B",
-    "isModernized": false,
-    "solution": "Step 1: Understanding Section 10 of the Special Marriage Act. When objections to a marriage are referred to the Central Government, it conducts an inquiry and issues a decision. Step 2: Time limit after decision. The Act specifies that after the Central Government decides on the objection, the marriage must be solemnized within two months. Step 3: Conclusion. Hence, the correct time limit is two months.",
-    "quickTip": "Section 10 SMA → Central Government inquiry → Marriage must occur within 2 months of its decision."
+    "correctAnswer": "D",
+    "isModernized": false
   },
   {
     "id": "aibe20-q27",
@@ -11442,7 +11434,8 @@
     "correctAnswer": "C",
     "isModernized": false,
     "solution": "Step 1: Understanding Section 9 of the Act. Section 9 requires the Collector to issue public notice inviting claims from persons interested in the land. Step 2: Minimum period requirement. The Act mandates that the date fixed for appearance cannot be earlier than 15 days from publication of notice. Step 3: Conclusion. Therefore, a minimum of 15 days must elapse.",
-    "quickTip": "Section 9 → Notice period for claims = minimum 15 days."
+    "quickTip": "Section 9 → Notice period for claims = minimum 15 days.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe20-q30",
@@ -11624,7 +11617,8 @@
     "correctAnswer": "D",
     "isModernized": false,
     "solution": "Step 1: Understanding compensable loss under the Act. Section 23 allows compensation for damages directly arising from acquisition, including bona fide reduction of profits from land use. Step 2: Application. Reduced crop income directly related to acquisition interference qualifies as bona fide diminution of profits. Step 3: Conclusion. Thus, the compensable loss is bona fide diminution of profits.",
-    "quickTip": "Only losses directly resulting from acquisition—not market fluctuations—are compensable."
+    "quickTip": "Only losses directly resulting from acquisition—not market fluctuations—are compensable.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe20-q40",
@@ -11639,10 +11633,8 @@
       "5,000",
       "3,000"
     ],
-    "correctAnswer": "B",
-    "isModernized": false,
-    "solution": "Step 1: Understanding Section 35A CPC. This section empowers courts to award compensatory costs when claims are false or vexatious. Step 2: Limit on costs. The statutory ceiling for ordinary cases is 10,000. Step 3: Conclusion. Hence, the maximum compensatory cost a court may award is 10,000.",
-    "quickTip": "Section 35A → Maximum compensatory costs = 10,000 in ordinary cases."
+    "correctAnswer": "D",
+    "isModernized": false
   },
   {
     "id": "aibe20-q41",
@@ -11711,10 +11703,8 @@
       "Both Conclusions I and II follow",
       "Neither Conclusion I nor II follows"
     ],
-    "correctAnswer": "A",
-    "isModernized": false,
-    "solution": "Step 1: Evaluating Conclusion I. Section 157 explicitly penalizes the company for failing to furnish DIN information. Hence this conclusion is correct. Step 2: Evaluating Conclusion II. Section 157 penalizes only the company, not every officer in default (unlike Section 159). Hence this conclusion is incorrect. Step 3: Conclusion. Thus, only Conclusion I follows.",
-    "quickTip": "Companies Act → Some defaults punish company only; others punish both company + officers. Check section carefully."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe20-q45",
@@ -11891,10 +11881,12 @@
       "A promise to subscribe 1 lakh to a public charitable fund",
       "A promise made by a minor upon attaining majority to pay a debt incurred during his minority"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "isModernized": false,
-    "solution": "Step 1: Apply Section 25 exceptions. Under Section 25(1), agreements without consideration are valid if made out of natural love and affection and expressed in writing and registered. Step 2: Evaluate the options. Only option (2) fits all statutory conditions—written, registered, natural love and affection. Step 3: Conclusion. Hence, only option (2) is enforceable without consideration.",
-    "quickTip": "Section 25 → Three exceptions: natural love (written + registered), past voluntary service, and time-barred debt."
+    "alternateAnswers": [
+      "A",
+      "B"
+    ]
   },
   {
     "id": "aibe20-q55",
@@ -12035,10 +12027,8 @@
       "I, III and IV",
       "I, II, III and IV"
     ],
-    "correctAnswer": "D",
-    "isModernized": false,
-    "solution": "Step 1: Apply Section 51(c) CPC. Court may order arrest only when one of several conditions exist. All the four listed conditions fall within the grounds under Section 51. Step 2: Analysis. Each statement (I–IV) reflects a permissible ground under the CPC. Step 3: Conclusion. Thus, all four conditions (I–IV) are correct.",
-    "quickTip": "Arrest in execution → Always a last resort; permitted only under Section 51(c) CPC."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe20-q63",
@@ -12089,10 +12079,8 @@
       "Section 36",
       "Section 46"
     ],
-    "correctAnswer": "D",
-    "isModernized": true,
-    "solution": "Step 1: Recalling statutory provision. Section 46 corresponds to the old Section 45 of the Evidence Act, dealing with expert opinions. Step 2: Scope. Expert opinion is admissible on matters such as science, handwriting, fingerprints, and technology. Step 3: Conclusion. Hence Section 46 is the correct section regarding expert opinions.",
-    "quickTip": "Expert opinion → Section 46 → scientific, technical or specialised knowledge."
+    "correctAnswer": "B",
+    "isModernized": true
   },
   {
     "id": "aibe20-q66",
@@ -12125,10 +12113,8 @@
       "II, III and IV",
       "I, II, III and IV"
     ],
-    "correctAnswer": "A",
-    "isModernized": false,
-    "solution": "Step 1: Understanding Section 3(g) HMA, 1955. The Act defines degrees of prohibited relationship covering lineal ascendants, descendants, siblings, uncles, aunts, nephews, nieces, and certain marital relations. Step 2: Evaluate each statement. I – Correct. Lineal ascendants are prohibited. II – Incorrect. Wording is partially correct but includes extended relations beyond those defined. III – Correct. Wife of brother or paternal/maternal uncle is included. IV – Correct. Brother–sister and similar relations are prohibited. Step 3: Conclusion. Thus, correct combination is I, III and IV.",
-    "quickTip": "Prohibited relationship includes lineal ascendants, siblings, uncles–nieces, aunts–nephews."
+    "correctAnswer": "D",
+    "isModernized": false
   },
   {
     "id": "aibe20-q68",
@@ -12161,10 +12147,8 @@
       "I, II, III and IV",
       "None of these"
     ],
-    "correctAnswer": "C",
-    "isModernized": false,
-    "solution": "Step 1: Section 2 grounds. All four given grounds appear exactly in clauses (i), (iii), (ii), and (iv) of Section 2 of the Act. Step 2: Application. Each of the grounds—absence, imprisonment, failure of obligations, and failure to maintain—is sufficient for decree. Step 3: Conclusion. Thus, all I, II, III and IV are correct.",
-    "quickTip": "Muslim Marriages Act Section 2 → multiple independent grounds; wife-friendly legislation."
+    "correctAnswer": "D",
+    "isModernized": false
   },
   {
     "id": "aibe20-q70",
@@ -12197,10 +12181,8 @@
       "Refusing to grant any measure under Section 9",
       "Refusing to grant an interim measure under Section 17"
     ],
-    "correctAnswer": "D",
-    "isModernized": false,
-    "solution": "Step 1: What Section 37 allows. Appeals lie from orders granting or refusing Section 9 interim measures, accepting or rejecting jurisdiction, and granting interim measures under Section 17. Step 2: What’s not covered. Section 37 does NOT permit an appeal against refusal to grant interim measures under Section 17. Only granting such measures is appealable. Step 3: Conclusion. Hence, refusal under Section 17 is not appealable.",
-    "quickTip": "Remember: Section 17 → Only “granting” is appealable; “refusing” is NOT."
+    "correctAnswer": "B",
+    "isModernized": false
   },
   {
     "id": "aibe20-q72",
@@ -12215,10 +12197,8 @@
       "Not exceeding nine but not less than five members",
       "Not exceeding seven but not less than three members"
     ],
-    "correctAnswer": "B",
-    "isModernized": false,
-    "solution": "Step 1: Recalling Section 9A. The Advocates Act specifies the legal aid committee membership strength: minimum 7, maximum 11. Step 2: Application. Option (2) fits the statutory requirement exactly. Step 3: Conclusion. Thus, the correct answer is (2).",
-    "quickTip": "Section 9A → Legal Aid Committee = 7 to 11 members."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe20-q73",
@@ -12251,10 +12231,8 @@
       "i-3; ii-4; iii-1; iv-2",
       "i-3; ii-1; iii-4; iv-2"
     ],
-    "correctAnswer": "D",
-    "isModernized": false,
-    "solution": "Step 1: Match correctly. i. Act of God → Nichols v. Marsland (3). ii. Consent (Volenti) → Vaughan v. Taff Vale Rail Co. (1). iii. Statutory Authority → Hall v. Brooklands Auto Racing Club (4). iv. Necessity → Kirk v. Gregory (2). Step 2: Conclusion. Therefore, the correct mapping is option (D).",
-    "quickTip": "Remember: Volenti → Taff Vale; Act of God → Nichols; Necessity → Kirk."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe20-q75",
@@ -12269,10 +12247,8 @@
       "A Chairperson and such other members as may be prescribed",
       "A Chairperson and ten other members"
     ],
-    "correctAnswer": "A",
-    "isModernized": false,
-    "solution": "Step 1: Apply Section 3(2). The Act states: Council = Chairperson + 10 members OR Chairperson + prescribed number. Step 2: Reasoning. This allows flexibility for future expansion via rules. Step 3: Conclusion. Thus, the correct answer is Option (1).",
-    "quickTip": "Consumer Protection Act → Central Council: Chairman + 10 (or prescribed)."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe20-q76",
@@ -12381,7 +12357,8 @@
     "isModernized": false,
     "solution": "Step 1: Understanding the nature of the order passed by the High Court. The order restrains the media from publishing news relating to an ongoing criminal trial. This is not a writ against a public authority, nor is it a prohibition stopping a subordinate court from acting beyond jurisdiction. Instead, it is a preventive and supervisory measure to protect the fairness of the judicial process. Step 2: Why it is not mandamus or prohibition. Mandamus directs a public authority to perform its duty. Prohibition restrains a subordinate court from exceeding jurisdiction. But here, the High Court is not issuing commands to any authority; it is controlling the flow of information so that trial fairness is preserved. Step 3: High Courts possess inherent powers. Under Articles 215 and 226, and under their inherent jurisdiction as Courts of Record, High Courts may pass any order necessary to ensure: - fairness of trial, - preventing interference with administration of justice, - contempt prevention. Such inherent power is recognised even in criminal procedure under Section 482 CrPC. Step 4: Conclusion. Since the order is neither a writ nor residuary power, the only correct classification is the inherent power of the High Court.",
     "quickTip": "High Courts can issue protective orders—even when not specifically provided by statute—under their inherent powers to secure justice and maintain judicial integrity.",
-    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 482 → BNSS Section 528."
+    "modernNote": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023: CrPC Section 482 → BNSS Section 528.",
+    "isWithdrawn": true
   },
   {
     "id": "aibe20-q82",
@@ -12396,10 +12373,8 @@
       "Right to Information Act, 2005",
       "Article 19(1)(a) and the RTI Act collectively"
     ],
-    "correctAnswer": "B",
-    "isModernized": false,
-    "solution": "Step 1: Background of the doctrine. The Supreme Court in several landmark cases—such as State of Uttar Pradesh v. Raj Narain (1975) and S.P. Gupta v. Union of India (1981) —held that freedom of speech and expression includes the right to receive information. Step 2: Basis of recognition. Article 19(1)(a) guarantees freedom of speech and expression. The Court expanded the scope to include the right to know, because: - A democracy requires informed citizens. - Transparency enables accountability. - Public participation becomes meaningful only when information is accessible. Step 3: Role of RTI Act, 2005. The RTI Act provides a statutory mechanism to implement the already recognised fundamental right. But the fundamental right itself existed before RTI Act and derives its source from Article 19(1)(a), not the statute. Conclusion: The Supreme Court did not need the RTI Act to declare the right; it relied solely on Article 19(1)(a) .",
-    "quickTip": "Fundamental rights come from the Constitution—not from statutes. RTI Act only facilitates the exercise of the right that already exists under Article 19(1)(a)."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe20-q83",
@@ -12432,10 +12407,8 @@
       "III is false",
       "All statements are true"
     ],
-    "correctAnswer": "A",
-    "isModernized": false,
-    "solution": "Step 1: Understanding locus standi under Article 32. Originally, only the aggrieved person could file a petition. But the Supreme Court expanded locus standi under Public Interest Litigation (PIL) to allow any public-spirited person to approach the Court. Hence Article 32 is not silent —it has been judicially expanded. So Statement I is false. Step 2: Opposite party under Article 32. Article 32 permits writs to be issued against the State and its instrumentalities. The Constitution does not detail every opposite party; therefore Statement II is true . Step 3: Scope of writ jurisdiction. Apart from 5 traditional writs—Habeas Corpus, Mandamus, Certiorari, Prohibition, Quo Warranto—the Court has evolved additional remedial directions (e.g., continuing mandamus). So Statement III is true . Conclusion: Only Statement I is false.",
-    "quickTip": "Article 32 is itself a fundamental right—unique globally—and lets the Supreme Court craft powerful remedies."
+    "correctAnswer": "D",
+    "isModernized": false
   },
   {
     "id": "aibe20-q85",
@@ -12561,7 +12534,11 @@
     "correctAnswer": "A",
     "isModernized": false,
     "solution": "Step 1: Understanding the constitutional rule regarding Money Bills. Article 109 of the Constitution of India clearly provides that a Money Bill can only be introduced in the Lok Sabha. This makes Assertion (A) factually correct. The Rajya Sabha has no power of introduction. Step 2: Understanding the role of the Rajya Sabha. Under Article 109(2), the Rajya Sabha may only offer recommendations on a Money Bill within 14 days. The Lok Sabha may either accept or reject these recommendations. Step 3: Determining whether the Bill still passes. Even if the Rajya Sabha does nothing for 14 days, or its recommendations are rejected, the Bill is deemed to have been passed. This validates Reason (R). Step 4: Relationship between (A) and (R). Reason (R) explains why a Money Bill must originate in the Lok Sabha: the Rajya Sabha has extremely limited powers over it. Thus, (R) correctly explains (A).",
-    "quickTip": "Money Bills are unique because the Lok Sabha has overriding authority—Rajya Sabha cannot block or amend them. Always remember Article 109 for such questions."
+    "quickTip": "Money Bills are unique because the Lok Sabha has overriding authority—Rajya Sabha cannot block or amend them. Always remember Article 109 for such questions.",
+    "alternateAnswers": [
+      "A",
+      "B"
+    ]
   },
   {
     "id": "aibe20-q92",
@@ -12649,10 +12626,8 @@
       "(A) is true, but (R) is false.",
       "(A) is false, but (R) is true."
     ],
-    "correctAnswer": "A",
-    "isModernized": false,
-    "solution": "Step 1: Understanding Article 72. Article 72 of the Constitution grants the President exclusive powers to pardon, commute, remit, or suspend sentences in three cases: (i) Court Martial, (ii) Offences under Union laws, and (iii) Death sentences. This makes the President’s clemency power broader than that of a Governor. Step 2: Understanding the Reason (R). The reason states that the President’s power supersedes the Governor’s power in cases involving the death penalty. This is correct because the Constitution explicitly places the President’s authority above that of the Governor in such cases. Step 3: Linking Assertion and Reason. Since the President’s power under Article 72 completely covers death sentence cases, the Reason correctly explains why the Assertion is true.",
-    "quickTip": "Remember: For death sentences, both the Governor (Art. 161) and the President (Art. 72) have powers, but the President’s power is superior."
+    "correctAnswer": "C",
+    "isModernized": false
   },
   {
     "id": "aibe20-q97",
