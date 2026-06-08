@@ -82,6 +82,8 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
 .mb-2 { margin-bottom: 8px; }
 .page-break { page-break-after: always; }
 
+
+.option-item:hover { background-color: var(--bg-glass); border-color: var(--gold-500); transform: translateY(-1px); box-shadow: 0 4px 12px rgba(201, 168, 76, 0.1); cursor: pointer; }
 </style>
 </head>
 <body>
@@ -1903,5 +1905,88 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div><strong>Legal Justification:</strong> Under BNSS, preliminary enquiries to determine whether a cognizable offence warrants investigation must be concluded within 14 days, forming the timeline to notify the informant of a decision not to proceed.</div>
         </div>
     </div></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const cards = document.querySelectorAll('.question-card');
+    
+    // First, identify the true correct answer for each card based on the existing correct badge
+    cards.forEach(card => {
+        const options = card.querySelectorAll('.option-item');
+        let correctAnswerNode = null;
+        
+        options.forEach(opt => {
+            const hasCorrectBadge = opt.innerHTML.includes('✓ Correct Answer') || opt.innerHTML.includes('✓ Your Correct Answer');
+            if (hasCorrectBadge) {
+                correctAnswerNode = opt;
+                opt.dataset.isCorrect = "true";
+            } else {
+                opt.dataset.isCorrect = "false";
+            }
+        });
+        
+        // Add click listeners
+        options.forEach(opt => {
+            opt.addEventListener('click', () => {
+                // Clear all previous states on this card
+                options.forEach(o => {
+                    o.classList.remove('correct', 'incorrect');
+                    const badge = o.querySelector('.badge-correct-opt, .badge-incorrect-opt');
+                    if (badge) badge.remove();
+                });
+                
+                // Check if clicked is correct
+                const isCorrect = opt.dataset.isCorrect === "true";
+                
+                if (isCorrect) {
+                    opt.classList.add('correct');
+                    opt.insertAdjacentHTML('beforeend', '<span class="badge-correct-opt">✓ Your Correct Answer</span>');
+                    
+                    // Update card border and badge
+                    card.classList.remove('incorrect-card', 'unanswered-card');
+                    card.classList.add('correct-card');
+                    
+                    const statusBadge = card.querySelector('.status-badge');
+                    statusBadge.className = 'status-badge badge-correct';
+                    statusBadge.innerText = 'Correct';
+                } else {
+                    opt.classList.add('incorrect');
+                    opt.insertAdjacentHTML('beforeend', '<span class="badge-incorrect-opt">✗ Your Answer</span>');
+                    
+                    // The true correct one must still be highlighted
+                    if (correctAnswerNode) {
+                        correctAnswerNode.classList.add('correct');
+                        correctAnswerNode.insertAdjacentHTML('beforeend', '<span class="badge-correct-opt">✓ Correct Answer</span>');
+                    }
+                    
+                    // Update card border and badge
+                    card.classList.remove('correct-card', 'unanswered-card');
+                    card.classList.add('incorrect-card');
+                    
+                    const statusBadge = card.querySelector('.status-badge');
+                    statusBadge.className = 'status-badge badge-incorrect';
+                    statusBadge.innerText = 'Incorrect';
+                }
+                
+                // Recalculate score
+                recalculateScore();
+            });
+        });
+    });
+    
+    function recalculateScore() {
+        const totalQuestions = cards.length;
+        const correctAnswers = document.querySelectorAll('.question-card.correct-card').length;
+        const percentage = Math.round((correctAnswers / totalQuestions) * 100);
+        
+        const scoreValues = document.querySelectorAll('.score-value');
+        if (scoreValues.length >= 3) {
+            scoreValues[0].innerText = correctAnswers;
+            scoreValues[2].innerText = percentage + '%';
+        }
+    }
+});
+</script>
 </body>
+
 </html>
