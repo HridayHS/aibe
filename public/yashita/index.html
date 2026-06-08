@@ -1,0 +1,1907 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AIBE 21 Results</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;700&display=swap" rel="stylesheet">
+<style>
+
+:root {
+  --bg-primary: #06090f;
+  --bg-secondary: #0c1220;
+  --bg-tertiary: #111827;
+  --bg-glass: rgba(12, 18, 32, 0.7);
+  --bg-glass-border: rgba(201, 168, 76, 0.12);
+  --gold-300: #e6c15a;
+  --gold-400: #d4a843;
+  --gold-500: #c9a84c;
+  --gold-600: #a68a3a;
+  --accent-300: #34d399;
+  --accent-400: #10b981;
+  --accent-red: #f87171;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-tertiary: #64748b;
+  --border-default: rgba(148, 163, 184, 0.12);
+  --shadow-gold: 0 4px 24px rgba(201, 168, 76, 0.15);
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  margin: 0; padding: 40px;
+}
+body::before {
+  content: ''; position: fixed; inset: 0;
+  background-image: radial-gradient(circle at 25% 25%, rgba(201, 168, 76, 0.03) 0%, transparent 50%), radial-gradient(circle at 75% 75%, rgba(52, 211, 153, 0.02) 0%, transparent 50%);
+  pointer-events: none; z-index: -1;
+}
+.container {
+  max-width: 900px; margin: auto;
+}
+h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-primary); font-weight: 700; margin-bottom: 5px; font-size: 32px; }
+.subtitle { text-align: center; color: var(--gold-400); font-size: 18px; margin-bottom: 40px; }
+.score-board { display: flex; justify-content: space-around; background: var(--bg-glass); border: 1px solid var(--bg-glass-border); color: white; padding: 20px; border-radius: 12px; margin-bottom: 40px; box-shadow: var(--shadow-gold); backdrop-filter: blur(16px); }
+.score-item { text-align: center; }
+.score-value { font-size: 36px; font-weight: 700; background: linear-gradient(135deg, var(--gold-300), var(--gold-500)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.score-label { font-size: 14px; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: 1px; }
+
+.question-card {
+  border-left: 4px solid var(--gold-500); padding: 20px; margin-bottom: 25px;
+  background: var(--bg-glass); backdrop-filter: blur(16px);
+  border-top: 1px solid var(--bg-glass-border);
+  border-right: 1px solid var(--bg-glass-border);
+  border-bottom: 1px solid var(--bg-glass-border);
+  border-radius: 0 12px 12px 0;
+}
+.correct-card { border-left-color: var(--accent-400); }
+.incorrect-card { border-left-color: var(--accent-red); }
+
+.q-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid var(--border-default); padding-bottom: 10px; }
+.q-num { font-size: 20px; font-weight: 700; color: var(--text-primary); }
+
+.status-badge { padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 700; text-transform: uppercase; }
+.badge-correct { background: rgba(52, 211, 153, 0.1); color: var(--accent-300); border: 1px solid rgba(52, 211, 153, 0.2); }
+.badge-incorrect { background: rgba(248, 113, 113, 0.1); color: var(--accent-red); border: 1px solid rgba(248, 113, 113, 0.2); }
+.badge-unanswered { background: rgba(148, 163, 184, 0.1); color: var(--text-secondary); border: 1px solid var(--border-default); }
+
+.q-text { margin-bottom: 15px; font-size: 16px; line-height: 1.6; color: var(--text-primary); }
+.options { margin-top: 15px; }
+
+.option-item { padding: 12px 16px; border-radius: 8px; border: 1px solid var(--border-default); margin-bottom: 10px; background-color: var(--bg-tertiary); color: var(--text-secondary); font-weight: 500; display: flex; align-items: center; justify-content: space-between; transition: all 0.2s ease; }
+.option-item.correct { background-color: rgba(52, 211, 153, 0.05); border-color: rgba(52, 211, 153, 0.3); color: var(--text-primary); }
+.option-item.incorrect { background-color: rgba(248, 113, 113, 0.05); border-color: rgba(248, 113, 113, 0.3); color: var(--text-primary); }
+
+.badge-correct-opt, .badge-incorrect-opt { font-size: 12px; padding: 4px 10px; border-radius: 20px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
+.badge-correct-opt { background: rgba(52, 211, 153, 0.2); color: var(--accent-300); }
+.badge-incorrect-opt { background: rgba(248, 113, 113, 0.2); color: var(--accent-red); }
+
+.details { background: var(--bg-tertiary); padding: 15px; border-radius: 8px; border: 1px solid var(--border-default); font-size: 14px; line-height: 1.6; color: var(--text-secondary); }
+.details strong { color: var(--gold-400); }
+.mb-2 { margin-bottom: 8px; }
+.page-break { page-break-after: always; }
+
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>AIBE 21 Examination</h1>
+    <div class="subtitle">Comprehensive Results & Legal Analysis Report</div>
+    
+    <div class="score-board">
+        <div class="score-item">
+            <div class="score-value">50</div>
+            <div class="score-label">Correct Answers</div>
+        </div>
+        <div class="score-item">
+            <div class="score-value">100</div>
+            <div class="score-label">Total Questions</div>
+        </div>
+        <div class="score-item">
+            <div class="score-value">50%</div>
+            <div class="score-label">Final Score</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 1</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">A contracts with B to construct a cold storage facility for 50 lakh within 6 months. After the expiry of the time period, B fails to perform the contract. A immediately hires C to complete the construction at 60 lakh and later files a suit against B claiming 10 lakh as the additional cost incurred. Which of the following statements is/correct under the Specific Relief Act, 1963?</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) A can recover only if the court first declares B guilty of breach.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(B) A must sue only for damages and not substituted performance.</span></div>
+                <div class="option-item"><span>(C) A can recover 10 lakh because B breached the contract</span></div>
+                <div class="option-item correct"><span>(D) A cannot recover the cost because A did not give B prior notice.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Specific Relief Act, 1963, Section 20(2)</div>
+            <div><strong>Legal Justification:</strong> Section 20(2) explicitly mandates that no substituted performance can be undertaken unless the aggrieved party has given a prior notice in writing of not less than thirty days to the party in breach. Since A immediately hired C without such notice, A cannot recover the additional costs under this provision.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 2</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Section 233 of the Companies Act, 2013, deals with "fast track merger". What is the time duration and the concerned authority for approval?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) 60-90 Days, Regional Director</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(B) 60-90 Days, NCLT</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) 1 Year, Regional Director</span></div>
+                <div class="option-item"><span>(D) 45-90 Days, NCLAT</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Companies Act, 2013, Section 233</div>
+            <div><strong>Legal Justification:</strong> Fast track mergers under Section 233 require approval from the Central Government, a power delegated to the Regional Director. The statutory timelines for seeking objections and filing declarations effectively prescribe a 60-90 day framework for the Regional Director to approve or refer the scheme to the NCLT.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 3</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Ramesh's job contract with M/s XYZ bars him from joining any rival software firm in India for three years post-resignation. But after resigning within three years, he joins a competitor. XYZ company filed a suit to enforce the restrictive clause. Under the Indian Contract Act, 1872, what is the legal position?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Valid-three years is a reasonable period.</span></div>
+                <div class="option-item"><span>(B) Valid-Ramesh agreed voluntarily.</span></div>
+                <div class="option-item correct"><span>(C) Void-restrains lawful profession after employment ends.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) Valid-protects the employer's business interest.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Contract Act, 1872, Section 27</div>
+            <div><strong>Legal Justification:</strong> Section 27 dictates that every agreement by which anyone is restrained from exercising a lawful profession, trade or business is, to that extent, void. Post-employment restrictive covenants are generally void regardless of reasonableness, prioritizing an individual's right to earn a livelihood.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 4</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under Section 105 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, what is now a mandatory requirement for the process of search and seizure conducted by the police?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The acquisition of a signed written confession from the occupant of the premises</span></div>
+                <div class="option-item correct"><span>(B) The documentation of the entire search and seizure process via audio-video electronic recording</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) The presence of a Judicial Magistrate during the search</span></div>
+                <div class="option-item"><span>(D) The presence of at least five local residents as independent witnesses</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, Section 105</div>
+            <div><strong>Legal Justification:</strong> Section 105 of the BNSS mandates that the process of search and seizure conducted by the police must be documented via audio-video electronic recording.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 5</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Read the following statements and choose the correct option. Under the Copyright Act, 1957:<br>Statement I: In the case of a posthumous literary work, copyright subsists for sixty years from the beginning of the calendar year next following the year in which the work is first published<br>Statement II: For such works, publication refers to making the work available to the public by issue of copies or by communication to the public.</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Only Statement I is true</span></div>
+                <div class="option-item"><span>(B) Both Statements I and II are false</span></div>
+                <div class="option-item correct"><span>(C) Both Statements I and II are true</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) Only Statement II is true</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Copyright Act, 1957, Sections 3 and 24</div>
+            <div><strong>Legal Justification:</strong> Section 24 provides that copyright in a posthumous work subsists for sixty years from the calendar year following the year of its first publication. Section 3 defines publication as making the work available to the public by issue of copies or communication to the public, affirming both statements as true.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 6</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Guardians and Wards Act, 1890, what condition applies for appointing a guardian for a married female minor?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The husband must be declared legally incompetent</span></div>
+                <div class="option-item incorrect"><span>(B) The husband must consent to such appointment</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) The parents must apply jointly for such appointment</span></div>
+                <div class="option-item correct"><span>(D) The husband must be considered unfit by the Court</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Guardians and Wards Act, 1890, Section 19(a)</div>
+            <div><strong>Legal Justification:</strong> Section 19(a) of the Guardians and Wards Act explicitly bars the court from appointing a guardian for the person of a married female minor unless her husband is, in the opinion of the Court, unfit to be the guardian.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 7</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Constitution of India, consider the following statements in the context of constitutional amendments:<br>I. Judicial review extends to constitutional amendments.<br>II. Laws inserted into the Ninth Schedule after 24th April, 1973 remain open to scrutiny for violation of the basic structure.<br>III. Parliament's amending power under Article 368 is unlimited.<br>Which of the above statements is/are correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) I, II and III</span></div>
+                <div class="option-item incorrect"><span>(B) I only</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(C) I and II</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) II and III</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Kesavananda Bharati v. State of Kerala (1973) 4 SCC 225, and I.R. Coelho v. State of T.N. (2007) 2 SCC 1</div>
+            <div><strong>Legal Justification:</strong> The Supreme Court established that judicial review extends to constitutional amendments to ensure they do not violate the Constitution's "basic structure," and expressly ruled that laws added to the Ninth Schedule after April 24, 1973, are not immune from such scrutiny, invalidating the claim of unlimited amending power under Article 368.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 8</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following is included in the Central Government's power under Section 3(2)(ii) of the Environment (Protection) Act, 1986?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Collection and dissemination of information in respect of matters relating to environmental pollution</span></div>
+                <div class="option-item"><span>(B) Laying down standards for the quality of the environment in its various aspects</span></div>
+                <div class="option-item"><span>(C) Carrying out and sponsoring investigations and research relating to problems of environmental pollution</span></div>
+                <div class="option-item correct"><span>(D) Planning and execution of a nation-wide programme for the prevention, control and abatement of environmental pollution</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Environment (Protection) Act, 1986, Section 3(2)(ii)</div>
+            <div><strong>Legal Justification:</strong> Section 3(2)(ii) explicitly lists the planning and execution of a nation-wide programme for the prevention, control and abatement of environmental pollution as a power of the Central Government.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 9</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">A State Government plans to acquire 50 acres of Scheduled Tribes (ST) land for an industrial park. As per the applicable law, the following steps are proposed: (i) Preliminary notification (ii) Social Impact Assessment (SIA) (iii) Gram Sabha consultation/consent (iv) Final notification. Which of the following statements is correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Final notification can be issued without Gram Sabha, with owner consent only.</span></div>
+                <div class="option-item"><span>(B) Gram Sabha is advisory only; consent is not needed for public projects.</span></div>
+                <div class="option-item"><span>(C) Final notification can come before SIA but after preliminary notification.</span></div>
+                <div class="option-item correct"><span>(D) SIA and Gram Sabha consultation/consent are mandatory for ST land; acquisition can't proceed without consent.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, Section 41</div>
+            <div><strong>Legal Justification:</strong> Section 41 strictly mandates that no acquisition of land in Scheduled Areas can proceed without the prior informed consent of the concerned Gram Sabha and the completion of a Social Impact Assessment.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 10</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Dowry Prohibition Act, 1961, what is the minimum term of imprisonment prescribed for giving or taking dowry?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Not less than ten years</span></div>
+                <div class="option-item"><span>(B) Not less than seven years</span></div>
+                <div class="option-item incorrect"><span>(C) Not less than three years</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(D) Not less than five years</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Dowry Prohibition Act, 1961, Section 3(1)</div>
+            <div><strong>Legal Justification:</strong> Section 3(1) of the Dowry Prohibition Act states that giving or taking dowry is punishable with imprisonment for a term which shall not be less than five years and a fine.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 11</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">A Magistrate of the Second Class passes a sentence of one month's imprisonment. The accused wants to appeal. Based on the Code of Criminal Procedure (CrPC), 1973, which of the following is true?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) An appeal lies only if a fine was also imposed.</span></div>
+                <div class="option-item incorrect"><span>(B) No appeal is maintainable in this specific instance.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(C) The accused is entitled to file an appeal before the Court of Session.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) The accused may prefer an appeal directly to the High Court.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Criminal Procedure (CrPC), 1973, Section 374(3)</div>
+            <div><strong>Legal Justification:</strong> Under Section 374(3), an appeal against a conviction by a Magistrate of the second class lies to the Court of Session. The bar on petty appeals under Section 376 does not restrict this as the sentence passed was one month's imprisonment.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 12</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">A executes a document in favour of B stating, "I hereby sell my house to B for 5,00,000/- If I repay the amount within 3 years, B shall retransfer the property to me; otherwise, the sale shall become absolute." The condition is included in the same document. A fails to repay within 3 years. B claims absolute ownership. Examine the correct legal position under the Transfer of Property Act, 1882.</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) It is a mortgage by conditional sale; B must seek foreclosure through court.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) It is a lease with an option to repurchase.</span></div>
+                <div class="option-item"><span>(C) The transaction is void for uncertainty.</span></div>
+                <div class="option-item"><span>(D) It is an outright sale; B becomes absolute owner automatically.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Transfer of Property Act, 1882, Section 58(c)</div>
+            <div><strong>Legal Justification:</strong> Section 58(c) defines a "mortgage by conditional sale" as a transaction where the mortgagor ostensibly sells the mortgaged property on the condition that on default of payment, the sale becomes absolute, provided such condition is embodied in the same document effecting the sale. Consequently, the mortgagee must seek foreclosure through the court.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 13</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">X takes a loan of 10,00,000 from Bank A. Y signs a contract as surety, promising to pay the bank if X defaults. After 3 months, Bank A agrees to reduce the interest rate and extends the repayment period by 6 months without informing Y. Subsequently, X defaults on the loan. Which of the following statements correctly describes Y's liability under the Indian Contract Act, 1872?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Y is liable only if the bank sues the principal debtor first, regardless of the modification.</span></div>
+                <div class="option-item correct"><span>(B) Y is not liable at all because the principal debtor defaulted after the contract modification.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) Y is fully liable for the entire loan because a surety is always liable once the principal debtor defaults.</span></div>
+                <div class="option-item incorrect"><span>(D) Y is partially discharged from liability because Bank A's modification increased the risk to Y without his consent.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Contract Act, 1872, Section 133</div>
+            <div><strong>Legal Justification:</strong> Section 133 mandates that any variance made without the surety's consent in the terms of the contract between the principal debtor and the creditor discharges the surety as to transactions subsequent to the variance. Hence, Y is fully discharged from liability for the default that occurred after the unnotified contract modification.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 14</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, has introduced a specific timeframe for the delivery of a judgment after the conclusion of arguments. What is that timeframe?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Within 90 days, provided the reasons for delay are recorded</span></div>
+                <div class="option-item correct"><span>(B) Within 30 days (extendable to 45 days)</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Within 60 days from the date of reserving the order</span></div>
+                <div class="option-item"><span>(D) Within a strict period of 15 days</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, Section 258</div>
+            <div><strong>Legal Justification:</strong> Section 258 of the BNSS mandates that a judgment must be pronounced within 30 days of the conclusion of arguments, which can be extended up to 45 days for recorded reasons.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 15</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In the following question, a Statement is followed by two Conclusions, I and II.<br>Statement: The Bar Council of India derives its rule-making power from Section 49(1)(c) of the Advocates Act, 1961, which authorises it to frame rules governing professional conduct and etiquette to be observed by advocates. Rule 20 framed thereunder categorically bars an advocate from stipulating for, or receiving, any fee whose quantum is dependent upon the outcome of litigation, or from entering into any arrangement to share in its proceeds. An advocate who contravenes this Rule is liable to be proceeded against under Section 35 of the Act.<br>Conclusion I: An advocate may lawfully enter into an outcome-linked fee arrangement so long as the client's written consent is obtained prior to the engagement.<br>Conclusion II: An advocate who violates the prohibition on contingency-based fees may face disciplinary action under the Advocates Act, 1961.<br>In the context of the above Statement and Conclusions, which one of the following is correct?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Only Conclusion II follows</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Only Conclusion I follows</span></div>
+                <div class="option-item"><span>(C) Neither Conclusion I nor II follows</span></div>
+                <div class="option-item"><span>(D) Both Conclusions I and II follow</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Advocates Act, 1961 and Bar Council of India Rules, Part VI, Chapter II, Rule 20</div>
+            <div><strong>Legal Justification:</strong> Rule 20 of the BCI Rules strictly prohibits advocates from stipulating for or receiving a fee contingent on the results of litigation, making such arrangements unlawful even with consent; thus, violating this rule subjects the advocate to disciplinary action under Section 35 of the Advocates Act.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 16</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The Bharatiya Sakshya Adhiniyam, 2023 is not applicable in which case?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) National Green Tribunal</span></div>
+                <div class="option-item"><span>(B) Income Tax Appellate Tribunal</span></div>
+                <div class="option-item correct"><span>(C) Arbitral Tribunal</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) National Company Law Tribunal</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Sakshya Adhiniyam, 2023, Section 1(2)</div>
+            <div><strong>Legal Justification:</strong> Section 1(2) of the BSA, 2023, unequivocally enumerates that its evidentiary provisions apply to judicial proceedings in or before any Court, but strictly do not apply to affidavits presented to any Court or officer, nor to proceedings before an arbitrator.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 17</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under Section 167 of the Code of Criminal Procedure (CrPC), 1973, 'Default Bail' (or statutory bail) is a right of the accused if the investigation is not completed:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) After a fixed period of 30 days for all types of offences</span></div>
+                <div class="option-item"><span>(B) Immediately following the completion of the initial 15-day police custody.</span></div>
+                <div class="option-item"><span>(C) Upon the expiry of 120 days specifically for offences against the State.</span></div>
+                <div class="option-item correct"><span>(D) After 60 days or 90 days, contingent upon the maximum punishment prescribed for the offence.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Criminal Procedure (CrPC), 1973, Section 167(2)</div>
+            <div><strong>Legal Justification:</strong> Section 167(2) grants an indefeasible right to default bail if the investigation is not completed within 90 days (for serious offences like death or life imprisonment) or 60 days (for other offences).</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 18</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In which of the following cases did Lord Wright observe that "the incalculable value of habeas corpus is that it enables the immediate determination of the applicant's freedom"?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Bugdaycay v. Secretary of State for the Home Department (1987) AC 514</span></div>
+                <div class="option-item correct"><span>(B) Greene v. Secretary of State for Home Affairs (1942) AC 284</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) Attorney General for Hong Kong v. Ng Yuen Shiu (1983) 2 AC 629</span></div>
+                <div class="option-item incorrect"><span>(D) Attorney General for New South Wales v. Trethowan (1932) AC 526</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Greene v. Secretary of State for Home Affairs (1942) AC 284</div>
+            <div><strong>Legal Justification:</strong> In this landmark judgment concerning executive detention, Lord Wright delivered the precise dictum, emphasizing the writ of habeas corpus as a swift and effective remedy against unlawful deprivation of liberty.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 19</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following Articles of the Constitution of India forms the primary legislative basis for the Parliament enacting the Air (Prevention and Control of Pollution) Act, 1981?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Article 252</span></div>
+                <div class="option-item"><span>(B) Article 233</span></div>
+                <div class="option-item correct"><span>(C) Article 253</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(D) None of the above</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Article 253 of the Constitution of India</div>
+            <div><strong>Legal Justification:</strong> Article 253 empowers Parliament to make laws for the whole or any part of the territory of India to implement international agreements and conventions, serving as the constitutional basis for enacting the Air Act, 1981, pursuant to the UN Conference on the Human Environment (Stockholm, 1972).</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 20</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the provisions of Section 362 of the Indian Penal Code (IPC), 1860, which of the following is not a mandatory legal requirement (ingredient) to constitute the offence of 'Abduction'?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The employment of physical force or the use of deceitful means</span></div>
+                <div class="option-item correct"><span>(B) The person abducted must be a minor</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Compelling or inducing a person to move from one place to another</span></div>
+                <div class="option-item"><span>(D) The classification of the act as a "continuing offence"</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Penal Code (IPC), 1860, Section 362</div>
+            <div><strong>Legal Justification:</strong> Section 362 defines "Abduction" simply as compelling or inducing any person to move by force or deceitful means. Unlike kidnapping, it does not mandate that the abducted person must be a minor.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 21</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The five Golden Principles with respect to Circumstantial Evidence were laid down in which Supreme Court Judgment?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Dr. Sunil Clifford Daniel v. State of Punjab (2012) 11 SCC 205</span></div>
+                <div class="option-item"><span>(B) Vasa Chandrasekhar Rao v. Ponna Satyanarayana & Anr., 2000 AIR SC 2138</span></div>
+                <div class="option-item correct"><span>(C) Sharad Birdhichand Sarda v. State of Maharashtra, 1984 AIR 1622</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(D) Dudh Nath Pandey v. State of U.P., 1981 SCC (2) 166</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Sharad Birdhichand Sarda v. State of Maharashtra, AIR 1984 SC 1622</div>
+            <div><strong>Legal Justification:</strong> This landmark Supreme Court judgment laid down the five golden principles ("Panchsheel") required to prove a case based purely on circumstantial evidence.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 22</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Ajeet Singh, a famous singer, enters into a contract with Yash Aditya Music Company agreeing to perform exclusively for them for 2 years and not to perform for any other company during that period. After one year, Ajeet Singh refuses to perform for Yash Aditya Music Company and begins performing for BR Chopra & Company. Yash Aditya Music Company files a suit seeking an injunction restraining Ajeet Singh from performing for BR Chopra & Company. Which of the following statements is correct under the Specific Relief Act, 1963?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The court must compel Ajeet Singh to sing for Yash Aditya Music Company.</span></div>
+                <div class="option-item correct"><span>(B) The injunction may be granted to enforce the negative covenant.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) The injunction must be refused because contracts of personal service cannot be enforced.</span></div>
+                <div class="option-item"><span>(D) Only damages can be granted.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Specific Relief Act, 1963, Section 42</div>
+            <div><strong>Legal Justification:</strong> Section 42 empowers the court to grant an injunction to perform a negative agreement even if it cannot compel specific performance of the affirmative agreement (such as contracts of personal service). Thus, the court can legally restrain Ajeet Singh from violating his exclusive negative covenant.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 23</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following innovative penal measures has been officially incorporated into the sentencing framework under Section 4 of the Bharatiya Nyaya Sanhita (BNS), 2023?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Community Service</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Compulsory forfeiture of ancestral property</span></div>
+                <div class="option-item"><span>(C) Life imprisonment without the possibility of parole</span></div>
+                <div class="option-item"><span>(D) Solitary confinement</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nyaya Sanhita (BNS), 2023, Section 4</div>
+            <div><strong>Legal Justification:</strong> Section 4(f) officially incorporates "community service" as a formally recognized penal measure and form of punishment in the sentencing framework.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 24</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In accordance with the provisions of the Code of Civil Procedure, 1908, where a court, while examining pleadings, finds certain averments to be unnecessary and capable of prejudicing or delaying the fair trial, the court, in such a case, may:</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Strike out such pleadings at any stage of proceedings.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Ignore such pleadings without passing any order.</span></div>
+                <div class="option-item"><span>(C) Direct amendment only after trial begins.</span></div>
+                <div class="option-item"><span>(D) Reject the plaint in entirety.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order VI Rule 16</div>
+            <div><strong>Legal Justification:</strong> Order VI Rule 16 vests the court with the discretionary authority, at any stage of the proceedings, to strike out or amend any matter in any pleading that is deemed unnecessary, scandalous, frivolous, vexatious, or likely to prejudice or delay the fair trial of the suit.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 25</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">During an India - Country X war, India declares X an enemy. A (an Indian citizen) enters into a contract to supply medicines to B (a citizen of X) via a neutral intermediary and a bank. Which of the following is most accurate under the Indian Contract Act, 1872?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Valid-goods are humanitarian and payment is via a neutral country.</span></div>
+                <div class="option-item correct"><span>(B) Void-trading with an enemy in war is prohibited and is against public policy.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Voidable-only the Government of India can cancel.</span></div>
+                <div class="option-item"><span>(D) Valid-unless the Government expressly cancels.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Contract Act, 1872, Section 23</div>
+            <div><strong>Legal Justification:</strong> An agreement to trade with an alien enemy during wartime is unequivocally opposed to public policy and void under Section 23. The involvement of a neutral intermediary does not legitimize trading with an enemy citizen, making the contract unenforceable.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 26</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under Section 35B of the Code of Civil Procedure, 1908, where a party fails to take a step required by the court on the date fixed, the court may:</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Impose costs as a precondition for allowing further prosecution.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Grant adjournment as a matter of right.</span></div>
+                <div class="option-item"><span>(C) Proceed with the suit without imposing any condition.</span></div>
+                <div class="option-item"><span>(D) Dismiss the suit.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Section 35B</div>
+            <div><strong>Legal Justification:</strong> Section 35B stipulates that if a party fails to take a required procedural step on the fixed date, the court may impose costs to reimburse the other party, and the payment of such costs shall explicitly be a condition precedent to the further prosecution of the suit or defence.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 27</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Uniform Civil Code Rules Uttarakhand, 2025, when is an application for declaration of legal heir(s) forwarded to the Registrar General?</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) After thirty days of receipt if the Registrar does not take action</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(B) After fifteen days of receipt if the Registrar does not take action</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) After ten days of receipt if the Registrar does not take action</span></div>
+                <div class="option-item"><span>(D) None of the above</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Uniform Civil Code Rules, Uttarakhand, 2025</div>
+            <div><strong>Legal Justification:</strong> Under the procedural rules of the Uttarakhand UCC, if a Sub-Registrar fails to take action on an application for the declaration of legal heirs within fifteen days of its receipt, the application is automatically forwarded to the Registrar General.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 28</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under which specific provision of the Bharatiya Nyaya Sanhita (BNS), 2023, has the definition of a 'Terrorist Act' been formally integrated into India's general penal legislation for the first time?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Section 121</span></div>
+                <div class="option-item correct"><span>(B) Section 113</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Section 109</span></div>
+                <div class="option-item"><span>(D) Section 152</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nyaya Sanhita (BNS), 2023, Section 113</div>
+            <div><strong>Legal Justification:</strong> Section 113 formally integrates the specific definition and punishment for a "Terrorist Act" directly into the general penal code for the first time.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 29</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Dowry Prohibition Act, 1961, within how many months from the date of marriage must dowry received before marriage be transferred to the woman?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Within three months</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Within five months</span></div>
+                <div class="option-item"><span>(C) Within six months</span></div>
+                <div class="option-item"><span>(D) Within seven months</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Dowry Prohibition Act, 1961, Section 6(1)(a)</div>
+            <div><strong>Legal Justification:</strong> Section 6(1)(a) explicitly mandates that if dowry was received by any person other than the woman before her marriage, it must be transferred to the woman within three months after the date of marriage.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 30</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Directions: The following question consists of two statements, one labelled as Assertion (A) and the other labelled as Reason (R). You are to examine these two statements carefully and decide if the Assertion (A) and the Reason (R) are individually true and if so, whether the Reason (R) is a correct explanation of the Assertion (A).<br>Assertion (A): Income-tax is levied on the total income of a person for the previous year.<br>Reason (R): Income earned during the previous year is assessed to tax in the immediately succeeding assessment year under the Income-tax Act, 1961.<br>Mark answer as:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) (A) is false, but (R) is true.</span></div>
+                <div class="option-item"><span>(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).</span></div>
+                <div class="option-item correct"><span>(C) Both (A) and (R) are true and (R) is the correct explanation of (A).</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) (A) is true, but (R) is false.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Income-tax Act, 1961, Section 4</div>
+            <div><strong>Legal Justification:</strong> Section 4(1) is the charging section which stipulates that income-tax shall be charged for a given assessment year in respect of the total income of the immediately preceding previous year. The assertion correctly identifies the base period, and the reason accurately explains the statutory assessment timeline.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 31</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Directions: The following question consists of two statements, one labelled as Assertion (A) and the other labelled as Reason (R). You are to examine these two statements carefully and decide if the Assertion (A) and the Reason (R) are individually true and if so, whether the Reason (R) is a correct explanation of the Assertion (A).<br>Assertion (A): The respondent was engaged as a Safai Karamchari in a charitable trust. The dispute originated when he was terminated due to repeated absence from duty. The trust challenged the award on the grounds that it was not an 'industry' under Section 2(j) of the Industrial Disputes Act, 1947, and therefore the worker was not a workman, making Section 25-F inapplicable.<br>Reason (R): The trust engaged in multifarious activities including commercial ventures and hired employees for commercial and charitable activities in an organized manner with proper remuneration.<br>In the context of the above Assertion and Reason under the Industrial Disputes Act, 1947, which one of the following is correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).</span></div>
+                <div class="option-item correct"><span>(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) (A) is true, but (R) is false.</span></div>
+                <div class="option-item"><span>(D) (A) is false, but (R) is true.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Industrial Disputes Act, 1947, Section 2(j); Bangalore Water Supply and Sewerage Board v. A. Rajappa (1978)</div>
+            <div><strong>Legal Justification:</strong> The Assertion correctly narrates the trust's ground for challenging the award, and the Reason correctly states the established legal principle that multifarious commercial activities make an entity an 'industry'. However, the Reason explains why the trust IS an industry (thereby defeating the challenge), rather than explaining why the trust raised the challenge in the first place.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 32</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following options correctly states the composition of a Disciplinary Committee of a Bar Council as prescribed under Section 9(1) of the Advocates Act, 1961?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Three members - all elected by the Council, with the most junior member serving as Chairman.</span></div>
+                <div class="option-item correct"><span>(B) Three members - two elected from the Council's membership and one co-opted advocate possessing the prescribed qualifications, who is not a member of the Council.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Five members - three elected by the Council and two co-opted senior advocates from outside the Council.</span></div>
+                <div class="option-item"><span>(D) Five members - all co-opted from advocates having not less than ten years' standing at the Bar.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Advocates Act, 1961, Section 9(1)</div>
+            <div><strong>Legal Justification:</strong> Section 9(1) of the Advocates Act expressly states that a Disciplinary Committee shall consist of three persons: two elected by the Council from its members, and one co-opted from among advocates possessing the prescribed qualifications who are not members of the Council.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 33</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the provisions of the Code of Civil Procedure, 1908, where a decree is passed against multiple defendants, one of whom was not served with summons and had no opportunity to contest, such a defendant may seek relief:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Only through an appeal against decree.</span></div>
+                <div class="option-item"><span>(B) Only by filing a separate suit.</span></div>
+                <div class="option-item correct"><span>(C) By applying for setting aside the ex-parte decree.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) Only through review before the same court.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order IX Rule 13</div>
+            <div><strong>Legal Justification:</strong> Order IX Rule 13 provides the exclusive statutory mechanism for a defendant against whom an ex-parte decree has been passed to directly apply to the court that passed the decree to have it set aside, upon demonstrating that summons was not duly served or they were prevented by sufficient cause.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 34</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Indian Penal Code (IPC), 1860, in which of the following scenarios does the "Right of Private Defence of the Body" extend to the extent of voluntarily causing death to the assailant?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) An assault committed with the specific intention of kidnapping or abducting a person</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) A case of theft where the value of the stolen property exceeds ₹10,000</span></div>
+                <div class="option-item"><span>(C) An act of criminal trespass occurring on open, vacant land</span></div>
+                <div class="option-item"><span>(D) A simple assault committed without the use of a weapon</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Penal Code (IPC), 1860, Section 100</div>
+            <div><strong>Legal Justification:</strong> Section 100 details the specific circumstances where the right of private defence of the body extends to causing death, which explicitly includes an assault with the intention of kidnapping or abducting.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 35</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">As per the Code of Civil Procedure, 1908, where the plaintiff in a civil suit fails to pay the requisite court fee or postal charges for service of summons within the time permitted by the court, the court may:</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) Stay the proceedings until service is effected.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(B) Proceed to decide the suit on merits.</span></div>
+                <div class="option-item correct"><span>(C) Dismiss the suit</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) Return the plaint for fresh presentation.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order IX Rule 2</div>
+            <div><strong>Legal Justification:</strong> Order IX Rule 2 explicitly mandates that where it is found on the fixed day that the summons has not been served upon the defendant directly in consequence of the plaintiff's failure to pay the requisite court-fee or postal charges, the Court may make an order that the suit be dismissed.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 36</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the scheme of the Constitution of India, once a Proclamation under Article 352 is in operation, Parliament may legislate on matters in the State List by virtue of:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Article 356</span></div>
+                <div class="option-item"><span>(B) Article 360</span></div>
+                <div class="option-item incorrect"><span>(C) Article 249</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(D) Article 250</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Article 250 of the Constitution of India</div>
+            <div><strong>Legal Justification:</strong> Article 250 explicitly states that while a Proclamation of Emergency is in operation, Parliament shall have the power to make laws for the whole or any part of the territory of India with respect to any of the matters enumerated in the State List.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 37</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The term "Public Interest Litigation (PIL)" was first used by:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Justice V.R. Krishna Iyer</span></div>
+                <div class="option-item incorrect"><span>(B) Justice P.N. Bhagwati</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) Prof. Upendra Baxi</span></div>
+                <div class="option-item correct"><span>(D) Prof. Abram Chayes</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Jurisprudential Origins of PIL (Prof. Abram Chayes)</div>
+            <div><strong>Legal Justification:</strong> While Justices Krishna Iyer and P.N. Bhagwati pioneered PIL in India, the term itself was originally coined and first used by American legal scholar Professor Abram Chayes to describe lawyers acting to vindicate broad public policies or rights.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 38</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Directions: The following question consists of two statements, one labelled as Assertion (A) and the other labelled as Reason (R). You are to examine these two statements carefully and decide if the Assertion (A) and the Reason (R) are individually true and if so, whether the Reason (R) is a correct explanation of the Assertion (A).<br>Assertion (A): The Constitution of India does not adopt a rigid separation of powers among the Legislature, Executive and Judiciary.<br>Reason (R): The constitutional framework incorporates a system of checks and balances, allowing limited functional overlap among the organs of the State.<br>In the context of the Constitution of India, which one of the following is correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Both (A) and (R) are true, but (R) is not the correct explanation of (A).</span></div>
+                <div class="option-item incorrect"><span>(B) (A) is false, but (R) is true.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(C) Both (A) and (R) are true, and (R) is the correct explanation of (A).</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) (A) is true, but (R) is false.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Ram Jawaya Kapur v. State of Punjab, AIR 1955 SC 549</div>
+            <div><strong>Legal Justification:</strong> The Supreme Court clarified that the Indian Constitution does not embrace a rigid separation of powers but rather differentiates functions, incorporating checks and balances that allow for functional overlap among the organs of the State.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 39</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the provisions of the Bharatiya Nyaya Sanhita (BNS), 2023, what is the current range of punishments available to a court for the offence of 'Defamation'?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Simple imprisonment, or fine, or both, or Community Service</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Rigorous imprisonment for 5 years</span></div>
+                <div class="option-item"><span>(C) Only a fine</span></div>
+                <div class="option-item"><span>(D) Only an apology in open court</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nyaya Sanhita (BNS), 2023, Section 356</div>
+            <div><strong>Legal Justification:</strong> Section 356(2) prescribes the punishment for defamation as simple imprisonment for a term up to two years, or with fine, or with both, or with community service.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 40</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which provision of the Code of Criminal Procedure (CrPC), 1973, provides a summary legal remedy for the maintenance of spouses, children, and parents who are unable to support themselves?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Section 320</span></div>
+                <div class="option-item correct"><span>(B) Section 125</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Section 107</span></div>
+                <div class="option-item"><span>(D) Section 144</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Criminal Procedure, 1973, Section 125</div>
+            <div><strong>Legal Justification:</strong> Section 125 of the CrPC explicitly provides a summary legal mechanism for claiming maintenance by wives, children, and parents who are unable to maintain themselves.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 41</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The case of Parmanand Katara v. Union of India (1989) is primarily associated with which of the following rights?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Right to life and personal liberty</span></div>
+                <div class="option-item correct"><span>(B) Right to emergency medical care</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Right to clean and healthy environment</span></div>
+                <div class="option-item"><span>(D) Right to speedy trial</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Pt. Parmanand Katara v. Union of India, AIR 1989 SC 2039</div>
+            <div><strong>Legal Justification:</strong> The Supreme Court held that every injured citizen brought for medical treatment is entitled to immediate medical aid to preserve life under Article 21, establishing the fundamental right to emergency medical care without procedural delays.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 42</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">According to the provisions of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, an accused person intending to apply for 'Plea Bargaining' must do so within how many days following the formal framing of charges?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) 7 days</span></div>
+                <div class="option-item"><span>(B) 15 days</span></div>
+                <div class="option-item correct"><span>(C) 30 days</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) 60 days</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, Section 290(1)</div>
+            <div><strong>Legal Justification:</strong> Section 290(1) mandates that an accused person who intends to apply for Plea Bargaining must file their application within a period of thirty days from the date of framing of charges.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 43</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the scheme of the Code of Civil Procedure, 1908, where proceedings are pending before a competent civil court, and an application is made seeking transfer of the case from one district to another district within the state, such transfer may be ordered:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Only by the court in which the suit is pending.</span></div>
+                <div class="option-item correct"><span>(B) By the High Court.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) Only after conclusion of trial.</span></div>
+                <div class="option-item incorrect"><span>(D) Only upon agreement between the parties.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Section 24</div>
+            <div><strong>Legal Justification:</strong> Under Section 24, while District Courts have the power to transfer suits among courts subordinate to them, the transfer of a case from one District Court to a completely different district within the state can only be ordered by the High Court.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 44</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Judicial intervention in arbitration proceedings is limited under Section 5 of the Arbitration and Conciliation Act, 1996. In which of the following situations may a court intervene?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) When procedural irregularity is alleged without specific provision under the Act.</span></div>
+                <div class="option-item"><span>(B) When the court considers the award unjust on facts.</span></div>
+                <div class="option-item correct"><span>(C) When the Act expressly permits such intervention.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) When both parties request supervision of proceedings.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Arbitration and Conciliation Act, 1996, Section 5</div>
+            <div><strong>Legal Justification:</strong> Section 5 heavily limits judicial intervention in arbitration proceedings, dictating that no judicial authority shall intervene "except where so provided in this Part." This enshrines the core principle of minimal judicial interference.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 45</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following statements is not true with respect to Section 65B of the Indian Evidence Act, 1872?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal, (2020) 7 SCC 1 - landmark judgment stands as the latest interpretation of the relevant provisions, offering a consistent approach in line with the legislative intent.</span></div>
+                <div class="option-item correct"><span>(B) In State (NCT of Delhi) v. Navjot Sandhu, reported in AIR 2005 SC 3820, the Hon'ble Supreme Court had held that courts could admit electronic records such as printouts and compact discs (CDs) as prima facie evidence without authentication.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(C) The requirement of a certificate under Section 65B(4) of the Indian Evidence Act, 1872 ("Evidence Act"), is a condition precedent to the admissibility of an electronic record in evidence.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(D) In P.V. Anvar v. P.K. Basheer, the court held that Section 65B is a "complete code" for electronic evidence.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> State (NCT of Delhi) v. Navjot Sandhu, AIR 2005 SC 3820; P.V. Anvar v. P.K. Basheer (2014) 10 SCC 473</div>
+            <div><strong>Legal Justification:</strong> The Supreme Court in *Navjot Sandhu* held that secondary evidence of electronic records could be given under Sections 63/65 without a 65B certificate, but it did not waive the fundamental requirement of "authentication". Additionally, this ruling was explicitly overruled by *Anvar v. Basheer*, making statement (B) technically false under prevailing law.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 46</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under Rule 8 of the Standards of Professional Conduct and Etiquette framed by the Bar Council of India, an advocate is prohibited from appearing before any court, tribunal or authority for or against an organisation or institution of which he is a member of its:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Sub-Committee</span></div>
+                <div class="option-item"><span>(B) General Body</span></div>
+                <div class="option-item correct"><span>(C) Executive Committee</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(D) Advisory Committee</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bar Council of India Rules, Part VI, Chapter II, Section I, Rule 8</div>
+            <div><strong>Legal Justification:</strong> Rule 8 expressly mandates that an advocate shall not appear before any court or authority for or against an organization or institution if they are a member of the Executive Committee of that organization.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 47</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following is not stated in Section 63(4) of the Bharatiya Sakshya Adhiniyam, 2023, with regard to a certificate to verify the authenticity of electronic evidence?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Qualification of an expert.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Signed by both the person in charge of the computer or communication device and an expert, with the certificate adhering to the format prescribed in the Adhiniyam's Schedule.</span></div>
+                <div class="option-item"><span>(C) The form specified in the Schedule requires that electronic evidence be accompanied by a 'hash value'.</span></div>
+                <div class="option-item"><span>(D) None of the above</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Sakshya Adhiniyam (BSA), 2023, Section 63(4)</div>
+            <div><strong>Legal Justification:</strong> Section 63(4) requires a certificate signed by both the person in charge and an expert, and mentions the format (including the hash value), but does not itself state or define the "qualification of an expert" (which falls under Section 39).</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 48</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The Information Technology Act, 2000, distinguishes between civil liability and criminal liability in cases of misuse of computer resources. In which of the following situations would such conduct attract criminal punishment rather than mere compensation?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) When the damage to computer resources exceeds a prescribed monetary limit</span></div>
+                <div class="option-item correct"><span>(B) When the act is done dishonestly or fraudulently in addition to unauthorised access</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) When access to a computer system is without permission, irrespective of intent</span></div>
+                <div class="option-item"><span>(D) When the affected party chooses to initiate criminal proceedings</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Information Technology Act, 2000, Section 66</div>
+            <div><strong>Legal Justification:</strong> While Section 43 provides for civil compensation for unauthorized access to computer resources, Section 66 escalates such unauthorized conduct to a criminal offence punishable by imprisonment and/or fine if the act is committed "dishonestly or fraudulently."</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 49</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">A, aged 80 years, executes a registered deed transferring a parcel of land to a trust with the conditions that, "The property shall be used forever for maintaining a public library and reading room for the residents of Village X. However, if at any time the property ceases to be used for this purpose, it shall revert to my heirs. Further, the income from the property shall accumulate for 50 years before being used for expansion of the library." Which of the following statements is most accurate in law?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The transfer is void because it violates the rule against perpetuity and the condition of accumulation beyond permissible limits.</span></div>
+                <div class="option-item"><span>(B) The transfer is valid as it falls within the exception for public benefit, but the accumulation clause is void to the extent it exceeds statutory limits.</span></div>
+                <div class="option-item correct"><span>(C) The transfer is valid in entirety, including the accumulation clause, because transfers for public purposes are fully exempt from all perpetuity-related restrictions.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(D) The entire transfer is void because the reversionary clause creates uncertainty and violates public policy.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Transfer of Property Act, 1882, Section 18</div>
+            <div><strong>Legal Justification:</strong> Section 18 creates a complete exception for transfers made for the benefit of the public (such as establishing a public library), categorically exempting them from the restrictions imposed by the rule against perpetuity (Section 14) and the rule against accumulation (Section 17).</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 50</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">What is the year did the mandatory pre-fitment of High Security Registration Plates (HSRP) for all new vehicles come into effect under the Motor Vehicles Act, 1988?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) 2018</span></div>
+                <div class="option-item correct"><span>(B) 2019</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) 2024</span></div>
+                <div class="option-item"><span>(D) 2023</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Motor Vehicles Act, 1988 (CMVR Notification)</div>
+            <div><strong>Legal Justification:</strong> The Ministry of Road Transport and Highways (MoRTH) issued a notification mandating the pre-fitment of High Security Registration Plates (HSRP) for all new vehicles sold on or after April 1, 2019.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 51</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In execution proceedings governed by the Code of Civil Procedure, 1908, where property of the judgment-debtor is attached and a third party raises a claim asserting independent title, such claim:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Must be decided by instituting a separate civil suit.</span></div>
+                <div class="option-item incorrect"><span>(B) Requires prior determination by the court which passed the decree.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) Can be decided only after completion of execution proceedings.</span></div>
+                <div class="option-item correct"><span>(D) Shall be adjudicated by the executing court.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order XXI Rule 58</div>
+            <div><strong>Legal Justification:</strong> Order XXI Rule 58(2) dictates that all questions regarding right, title, or interest in an attached property raised by any party or a third-party claimant shall be determined comprehensively by the executing court dealing with the claim, and not by instituting a separate suit.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 52</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Whether a landowner who enters into a Joint Development Agreement with a builder, contributing land in exchange for 50% of the developed property and a monetary deposit can file a complaint under the Consumer Protection Act, 2019 alleging construction defects and delay? Which of the following statements is most accurate?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) The landowner is a consumer unless profit motive is proven.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(B) The landowner is not a consumer as the transaction constitutes a commercial joint venture.</span></div>
+                <div class="option-item"><span>(C) The landowner is a consumer as he did not construct himself.</span></div>
+                <div class="option-item incorrect"><span>(D) The landowner is a consumer if defects exist, irrespective of the nature of the transaction.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Consumer Protection Act, 2019, Section 2(7) & Bunga Daniel Babu v. Sri Vasudeva Constructions (2016)</div>
+            <div><strong>Legal Justification:</strong> The Supreme Court has clarified that a landowner entering a Joint Development Agreement in exchange for a share of constructed area is a "consumer" availing a housing construction service, provided the transaction is for personal use and not for a "commercial purpose" (profit motive).</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 53</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The Supreme Court of India in Harish Chandra Tiwari v. Baiju, (2002) 2 SCC 67, while considering the appropriate punishment for misappropriation of a client's money by an advocate, held that:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Reprimand is the appropriate punishment for a first-time misappropriation, since removal from the roll would be disproportionate.</span></div>
+                <div class="option-item correct"><span>(B) Misappropriation of a client's money constitutes one of the gravest forms of professional misconduct and ordinarily warrants removal of the advocate's name from the State roll.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) A monetary penalty equal to double the amount misappropriated is the appropriate sanction under the Act.</span></div>
+                <div class="option-item"><span>(D) Suspension from practice for a period of five years is the standard sanction for misappropriation of client funds.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Harish Chandra Tiwari v. Baiju, (2002) 2 SCC 67; Advocates Act, 1961, Section 35</div>
+            <div><strong>Legal Justification:</strong> In this landmark judgment, the Supreme Court unequivocally ruled that misappropriation of a client's funds is among the gravest of professional misconducts, and ordinarily, the only appropriate punishment is the removal of the errant advocate's name from the State roll.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 54</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">According to Section 20 of the Arbitration and Conciliation Act, 1996, where the parties have not agreed on the place of arbitration, the arbitral tribunal shall determine it having regard to:</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Circumstances of the case, including the convenience of the parties.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Location of subject matter of dispute.</span></div>
+                <div class="option-item"><span>(C) Jurisdiction of the civil court alone.</span></div>
+                <div class="option-item"><span>(D) Place where the contract was executed.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Arbitration and Conciliation Act, 1996, Section 20(2)</div>
+            <div><strong>Legal Justification:</strong> Section 20(2) directs that failing an agreement by the parties regarding the seat, the arbitral tribunal shall determine the place of arbitration having regard to the circumstances of the case, explicitly including the convenience of the parties.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 55</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Patents Act, 1970, a patent is granted to an inventor in India. Which of the following correctly reflects a limitation on the patentee's rights under the law?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The patent becomes void if used by a government authority</span></div>
+                <div class="option-item"><span>(B) The patentee loses all rights once the invention is used by the Government</span></div>
+                <div class="option-item correct"><span>(C) The Government may use the invention for its own purposes without the consent of the patentee</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(D) The invention cannot be used by the Government without permission</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Patents Act, 1970, Section 47</div>
+            <div><strong>Legal Justification:</strong> Section 47 imposes explicit conditions on the grant of patents, stating that any patented machine, apparatus, or article may be imported or made by or on behalf of the Government purely for its own use without rendering the patent void or requiring consent.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 56</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Read the following statements and choose the correct option in the light of the Arbitration and Conciliation Act, 1996. A dispute arises regarding jurisdiction of the arbitral tribunal.<br>Statement I: The arbitral tribunal may rule on its own jurisdiction.<br>Statement II: A plea that the tribunal lacks jurisdiction shall be raised not later than the submission of the statement of defence, unless the arbitral tribunal permits a later plea.</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Both Statements I and II are true</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(B) Only Statement I is true</span></div>
+                <div class="option-item"><span>(C) Neither Statement I nor Statement II is true</span></div>
+                <div class="option-item incorrect"><span>(D) Only Statement II is true</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Arbitration and Conciliation Act, 1996, Section 16</div>
+            <div><strong>Legal Justification:</strong> Section 16(1) embodies the principle of kompetenz-kompetenz, empowering the tribunal to rule on its own jurisdiction. Section 16(2) mandates that pleas asserting the tribunal lacks jurisdiction must be raised no later than the submission of the statement of defence.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 57</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Regarding the offence of 'Criminal Conspiracy' as defined under Section 120A of the Indian Penal Code (IPC), 1860, which of the following statements is legally accurate?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) It is a substantive offence that is legally barred from being charged in conjunction with other substantive crime</span></div>
+                <div class="option-item correct"><span>(B) The mere agreement between parties is sufficient to constitute the offence if the intended crime is punishable by death or rigorous imprisonment.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) A minimum of five persons must participate to satisfy the legal definition</span></div>
+                <div class="option-item"><span>(D) A solitary individual's mere intention to commit a crime, even without an agreement with others, is sufficient for a conviction.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Penal Code (IPC), 1860, Section 120A</div>
+            <div><strong>Legal Justification:</strong> Under the proviso to Section 120A, mere agreement is sufficient to constitute criminal conspiracy if the agreement is to commit an offence (such as an offence punishable by death or rigorous imprisonment); no overt act is required in such cases.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 58</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Pursuant to the definition provided in Section 378 of the Indian Penal Code (IPC), 1860, which of the following constitutes an essential element of the offence of 'Theft'?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) The movement of movable property out of a person's possession without their consent</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) The requirement that the property must be removed from a public location exclusively</span></div>
+                <div class="option-item"><span>(C) The unauthorized movement of immovable property without the owner's consent</span></div>
+                <div class="option-item"><span>(D) The employment of physical force or criminal violence against a person</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Penal Code (IPC), 1860, Section 378</div>
+            <div><strong>Legal Justification:</strong> Section 378 explicitly defines theft as the act of intending to take dishonestly any movable property out of the possession of any person without their consent, and moving that property in order to such taking.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 59</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Code of Criminal Procedure (CrPC), 1973, which specific provision provides the legal definition for a 'Bailable Offence'?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Section 2(h)</span></div>
+                <div class="option-item"><span>(B) Section 2(c)</span></div>
+                <div class="option-item"><span>(C) Section 2(x)</span></div>
+                <div class="option-item correct"><span>(D) Section 2(a)</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Criminal Procedure (CrPC), 1973, Section 2(a)</div>
+            <div><strong>Legal Justification:</strong> Section 2(a) directly provides the legal definitions for both "bailable offence" and "non-bailable offence" under the CrPC.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 60</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In the following question, a Statement is followed by two Conclusions, I and II.<br>Statement: Section 5 of the Minimum Wages Act, 1948 gives a detailed procedure for fixing or revising minimum wages in respect of any scheduled employment. After considering the advice of the committees appointed, and all representations received by it before the date notified in the Gazette notification, the appropriate Government may by notification in the official gazette, fix or revise the minimum rates of wages.<br>Conclusion I: If a date is specified in the notification, the minimum rates shall come into force from such date.<br>Conclusion II: If no date is specified, then they shall come into force from the expiry of three months from the date of issue of the notification.<br>In the context of the above Statement and Conclusions, which one of the following is correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Only Conclusion II follows</span></div>
+                <div class="option-item correct"><span>(B) Both Conclusions I and II follow</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Neither Conclusion I nor II follows</span></div>
+                <div class="option-item"><span>(D) Only Conclusion I follows</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Minimum Wages Act, 1948, Section 5(2)</div>
+            <div><strong>Legal Justification:</strong> Section 5(2) expressly states that revised minimum rates of wages come into force from the date specified in the notification, or, if no such date is specified, on the expiry of three months from the date of the notification's issue. Both conclusions accurately reflect the black-letter law.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 61</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which is the landmark case which expanded the scope of Article 23 of the Constitution of India?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) PUDR v. Union of India, (1982) 3 SCC 235</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(B) Vishaka v. State of Rajasthan, (1997) 6 SCC 24</span></div>
+                <div class="option-item"><span>(C) M.C. Mehta v. State of Tamil Nadu, (1996) 6 SCC 756</span></div>
+                <div class="option-item incorrect"><span>(D) Glaxo Laboratories v. Presiding Officer, Labour Court, Meerut, (1984) I SCC 1</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> PUDR v. Union of India, (1982) 3 SCC 235; Constitution of India, Article 23</div>
+            <div><strong>Legal Justification:</strong> In PUDR v. Union of India (the Asiad Workers Case), the Supreme Court expanded the definition of "forced labour" under Article 23 to include situations where workers are compelled by economic circumstances to provide labour for remuneration that is less than the statutory minimum wage.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 62</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Special Marriage Act, 1954, what is the maximum fine that may be imposed for printing or publishing matter in contravention of provisions relating to in-camera proceedings?</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) Fine up to five hundred rupees</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(B) Fine up to one thousand rupees</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) Fine up to five thousand rupees</span></div>
+                <div class="option-item"><span>(D) Fine up to two thousand rupees</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Special Marriage Act, 1954, Section 33(2)</div>
+            <div><strong>Legal Justification:</strong> Section 33(2) of the Special Marriage Act strictly penalizes any person who prints or publishes matter relating to in-camera proceedings with a fine that may extend to one thousand rupees.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 63</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">"The rules of natural justice were not confined to the narrow precincts of the prevailing definition of quasi-judicial functions." This principle was laid down in which case?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Ridge v. Baldwin (1964) A.C. 40</span></div>
+                <div class="option-item"><span>(B) Conway v. Rimmer (1968) A.C. 910</span></div>
+                <div class="option-item"><span>(C) Maradana Mosque Trustees v. Mahmud (1967) (1) A.C. 13</span></div>
+                <div class="option-item correct"><span>(D) A.K. Kraipak v. Union of India AIR 1970 SC 150</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> A.K. Kraipak v. Union of India, AIR 1970 SC 150</div>
+            <div><strong>Legal Justification:</strong> Relying on the development in *Ridge v. Baldwin*, the Supreme Court of India in *Kraipak* erased the rigid distinction between administrative and quasi-judicial functions, holding that rules of natural justice are applicable to administrative functions as well to prevent miscarriage of justice.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 64</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Hindu Adoptions and Maintenance Act, 1956, which situation makes the consent of a wife unnecessary for adoption?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) She refuses consent due to personal disagreement.</span></div>
+                <div class="option-item correct"><span>(B) She has ceased to be a Hindu by conversion.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) She is living separately without legal separation.</span></div>
+                <div class="option-item"><span>(D) None of the above</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Hindu Adoptions and Maintenance Act, 1956, Section 7</div>
+            <div><strong>Legal Justification:</strong> The proviso to Section 7 expressly dispenses with the mandatory requirement of a wife's consent for adoption by a male Hindu if she has completely renounced the world, has ceased to be a Hindu by conversion, or has been judicially declared to be of unsound mind.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 65</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">According to Section 56(2)(x), of the Income-tax Act, 1961, if an individual receives a sum of money, without consideration, from a person other than a relative, and the amount exceeds the prescribed limit. What is the correct legal position?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) It is fully exempt from tax.</span></div>
+                <div class="option-item"><span>(B) It is taxable only if received in cash.</span></div>
+                <div class="option-item correct"><span>(C) It is taxable under the head 'Income from Other Sources'.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) It is treated as a capital receipt and is not taxable.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Income-tax Act, 1961, Section 56(2)(x)</div>
+            <div><strong>Legal Justification:</strong> Section 56(2)(x) dictates that any sum of money exceeding fifty thousand rupees received without consideration from a non-relative is fully taxable and legally must be classified and taxed under the residuary head "Income from Other Sources."</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 66</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Constitution of India, Parliament enacts legislation to implement India's obligations under an international environmental agreement. The subject ordinarily falls within the State List and no resolution under Article 252 has been passed. The source of Parliament's competence would be:</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) Article 249</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(B) Article 252</span></div>
+                <div class="option-item"><span>(C) Article 250</span></div>
+                <div class="option-item correct"><span>(D) Article 253</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Article 253 of the Constitution of India</div>
+            <div><strong>Legal Justification:</strong> Article 253 grants Parliament overriding competence to legislate on any subject, including those enumerated in the State List, for the purpose of implementing international treaties, agreements, or conventions.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 67</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under constitutional jurisprudence in India, repeated re-promulgation of Ordinances without placing them before the Legislature was described by the Supreme Court as a "fraud on the Constitution" in which decision?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) D.C. Wadhwa v. State of Bihar, AIR 1987 SC 579</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) R.C. Cooper v. Union of India, AIR 1970 SC 564</span></div>
+                <div class="option-item"><span>(C) Krishna Kumar Singh v. State of Bihar, (2017) 3 SCC 1</span></div>
+                <div class="option-item"><span>(D) Shamsher Singh v. State of Punjab, AIR 1974 SC 2192</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> D.C. Wadhwa v. State of Bihar, AIR 1987 SC 579</div>
+            <div><strong>Legal Justification:</strong> The Supreme Court explicitly ruled that the executive's repeated re-promulgation of ordinances without bringing them before the legislature constitutes a colorable exercise of power and a "fraud on the Constitution."</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 68</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following is not included in "The Industrial Relations Code, 2020"?</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) Industrial Employment (Standing Orders) Act, 1946</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(B) Industries (Development and Regulation) Act, 1951 (IDR Act)</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) Trade Unions Act, 1926</span></div>
+                <div class="option-item"><span>(D) Industrial Disputes Act, 1947</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> The Industrial Relations Code, 2020, Section 104</div>
+            <div><strong>Legal Justification:</strong> The Industrial Relations Code, 2020 expressly repeals and amalgamates the Trade Unions Act (1926), Industrial Employment (Standing Orders) Act (1946), and Industrial Disputes Act (1947), but it does not subsume the Industries (Development and Regulation) Act, 1951.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 69</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the law relating to land acquisition under the relevant laws in India, which of the following statements is not true?</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) All persons interested in the land in question shall appear personally before the Collector.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(B) The Collector shall publish the public notice on his website.</span></div>
+                <div class="option-item correct"><span>(C) Such interested persons may file objections within 6 months of the notice having been issued.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) A minimum notice period of 30 days is to be given to all the persons interested.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, Section 15</div>
+            <div><strong>Legal Justification:</strong> Section 15 of the Act provides that interested persons may file their objections within sixty days from the date of the publication of the preliminary notification, making the statement of a 6 months period legally false.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 70</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">On which specific date did the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, officially come into force, replacing the Code of Criminal Procedure, 1973?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) July 1, 2024</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(B) January 1, 2024</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) August 15, 2023</span></div>
+                <div class="option-item"><span>(D) December 25, 2023</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023</div>
+            <div><strong>Legal Justification:</strong> The Central Government officially notified that the BNSS, 2023 came into force on July 1, 2024, thereby replacing the CrPC of 1973.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 71</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In the context of the Constitution of India, a pension scheme differentiates between employees retiring before and after a specified cut-off date. Those excluded challenge the classification as arbitrary. The constitutional issue would primarily attract:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Doctrine of eclipse</span></div>
+                <div class="option-item correct"><span>(B) Article 14 and the principle of classification</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(C) Doctrine of severability</span></div>
+                <div class="option-item"><span>(D) Legislative competence of the State</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Article 14 (D.S. Nakara v. Union of India, AIR 1983 SC 130)</div>
+            <div><strong>Legal Justification:</strong> Creating arbitrary cut-off dates for pension eligibility divides a homogenous class of pensioners, which directly attracts scrutiny under Article 14's guarantee of equality and the test of reasonable classification.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 72</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">"Administrative law is the law concerning the powers and procedures of administrative agencies, including especially the law governing judicial review of administrative action." This definition was given by:</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) K.C. Davis</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(B) H.W.R. Wade</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) A.V. Dicey</span></div>
+                <div class="option-item"><span>(D) Ivor Jennings</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Kenneth Culp Davis, "Administrative Law Treatise"</div>
+            <div><strong>Legal Justification:</strong> American scholar Kenneth Culp Davis provided this exact, widely cited definition in his treatise, explicitly focusing on the powers, procedures of agencies, and the centrality of judicial review over administrative action.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 73</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In the following question, a Statement is followed by two Conclusions, I and II.<br>Statement: Allegations have been made by the Minority Shareholders that ABC's promoters sold the optionally convertible preference shares and redeemable preference shares to a trust controlled by ABC's promoters at prices significantly below their fair market value, thereby causing a financial loss to ABC and its shareholders. What is the recourse for minority shareholders under law?<br>Conclusion I: The Minority Shareholders can file for class action under Section 245 of the Companies Act, 2013, seeking directions from NCLT to either reverse the sale of optionally convertible preference shares and redeemable preference shares or to compensate the Minority Shareholders.<br>Conclusion II: The aggrieved members may proceed individually to protect their rights against acts of oppression or mismanagement under Section 241 of the Companies Act, 2013.<br>In the context of the above Statement and Conclusions, which one of the following is correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Only Conclusion I follows</span></div>
+                <div class="option-item incorrect"><span>(B) Neither Conclusion I nor II follows</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) Only Conclusion II follows</span></div>
+                <div class="option-item correct"><span>(D) Both Conclusions I and II follow</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Companies Act, 2013, Sections 241 and 245</div>
+            <div><strong>Legal Justification:</strong> Minority shareholders have overlapping statutory remedies; they can individually invoke Section 241 against oppressive acts to seek equitable relief from the NCLT under Section 242, and simultaneously institute a class action under Section 245 to claim compensation or damages from promoters for fraudulent conduct.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 74</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Directions: The following question consists of two statements, one labelled as Assertion (A) and the other labelled as Reason (R). You are to examine these two statements carefully and decide if the Assertion (A) and the Reason (R) are individually true and if so, whether the Reason (R) is a correct explanation of the Assertion (A).<br>Assertion (A): An ex parte decree may be set aside if the defendant satisfies the court that he was prevented by sufficient cause from appearing when the suit was called for hearing.<br>Reason (R): Under Order IX Rule 13 of the Code of Civil Procedure, 1908, the court must be satisfied that the summons was not duly served or that the defendant was prevented by sufficient cause from appearing when the suit was called for hearing.<br>Mark your answer as:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Both (A) and (R) are true, but (R) is not the correct explanation of (A).</span></div>
+                <div class="option-item"><span>(B) (A) is false, but (R) is true.</span></div>
+                <div class="option-item correct"><span>(C) Both (A) and (R) are true and (R) is the correct explanation of (A).</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) (A) is true, but (R) is false.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order IX Rule 13</div>
+            <div><strong>Legal Justification:</strong> Order IX Rule 13 categorically provides that an ex parte decree shall be set aside if the court is satisfied either that the summons was not duly served or that the defendant was prevented by sufficient cause from appearing, making the Reason a direct statutory confirmation of the Assertion.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 75</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">As per the Consumer Protection Act, 2019, what are one-sided agreements?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Unilateral contracts</span></div>
+                <div class="option-item incorrect"><span>(B) Quasi contracts</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) Unconscionable</span></div>
+                <div class="option-item correct"><span>(D) Unfair trade practices</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Consumer Protection Act, 2019 & Pioneer Urban Land and Infrastructure Ltd. v. Govindan Raghavan (2019)</div>
+            <div><strong>Legal Justification:</strong> While the 2019 Act formally introduced the term "unfair contract", the Supreme Court has consistently interpreted ex-facie one-sided, abusive clauses in standard form consumer agreements as oppressive, unconscionable, and constituting an "unfair trade practice" under consumer protection jurisprudence.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 76</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Indian Christian Marriage Act, 1872, between which hours must a marriage generally be solemnized?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Between six in the morning and nine in the evening</span></div>
+                <div class="option-item incorrect"><span>(B) Between seven in the morning and eight in the evening</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(C) Between six in the morning and seven in the evening</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) Between five in the morning and six in the evening</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Indian Christian Marriage Act, 1872, Section 10</div>
+            <div><strong>Legal Justification:</strong> Section 10 explicitly mandates that every marriage solemnized under the Act shall occur between the hours of six in the morning and seven in the evening, subject to specific exceptions by special license.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 77</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following statements are correct with reference to withdrawal and abandonment of suits under the Code of Civil Procedure, 1908?<br>I. A plaintiff may withdraw or abandon a suit subject to the provisions of law.<br>II. Institution of a fresh suit on the same cause of action requires permission of the court.<br>III. Withdrawal of a suit without permission of the court to institute a fresh suit bars a subsequent suit on the same cause of action<br>IV. The court must grant permission whenever such request is made.<br>Which of the above statements are correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) II, III and IV</span></div>
+                <div class="option-item incorrect"><span>(B) I, III and IV</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) I, II, III and IV</span></div>
+                <div class="option-item correct"><span>(D) I, II and III</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order XXIII Rule 1</div>
+            <div><strong>Legal Justification:</strong> Order XXIII Rule 1 permits a plaintiff to abandon a suit (Statement I), but firmly precludes the institution of a fresh suit on the same cause of action if the withdrawal lacked the prior permission of the court (Statement III). Consequently, instituting a fresh suit mandates court permission (Statement II). Statement IV is legally false as such permission is purely discretionary.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 78</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">A, an 18-year-old adult of sound mind, executes a written instrument in favour of B stating, "I promise to pay B 75,000 on 1st April next year." A is fully competent, has signed the note, and the instrument contains all essential elements of a promissory note. B sues A for recovery after 1st April when A defaults. Examine the correct legal position.</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The promissory note is void because it does not mention the consideration.</span></div>
+                <div class="option-item"><span>(B) The promissory note is voidable at A's option since A is only 18 years of age.</span></div>
+                <div class="option-item incorrect"><span>(C) The promissory note is valid only if a third party signs as witness.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(D) The promissory note is valid; A is liable to pay B.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Negotiable Instruments Act, 1881, Section 118(a) & Indian Majority Act, 1875, Section 3</div>
+            <div><strong>Legal Justification:</strong> Under the Indian Majority Act, an 18-year-old is a major and fully competent to contract. Section 118(a) of the NI Act establishes a legal presumption that every negotiable instrument was made for consideration, negating the need to explicitly write it, making the promissory note valid and binding.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 79</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">The adoption of an Ombudsman-type institution in India was first recommended by which of the following?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Santhanam Committee, 1964</span></div>
+                <div class="option-item"><span>(B) India Against Corruption Movement, 2011</span></div>
+                <div class="option-item"><span>(C) Administrative Reforms Commission, 2005</span></div>
+                <div class="option-item correct"><span>(D) Administrative Reforms Commission, 1966</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> First Administrative Reforms Commission (1966-1970)</div>
+            <div><strong>Legal Justification:</strong> Headed initially by Morarji Desai, the ARC formally recommended the establishment of a two-tier Ombudsman system in India, comprising the Lokpal at the Centre and Lokayuktas at the State level to tackle maladministration.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 80</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the constitutional framework of India, the Supreme Court gradually relaxed the traditional rule of locus standi, thereby allowing public-spirited individuals to approach the Court for enforcement of fundamental rights of others. This development is most closely associated with:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Judicial review of administrative action.</span></div>
+                <div class="option-item"><span>(B) Expansion of writ jurisdiction under Article 226.</span></div>
+                <div class="option-item correct"><span>(C) The evolution of Public Interest Litigation.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) Enforcement of fundamental rights through individual petitions alone.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Public Interest Litigation (PIL) Jurisprudence</div>
+            <div><strong>Legal Justification:</strong> The deliberate relaxation of the strict, traditional rule of *locus standi* to enable public-spirited individuals or groups to enforce the fundamental rights of marginalized sections forms the very foundation of Public Interest Litigation in India.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 81</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Information Technology Act, 2000, the term 'electronic record' includes which of the following?<br>I. Data stored in digital form<br>II. Image or sound stored or transmitted electronically<br>III. Information generated in microfilm or computer-generated microfiche<br>IV. Information recorded only on paper without electronic processing<br>Which of the above are correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) I and II</span></div>
+                <div class="option-item"><span>(B) II, III and IV</span></div>
+                <div class="option-item correct"><span>(C) I, II and III</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) I, II, III and IV</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Information Technology Act, 2000, Section 2(1)(t)</div>
+            <div><strong>Legal Justification:</strong> Section 2(1)(t) explicitly defines an "electronic record" to include data, record or data generated, image or sound stored, received or sent in an electronic form, or micro film or computer generated micro fiche. Non-electronic, purely paper-based information is legally excluded.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 82</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">An assessee pays a medical insurance premium for himself and his family and claims a deduction while computing total income. What is the correct position under the Income Tax Act, 1961?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Deduction is allowed subject to prescribed limits and conditions</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(B) Deduction is allowed without any monetary limit</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) Deduction is not permitted in such cases</span></div>
+                <div class="option-item"><span>(D) Deduction is allowed only for senior citizens</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Income-tax Act, 1961, Section 80D</div>
+            <div><strong>Legal Justification:</strong> Section 80D expressly permits an assessee to claim a deduction from their gross total income for medical insurance premiums paid for themselves and their family, subject strictly to the prescribed monetary limits and specified payment modes outlined in the statute.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 83</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Bharatiya Nyaya Sanhita (BNS), 2023, 'Forfeiture of Property' is listed as a punishment. In which specific case is this most commonly applied?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Organized Crime (Section 111)</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(B) Offences involving simple hurt or minor physical injury</span></div>
+                <div class="option-item incorrect"><span>(C) Cases of rash or negligent driving</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(D) Instances of minor or petty theft</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nyaya Sanhita (BNS), 2023, Section 111</div>
+            <div><strong>Legal Justification:</strong> Section 111 creates the specific offence of Organized Crime and uniquely provides the punishment of "forfeiture of property" associated with such crime.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 84</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which provision of the Code of Criminal Procedure (CrPC), 1973, stipulates that a police officer must produce a person arrested without a warrant before a Magistrate within a maximum period of 24 hours?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Section 57</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(B) Section 51</span></div>
+                <div class="option-item"><span>(C) Section 164</span></div>
+                <div class="option-item"><span>(D) Section 41</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Criminal Procedure (CrPC), 1973, Section 57</div>
+            <div><strong>Legal Justification:</strong> Section 57 strictly mandates that no police officer shall detain in custody a person arrested without warrant for a longer period than 24 hours, excluding the time necessary for the journey to the Magistrate's court.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 85</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following is not a document as per the Bharatiya Sakshya Adhiniyam, 2023?</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Private papers</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item incorrect"><span>(B) Caricature</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) Inscription</span></div>
+                <div class="option-item"><span>(D) Map</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Sakshya Adhiniyam (BSA), 2023, Section 2(1)(d)</div>
+            <div><strong>Legal Justification:</strong> Section 2(1)(d) contains specific statutory illustrations of what constitutes a document (including a map, an inscription on stone, and a caricature). "Private papers" is absent from this list of illustrations.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 86</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">According to Section 10(37), of the Income-tax Act, 1961, compensation is received by an individual on compulsory acquisition of agricultural land which had been used for agricultural purposes by him prior to acquisition. What is the correct legal position?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) It is taxable as business income.</span></div>
+                <div class="option-item"><span>(B) It is taxable only if it exceeds a prescribed limit.</span></div>
+                <div class="option-item incorrect"><span>(C) It is always taxable under the Act.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(D) It is exempt, subject to fulfilment of prescribed conditions.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Income-tax Act, 1961, Section 10(37)</div>
+            <div><strong>Legal Justification:</strong> Section 10(37) specifically exempts capital gains arising to an individual or HUF from the compulsory acquisition of urban agricultural land, legally conditioned upon the land having been used for agricultural purposes during the two years immediately preceding the transfer.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 87</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Code of Civil Procedure, 1908, where a suit is instituted against a person who is subsequently found to have been wrongly impleaded as a defendant, the court may:</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) Direct the plaintiff to institute a fresh suit.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(B) Dismiss the suit as not maintainable.</span></div>
+                <div class="option-item correct"><span>(C) Permit substitution or addition of the proper defendant.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) Return the plaint on the ground of mis-joinder of parties.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order I Rule 10(2)</div>
+            <div><strong>Legal Justification:</strong> Order I Rule 10(2) grants the court the explicit power, at any stage of the proceedings, to order that the name of any party improperly joined be struck out, and that the name of any person who ought to have been joined (the proper defendant) be added.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 88</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the scheme of distribution of legislative powers in the Constitution of India, a subject which is not enumerated in either the State List or the Concurrent List falls within the residuary field of legislation. Such residuary power is vested in:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) The State Legislatures</span></div>
+                <div class="option-item"><span>(B) The President of India</span></div>
+                <div class="option-item correct"><span>(C) The Parliament</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) The Supreme Court of India</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Article 248 of the Constitution of India</div>
+            <div><strong>Legal Justification:</strong> Article 248 explicitly vests the exclusive residuary power of legislationÃ¢â‚¬â€encompassing any matter not enumerated in the Concurrent List or State ListÃ¢â‚¬â€solely in Parliament.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 89</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Read the following statements and choose the correct option.<br>Statement I: Ossification test is the final test to analyze bone fusion for estimating the age of a juvenile as per law.<br>Statement II: Statutory documents like a birth certificate will be given precedence to determine the juvenile.<br>In the context of the above statements under the Indian Evidence Act, 1872, which one of the following options is correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Both Statements I and II are false</span></div>
+                <div class="option-item"><span>(B) Both Statements I and II are true</span></div>
+                <div class="option-item"><span>(C) Only Statement I is true</span></div>
+                <div class="option-item correct"><span>(D) Only Statement II is true</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Juvenile Justice (Care and Protection of Children) Act, 2015, Section 94</div>
+            <div><strong>Legal Justification:</strong> Courts have consistently held that the ossification test is not definitive. By law, statutory documents like birth certificates or matriculation certificates take absolute precedence over medical tests in determining a juvenile's age.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 90</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">According to Section 25(b) of the Arbitration and Conciliation Act, 1996, where the respondent fails to submit his statement of defence without sufficient cause, the arbitral tribunal shall:</p>
+            <div class="options">
+                <div class="option-item correct"><span>(A) Continue the proceedings without treating such failure as admission.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(B) Treat the claimant's allegations as admitted.</span></div>
+                <div class="option-item"><span>(C) Proceed to decide the dispute treating the claimant's case as uncontroverted.</span></div>
+                <div class="option-item incorrect"><span>(D) Terminate the proceedings.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Arbitration and Conciliation Act, 1996, Section 25(b)</div>
+            <div><strong>Legal Justification:</strong> Under Section 25(b), if the respondent fails to communicate their statement of defence without sufficient cause, the arbitral tribunal is legally mandated to continue the proceedings without treating that failure in itself as an admission of the claimant's allegations.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 91</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under the Parsi Marriage and Divorce Act, 1936, for what duration can maintenance be awarded?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) For a maximum of five years only</span></div>
+                <div class="option-item incorrect"><span>(B) For a fixed term not exceeding ten years</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) For a period determined solely by the Registrar</span></div>
+                <div class="option-item correct"><span>(D) For a term not exceeding the life of the plaintiff</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Parsi Marriage and Divorce Act, 1936, Section 40(1)</div>
+            <div><strong>Legal Justification:</strong> Section 40(1) permits the Court to order the payment of permanent alimony and maintenance "for a term not exceeding the life of the plaintiff", provided the applicant remains unmarried and chaste.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 92</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following does not fall under the framework of presumption under Section 2 of the Bharatiya Sakshya Adhiniyam, 2023?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Conclusive proof</span></div>
+                <div class="option-item"><span>(B) May be</span></div>
+                <div class="option-item"><span>(C) Shall presume</span></div>
+                <div class="option-item correct"><span>(D) Unassailable proof</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Sakshya Adhiniyam, 2023, Section 2</div>
+            <div><strong>Legal Justification:</strong> Section 2 of the BSA exclusively categorizes evidentiary presumptions into three precise legal terms: "May presume," "Shall presume," and "Conclusive proof." The term "Unassailable proof" is foreign to this statutory framework.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 93</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">According to the Code of Civil Procedure, 1908, where a suit has abated due to failure to bring legal representatives on record within the prescribed time, the court may set aside such abatement if the plaintiff shows:</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) That the defendant had knowledge of death.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(B) Error apparent on the face of record</span></div>
+                <div class="option-item correct"><span>(C) Sufficient cause for not making the application within time</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) That decree has not yet been passed.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Code of Civil Procedure, 1908, Order XXII Rule 9(2)</div>
+            <div><strong>Legal Justification:</strong> Order XXII Rule 9(2) allows the court to set aside the abatement or dismissal of a suit upon proof that the person claiming to be the legal representative was prevented by any "sufficient cause" from continuing the suit or making the application within the prescribed period of limitation.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 94</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">A mandatory PUC Certificate is provided under which Section and Rule?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Section 177(3) of the Motor Vehicles Act, 1988 and Rules 117 and 118 of the Centre Motor Vehicles Rules, 1989</span></div>
+                <div class="option-item incorrect"><span>(B) Section 160(1) of the Motor Vehicles Act, 1988 and Rules 109 and 110 of the Centre Motor Vehicles Rules, 1989.</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) Section 120(3) of the Motor Vehicles Act, 1988 and Rules 122 and 123 of the Centre Motor Vehicles Rules, 1989</span></div>
+                <div class="option-item correct"><span>(D) Section 190(2) of the Motor Vehicles Act, 1988 and Rules 115 and 116 of the Centre Motor Vehicles Rules, 1989</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Motor Vehicles Act, 1988, Section 190(2) & CMVR, 1989, Rules 115 and 116</div>
+            <div><strong>Legal Justification:</strong> Section 190(2) prescribes penalties for violating emission standards, while Rules 115 and 116 of the Central Motor Vehicles Rules explicitly deal with the mandatory requirements and testing for the Pollution Under Control (PUC) certificate.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 95</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under Article 143 of the Constitution of India, the President may seek the opinion of the Supreme Court on questions of law or fact of public importance. The opinion rendered by the Court in such a reference is generally regarded as:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Enforceable through contempt jurisdiction</span></div>
+                <div class="option-item incorrect"><span>(B) Equivalent to a decree of the Court</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item"><span>(C) A binding precedent under Article 141</span></div>
+                <div class="option-item correct"><span>(D) Advisory in nature and not strictly binding</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Article 143 of the Constitution of India (Special Reference No. 1 of 1964)</div>
+            <div><strong>Legal Justification:</strong> The Supreme Court has repeatedly affirmed that opinions rendered under its advisory jurisdiction (Article 143) are not strictly binding as law declared under Article 141, although they carry immense persuasive value.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 96</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">What do you mean by 'onus probandi'?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) Actual evidence, documents, or witnesses presented to substantiate that claim.</span></div>
+                <div class="option-item"><span>(B) The prosecution in a criminal case must prove beyond a reasonable doubt, not only a criminal act, but also a certain level of a guilty mind (mens rea), specified in the criminal statute.</span></div>
+                <div class="option-item correct"><span>(C) 'Burden of proof which places the responsibility on the party making an affirmative claim to substantiate it with evidence.</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) "The fact to be proved" or the "ultimate fact" that needs to be established in a legal case, such as the core elements of a crime or a cause of action.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Evidentiary Principles (Burden of Proof)</div>
+            <div><strong>Legal Justification:</strong> The Latin maxim "onus probandi" translates directly to the "burden of proof," encapsulating the foundational evidentiary principle that the responsibility always lies on the party asserting an affirmative claim to substantiate it with credible evidence.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 97</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Directions: The following question consists of two statements, one labelled as Assertion (A) and the other labelled as Reason (R). You are to examine these two statements carefully and decide if the Assertion (A) and the Reason (R) are individually true and if so, whether the Reason (R) is a correct explanation of the Assertion (A).<br>Assertion (A): The right to privacy has been judicially recognised as an integral part of Article 21 of the Constitution of India.<br>Reason (R): Privacy is expressly enumerated as a separate Fundamental Right in Part III of the Constitution of India.<br>In the context of the Constitution of India and the decision in Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1, which one of the following is correct?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) (A) is false, but (R) is true.</span></div>
+                <div class="option-item correct"><span>(B) (A) is true, but (R) is false.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) Both (A) and (R) are true, and (R) is the correct explanation of (A).</span></div>
+                <div class="option-item incorrect"><span>(D) Both (A) and (R) are true, but (R) is not the correct explanation of (A).</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1</div>
+            <div><strong>Legal Justification:</strong> A nine-judge bench unanimously held that the right to privacy is intrinsically protected under Article 21's guarantee of life and personal liberty, but it is not expressly enumerated as a separate and distinct right in the text of Part III.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 98</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">In Roman jurisprudence, the concept similar to the Rule of Law was referred to as:</p>
+            <div class="options">
+                <div class="option-item incorrect"><span>(A) Jus Civile</span><span class="badge-incorrect-opt">✗ Your Answer</span></div>
+                <div class="option-item correct"><span>(B) Jus Naturale</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(C) Lex Regia</span></div>
+                <div class="option-item"><span>(D) Jus Gentium</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Jurisprudence / Roman Law</div>
+            <div><strong>Legal Justification:</strong> In Roman jurisprudence, Jus Naturale embodied the principles of universal justice and natural reason that stood above man-made law, effectively serving as the philosophical counterpart to the modern Rule of Law.</div>
+        </div>
+    </div>    <div class="question-card incorrect-card">
+        <div class="q-header">
+            <div class="q-num">Question 99</div>
+            <div class="status-badge badge-incorrect">Incorrect</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Which of the following statements is not an example of the eggshell skull rule as per the law of torts?</p>
+            <div class="options">
+                <div class="option-item"><span>(A) A boy kicked another from across the aisle in the classroom. It turned out that the victim had an unknown microbial condition that was irritated, and resulted in him entirely losing the use of his leg.</span></div>
+                <div class="option-item"><span>(B) Nervous shock cases are also consistent with this principle. The rule is that if injury from nervous shock is reasonably foreseeable to an ordinarily strong-nerved person situated in the position of the claimant, the defendant is liable for the full extent of the shock.</span></div>
+                <div class="option-item correct"><span>(C) 'A' underwent an appendectomy in a hospital. Despite the surgery going as planned, she continued to experience abdominal pain. It was later discovered that a needle had been left inside her abdomen, leading to further surgeries and prolonged suffering.</span><span class="badge-correct-opt">✓ Correct Answer</span></div>
+                <div class="option-item"><span>(D) A man had a heart attack and died after being bruised in the chest during a rear-end car accident.</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Law of Torts (Eggshell Skull Rule vs. Res Ipsa Loquitur)</div>
+            <div><strong>Legal Justification:</strong> The eggshell skull rule (or thin-skull rule) asserts that a tortfeasor takes their victim as they find them, bearing liability for unforeseeable harm severity caused by the victim's pre-existing peculiar vulnerability. Leaving a needle in an abdomen during surgery is an act of direct medical negligence (res ipsa loquitur) and involves no pre-existing physical susceptibility of the patient.</div>
+        </div>
+    </div>    <div class="question-card correct-card">
+        <div class="q-header">
+            <div class="q-num">Question 100</div>
+            <div class="status-badge badge-correct">Correct</div>
+        </div>
+        <div class="q-text">
+            <p style="margin-top: 0; font-weight: 500;">Under Section 173 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, if a police officer-in-charge determines that an investigation is not warranted because the case lacks sufficient gravity, they are legally obligated to notify the informant of this decision within:</p>
+            <div class="options">
+                <div class="option-item"><span>(A) 24 hours</span></div>
+                <div class="option-item"><span>(B) 7 days</span></div>
+                <div class="option-item correct"><span>(C) 14 days</span><span class="badge-correct-opt">✓ Your Correct Answer</span></div>
+                <div class="option-item"><span>(D) 30 days</span></div>
+            </div>
+        </div>
+        <div class="details">
+            <div class="mb-2"><strong>Statute / Case Law:</strong> Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, Section 173(3) & 176</div>
+            <div><strong>Legal Justification:</strong> Under BNSS, preliminary enquiries to determine whether a cognizable offence warrants investigation must be concluded within 14 days, forming the timeline to notify the informant of a decision not to proceed.</div>
+        </div>
+    </div></div>
+</body>
+</html>
