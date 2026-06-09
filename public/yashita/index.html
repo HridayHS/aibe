@@ -169,6 +169,61 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
     color: var(--bg-primary);
 }
 
+
+
+.carousel-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+.carousel-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-tertiary);
+    font-size: 32px;
+    cursor: pointer;
+    padding: 10px;
+    transition: all 0.2s;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    border-radius: 8px;
+    margin: 0 5px;
+}
+.carousel-btn:hover:not(:disabled) {
+    color: var(--gold-400);
+    transform: scale(1.1);
+}
+.carousel-btn:disabled {
+    opacity: 0.1;
+    cursor: not-allowed;
+}
+.slider-container {
+    flex-grow: 1;
+    min-width: 0; /* Important to allow flex child to be smaller than content */
+    display: flex;
+    align-items: flex-start;
+    overflow-x: auto;
+
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+.slider-container::-webkit-scrollbar {
+    display: none;
+}
+.question-card {
+    flex: 0 0 100%;
+    scroll-snap-align: start;
+    box-sizing: border-box;
+}
+
 </style>
 </head>
 <body>
@@ -194,7 +249,10 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
     
     <div id="omr-sheet-container" class="omr-container"></div>
     
-    <div class="question-card incorrect-card">
+        <div class="carousel-wrapper">
+        <button id="prev-btn" class="carousel-btn left-btn">←</button>
+        <div id="questions-slider" class="slider-container">
+<div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 1</div>
             <div class="status-badge badge-incorrect">Incorrect</div>
@@ -2183,6 +2241,9 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
         </div>
     </div>
 
+        </div>
+        <button id="next-btn" class="carousel-btn right-btn">→</button>
+    </div>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
     const cards = document.querySelectorAll('.question-card');
@@ -2273,7 +2334,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 const numDiv = document.createElement('div');
                 numDiv.className = 'omr-qnum';
                 numDiv.innerText = qNum;
+                
+                numDiv.onclick = () => {
+                    const slider = document.getElementById('questions-slider');
+                    const card = document.querySelectorAll('.question-card')[qNum - 1];
+                    if (card && slider) {
+                        const scrollPos = card.offsetLeft - slider.offsetLeft;
+                        slider.scrollTo({ left: scrollPos, behavior: 'smooth' });
+                        card.style.transition = 'box-shadow 0.3s';
+                        card.style.boxShadow = '0 0 20px var(--gold-500)';
+                        setTimeout(() => card.style.boxShadow = '', 2000);
+                    }
+                };
                 rowDiv.appendChild(numDiv);
+
                 
                 const bubblesDiv = document.createElement('div');
                 bubblesDiv.className = 'omr-bubbles';
@@ -2284,13 +2358,17 @@ document.addEventListener('DOMContentLoaded', () => {
                     bubble.id = `omr-bubble-${qNum}-${opt}`;
                     bubble.innerText = opt;
                     bubble.onclick = () => {
+                        const slider = document.getElementById('questions-slider');
                         const card = document.querySelectorAll('.question-card')[qNum - 1];
                         if (card) {
                             const optItems = card.querySelectorAll('.option-item');
                             const targetItem = Array.from(optItems).find(i => i.querySelector('span').innerText.includes(`(${opt})`));
                             if (targetItem) {
                                 targetItem.click();
-                                
+                                if (slider) {
+                                    const scrollPos = card.offsetLeft - slider.offsetLeft;
+                                    slider.scrollTo({ left: scrollPos, behavior: 'smooth' });
+                                }
                             }
                         }
                     };
@@ -2335,6 +2413,49 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     syncOmrState();
+
+
+    const slider = document.getElementById('questions-slider');
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    
+    function updateSliderButtons() {
+        if (!slider) return;
+        if (slider.scrollLeft <= 10) {
+            prevBtn.disabled = true;
+        } else {
+            prevBtn.disabled = false;
+        }
+        
+        if (slider.scrollLeft + slider.clientWidth >= slider.scrollWidth - 10) {
+            nextBtn.disabled = true;
+        } else {
+            nextBtn.disabled = false;
+        }
+    }
+    
+    if (slider) {
+        slider.addEventListener('scroll', updateSliderButtons);
+        
+        prevBtn.onclick = () => {
+            const firstCard = slider.querySelector('.question-card');
+            if (firstCard) {
+                const cardWidth = firstCard.offsetWidth + 20;
+                slider.scrollBy({ left: -cardWidth, behavior: 'smooth' });
+            }
+        };
+        
+        nextBtn.onclick = () => {
+            const firstCard = slider.querySelector('.question-card');
+            if (firstCard) {
+                const cardWidth = firstCard.offsetWidth + 20;
+                slider.scrollBy({ left: cardWidth, behavior: 'smooth' });
+            }
+        };
+        
+        // Initial state
+        setTimeout(updateSliderButtons, 100);
+    }
 
     function recalculateScore() {
         const totalQuestions = cards.length;
