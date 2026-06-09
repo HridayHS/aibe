@@ -84,6 +84,91 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
 
 
 .option-item:hover { background-color: var(--bg-glass); border-color: var(--gold-500); transform: translateY(-1px); box-shadow: 0 4px 12px rgba(201, 168, 76, 0.1); cursor: pointer; }
+
+.omr-container {
+    background: var(--bg-glass);
+    border: 1px solid var(--bg-glass-border);
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 40px;
+    box-shadow: var(--shadow-gold);
+    backdrop-filter: blur(16px);
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+}
+.omr-col {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 140px;
+}
+.omr-header {
+    display: flex;
+    margin-left: 32px;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+.omr-header span {
+    width: 20px;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-tertiary);
+}
+.omr-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.omr-row.block-end {
+    margin-bottom: 12px;
+}
+.omr-qnum {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    width: 20px;
+    text-align: right;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+.omr-qnum:hover {
+    color: var(--gold-400);
+}
+.omr-bubbles {
+    display: flex;
+    gap: 8px;
+}
+.omr-bubble {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid var(--text-tertiary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: 700;
+    color: transparent; /* hide text by default */
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.omr-bubble:hover {
+    border-color: var(--gold-500);
+    color: var(--gold-500);
+}
+.omr-bubble.filled-correct {
+    background-color: var(--accent-400);
+    border-color: var(--accent-400);
+    color: var(--bg-primary); /* show text on fill */
+}
+.omr-bubble.filled-incorrect {
+    background-color: var(--accent-red);
+    border-color: var(--accent-red);
+    color: var(--bg-primary);
+}
+
 </style>
 </head>
 <body>
@@ -104,7 +189,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="score-value">52%</div>
             <div class="score-label">Final Score</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 1</div>
@@ -123,7 +212,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 20(1) of the Specific Relief Act, 1963 / Section 73 of the Indian Contract Act, 1872</div>
             <div><strong>Synthesized Reasoning:</strong> Under the Specific Relief Act, obtaining substituted performance and recovering additional costs requires a mandatory 30-day notice, which A failed to provide by hiring C immediately. Therefore, A cannot recover the cost under the SRA context.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 2</div>
@@ -199,7 +292,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Sections 3 and 24 of the Copyright Act, 1957</div>
             <div><strong>Synthesized Reasoning:</strong> Section 24 stipulates a 60-year term for posthumous works starting from the calendar year next following publication, and the definition of publication under Section 3 applies universally across the Act. Both statements are definitively true without exception.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 6</div>
@@ -218,7 +315,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 19(a) of the Guardians and Wards Act, 1890</div>
             <div><strong>Synthesized Reasoning:</strong> The statute explicitly states the court cannot appoint a guardian for a married female minor unless her husband is, in the opinion of the court, considered unfit.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 7</div>
@@ -275,7 +376,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 41(3) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013</div>
             <div><strong>Synthesized Reasoning:</strong> Section 41(3) provides overriding protection for Scheduled Areas, making prior consent of the Gram Sabha a non-derogable, mandatory statutory requirement that cannot be bypassed for public projects.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 10</div>
@@ -294,7 +399,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 3 of the Dowry Prohibition Act, 1961</div>
             <div><strong>Synthesized Reasoning:</strong> Section 3 explicitly prescribes imprisonment for a term which shall not be less than five years, with no subsequent amendments reducing this threshold.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 11</div>
@@ -332,7 +441,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 58(c) of the Transfer of Property Act, 1882</div>
             <div><strong>Synthesized Reasoning:</strong> Because the condition of retransfer is embodied in the same document as the sale, it perfectly fulfills the statutory criteria for a "mortgage by conditional sale," meaning B must seek foreclosure through the court rather than becoming the absolute owner automatically.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 13</div>
@@ -427,7 +540,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 167(2) of the Code of Criminal Procedure (CrPC), 1973</div>
             <div><strong>Synthesized Reasoning:</strong> The provision establishes a bifurcated timeframe for default bail contingent on the maximum punishment prescribed, allowing 90 days for offences punishable with death, life, or over 10 years imprisonment, and 60 days for all other offences.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 18</div>
@@ -446,7 +563,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Greene v. Secretary of State for Home Affairs (1942)</div>
             <div><strong>Synthesized Reasoning:</strong> Direct factual jurisprudence establishes that Lord Wright delivered this famous observation regarding the writ of habeas corpus in Greene v. Secretary of State for Home Affairs (1942).</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 19</div>
@@ -484,7 +605,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 362 of the Indian Penal Code (IPC), 1860</div>
             <div><strong>Synthesized Reasoning:</strong> While "classification as a continuing offence" is a jurisprudential characteristic rather than an active ingredient, the requirement that "the person abducted must be a minor" is explicitly false since abduction can apply to any person of any age, unlike kidnapping.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 21</div>
@@ -750,7 +875,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 100 of the Indian Penal Code (IPC), 1860 / Section 38 of the Bharatiya Nyaya Sanhita (BNS), 2023</div>
             <div><strong>Synthesized Reasoning:</strong> Section 100 of the IPC (and Section 38 of the BNS) enumerates the specific offenses where private defence extends to causing death. Clause "Fifthly" explicitly covers assault with the intention of "kidnapping or abducting."</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 35</div>
@@ -769,7 +898,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Order IX Rule 2 of the Code of Civil Procedure (CPC), 1908</div>
             <div><strong>Synthesized Reasoning:</strong> Order IX Rule 2 of the CPC expressly states that if the summons is not served due to the plaintiff's failure to pay the court fee or postal charges, the Court may order that the suit be dismissed.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 36</div>
@@ -788,7 +921,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Articles 250 and 352 of the Constitution of India</div>
             <div><strong>Synthesized Reasoning:</strong> Article 250 of the Constitution directly empowers Parliament to legislate with respect to any matter in the State List while a Proclamation of Emergency (Article 352) is in operation.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 37</div>
@@ -807,7 +944,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Historical Context of Public Interest Litigation Jurisprudence</div>
             <div><strong>Synthesized Reasoning:</strong> While Justices Bhagwati and Krishna Iyer pioneered PILs in India, the term "Public Interest Litigation" itself was coined by American scholar Prof. Abram Chayes in 1976.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 38</div>
@@ -902,7 +1043,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 290(1) of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (Legacy: Section 265B, CrPC, 1973)</div>
             <div><strong>Synthesized Reasoning:</strong> Section 290(1) of the BNSS, 2023 explicitly mandates the filing of a plea bargaining application within a strict 30-day window from the framing of the charge. No exception extends this base timeline.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 43</div>
@@ -940,7 +1085,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 5 of the Arbitration and Conciliation Act, 1996</div>
             <div><strong>Synthesized Reasoning:</strong> Section 5 contains a non-obstante clause limiting judicial intervention strictly to the provisions of Part I of the Act. The principle of minimal judicial interference is absolute unless the Act provides a specific avenue.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 45</div>
@@ -959,7 +1108,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 65B of the Indian Evidence Act, 1872 (New: Section 63, Bharatiya Sakshya Adhiniyam, 2023); Anvar v. Basheer, Navjot Sandhu</div>
             <div><strong>Synthesized Reasoning:</strong> The statement claiming Navjot Sandhu allowed electronic records "without authentication" is false; while it bypassed the strict 65B certificate, it still required standard authentication via a witness, and was later overruled by Anvar v. Basheer.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 46</div>
@@ -1016,7 +1169,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Sections 43 and 66 of the Information Technology Act, 2000</div>
             <div><strong>Synthesized Reasoning:</strong> Section 43 prescribes civil liability for unauthorized access, while Section 66 elevates the same acts into criminal offences only when coupled with the mens rea of doing them "dishonestly or fraudulently."</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 49</div>
@@ -1054,7 +1211,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> S.O. 6052(E) (December 2018) under the Motor Vehicles Act, 1988</div>
             <div><strong>Synthesized Reasoning:</strong> S.O. 6052(E) mandating HSRP was issued in December 2018 but explicitly came into effect on April 1, 2019.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 51</div>
@@ -1073,7 +1234,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Order 21 Rule 58 of the Code of Civil Procedure (CPC), 1908</div>
             <div><strong>Synthesized Reasoning:</strong> Order 21 Rule 58 explicitly mandates that all claims and objections regarding attached property must be adjudicated by the executing court itself, expressly barring a separate civil suit.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 52</div>
@@ -1130,7 +1295,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 20(2) of the Arbitration and Conciliation Act, 1996</div>
             <div><strong>Synthesized Reasoning:</strong> Section 20(2) directly dictates that if parties fail to agree, the tribunal determines the place having regard to the circumstances of the case, including the convenience of the parties.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 55</div>
@@ -1149,7 +1318,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 47(1) of the Patents Act, 1970</div>
             <div><strong>Synthesized Reasoning:</strong> Section 47(1) subjects patent grants to the condition that the Government may use or import the invention merely for its own use without the patentee's consent.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 56</div>
@@ -1244,7 +1417,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 5(2) of the Minimum Wages Act, 1948</div>
             <div><strong>Synthesized Reasoning:</strong> Section 5(2) establishes a dual mechanism where the notification comes into force on the specified date, or if none is specified, upon the expiry of 3 months from its issue.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 61</div>
@@ -1263,7 +1440,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Article 23 of the Constitution of India; PUDR v. Union of India (Asiad Workers Case)</div>
             <div><strong>Synthesized Reasoning:</strong> The Supreme Court expanded the scope of Article 23 to explicitly include economic compulsion (paying less than minimum wage) as a form of forced labour in PUDR v. Union of India.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 62</div>
@@ -1339,7 +1520,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 56(2)(x) of the Income-tax Act, 1961</div>
             <div><strong>Synthesized Reasoning:</strong> Section 56(2)(x) taxes gifts above ₹50,000 from non-relatives under the head "Income from other sources", as no other head applies to gratuitous receipts.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 66</div>
@@ -1377,7 +1562,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Ordinance-making power under the Constitution; D.C. Wadhwa v. State of Bihar, AIR 1987 SC 579</div>
             <div><strong>Synthesized Reasoning:</strong> The phrase "fraud on the Constitution" concerning repeated re-promulgation of ordinances was famously coined by Justice P.N. Bhagwati in the case of D.C. Wadhwa v. State of Bihar (1987).</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 68</div>
@@ -1415,7 +1604,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 21(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (LARR Act)</div>
             <div><strong>Synthesized Reasoning:</strong> Section 21(2) of the LARR Act expressly allows an interested person to appear "personally or by agent or advocate", making the absolute statement that they "shall appear personally" legally false.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 70</div>
@@ -1453,7 +1646,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Article 14 of the Constitution of India; D.S. Nakara v. Union of India</div>
             <div><strong>Synthesized Reasoning:</strong> This scenario mirrors the factual matrix of D.S. Nakara v. Union of India, where creating a cut-off date for pensioners was held to lack intelligible differentia, thereby violating Article 14.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 72</div>
@@ -1472,7 +1669,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Administrative Law Jurisprudence</div>
             <div><strong>Synthesized Reasoning:</strong> This classical, verbatim definition of administrative law was coined by the eminent American jurist Kenneth Culp Davis in his Administrative Law Treatise.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 73</div>
@@ -1510,7 +1711,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Order IX Rule 13 of the Code of Civil Procedure, 1908</div>
             <div><strong>Synthesized Reasoning:</strong> Order IX Rule 13 provides two specific grounds to set aside an ex parte decree, making the Reason (R) a perfect statutory encapsulation and correct explanation of Assertion (A).</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 75</div>
@@ -1529,7 +1734,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 2(46) of the Consumer Protection Act, 2019; Pioneer Urban Land case</div>
             <div><strong>Synthesized Reasoning:</strong> While the precise statutory term under Section 2(46) is "unfair contract" (which is missing from the options), the substantive nature of such one-sided agreements is most accurately described conceptually as "unconscionable".</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 76</div>
@@ -1548,7 +1757,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 10 of the Indian Christian Marriage Act, 1872</div>
             <div><strong>Synthesized Reasoning:</strong> Section 10 of the Act unambiguously mandates that marriages must be solemnized between 6:00 AM and 7:00 PM.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 77</div>
@@ -1567,7 +1780,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Order XXIII Rule 1 of the Code of Civil Procedure, 1908</div>
             <div><strong>Synthesized Reasoning:</strong> Statements I, II, and III align with the statutory text, while Statement IV is fatally flawed because granting permission is a discretionary power of the court, not a mandatory obligation.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 78</div>
@@ -1643,7 +1860,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 2(1)(t) of the Information Technology Act, 2000</div>
             <div><strong>Synthesized Reasoning:</strong> Section 2(1)(t) explicitly defines an "electronic record" to include data, image, sound, and microfilm generated in electronic form. Statement IV falls outside the definition as it refers to traditional paper records without electronic processing.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 82</div>
@@ -1662,7 +1883,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 80D of the Income Tax Act, 1961</div>
             <div><strong>Synthesized Reasoning:</strong> Section 80D governs the deduction for medical insurance premiums. It is allowed subject to strictly prescribed monetary limits and payment conditions, rejecting options that claim limitless, completely disallowed, or exclusive to senior citizens.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 83</div>
@@ -1700,7 +1925,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 57 of the Code of Criminal Procedure (CrPC), 1973 / Section 58 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023</div>
             <div><strong>Synthesized Reasoning:</strong> Section 57 of the legacy CrPC statutorily mandates this 24-hour limit for producing a person arrested without a warrant before a Magistrate, distinct from the constitutional safeguard under Article 22(2).</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 85</div>
@@ -1719,7 +1948,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 2(1)(d) of the Bharatiya Sakshya Adhiniyam (BSA), 2023 / Section 3 of the Indian Evidence Act, 1872</div>
             <div><strong>Synthesized Reasoning:</strong> BSA 2023 Section 2(1)(d) adopts the exact definition and illustrations of a "document" from Section 3 of the legacy IEA, which include a caricature, an inscription, and a map. "Private papers" is not listed as a statutory illustration.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 86</div>
@@ -1738,7 +1971,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 10(37) of the Income-tax Act, 1961</div>
             <div><strong>Synthesized Reasoning:</strong> Section 10(37) explicitly provides an exemption for compensation from compulsory acquisition of urban agricultural land, provided the assessee meets specific prior-use conditions.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 87</div>
@@ -1795,7 +2032,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 94 of the Juvenile Justice (Care and Protection of Children) Act, 2015; Ashwani Kumar Saxena v. State of M.P.</div>
             <div><strong>Synthesized Reasoning:</strong> Section 94 of the JJ Act, 2015 establishes a clear hierarchy for age determination where documentary evidence takes strict precedence. Ossification tests are a last resort and provide an estimated age, not an absolute conclusive determination, making Statement I false and Statement II true.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 90</div>
@@ -1814,7 +2055,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 25(b) of the Arbitration and Conciliation Act, 1996</div>
             <div><strong>Synthesized Reasoning:</strong> The bare text of Section 25(b) dictates that if the respondent fails to communicate their defence without sufficient cause, the tribunal shall continue proceedings without treating that failure in itself as an admission of the allegations by the claimant.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 91</div>
@@ -1852,7 +2097,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 2(2) of the Bharatiya Sakshya Adhiniyam (BSA), 2023 / Section 4 of the Indian Evidence Act, 1872</div>
             <div><strong>Synthesized Reasoning:</strong> BSA 2023 Section 2(2) categorizes presumptions exactly as the legacy IEA into "May presume", "Shall presume", and "Conclusive proof". "Unassailable proof" is a structurally incorrect legal category and a fictitious distractor term.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 93</div>
@@ -1871,7 +2120,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Order 22 Rule 9(2) of the Code of Civil Procedure (CPC), 1908</div>
             <div><strong>Synthesized Reasoning:</strong> Order 22 Rule 9(2) allows the abatement to be set aside only if it is proved that the plaintiff was prevented by "sufficient cause" from continuing the suit.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 94</div>
@@ -1890,7 +2143,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 190(2) of the Motor Vehicles Act, 1988 and Rules 115 and 116 of the Central Motor Vehicles Rules, 1989</div>
             <div><strong>Synthesized Reasoning:</strong> Section 190(2) of the Motor Vehicles Act penalizes driving a vehicle violating environmental standards. Rules 115 and 116 of the Central Motor Vehicles Rules, 1989 establish the substantive requirements for the mandatory PUC certificate.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 95</div>
@@ -1928,7 +2185,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Section 104 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 / Section 101 of the Indian Evidence Act, 1872</div>
             <div><strong>Synthesized Reasoning:</strong> Onus probandi strictly translates to the "burden of proof," meaning the responsibility placed on a party making an affirmative claim to substantiate it with evidence.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 97</div>
@@ -1947,7 +2208,11 @@ h1 { font-family: 'Outfit', sans-serif; text-align: center; color: var(--text-pr
             <div class="mb-2"><strong>Governing Law:</strong> Article 21 of the Constitution of India; Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</div>
             <div><strong>Synthesized Reasoning:</strong> In Puttaswamy (2017), the Supreme Court recognized the right to privacy as an implicit facet of Article 21, making Assertion (A) true. However, Reason (R) is false because privacy is not expressly enumerated as a separate right in Part III of the Constitution.</div>
         </div>
+
     </div>
+    
+    <div id="omr-sheet-container" class="omr-container"></div>
+    
     <div class="question-card incorrect-card">
         <div class="q-header">
             <div class="q-num">Question 98</div>
@@ -2070,10 +2335,104 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 // Recalculate score
                 recalculateScore();
+                syncOmrState();
             });
         });
     });
     
+    
+    const omrContainer = document.getElementById('omr-sheet-container');
+    if (omrContainer) {
+        for (let col = 0; col < 5; col++) {
+            const colDiv = document.createElement('div');
+            colDiv.className = 'omr-col';
+            
+            const header = document.createElement('div');
+            header.className = 'omr-header';
+            header.innerHTML = '<span>A</span><span>B</span><span>C</span><span>D</span>';
+            colDiv.appendChild(header);
+            
+            for (let row = 1; row <= 20; row++) {
+                const qNum = col * 20 + row;
+                const rowDiv = document.createElement('div');
+                rowDiv.className = 'omr-row';
+                if (row % 5 === 0) rowDiv.classList.add('block-end');
+                
+                const numDiv = document.createElement('div');
+                numDiv.className = 'omr-qnum';
+                numDiv.innerText = qNum;
+                numDiv.onclick = () => {
+                    const card = document.querySelectorAll('.question-card')[qNum - 1];
+                    if (card) {
+                        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        card.style.transition = 'box-shadow 0.3s';
+                        card.style.boxShadow = '0 0 20px var(--gold-500)';
+                        setTimeout(() => card.style.boxShadow = '', 2000);
+                    }
+                };
+                rowDiv.appendChild(numDiv);
+                
+                const bubblesDiv = document.createElement('div');
+                bubblesDiv.className = 'omr-bubbles';
+                
+                ['A', 'B', 'C', 'D'].forEach(opt => {
+                    const bubble = document.createElement('div');
+                    bubble.className = 'omr-bubble';
+                    bubble.id = `omr-bubble-${qNum}-${opt}`;
+                    bubble.innerText = opt;
+                    bubble.onclick = () => {
+                        const card = document.querySelectorAll('.question-card')[qNum - 1];
+                        if (card) {
+                            const optItems = card.querySelectorAll('.option-item');
+                            const targetItem = Array.from(optItems).find(i => i.querySelector('span').innerText.includes(`(${opt})`));
+                            if (targetItem) {
+                                targetItem.click();
+                                card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                            }
+                        }
+                    };
+                    bubblesDiv.appendChild(bubble);
+                });
+                rowDiv.appendChild(bubblesDiv);
+                colDiv.appendChild(rowDiv);
+            }
+            omrContainer.appendChild(colDiv);
+        }
+    }
+    
+    function syncOmrState() {
+        const currentCards = document.querySelectorAll('.question-card');
+        currentCards.forEach((card, i) => {
+            const qNum = i + 1;
+            const options = card.querySelectorAll('.option-item');
+            
+            ['A', 'B', 'C', 'D'].forEach(opt => {
+                const b = document.getElementById(`omr-bubble-${qNum}-${opt}`);
+                if (b) {
+                    b.classList.remove('filled-correct', 'filled-incorrect');
+                }
+            });
+            
+            options.forEach(optNode => {
+                const textNode = optNode.querySelector('span');
+                if (!textNode) return;
+                const text = textNode.innerText;
+                const match = text.match(/\(([A-D])\)/);
+                if (match) {
+                    const optLetter = match[1];
+                    const bubble = document.getElementById(`omr-bubble-${qNum}-${optLetter}`);
+                    if (optNode.classList.contains('correct') && optNode.innerHTML.includes('Your Correct Answer')) {
+                        if (bubble) bubble.classList.add('filled-correct');
+                    } else if (optNode.classList.contains('incorrect')) {
+                        if (bubble) bubble.classList.add('filled-incorrect');
+                    }
+                }
+            });
+        });
+    }
+    
+    syncOmrState();
+
     function recalculateScore() {
         const totalQuestions = cards.length;
         const correctAnswers = document.querySelectorAll('.question-card.correct-card').length;
