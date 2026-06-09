@@ -2361,15 +2361,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 const numDiv = document.createElement('div');
                 numDiv.className = 'omr-qnum';
                 numDiv.innerText = qNum;
-                numDiv.onclick = () => {
-                    const card = document.querySelectorAll('.question-card')[qNum - 1];
-                    if (card) {
-                        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                        card.style.transition = 'box-shadow 0.3s';
-                        card.style.boxShadow = '0 0 20px var(--gold-500)';
-                        setTimeout(() => card.style.boxShadow = '', 2000);
-                    }
-                };
                 rowDiv.appendChild(numDiv);
                 
                 const bubblesDiv = document.createElement('div');
@@ -2387,7 +2378,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             const targetItem = Array.from(optItems).find(i => i.querySelector('span').innerText.includes(`(${opt})`));
                             if (targetItem) {
                                 targetItem.click();
-                                card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                                
                             }
                         }
                     };
